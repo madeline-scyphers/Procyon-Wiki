@@ -39,16 +39,16 @@ Oddly few xenos among the Legion.
 
 ## Allies
 
-- [[./House Malklaith|House Malklaith]].
-- [[./Starsmiths Guild|Starsmiths Guild]].
+- [[House Malklaith|House Malklaith]].
+- [[Starsmiths Guild|Starsmiths Guild]].
 
 
 ## Enemies
 
-- [[./Ashen Knives|Ashen Knives]].
-- [[./Church of Stellar Flame|Church of Stellar Flame]].
-- [[./Lost Legion|Lost Legion]].
-- [[./The Maelstrom|The Maelstrom]].
+- [[Ashen Knives|Ashen Knives]].
+- [[Church of Stellar Flame|Church of Stellar Flame]].
+- [[Lost Legion|Lost Legion]].
+- [[The Maelstrom|The Maelstrom]].
 
 
 ## Situation
