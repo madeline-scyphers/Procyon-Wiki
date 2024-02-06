@@ -36,4 +36,4 @@ Each member is trained by one elder mentor. Becoming a Vigilance member means re
 - [[Turner Society|Turner Society]]
 
 ## Situation
-Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [[Procyon|Procyon]]. They have judged the gunrunner
+Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [[Procyon|Procyon]]. They have judged the gunrunners and drug makers of [[Aketi|Aketi]] unworthy.
