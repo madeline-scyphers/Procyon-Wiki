@@ -7,10 +7,10 @@ share: "true"
 2
 
 ## Nature
-Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [[../Atlas/Procyon/Brekk/Aketi|Aketi]] animal parts and Vosian crystals.
+Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [Aketi](../Atlas/Procyon/Brekk/Aketi.md) animal parts and Vosian crystals.
 
 ## Turf
-The Jewel, a society house on [[../Atlas/Procyon/Holt/Mem|Mem]] (HQ). Wildside, a society house on [[../Atlas/Procyon/Holt/Sonhandra|Sonhandra]]. The Mirror Maze, an upscale club on [[../Atlas/Procyon/Rin/Warren|Warren]].
+The Jewel, a society house on [Mem](../Atlas/Procyon/Holt/Mem.md) (HQ). Wildside, a society house on [Sonhandra](../Atlas/Procyon/Holt/Sonhandra.md). The Mirror Maze, an upscale club on [Warren](../Atlas/Procyon/Rin/Warren.md).
 
 ## Notable NPCs
 - Madam Gourdan (administrator, charming, connected).
@@ -19,7 +19,7 @@ The Jewel, a society house on [[../Atlas/Procyon/Holt/Mem|Mem]] (HQ). Wildside, 
 - Chorrguth (xeno, hunter, surly).
 
 ## Notable Assets
-- Vosian crystals and [[../Atlas/Procyon/Brekk/Aketi|Aketi]] animals used to produce Haze.
+- Vosian crystals and [Aketi](../Atlas/Procyon/Brekk/Aketi.md) animals used to produce Haze.
 - Several society houses.
 - An intrasystem shuttle.
 
@@ -27,10 +27,10 @@ The Jewel, a society house on [[../Atlas/Procyon/Holt/Mem|Mem]] (HQ). Wildside, 
 Membership into the society is both exclusive and expensive, and considered a mark of taste amongst high society.
 
 ## Allies
-- [[./House Malklaith|House Malklaith]]
+- [House Malklaith](./House%20Malklaith.md)
 
 ## Enemies
-- [[./Vigilance|Vigilance]]
+- [Vigilance](./Vigilance.md)
 
 ## Situation
-Focusing on the upper echelon of [[../Atlas/Procyon/index|Procyon]], the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [[../Atlas/Procyon/Brekk/Aketi|Aketi]] animals, and with the [[./Vigilance|Vigilance]] harassing their production, they struggle to keep up with demand.
+Focusing on the upper echelon of [Procyon](../Atlas/Procyon/index.md), the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [Aketi](../Atlas/Procyon/Brekk/Aketi.md) animals, and with the [Vigilance](./Vigilance.md) harassing their production, they struggle to keep up with demand.
