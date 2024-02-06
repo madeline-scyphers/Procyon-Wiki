@@ -25,7 +25,7 @@ Lost Paradise, a club with an attached warehouse where the gang does its busines
 
 ## Goals
 
-Take over the [[./Hegemonic News Network|Hegemonic News Network]].
+Take over the [Hegemonic News Network](./Hegemonic%20News%20Network.md).
 
 ## Notable Assets
 
@@ -39,15 +39,15 @@ When a new member joins the gang, they all go out on a drunken tear across the c
 
 ## Allies
 
-- [[./Cobalt Syndicate|Cobalt Syndicate]].
+- [Cobalt Syndicate](./Cobalt%20Syndicate.md).
 
 
 ## Enemies
 
-- [[./Hegemonic News Network|Hegemonic News Network]].
-- [[./House Malklaith|House Malklaith]].
+- [Hegemonic News Network](./Hegemonic%20News%20Network.md).
+- [House Malklaith](./House%20Malklaith.md).
 
 
 ## Situation
 
-The gang has had run-ins with [[System|System]] police, and the [[./Hegemonic News Network|HNN]] paints them as lowlifes with no future. Dyrinek wants to send a message that they won’t be so easily dismissed and plans to take over the airwaves to broadcast the gang’s punk ideology. All they need is the opportunity.
+The gang has had run-ins with [System](System.md) police, and the [HNN](./Hegemonic%20News%20Network.md) paints them as lowlifes with no future. Dyrinek wants to send a message that they won’t be so easily dismissed and plans to take over the airwaves to broadcast the gang’s punk ideology. All they need is the opportunity.
