@@ -1,0 +1,42 @@
+---
+aliases: 
+tags: []
+share: "true"
+---
+## Tier
+3
+
+## Nature
+Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make possible the intragalactic Hegemony.
+
+## Turf
+[Iota](./Iota.md) Shipyards (HQ). All major spaceports.
+
+## Notable NPCs
+- Dorae White (chief executive, industrious, trustworthy, workaholic).
+- Kir M’rikk’lik (technical officer, xeno, gadgeteer, experimenter).
+- Nash (operations chief, gruff, overworked).
+- Rip Onister (gate expert, curious, shy, reclusive).
+
+## Goals
+Find another key for tuning [Rin](./Rin.md)-[Holt](./Holt.md).
+
+## Notable Assets
+- Jump drives for use in new ships.
+- A shipyard.
+- Hyperspace lane beacons and charts.
+- Trading stations on every route.
+
+## Quirks
+All ships in Hegemonic space by law must be registered, certified, and maintained by the Starsmiths Guild. False papers abound, though.
+
+## Allies
+- [Cult of the Seekers](./Cult%20of%20the%20Seekers.md)
+- [Echo Wave Riders](./Echo%20Wave%20Riders.md)
+
+## Enemies
+- [Borniko Syndicate](./Borniko%20Syndicate.md)
+- [Cobalt Syndicate](./Cobalt%20Syndicate.md)
+
+## Situation
+When the [Rin](./Rin.md)-[Holt](./Holt.md) gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
