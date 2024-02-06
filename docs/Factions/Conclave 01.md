@@ -4,7 +4,7 @@ tags: []
 share: "true"
 ---
 testing:
-[[./Concordiat Knights|Concordiat Knights]]
+[[./Concordiat Knights|CN]] 
 
 ## Tier
 
@@ -44,7 +44,7 @@ All members of the Conclave are currently Urbots of varied shapes and sizes.
 
 ## Allies
 
-- [[./Concordiat Knights|Concordiat Knights]].
+- [[./Concordiat Knights|CN]].
 - [[./The Maelstrom|The Maelstrom]].
 - Sah’iir.
 
