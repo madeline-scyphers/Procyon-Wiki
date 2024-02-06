@@ -13,7 +13,7 @@ Maintains the galactic currency network and shadow repositories in each system.
 
 ## Turf
 
-Numerous shadow repositories storing mysterious items in high-tech vaults, and a currency exchange on [Warren](../Atlas/Procyon/Rin/Warren.md).
+Numerous shadow repositories storing mysterious items in high-tech vaults, and a currency exchange on [Warren](Warren.md).
 
 ## Notable NPCs
 
@@ -24,7 +24,7 @@ Numerous shadow repositories storing mysterious items in high-tech vaults, and a
 
 ## Goals
 
-Disrupt the [Guild of Engineers](./Guild%20of%20Engineers.md)’ mining operation.
+Disrupt the [Guild of Engineers](Guild%20of%20Engineers.md)’ mining operation.
 
 ## Notable Assets
 
@@ -40,17 +40,17 @@ Counters Guild members sign contracts for cycles of labor at a time and are paid
 ## Allies
 
 - Sah’iir.
-- [Scarlet Wolves](./Scarlet%20Wolves.md).
-- [Starless Veil](./Starless%20Veil.md).
+- [Scarlet Wolves](Scarlet%20Wolves.md).
+- [Starless Veil](Starless%20Veil.md).
 
 
 ## Enemies
 
-- [Borniko Syndicate](./Borniko%20Syndicate.md).
-- [Guild of Engineers](./Guild%20of%20Engineers.md).
-- [Vorex](./Vorex.md).
+- [Borniko Syndicate](Borniko%20Syndicate.md).
+- [Guild of Engineers](Guild%20of%20Engineers.md).
+- [Vorex](Vorex.md).
 
 
 ## Situation
 
-Torx is playing Guild politics, aiming to show that the [Guild of Engineers](./Guild%20of%20Engineers.md). He's spent vast sums on this, betting he’ll get it back once the Counters take over.
+Torx is playing Guild politics, aiming to show that the [Guild of Engineers](Guild%20of%20Engineers.md). He's spent vast sums on this, betting he’ll get it back once the Counters take over.
