@@ -7,7 +7,7 @@ share: "true"
 | ---- | ---- | ---- | ---- |
 |  |  |  |  |
 
-Known throughout [Procyon](../Procyon.md) by its nickname “Glimmer,” the surface of this enormous planet is made of carbon compounds such as graphite and diamond. At night, the largest crystal formations glow with unearthly light—a property many of the crystals retain after being cut. One must dock at Guild station IA-23 in orbit and shuttle down to do business on the surface.
+Known throughout [Procyon](Procyon.md) by its nickname “Glimmer,” the surface of this enormous planet is made of carbon compounds such as graphite and diamond. At night, the largest crystal formations glow with unearthly light—a property many of the crystals retain after being cut. One must dock at Guild station IA-23 in orbit and shuttle down to do business on the surface.
 
 Special Rule
 
@@ -27,7 +27,7 @@ Well-armed, permanent blockade in space, with ships waiting for clearance. Smoot
 
 ## Morek And Ra-na
 
-Most-feared bounty hunter in [Procyon](../Procyon.md)
+Most-feared bounty hunter in [Procyon](Procyon.md)
 
 ---
 
@@ -39,4 +39,4 @@ High-ranking Guild logistics of f i cer, responsible for crystal mining. Privy t
 
 ## Yola Sprekk
 
-Jeweler known for using the unique properties of Vos crystals. Her creations may be the most artful pieces in [Procyon](../Procyon.md)
+Jeweler known for using the unique properties of Vos crystals. Her creations may be the most artful pieces in [Procyon](Procyon.md)
