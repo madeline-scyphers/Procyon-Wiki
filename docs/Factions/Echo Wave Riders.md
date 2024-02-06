@@ -13,7 +13,7 @@ Pilots that organize illegal races, take mercenary work, or test dangerous new e
 
 ## Turf
 
-A secluded hangar on [Nightfall](../Atlas/Procyon/Brekk/Nightfall.md).
+A secluded hangar on [Nightfall](Nightfall.md).
 
 ## Notable NPCs
 
@@ -25,12 +25,12 @@ A secluded hangar on [Nightfall](../Atlas/Procyon/Brekk/Nightfall.md).
 
 ## Goals
 
-Organize a system-wide race in [Brekk](../Atlas/Procyon/Brekk/index.md).
+Organize a system-wide race in [Brekk](Brekk.md).
 
 ## Notable Assets
 
 - A host of ships of their own and access to far more.
-- Substantial mechanical facilities on [Nightfall](../Atlas/Procyon/Brekk/Nightfall.md).
+- Substantial mechanical facilities on [Nightfall](Nightfall.md).
 
 
 ## Quirks
@@ -39,13 +39,13 @@ Echo Wave Riders don’t respect those who don’t know how to pilot their own s
 
 ## Allies
 
-- [Borniko Syndicate](./Borniko%20Syndicate.md).
-- [Starsmiths Guild](./Starsmiths%20Guild.md).
+- [Borniko Syndicate](Borniko%20Syndicate.md).
+- [Starsmiths Guild](Starsmiths%20Guild.md).
 
 
 ## Enemies
 
-- [Wreckers](./Wreckers.md).
+- [Wreckers](Wreckers.md).
 
 
 ## Situation
