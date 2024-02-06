@@ -13,7 +13,7 @@ Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the H
 
 ## Turf
 
-Malklaith owns the sector but the Governor rarely leaves [[../Atlas/Procyon/Rin/Warren|Warren]]. His people can be found in major positions in every system of the sector.
+Malklaith owns the sector but the Governor rarely leaves [[Warren|Warren]]. His people can be found in major positions in every system of the sector.
 
 ## Notable NPCs
 
@@ -28,7 +28,7 @@ Acquire the Aleph key.
 
 ## Notable Assets
 
-- [[../Atlas/Procyon/index|Procyon]] sector taxes generating vast coffers.
+- [[Procyon|Procyon]] sector taxes generating vast coffers.
 - A growing collection of Precursor artifacts.
 
 
@@ -38,17 +38,17 @@ Governor Malklaith wears a number of strange rings of Precursor origin, the powe
 
 ## Allies
 
-- [[./51st Legion|51st Legion]].
-- [[./Nightspeakers|Nightspeakers]].
-- [[./Turner Society|Turner Society]].
+- [[51st Legion|51st Legion]].
+- [[Nightspeakers|Nightspeakers]].
+- [[Turner Society|Turner Society]].
 
 
 ## Enemies
 
-- [[./The Agony|The Agony]].
-- [[./Ashen Knives|Ashen Knives]].
-- [[./Lost Legion|Lost Legion]].
-- [[./The Maelstrom|The Maelstrom]].
+- [[The Agony|The Agony]].
+- [[Ashen Knives|Ashen Knives]].
+- [[Lost Legion|Lost Legion]].
+- [[The Maelstrom|The Maelstrom]].
 
 
 ## Situation
