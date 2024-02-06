@@ -11,7 +11,7 @@ With a lush biome, this planet has become well known for pharmaceuticals researc
 
 Special Rule
 
-While it’s ruined and unsanctified, the [[Mendicants|Mendicants]] keep their temple and their mystics tend to any and all that request aid. Take +1d when you recover in their care.
+While it’s ruined and unsanctified, the [[../../../Factions/Mendicants|Mendicants]] keep their temple and their mystics tend to any and all that request aid. Take +1d when you recover in their care.
 
 # Vibe
 
