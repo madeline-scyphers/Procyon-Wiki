@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: 
+tags: []
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |

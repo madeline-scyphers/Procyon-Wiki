@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: 
+tags: []
 share: "true"
 ---
 Holt was the second [[Procyon|Procyon]]-Holt gate was troublesome to stabilize. Hegemonic scientists eventually found a series of Ur keys in the system that forced the gate to consistently lead to Holt. The gate remains temperamental, however, and has been known to open on its own. No ships have come through during these spontaneous openings—so far. The Holt system star burns white, though it is far older than stars of this type should be, which Hegemonic scientists attribute to ancient Ur manipulation.
