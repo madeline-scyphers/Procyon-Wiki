@@ -4,7 +4,7 @@ tags: []
 share: "true"
 ---
 testing:
-[[./Yaru|Yaru]] 
+[Yaru](./Yaru.md#)
 
 ## Tier
 
