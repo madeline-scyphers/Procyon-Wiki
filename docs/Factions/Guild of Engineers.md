@@ -13,7 +13,7 @@ One of the Hegemonic High Guilds responsible for resource acquisition, cyberneti
 
 ## Turf
 
-[[SB-176|SB-176]].
+[[../Atlas/Procyon/Rin/SB-176|SB-176]].
 
 ## Notable NPCs
 
@@ -39,16 +39,16 @@ Many high-ranking Guild members sport custom cybernetics.
 
 ## Allies
 
-- [[51st Legion|51st Legion]].
-- [[Isotropa Max Secure|Isotropa Max Secure]].
+- [[./51st Legion|51st Legion]].
+- [[./Isotropa Max Secure|Isotropa Max Secure]].
 
 
 ## Enemies
 
-- [[Borniko Syndicate|Borniko Syndicate]].
-- [[Cobalt Syndicate|Cobalt Syndicate]].
-- [[Conclave 01|Conclave 01]].
-- [[Counters Guild|Counters Guild]].
+- [[./Borniko Syndicate|Borniko Syndicate]].
+- [[./Cobalt Syndicate|Cobalt Syndicate]].
+- [[./Conclave 01|Conclave 01]].
+- [[./Counters Guild|Counters Guild]].
 
 
 ## Situation
