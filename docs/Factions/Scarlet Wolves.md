@@ -10,7 +10,7 @@ share: "true"
 Although they often hire themselves out as bounty hunters, the Scarlet Wolves are a renowned group of assassins.
 
 ## Turf
-The Killroom, a high-end safe house on [Warren](Warren.md) (HQ). Holdouts on most planets.
+The Killroom, a high-end safe house on [[../Atlas/Procyon/Rin/Warren|Warren]] (HQ). Holdouts on most planets.
 
 ## Notable NPCs
 - Rik “Old Wolf” Urus (leader, dangerous, retired, cunning).
@@ -18,11 +18,11 @@ The Killroom, a high-end safe house on [Warren](Warren.md) (HQ). Holdouts on mos
 - Jet “Shark” Wolffe (aloof, confident, unforgiving).
 
 ## Goals
-Murder top [Guild of Engineers](Guild%20of%20Engineers.md) officials.
+Murder top [[./Guild of Engineers|Guild of Engineers]] officials.
 
 ## Notable Assets
 - A large armory of the very best weapons.
-- An actual huge wolf genetically engineered by the [Yaru](Yaru.md) as payment. (Rik keeps it. They feed it others who don’t pay.)
+- An actual huge wolf genetically engineered by the [[./Yaru|Yaru]] as payment. (Rik keeps it. They feed it others who don’t pay.)
 
 ## Quirks
 Each member of the Wolves bears a distinctive tattoo of a wolf holding a star in its mouth.
@@ -31,8 +31,8 @@ Each member of the Wolves bears a distinctive tattoo of a wolf holding a star in
 None. With the Wolves, it’s strictly business.
 
 ## Enemies
-- [Starless Veil](Starless%20Veil.md)
-- [Vignerons](Vignerons.md)
+- [[./Starless Veil|Starless Veil]]
+- [[./Vignerons|Vignerons]]
 
 ## Situation
-The Scarlet Wolves are contract killers specializing in hard targets. They have a reputation for delivering, minimizing collateral, and never taking bribes. They’ve taken a large contract from the [Counters Guild](Counters%20Guild.md) to kill a number of the [Guild of Engineers](Guild%20of%20Engineers.md)’ heads but need time to set up the hit.
+The Scarlet Wolves are contract killers specializing in hard targets. They have a reputation for delivering, minimizing collateral, and never taking bribes. They’ve taken a large contract from the [[./Counters Guild|Counters Guild]] to kill a number of the [[./Guild of Engineers|Guild of Engineers]]’ heads but need time to set up the hit.
