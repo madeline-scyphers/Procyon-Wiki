@@ -13,7 +13,7 @@ Violent pirates who disable ships before boarding, ransoming crew and cargo alik
 
 ## Turf
 
-Abandoned mining station in an [[../Atlas/Procyon/Iota/index|Iota]] asteroid belt (HQ).
+Abandoned mining station in an [[Iota|Iota]] asteroid belt (HQ).
 
 ## Notable NPCs
 
@@ -42,16 +42,16 @@ Almost all members of Draxler’s Raiders are wanted for crimes.
 
 ## Allies
 
-- [[./Janus Syndicate|Janus Syndicate]].
-- [[./Lost Legion|Lost Legion]].
+- [[Janus Syndicate|Janus Syndicate]].
+- [[Lost Legion|Lost Legion]].
 
 
 ## Enemies
 
-- [[./51st Legion|51st Legion]].
-- [[./Isotropa Max Secure|Isotropa Max Secure]].
-- [[./The Maelstrom|The Maelstrom]].
-- [[./Vigilance|Vigilance]].
+- [[51st Legion|51st Legion]].
+- [[Isotropa Max Secure|Isotropa Max Secure]].
+- [[The Maelstrom|The Maelstrom]].
+- [[Vigilance|Vigilance]].
 
 
 ## Situation
