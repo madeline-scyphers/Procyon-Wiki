@@ -10,6 +10,8 @@ again
 [Mendicants](./Mendicants.md#)
 [[./Yaru|Yaru]]
 [[Conclave 01|Conclave 01]]
+[[../index|index]]
+
 
 ## Tier
 
