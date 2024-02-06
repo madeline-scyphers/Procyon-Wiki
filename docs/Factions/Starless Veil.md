@@ -18,7 +18,7 @@ The Veil holds no turf except the occasional safe house or place to reload and r
 - Agent N’Paya Wayline (diplomat, connected, collector).
 
 ## Goals
-Cause civil unrest on [Warren](Warren.md).
+Cause civil unrest on [[../Atlas/Procyon/Rin/Warren|Warren]].
 
 ## Notable Assets
 - A network of spies.
@@ -29,13 +29,13 @@ Cause civil unrest on [Warren](Warren.md).
 All members of the Veil have had advanced mental training to resist interrogation and Way powers.
 
 ## Allies
-- [Dyrinek Gang](Dyrinek%20Gang.md)
-- [The Maelstrom](The%20Maelstrom.md)
+- [[./Dyrinek Gang|Dyrinek Gang]]
+- [[./The Maelstrom|The Maelstrom]]
 
 ## Enemies
-- [Guild of Engineers](Guild%20of%20Engineers.md)
+- [[./Guild of Engineers|Guild of Engineers]]
 - Starsmiths
-- [Yaru](Yaru.md)
+- [[./Yaru|Yaru]]
 
 ## Situation
 The Veil serves the Hegemony itself, even above the Hegemon. When power struggles from the Core spill out into the rim, the Veil follows.
