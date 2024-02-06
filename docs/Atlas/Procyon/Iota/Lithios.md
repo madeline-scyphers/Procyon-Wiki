@@ -17,7 +17,7 @@ When you explore the ice palaces of Lithios, you must make a resolve resist if y
 
 ---
 
-A purple and green aurora shining over the freezing cold sky. Ice explorers whispering about the [[../../../Factions/Yaru|Yaru]] creche. Heated vapors escaping around Solitude Colony. Colonists in full parkas, riding large, many-eyed canids. Farmers pulling gas-eels and ice-mushroom wine crates in sail-sporting snow skimmers.
+A purple and green aurora shining over the freezing cold sky. Ice explorers whispering about the [[Yaru|Yaru]] creche. Heated vapors escaping around Solitude Colony. Colonists in full parkas, riding large, many-eyed canids. Farmers pulling gas-eels and ice-mushroom wine crates in sail-sporting snow skimmers.
 
 ---
 
