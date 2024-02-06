@@ -7,7 +7,7 @@ share: "true"
 | ---- | ---- | ---- | ---- |
 | 1 | 1 | 2 | 2 |
 
-[The Maelstrom](The%20Maelstrom.md) pirates have made a station out of derelict freighters, cargo containers, and stolen scrap metal. They call this home “the Cove.” Enterprising individuals can discover where it is located if they have the tenacity or contacts—though it moves about within the Ashtari Cloud. Only the best friends of pirates might be granted storm drives to better navigate with.
+[[../../../Factions/The Maelstrom|The Maelstrom]] pirates have made a station out of derelict freighters, cargo containers, and stolen scrap metal. They call this home “the Cove.” Enterprising individuals can discover where it is located if they have the tenacity or contacts—though it moves about within the Ashtari Cloud. Only the best friends of pirates might be granted storm drives to better navigate with.
 
 Special Rule
 

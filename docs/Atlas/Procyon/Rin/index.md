@@ -3,13 +3,13 @@ aliases:
 tags: []
 share: "true"
 ---
-The entry point to the [Procyon](Procyon.md) sector, Rin was colonized a little over a hundred years ago by House Nim-Amar. It has never been an important sector, so Malklaith’s never invested more than a minimum of resources in its development. Instead, it’s used to train young House members, or as an assignment to punish those who fail the House. Galactic law is more present here than the rest of the sector, as this is the seat of the sector’s administration and contains gates to three systems, including a path towards the rest of the Hegemony.
+The entry point to the [[../index|Procyon]] sector, Rin was colonized a little over a hundred years ago by House Nim-Amar. It has never been an important sector, so Malklaith’s never invested more than a minimum of resources in its development. Instead, it’s used to train young House members, or as an assignment to punish those who fail the House. Galactic law is more present here than the rest of the sector, as this is the seat of the sector’s administration and contains gates to three systems, including a path towards the rest of the Hegemony.
 
 # Locations
 
-- [Warren](Warren.md)
-- [SB-176](SB-176.md)
-- [The Cove](The%20Cove.md)
+- [[./Warren|Warren]]
+- [[./SB-176|SB-176]]
+- [[./The Cove|The Cove]]
 
 ---
 
@@ -25,7 +25,7 @@ Between the poisonous gases and tectonic instability, Aleph would be a planet to
 
 ## Ashtari Cloud
 
-An ancient damaged remnant of a massive Ur ship lies in space, generating an in-system nebula. Within it, normal propulsion is minimal and nav systems dodgy. [The Maelstrom](The%20Maelstrom.md) pirates figured out how to navigate the cloud, and made their base of operations within its protective shroud.
+An ancient damaged remnant of a massive Ur ship lies in space, generating an in-system nebula. Within it, normal propulsion is minimal and nav systems dodgy. [[../../../Factions/The Maelstrom|The Maelstrom]] pirates figured out how to navigate the cloud, and made their base of operations within its protective shroud.
 
 ---
 
