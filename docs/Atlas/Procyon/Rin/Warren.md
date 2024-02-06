@@ -27,7 +27,7 @@ A bustling street market with neon signs promising foods of all kinds in several
 
 ## Ritam Al'Malklaith
 
-Governor of the [Rin](Rin.md)
+Governor of the [[Rin|Rin]]
 
 ---
 
