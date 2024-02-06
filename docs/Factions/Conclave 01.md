@@ -7,7 +7,8 @@ testing...
 
 again
 
-[Mendicants](Mendicants.md)
+[Mendicants](Factions/Mendicants.md)
+[[Factions/Yaru|Yaru]]
 
 ## Tier
 
