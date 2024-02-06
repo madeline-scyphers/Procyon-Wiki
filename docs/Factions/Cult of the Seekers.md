@@ -13,7 +13,7 @@ Wandering mystics studying artifacts and exploring, looking to open the Hantu ga
 
 ## Turf
 
-A small island with a research station on [Mem](Mem.md).
+A small island with a research station on [[Mem|Mem]].
 
 ## Notable NPCs
 
@@ -38,16 +38,16 @@ Many of the Cult are young ex-Legionnaires that have been personally drafted by 
 
 ## Allies
 
-- [Hegemonic News Network](Hegemonic%20News%20Network.md).
-- [Starsmiths Guild](Starsmiths%20Guild.md).
+- [[Hegemonic News Network|Hegemonic News Network]].
+- [[Starsmiths Guild|Starsmiths Guild]].
 
 
 ## Enemies
 
-- [Church of Stellar Flame](Church%20of%20Stellar%20Flame.md).
-- [Ghosts](Ghosts.md).
+- [[Church of Stellar Flame|Church of Stellar Flame]].
+- [[Ghosts|Ghosts]].
 
 
 ## Situation
 
-The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. Having found a lead on [Shimaya](Shimaya.md), they’ve set up a dig site that promises to unearth at least some of the missing pieces of the Hantu gate.
+The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. Having found a lead on [[Shimaya|Shimaya]], they’ve set up a dig site that promises to unearth at least some of the missing pieces of the Hantu gate.
