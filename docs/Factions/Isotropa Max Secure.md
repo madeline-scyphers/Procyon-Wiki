@@ -7,10 +7,10 @@ share: "true"
 3
 
 ## Nature
-A notorious prison in [Procyon](../Atlas/Procyon/Procyon.md) housing the worst offenders. Brokers commutations for those with power and wealth.
+A notorious prison in [Procyon](Procyon.md) housing the worst offenders. Brokers commutations for those with power and wealth.
 
 ## Turf
-Isotropa Max Secure in [Brekk](../Atlas/Procyon/Brekk/Brekk.md) (HQ).
+Isotropa Max Secure in [Brekk](Brekk.md) (HQ).
 
 ## Notable NPCs
 - Bafma F’rozz (warden, haughty, confident, wealthy).
@@ -21,14 +21,14 @@ Isotropa Max Secure in [Brekk](../Atlas/Procyon/Brekk/Brekk.md) (HQ).
 Get more prisoners (repeat).
 
 ## Notable Assets
-- The biggest supermax prison in [Procyon](../Atlas/Procyon/Procyon.md).
+- The biggest supermax prison in [Procyon](Procyon.md).
 - An organized file of dirt on anyone they do business with.
 
 ## Quirks
 The staff of Isotropa are all corrupt and will take bribes for almost anything.
 
 ## Allies
-- [Guild of Engineers](./Guild%20of%20Engineers.md).
+- [Guild of Engineers](Guild%20of%20Engineers.md).
 
 ## Enemies
 - Draxler’s Raiders.
