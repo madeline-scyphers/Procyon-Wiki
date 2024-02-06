@@ -13,7 +13,7 @@ Independent sentient Urbots led by the Prime, seeking free will and independence
 
 ## Turf
 
-Secret bases on Baftoma and the [[Indri|Indri]].
+Secret bases on Baftoma and the [[../Atlas/Procyon/Iota/Indri|Indri]].
 
 ## Notable NPCs
 
@@ -25,7 +25,7 @@ Secret bases on Baftoma and the [[Indri|Indri]].
 
 ## Goals
 
-Take control of the [[Iota|Iota]] factory.
+Take control of the [[../Atlas/Procyon/Iota/index|Iota]] factory.
 
 ## Notable Assets
 
@@ -41,17 +41,17 @@ All members of the Conclave are currently Urbots of varied shapes and sizes.
 
 ## Allies
 
-- [[Concordiat Knights|Concordiat Knights]].
-- [[The Maelstrom|The Maelstrom]].
+- [[./Concordiat Knights|Concordiat Knights]].
+- [[./The Maelstrom|The Maelstrom]].
 - Sah’iir.
 
 
 ## Enemies
 
-- [[51st Legion|51st Legion]].
-- [[Guild of Engineers|Guild of Engineers]].
+- [[./51st Legion|51st Legion]].
+- [[./Guild of Engineers|Guild of Engineers]].
 
 
 ## Situation
 
-The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [[Iota|Iota]] and start doing so secretly.
+The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [[../Atlas/Procyon/Iota/index|Iota]] and start doing so secretly.
