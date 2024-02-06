@@ -38,15 +38,15 @@ Each member is branded with a mark of the Church, known as the Kiss of Light. Fa
 
 ## Allies
 
-- [Dyrinek Gang](./Dyrinek%20Gang.md).
-- [The Maelstrom](./The%20Maelstrom.md).
+- [Dyrinek Gang](Dyrinek%20Gang.md).
+- [The Maelstrom](The%20Maelstrom.md).
 
 
 ## Enemies
 
-- [Guild of Engineers](./Guild%20of%20Engineers.md).
-- [Starsmiths Guild](./Starsmiths%20Guild.md).
-- [Yaru](./Yaru.md).
+- [Guild of Engineers](Guild%20of%20Engineers.md).
+- [Starsmiths Guild](Starsmiths%20Guild.md).
+- [Yaru](Yaru.md).
 
 
 ## Situation
