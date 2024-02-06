@@ -13,7 +13,7 @@ Eschewing individuality, all initiates adopt the same garb and the name “Ashka
 
 ## Turf
 
-A large number of meditation rooms throughout [[../Atlas/Procyon/Iota/Indri|Indri]].
+A large number of meditation rooms throughout [Indri](../Atlas/Procyon/Iota/Indri.md).
 
 ## Notable NPCs
 
@@ -37,13 +37,13 @@ Attuning to the Pillar allows the Acolytes to communicate with each other and in
 
 ## Allies
 
-- [[./Mendicants|Mendicants]]
+- [Mendicants](./Mendicants.md)
 
 
 ## Enemies
 
-- [[./Ashen Knives|Ashen Knives]]
-- [[./Guild of Engineers|Guild of Engineers]]
+- [Ashen Knives](./Ashen%20Knives.md)
+- [Guild of Engineers](./Guild%20of%20Engineers.md)
 
 
 ## Situation
