@@ -3,7 +3,7 @@ site_description: A wiki for my Scum and Villiany Game
 site_url: https://madeline-scyphers.github.io/Procyon-Wiki # Change this to your site URL
 site_author: Madeline Scyphers
 
-use_directory_urls: false
+# use_directory_urls: false
 
 theme:
     name: 'material'
@@ -92,9 +92,9 @@ plugins:
   - ezlinks:
         wikilinks: true
   - awesome-pages
-  - embed_file:
-      callouts: true
-      custom-attributes: 'assets/css/custom_attributes.css'
+  # - embed_file:
+  #     callouts: true
+  #     custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
   - tags:
