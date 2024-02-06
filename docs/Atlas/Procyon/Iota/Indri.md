@@ -7,7 +7,7 @@ share: "true"
 | ---- | ---- | ---- | ---- |
 | 1 | 2 | 2 | 0 |
 
-Over 25 percent of all goods manufactured in the [Procyon](../index.md) Sector come from this incredibly industrialized planet. Thick, rust-colored clouds create dusk even during the day. From the warehouse-surrounded spaceport of Reves, one can view the impressive skyline of smokestacks and flames from gas burn-offs. Travel without protective gear is not advised.
+Over 25 percent of all goods manufactured in the [Procyon](Procyon.md) Sector come from this incredibly industrialized planet. Thick, rust-colored clouds create dusk even during the day. From the warehouse-surrounded spaceport of Reves, one can view the impressive skyline of smokestacks and flames from gas burn-offs. Travel without protective gear is not advised.
 
 Special Rule
 

@@ -4,7 +4,7 @@ tags: []
 share: "true"
 ---
 testing:
-[Concordiat Knights](./Concordiat%20Knights.md) 
+[Concordiat Knights](Concordiat%20Knights.md) 
 
 ## Tier
 
@@ -16,7 +16,7 @@ Independent sentient Urbots led by the Prime, seeking free will and independence
 
 ## Turf
 
-Secret bases on Baftoma and the [Indri](../Atlas/Procyon/Iota/Indri.md).
+Secret bases on Baftoma and the [Indri](Indri.md).
 
 ## Notable NPCs
 
@@ -28,7 +28,7 @@ Secret bases on Baftoma and the [Indri](../Atlas/Procyon/Iota/Indri.md).
 
 ## Goals
 
-Take control of the [Iota](../Atlas/Procyon/Iota/index.md) factory.
+Take control of the [Iota](Iota.md) factory.
 
 ## Notable Assets
 
@@ -44,17 +44,17 @@ All members of the Conclave are currently Urbots of varied shapes and sizes.
 
 ## Allies
 
-- [Concordiat Knights](./Concordiat%20Knights.md).
-- [The Maelstrom](./The%20Maelstrom.md).
+- [Concordiat Knights](Concordiat%20Knights.md).
+- [The Maelstrom](The%20Maelstrom.md).
 - Sah’iir.
 
 
 ## Enemies
 
-- [51st Legion](./51st%20Legion.md).
-- [Guild of Engineers](./Guild%20of%20Engineers.md).
+- [51st Legion](51st%20Legion.md).
+- [Guild of Engineers](Guild%20of%20Engineers.md).
 
 
 ## Situation
 
-The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [Iota](../Atlas/Procyon/Iota/index.md) and start doing so secretly.
+The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [Iota](Iota.md) and start doing so secretly.

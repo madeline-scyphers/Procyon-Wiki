@@ -13,7 +13,7 @@ Once a labor union, the Cobalt Syndicate has turned to smuggling and extortion t
 
 ## Turf
 
-The Pit, a mining quarry on Aleph (HQ). A major berth and associated docks on [Warren](../Atlas/Procyon/Rin/Warren.md).
+The Pit, a mining quarry on Aleph (HQ). A major berth and associated docks on [Warren](Warren.md).
 
 ## Notable NPCs
 
@@ -38,18 +38,18 @@ Every member wears a solid blue stripe somewhere on their clothing. A blue strip
 
 ## Allies
 
-- [Dyrinek Gang](./Dyrinek%20Gang.md).
-- [The Maelstrom](./The%20Maelstrom.md).
+- [Dyrinek Gang](Dyrinek%20Gang.md).
+- [The Maelstrom](The%20Maelstrom.md).
 
 
 ## Enemies
 
-- [Ashen Knives](./Ashen%20Knives.md).
-- [Guild of Engineers](./Guild%20of%20Engineers.md).
-- [Starsmiths Guild](./Starsmiths%20Guild.md).
-- [Yaru](./Yaru.md).
+- [Ashen Knives](Ashen%20Knives.md).
+- [Guild of Engineers](Guild%20of%20Engineers.md).
+- [Starsmiths Guild](Starsmiths%20Guild.md).
+- [Yaru](Yaru.md).
 
 
 ## Situation
 
-Jax has taken over shipping lanes between Aleph and the Core worlds. He’s angered a number of powerful Guild [Factions](./index.md), and the secret wars between them are nearing a violent outburst. Jax has been stockpiling.
+Jax has taken over shipping lanes between Aleph and the Core worlds. He’s angered a number of powerful Guild [Factions](Factions.md), and the secret wars between them are nearing a violent outburst. Jax has been stockpiling.
