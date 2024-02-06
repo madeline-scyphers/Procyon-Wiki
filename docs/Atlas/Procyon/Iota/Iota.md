@@ -2,7 +2,6 @@
 aliases: 
 tags: []
 share: "true"
-title: Iota
 ---
 The planets in Iota orbit a pair of stars—a yellow sun (Iota-1) and a brown dwarf (Iota-2). By the time the Hegemony arrived, there were two asteroid belts, one of which still has a large portion of a shattered planet remaining in its midst. Although both the belts were clearly planets once upon a time, nobody is sure what sort of calamity shattered them. As is their wont, the Guilds didn’t look a gift horse in the mouth—they set up the Iota shipyards, which service many ships in the sector using metals from the belts.
 

@@ -2,7 +2,6 @@
 aliases: 
 tags: []
 share: "true"
-title: Factions
 ---
 
 |Hegemony|Tier|

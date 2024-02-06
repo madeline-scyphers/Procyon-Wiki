@@ -2,7 +2,6 @@
 aliases: 
 tags: []
 share: "true"
-title: Procyon
 ---
 
 - [[Procyon Map|Procyon Map]]
