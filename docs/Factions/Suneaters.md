@@ -10,7 +10,7 @@ share: "true"
 Ur-archaeologists obsessed with recreating jumpgate technology. Currently looking to extinguish a star in pursuit of their larger goals.
 
 ## Turf
-An Ur ruin on Lithios (HQ). Several [Nightfall](../Atlas/Procyon/Brekk/Nightfall.md)-based warehouses.
+An Ur ruin on Lithios (HQ). Several [Nightfall](Nightfall.md)-based warehouses.
 
 ## Notable NPCs
 - Elil (astrophysicist, fanatic, brilliant).
@@ -29,10 +29,10 @@ An Ur ruin on Lithios (HQ). Several [Nightfall](../Atlas/Procyon/Brekk/Nightfall
 Suneaters spend most of their days handling Ur artifacts and have all learned how to handle them safely.
 
 ## Allies
-- [Ghosts](./Ghosts.md)
+- [Ghosts](Ghosts.md)
 
 ## Enemies
 - Sah’iir
 
 ## Situation
-Many are ex-Guilders or mystics, who have poured decades of money and study into their cause. If successful in their mission to mine [Iota](../Atlas/Procyon/Iota/index.md)-2 for energy, the Hegemon would instantly grant the Suneaters Guild status, even if everyone in [Iota](../Atlas/Procyon/Iota/index.md) perishes. The Suneaters consider it worth the risk.
+Many are ex-Guilders or mystics, who have poured decades of money and study into their cause. If successful in their mission to mine [Iota](Iota.md)-2 for energy, the Hegemon would instantly grant the Suneaters Guild status, even if everyone in [Iota](Iota.md) perishes. The Suneaters consider it worth the risk.
