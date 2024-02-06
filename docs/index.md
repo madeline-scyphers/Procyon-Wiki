@@ -7,3 +7,4 @@ This is the home page
 [Procyon](Atlas/Procyon/Procyon.md)
 [Yaru](Factions/Yaru.md)
 [Factions](Factions/Factions.md)
+[[Factions/Church of Stellar Flame|Church of Stellar Flame]]
