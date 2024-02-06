@@ -31,4 +31,4 @@ Few have met Vorex in person; most talk to her through a random terminal or Urbo
 - [[Counters Guild|Counters Guild]]
 
 ## Situation
-Vorex has been an information broker for years. Using an Ur artifact, she's developed a massive network for buying and selling information. The [[Counters Guild|Counters Guild]] kidnapped her sister to make Vorex access the [[Guild of Engineers|Guild of Engineers]]' network. Vorex seeks to f
+Vorex has been an information broker for years. Using an Ur artifact, she's developed a massive network for buying and selling information. The [[Counters Guild|Counters Guild]] kidnapped her sister to make Vorex access the [[Guild of Engineers|Guild of Engineers]]' network. Vorex seeks to free her sister without tipping her hand.
