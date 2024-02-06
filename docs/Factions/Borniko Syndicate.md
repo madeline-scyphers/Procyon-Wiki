@@ -13,7 +13,7 @@ A tightly knit group of thieves who steal high-end technological supplies.
 
 ## Turf
 
-A former [Counters Guild](Counters%20Guild.md) shadow repository that the Syndicate managed to erase from the Guild ledgers.
+A former [[./Counters Guild|Counters Guild]] shadow repository that the Syndicate managed to erase from the Guild ledgers.
 
 ## Notable NPCs
 
@@ -37,16 +37,16 @@ Joining the Borniko Syndicate involves pulling off a heist that impresses the le
 
 ## Allies
 
-- [Conclave 01](Conclave%2001.md).
-- [Echo Wave Riders](Echo%20Wave%20Riders.md).
-- [Wreckers](Wreckers.md).
+- [[./Conclave 01|Conclave 01]].
+- [[./Echo Wave Riders|Echo Wave Riders]].
+- [[./Wreckers|Wreckers]].
 
 
 ## Enemies
 
-- [Counters Guild](Counters%20Guild.md).
-- [Guild of Engineers](Guild%20of%20Engineers.md).
-- [Starsmiths Guild](Starsmiths%20Guild.md).
+- [[./Counters Guild|Counters Guild]].
+- [[./Guild of Engineers|Guild of Engineers]].
+- [[./Starsmiths Guild|Starsmiths Guild]].
 
 
 ## Situation
