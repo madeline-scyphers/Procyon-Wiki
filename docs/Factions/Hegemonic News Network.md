@@ -14,7 +14,7 @@ Those who control the media control the mind. Often use this as leverage over ot
 
 ## Turf
 
-HNN Corporate Offices on [Warren](../Atlas/Procyon/Rin/Warren.md). Field offices on every planet.
+HNN Corporate Offices on [Warren](Warren.md). Field offices on every planet.
 
 ## Notable NPCs
 
@@ -40,13 +40,13 @@ The bulk of the HNN’s workforce are contractors selling stories they find to H
 
 ## Allies
 
-- [Starless Veil](./Starless%20Veil.md).
+- [Starless Veil](Starless%20Veil.md).
 
 
 ## Enemies
 
-- [Dyrinek Gang](./Dyrinek%20Gang.md).
-- [Mendicants](./Mendicants.md).
+- [Dyrinek Gang](Dyrinek%20Gang.md).
+- [Mendicants](Mendicants.md).
 
 
 ## Situation
