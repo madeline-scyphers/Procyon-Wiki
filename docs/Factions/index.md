@@ -124,13 +124,13 @@ Wandering mystics studying artifacts and seeking new places. Members include the
 
 # [[./Draxler's Raiders|Draxler's Raiders]]
 
-Fierce individualistic pirates who specialize in disabling ships before boarding. Mostly found in [[../Atlas/Procyon/Iota/index|Iota]] and [[../Atlas/Procyon/Brekk/index|Brekk]].
+Fierce individualistic pirates who specialize in disabling ships before boarding. Mostly found in [[../Procyon/Iota/index|Iota]] and [[../Procyon/Brekk/index|Brekk]].
 
 ---
 
 # [[./Dyrinek Gang|Dyrinek Gang]]
 
-Mostly young, disenfranchised xenos who have turned to crime and found strength and solidarity with each other. Based on [[../Atlas/Procyon/Rin/Warren|Warren]] but looking to expand wherever there are other like-minded folks.
+Mostly young, disenfranchised xenos who have turned to crime and found strength and solidarity with each other. Based on [[../Procyon/Rin/Warren|Warren]] but looking to expand wherever there are other like-minded folks.
 
 ---
 
@@ -160,13 +160,13 @@ Those who control the media control the mind. Often use this as leverage over ot
 
 # [[./House Malklaith|House Malklaith]]
 
-A powerful Noble House of the Hegemony, ostensibly owns the sector. Represented by the Governor, who lives on [[../Atlas/Procyon/Rin/Warren|Warren]].
+A powerful Noble House of the Hegemony, ostensibly owns the sector. Represented by the Governor, who lives on [[../Procyon/Rin/Warren|Warren]].
 
 ---
 
 # [[./Isotropa Max Secure|Isotropa Max Secure]]
 
-The most notorious prison system in the [[../Atlas/Procyon/index|Procyon]] sector, housing the worst of the worst. Brokers audiences with its population grants commutations for those with power and wealth.
+The most notorious prison system in the [[../Procyon/index|Procyon]] sector, housing the worst of the worst. Brokers audiences with its population grants commutations for those with power and wealth.
 
 ---
 
@@ -232,7 +232,7 @@ Ur-archaeologists and scientists obsessed with recreating jumpgate technology. L
 
 # [[./Turner Society|Turner Society]]
 
-A [[../Atlas/Procyon/Holt/index|Holt]]animal parts and Vosian crystals—which they sometimes have trouble sourcing.
+A [[../Procyon/Holt/index|Holt]]animal parts and Vosian crystals—which they sometimes have trouble sourcing.
 
 ---
 
