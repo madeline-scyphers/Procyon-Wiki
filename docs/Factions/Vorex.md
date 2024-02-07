@@ -10,7 +10,7 @@ share: "true"
 The most successful information broker to ever live. Can access any terminal in the sector—though no one can explain how.
 
 ## Turf
-An automated [[./Hegemonic News Network|HNN]] satellite orbiting [[../Atlas/Procyon/Rin/Warren|Warren]] (HQ).
+An automated [[./Hegemonic News Network|HNN]] satellite orbiting [[../Procyon/Rin/Warren|Warren]] (HQ).
 
 ## Notable NPCs
 - Vorex (wizard-class hacker, stressed, careful, self-modified).
