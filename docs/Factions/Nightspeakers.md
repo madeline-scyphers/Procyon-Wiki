@@ -10,7 +10,7 @@ share: "true"
 Mystics with dark proclivities bent on seeking a set of dangerous Precursor artifacts.
 
 ## Turf
-Blackstarr, a dreadnought hidden in the [[../Atlas/Procyon/Brekk/index|Brekk]] system (HQ).
+Blackstarr, a dreadnought hidden in the [[../Procyon/Brekk/index|Brekk]] system (HQ).
 
 ## Notable NPCs
 - Doraam (masked, mysterious, driven).
