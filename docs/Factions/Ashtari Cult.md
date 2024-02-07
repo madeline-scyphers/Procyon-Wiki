@@ -13,7 +13,7 @@ Precursor worshipers claiming Ur descent. They inhale gases from the Ashtari Clo
 
 ## Turf
 
-An undocumented Ur ruin on [[../Atlas/Procyon/Iota/Lithios|Lithios]].
+An undocumented Ur ruin on [[../Procyon/Iota/Lithios|Lithios]].
 
 ## Notable NPCs
 
@@ -25,7 +25,7 @@ An undocumented Ur ruin on [[../Atlas/Procyon/Iota/Lithios|Lithios]].
 
 ## Goals
 
-Align the moons of [[../Atlas/Procyon/Brekk/Nightfall|Nightfall]].
+Align the moons of [[../Procyon/Brekk/Nightfall|Nightfall]].
 
 ## Notable Assets
 
@@ -50,4 +50,4 @@ Each member of the Cult wears a small vial of Ashtari gas to allow them to “co
 
 ## Situation
 
-Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [[../Atlas/Procyon/Brekk/Nightfall|Nightfall]] can be used to control the planetoids. The visions
+Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [[../Procyon/Brekk/Nightfall|Nightfall]] can be used to control the planetoids. The visions
