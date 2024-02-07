@@ -14,7 +14,7 @@ Those who control the media control the mind. Often use this as leverage over ot
 
 ## Turf
 
-HNN Corporate Offices on [[../Atlas/Procyon/Rin/Warren|Warren]]. Field offices on every planet.
+HNN Corporate Offices on [[../Procyon/Rin/Warren|Warren]]. Field offices on every planet.
 
 ## Notable NPCs
 
