@@ -13,7 +13,7 @@ Once lean and battle ready, the Ashen Knives are a decadent Syndicate focused on
 
 ## Turf
 
-Drug dens, gambling houses, a hidden and reinforced bunker on [[../Atlas/Procyon/Rin/Warren|Warren]].
+Drug dens, gambling houses, a hidden and reinforced bunker on [[../Procyon/Rin/Warren|Warren]].
 
 ## Notable NPCs
 
@@ -24,7 +24,7 @@ Drug dens, gambling houses, a hidden and reinforced bunker on [[../Atlas/Procyon
 
 ## Goals
 
-Control major planetary crimes in [[../Atlas/Procyon/Rin/index|Rin]].
+Control major planetary crimes in [[../Procyon/Rin/index|Rin]].
 
 ## Notable Assets
 
@@ -51,4 +51,4 @@ To join the Syndicate, Knives must take a life. Being promoted requires doing un
 
 ## Situation
 
-The Ashen Knives' power on [[../Atlas/Procyon/Rin/Warren|Warren]] has filled the Knives’ coffers, and now their sights are set on expanding.
+The Ashen Knives' power on [[../Procyon/Rin/Warren|Warren]] has filled the Knives’ coffers, and now their sights are set on expanding.
