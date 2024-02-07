@@ -7,10 +7,10 @@ share: "true"
 3
 
 ## Nature
-A notorious prison in [[../Atlas/Procyon/index|Procyon]] housing the worst offenders. Brokers commutations for those with power and wealth.
+A notorious prison in [[../Procyon/index|Procyon]] housing the worst offenders. Brokers commutations for those with power and wealth.
 
 ## Turf
-Isotropa Max Secure in [[../Atlas/Procyon/Brekk/index|Brekk]] (HQ).
+Isotropa Max Secure in [[../Procyon/Brekk/index|Brekk]] (HQ).
 
 ## Notable NPCs
 - Bafma F’rozz (warden, haughty, confident, wealthy).
@@ -21,7 +21,7 @@ Isotropa Max Secure in [[../Atlas/Procyon/Brekk/index|Brekk]] (HQ).
 Get more prisoners (repeat).
 
 ## Notable Assets
-- The biggest supermax prison in [[../Atlas/Procyon/index|Procyon]].
+- The biggest supermax prison in [[../Procyon/index|Procyon]].
 - An organized file of dirt on anyone they do business with.
 
 ## Quirks
