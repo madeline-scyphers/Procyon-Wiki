@@ -5,7 +5,7 @@ share: "true"
 title: Procyon
 ---
 
-- [[Procyon Map|Procyon Map]]
+![[../../procyon.png|procyon]]
 
 
 Sectors in the Hegemony are slices of the galaxy, each controlled by a Noble House overseeing the harvesting of resources and expansion in the area on behalf of the Hegemon. Originally belonging to House Nim-Amar, the sector has changed hands a number of times, finally falling to [[../../Factions/House Malklaith|House Malklaith]] after the last Hegemon ascended.  
