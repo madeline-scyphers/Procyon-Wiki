@@ -13,7 +13,7 @@ Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the H
 
 ## Turf
 
-Malklaith owns the sector but the Governor rarely leaves [[../Atlas/Procyon/Rin/Warren|Warren]]. His people can be found in major positions in every system of the sector.
+Malklaith owns the sector but the Governor rarely leaves [[../Procyon/Rin/Warren|Warren]]. His people can be found in major positions in every system of the sector.
 
 ## Notable NPCs
 
@@ -28,7 +28,7 @@ Acquire the Aleph key.
 
 ## Notable Assets
 
-- [[../Atlas/Procyon/index|Procyon]] sector taxes generating vast coffers.
+- [[../Procyon/index|Procyon]] sector taxes generating vast coffers.
 - A growing collection of Precursor artifacts.
 
 
