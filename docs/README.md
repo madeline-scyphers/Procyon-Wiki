@@ -1,5 +1,5 @@
 ---
 share: "true"
 ---
-[[./Atlas/Procyon/index|Procyon]]
+[[./Procyon/index|Procyon]]
 [[./Factions/index|Factions]]

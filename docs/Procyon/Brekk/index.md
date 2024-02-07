@@ -32,11 +32,11 @@ An ancient temple on [[./Nightfall|Nightfall]]’s fifth moon, Todav. Some say i
 
 ## Bright Wind 
 
-A large gas cloud ejected by the star, now used as racing grounds by the [[../../../Factions/Echo Wave Riders|Echo Wave Riders]]. Despite it being both lethal and illegal, racers from all over the sector compete for cred and fame. Invitations to the races are exclusive and require qualifying in equally hazardous conditions.
+A large gas cloud ejected by the star, now used as racing grounds by the [[../../Factions/Echo Wave Riders|Echo Wave Riders]]. Despite it being both lethal and illegal, racers from all over the sector compete for cred and fame. Invitations to the races are exclusive and require qualifying in equally hazardous conditions.
 
 ---
 
-## [[../../../Factions/Isotropa Max Secure|Isotropa Max Secure]]
+## [[../../Factions/Isotropa Max Secure|Isotropa Max Secure]]
 
 Orbiting near the star, Isotropa is the most notorious prison in [[../index|Procyon]]. Wardens broker audiences with prisoners and grant commutations for the powerful and wealthy. They report to Malklaith but the prison largely runs itself.
 

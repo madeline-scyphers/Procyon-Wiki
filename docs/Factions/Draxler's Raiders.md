@@ -13,7 +13,7 @@ Violent pirates who disable ships before boarding, ransoming crew and cargo alik
 
 ## Turf
 
-Abandoned mining station in an [[../Atlas/Procyon/Iota/index|Iota]] asteroid belt (HQ).
+Abandoned mining station in an [[../Procyon/Iota/index|Iota]] asteroid belt (HQ).
 
 ## Notable NPCs
 

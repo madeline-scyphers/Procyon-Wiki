@@ -10,7 +10,7 @@ again
 [Mendicants](./Mendicants.md#)
 [[./Yaru|Yaru]]
 [[Conclave 01|Conclave 01]]
-[[../home|home]]
+[[../README|README]]
 
 
 ## Tier
@@ -23,7 +23,7 @@ Independent sentient Urbots led by the Prime, seeking free will and independence
 
 ## Turf
 
-Secret bases on Baftoma and the [[../Atlas/Procyon/Iota/Indri|Indri]].
+Secret bases on Baftoma and the [[../Procyon/Iota/Indri|Indri]].
 
 ## Notable NPCs
 
@@ -35,7 +35,7 @@ Secret bases on Baftoma and the [[../Atlas/Procyon/Iota/Indri|Indri]].
 
 ## Goals
 
-Take control of the [[../Atlas/Procyon/Iota/index|Iota]] factory.
+Take control of the [[../Procyon/Iota/index|Iota]] factory.
 
 ## Notable Assets
 
@@ -64,4 +64,4 @@ All members of the Conclave are currently Urbots of varied shapes and sizes.
 
 ## Situation
 
-The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [[../Atlas/Procyon/Iota/index|Iota]] and start doing so secretly.
+The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [[../Procyon/Iota/index|Iota]] and start doing so secretly.

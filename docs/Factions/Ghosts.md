@@ -13,7 +13,7 @@ Scientists that live exo-suited in a half-phased state.
 
 ## Turf
 
-The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on [[../Atlas/Procyon/Iota/Lithios|Lithios]].
+The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on [[../Procyon/Iota/Lithios|Lithios]].
 
 ## Notable NPCs
 
@@ -25,7 +25,7 @@ The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on
 
 ## Goals
 
-Hire Memish to make a bomb for the [[../Atlas/Procyon/Holt/index|Holt]] gate.
+Hire Memish to make a bomb for the [[../Procyon/Holt/index|Holt]] gate.
 
 ## Notable Assets
 
@@ -51,4 +51,4 @@ Before the mishap, the Ghosts were scientists, all intelligent and educated. The
 
 ## Situation
 
-A mishap with the [[../Atlas/Procyon/Holt/index|Holt]] gate will restore them to their original forms.
+A mishap with the [[../Procyon/Holt/index|Holt]] gate will restore them to their original forms.

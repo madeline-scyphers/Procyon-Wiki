@@ -10,7 +10,7 @@ share: "true"
 Although they often hire themselves out as bounty hunters, the Scarlet Wolves are a renowned group of assassins.
 
 ## Turf
-The Killroom, a high-end safe house on [[../Atlas/Procyon/Rin/Warren|Warren]] (HQ). Holdouts on most planets.
+The Killroom, a high-end safe house on [[../Procyon/Rin/Warren|Warren]] (HQ). Holdouts on most planets.
 
 ## Notable NPCs
 - Rik “Old Wolf” Urus (leader, dangerous, retired, cunning).

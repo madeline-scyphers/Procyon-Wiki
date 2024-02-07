@@ -10,7 +10,7 @@ share: "true"
 Tall, fully robed xenos who travel with blindfolded servants that speak for them. Gave the Hegemony the ansible network.
 
 ## Turf
-The Sah'iir Embassy, recently purchased on [[../Atlas/Procyon/Rin/Warren|Warren]] (HQ). Workstations at every ansible network point.
+The Sah'iir Embassy, recently purchased on [[../Procyon/Rin/Warren|Warren]] (HQ). Workstations at every ansible network point.
 
 ## Notable NPCs
 - Ren 3-Meti (matriarch, xeno, cunning, commanding).
@@ -36,4 +36,4 @@ The Sah'iir communicate via special hosts they control called Echoes. Each may h
 - [[./Suneaters|Suneaters]]
 
 ## Situation
-The Sah'iir have earned their place by being too important to the Hegemony to get rid of. While not technically a Guild, they guard the secrets of ansibles as if they were one. They have detected a signal from [[../Atlas/Procyon/index|Procyon]] when a Precursor ansible was activated and have come to investigate.
+The Sah'iir have earned their place by being too important to the Hegemony to get rid of. While not technically a Guild, they guard the secrets of ansibles as if they were one. They have detected a signal from [[../Procyon/index|Procyon]] when a Precursor ansible was activated and have come to investigate.

@@ -13,7 +13,7 @@ One of the Hegemonic High Guilds responsible for resource acquisition, cyberneti
 
 ## Turf
 
-[[../Atlas/Procyon/Rin/SB-176|SB-176]].
+[[../Procyon/Rin/SB-176|SB-176]].
 
 ## Notable NPCs
 

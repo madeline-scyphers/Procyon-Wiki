@@ -13,7 +13,7 @@ Maintains the galactic currency network and shadow repositories in each system.
 
 ## Turf
 
-Numerous shadow repositories storing mysterious items in high-tech vaults, and a currency exchange on [[../Atlas/Procyon/Rin/Warren|Warren]].
+Numerous shadow repositories storing mysterious items in high-tech vaults, and a currency exchange on [[../Procyon/Rin/Warren|Warren]].
 
 ## Notable NPCs
 

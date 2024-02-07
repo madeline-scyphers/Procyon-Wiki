@@ -13,7 +13,7 @@ Eschewing individuality, all initiates adopt the same garb and the name “Ashka
 
 ## Turf
 
-A large number of meditation rooms throughout [[../Atlas/Procyon/Iota/Indri|Indri]].
+A large number of meditation rooms throughout [[../Procyon/Iota/Indri|Indri]].
 
 ## Notable NPCs
 

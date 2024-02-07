@@ -10,7 +10,7 @@ share: "true"
 Weapons dealers specializing in ship weapons, headed up by the ruthless Viktor Bax.
 
 ## Turf
-Weapons camp on [[../Atlas/Procyon/Holt/Sonhandra|Sonhandra]] (HQ). A sizable operation at [[../Atlas/Procyon/Brekk/Aketi|Aketi]]’s Base Camp One.
+Weapons camp on [[../Procyon/Holt/Sonhandra|Sonhandra]] (HQ). A sizable operation at [[../Procyon/Brekk/Aketi|Aketi]]’s Base Camp One.
 
 ## Notable NPCs
 - Viktor Bax (ambitious, charming, distrustful, ruthless).

@@ -13,7 +13,7 @@ Pilots that organize illegal races, take mercenary work, or test dangerous new e
 
 ## Turf
 
-A secluded hangar on [[../Atlas/Procyon/Brekk/Nightfall|Nightfall]].
+A secluded hangar on [[../Procyon/Brekk/Nightfall|Nightfall]].
 
 ## Notable NPCs
 
@@ -25,12 +25,12 @@ A secluded hangar on [[../Atlas/Procyon/Brekk/Nightfall|Nightfall]].
 
 ## Goals
 
-Organize a system-wide race in [[../Atlas/Procyon/Brekk/index|Brekk]].
+Organize a system-wide race in [[../Procyon/Brekk/index|Brekk]].
 
 ## Notable Assets
 
 - A host of ships of their own and access to far more.
-- Substantial mechanical facilities on [[../Atlas/Procyon/Brekk/Nightfall|Nightfall]].
+- Substantial mechanical facilities on [[../Procyon/Brekk/Nightfall|Nightfall]].
 
 
 ## Quirks
