@@ -13,7 +13,7 @@ Once a labor union, the Cobalt Syndicate has turned to smuggling and extortion t
 
 ## Turf
 
-The Pit, a mining quarry on Aleph (HQ). A major berth and associated docks on [[../Atlas/Procyon/Rin/Warren|Warren]].
+The Pit, a mining quarry on Aleph (HQ). A major berth and associated docks on [[../Procyon/Rin/Warren|Warren]].
 
 ## Notable NPCs
 
