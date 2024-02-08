@@ -4,23 +4,24 @@ title: Characters
 ---
 
 
-[[./Rusty Nail/Kit Apple|Kit Apple]]
+[Kit Apple](./Rusty%20Nail/Kit%20Apple.md)
 
 # Player Characters
 
 | Name                                                | Alias                  | Pronouns  | Faction                                             |
 | --------------------------------------------------- | ---------------------- | --------- | --------------------------------------------------- |
-| [[./Rusty Nail/Kit Apple\|Kit Apple]]   | <ul><li>Flex</li></ul> | They/Them | [[./Rusty Nail/index\|Rusty Nail]] |
-| [[./Rusty Nail/Jedd Yulen\|Jedd Yulen]] | \-                     | He/Him    | [[./Rusty Nail/index\|Rusty Nail]] |
+| [Kit Apple](./Rusty%20Nail/Kit%20Apple.md)   | <ul><li>Flex</li></ul> | They/Them | [Rusty Nail](./Rusty%20Nail/index.md) |
+| [Jedd Yulen](./Rusty%20Nail/Jedd%20Yulen.md) | \-                     | He/Him    | [Rusty Nail](./Rusty%20Nail/index.md) |
 
 
-[[./Rusty Nail/Jedd Yulen|Jedd Yulen]]
+[[Characters/Rusty Nail/Jedd Yulen|Jedd Yulen
 
 
 NPCs
 
 | Name                           | Alias | Pronouns | Faction                                  |
 | ------------------------------ | ----- | -------- | ---------------------------------------- |
-| [[./Gruff\|Gruff]] | \-    | He/Him   | [[../Factions/51st Legion\|51st Legion]] |
+| [Gruff](./Gruff.md) | \-    | He/Him   | [51st Legion](../Factions/51st%20Legion.md) |
 
 
+[Gruff](./Gruff.md)
