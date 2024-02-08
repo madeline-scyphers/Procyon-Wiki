@@ -45,7 +45,7 @@ Oddly few xenos among the Legion.
 
 ## Enemies
 
-- [[./Ashen Knives|Ashen Knives]].
+- [[Ashen Knives|Ashen Knives]].
 - [[./Church of Stellar Flame|Church of Stellar Flame]].
 - [[./Lost Legion|Lost Legion]].
 - [[./The Maelstrom|The Maelstrom]].
