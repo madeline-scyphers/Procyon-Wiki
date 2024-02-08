@@ -13,7 +13,7 @@ Wandering mystics studying artifacts and exploring, looking to open the Hantu ga
 
 ## Turf
 
-A small island with a research station on [[../Atlas/Procyon/Holt/Mem|Mem]].
+A small island with a research station on [[../Procyon/Holt/Mem|Mem]].
 
 ## Notable NPCs
 
@@ -50,4 +50,4 @@ Many of the Cult are young ex-Legionnaires that have been personally drafted by 
 
 ## Situation
 
-The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. Having found a lead on [[../Atlas/Procyon/Brekk/Shimaya|Shimaya]], they’ve set up a dig site that promises to unearth at least some of the missing pieces of the Hantu gate.
+The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. Having found a lead on [[../Procyon/Brekk/Shimaya|Shimaya]], they’ve set up a dig site that promises to unearth at least some of the missing pieces of the Hantu gate.
