@@ -28,7 +28,7 @@ Acquire the Aleph key.
 
 ## Notable Assets
 
-- [[../Atlas/Procyon/index|Procyon]] sector taxes generating vast coffers.
+- [[../Procyon/index|Procyon]] sector taxes generating vast coffers.
 - A growing collection of Precursor artifacts.
 
 
