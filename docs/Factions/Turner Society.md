@@ -33,4 +33,4 @@ Membership into the society is both exclusive and expensive, and considered a ma
 - [[./Vigilance|Vigilance]]
 
 ## Situation
-Focusing on the upper echelon of [[../Procyon/index|Procyon]], the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [[../Procyon/Brekk/Aketi|Aketi]] animals, and w
+Focusing on the upper echelon of [[../Procyon/index|Procyon]], the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [[../Procyon/Brekk/Aketi|Aketi]] animals, and with the [[./Vigilance|Vigilance]] harassing their production, they struggle to keep up with demand.

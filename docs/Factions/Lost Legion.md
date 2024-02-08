@@ -39,4 +39,4 @@ All Legionnaires have been branded as traitors. Many bear the tattoo of a phoeni
 Most Hegemony [[./index|Factions]].
 
 ## Situation
-The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegemon ascended. They protect a young girl heir to the last Hegemon whom they hope to reinstate. They plan to capture the head of the [[./Church of Stellar Flame|Church of Stellar Flame]] and convince her to bless the girl 
+The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegemon ascended. They protect a young girl heir to the last Hegemon whom they hope to reinstate. They plan to capture the head of the [[./Church of Stellar Flame|Church of Stellar Flame]] and convince her to bless the girl as required.
