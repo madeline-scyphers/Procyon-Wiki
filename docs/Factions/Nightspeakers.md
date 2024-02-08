@@ -35,4 +35,4 @@ Nightspeakers have pitch-black eyes and resonating voices after training in the 
 - [[./Church of Stellar Flame|Church of Stellar Flame]]
 
 ## Situation
-Though few, each member is a potent mystic. They hire themselves out to powerful individuals while searching for a set of Precursor artifacts called the Raiment of Night. Doraam has become the Governor’s personal mystic and advisor after sensing a piece of the Raiment—t
+Though few, each member is a potent mystic. They hire themselves out to powerful individuals while searching for a set of Precursor artifacts called the Raiment of Night. Doraam has become the Governor’s personal mystic and advisor after sensing a piece of the Raiment—the Aleph key.
