@@ -5,8 +5,8 @@ site_author: Madeline Scyphers
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: favicons.png
+    favicon: favicons.png
     custom_dir: overrides
     font:
         text: Karla
