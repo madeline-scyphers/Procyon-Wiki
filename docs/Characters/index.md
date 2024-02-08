@@ -4,7 +4,7 @@ title: Characters
 ---
 
 
-[Kit Apple](./Rusty%20Nail/Kit%20Apple.md)
+
 
 # Player Characters
 
@@ -28,4 +28,7 @@ NPCs
 
 
 [Gruff](./Gruff.md)
-
+[Kit Apple](./Rusty%20Nail/Kit%20Apple.md)
+[Kit Apple](./Rusty%20Nail/Kit%20Apple.md)
+[Kit Apple](./Rusty%20Nail/Kit%20Apple.md)
+[Kit Apple](./Rusty%20Nail/Kit%20Apple.md)
