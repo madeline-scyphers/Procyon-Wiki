@@ -124,7 +124,7 @@ Wandering mystics studying artifacts and seeking new places. Members include the
 
 # [[./Draxler's Raiders|Draxler's Raiders]]
 
-Fierce individualistic pirates who specialize in disabling ships before boarding. Mostly found in [[../Atlas/Procyon/Iota/index|Iota]] and [[../../Brekk|Brekk]].
+Fierce individualistic pirates who specialize in disabling ships before boarding. Mostly found in [[../Procyon/Iota/index|Iota]] and [[../../Brekk|Brekk]].
 
 ---
 
@@ -166,7 +166,7 @@ A powerful Noble House of the Hegemony, ostensibly owns the sector. Represented 
 
 # [[../../Isotropa Max Secure|Isotropa Max Secure]]
 
-The most notorious prison system in the [[../Atlas/Procyon/index|Procyon]] sector, housing the worst of the worst. Brokers audiences with its population grants commutations for those with power and wealth.
+The most notorious prison system in the [[../Procyon/index|Procyon]] sector, housing the worst of the worst. Brokers audiences with its population grants commutations for those with power and wealth.
 
 ---
 
@@ -232,7 +232,7 @@ Ur-archaeologists and scientists obsessed with recreating jumpgate technology. L
 
 # [[./Turner Society|Turner Society]]
 
-A [[../Atlas/Procyon/Holt/index|Holt]]animal parts and Vosian crystals—which they sometimes have trouble sourcing.
+A [[../Procyon/Holt/index|Holt]]animal parts and Vosian crystals—which they sometimes have trouble sourcing.
 
 ---
 

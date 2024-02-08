@@ -10,7 +10,7 @@ share: "true"
 Pursuers of immortality via tech implants and chemical formulas distilled from the living. Several have been around for centuries.
 
 ## Turf
-Anodyne, a pleasure den on [[../Atlas/Procyon/Iota/Amerath|Amerath]] (HQ). Rust, an auction house on [[../Atlas/Procyon/Holt/Sonhandra|Sonhandra]].
+Anodyne, a pleasure den on [[../Procyon/Iota/Amerath|Amerath]] (HQ). Rust, an auction house on [[../Procyon/Holt/Sonhandra|Sonhandra]].
 
 ## Notable NPCs
 - Asphodel (general, flawless, calculating, ravenous).
