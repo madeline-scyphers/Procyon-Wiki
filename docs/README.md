@@ -1,8 +1,8 @@
 ---
 share: "true"
-logo: "[[./favicons.png|favicons]]"
+logo: "[[./favicons.png|assests/meta/favicons.png]]"
 ---
-![[./favicons.png|favicons]]
+
 [[../Procyon|Procyon]]
 [[./Factions/index|Factions]]
 [[../Characters|Characters]]
