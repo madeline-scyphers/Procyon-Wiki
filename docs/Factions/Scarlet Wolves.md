@@ -35,4 +35,4 @@ None. With the Wolves, it’s strictly business.
 - [[./Vignerons|Vignerons]]
 
 ## Situation
-The Scarlet Wolves are contract killers specializing in hard targets. They have a reputation for delivering, minimizing collateral, and never taking bribes. They’ve taken a large contract from the [[./Counters Guild|Counters Guild]] to kill a number of the [[./Guild of Engineers|Guild of Engineers]]’ heads but need time to set 
+The Scarlet Wolves are contract killers specializing in hard targets. They have a reputation for delivering, minimizing collateral, and never taking bribes. They’ve taken a large contract from the [[./Counters Guild|Counters Guild]] to kill a number of the [[./Guild of Engineers|Guild of Engineers]]’ heads but need time to set up the hit.
