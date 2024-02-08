@@ -32,8 +32,8 @@ The Sah'iir communicate via special hosts they control called Echoes. Each may h
 - [[../../Counters Guild|Counters Guild]]
 
 ## Enemies
-- [[./Guild of Engineers|Guild of Engineers]]
+- [[../../Guild of Engineers|Guild of Engineers]]
 - [[../../Suneaters|Suneaters]]
 
 ## Situation
-The Sah'iir have earned their place by being too important to the Hegemony to get rid of. While not technically a Guild, they guard the secrets of ansibles as if they were one. They have detected a signal from [[../Procyon/index|Procyon]] when a Precursor ansible was activated and have c
+The Sah'iir have earned their place by being too important to the Hegemony to get rid of. While not technically a Guild, they guard the secrets of ansibles as if they were one. They have detected a signal from [[../../Procyon|Procyon]] when a Precursor ansib
