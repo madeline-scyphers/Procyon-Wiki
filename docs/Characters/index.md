@@ -3,12 +3,15 @@ share: "true"
 title: Characters
 ---
 
+
 # Player Characters
 
 | Name                                                | Alias                  | Pronouns  | Faction                                             |
 | --------------------------------------------------- | ---------------------- | --------- | --------------------------------------------------- |
 | [[./Rusty Nail/Kit Apple\|Kit Apple]]   | <ul><li>Flex</li></ul> | They/Them | [[./Rusty Nail/index\|Rusty Nail]] |
 | [[./Rusty Nail/Jedd Yulen\|Jedd Yulen]] | \-                     | He/Him    | [[./Rusty Nail/index\|Rusty Nail]] |
+
+
 
 
 
