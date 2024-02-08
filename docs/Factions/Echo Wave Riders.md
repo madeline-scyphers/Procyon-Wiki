@@ -25,7 +25,7 @@ A secluded hangar on [[../Procyon/Brekk/Nightfall|Nightfall]].
 
 ## Goals
 
-Organize a system-wide race in [[Brekk|Brekk]].
+Organize a system-wide race in [[../../Brekk|Brekk]].
 
 ## Notable Assets
 

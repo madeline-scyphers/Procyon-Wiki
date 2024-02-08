@@ -8,7 +8,7 @@ Status:
   - Active
 pronouns: He/Him
 share: "true"
-faction: "[[Rusty Nail]]"
+faction: "[[Procyon/Characters/Rusty Nail/Rusty Nail]]"
 ---
 
 

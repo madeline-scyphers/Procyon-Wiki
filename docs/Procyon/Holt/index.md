@@ -10,7 +10,7 @@ Holt was the second [[../index|Procyon]]-Holt gate was troublesome to stabilize.
 
 - [[./Mem|Mem]]
 - [[./Sonhandra|Sonhandra]]
-- [[Vos|Vos]]
+- [[../../../Vos|Vos]]
 
 ---
 

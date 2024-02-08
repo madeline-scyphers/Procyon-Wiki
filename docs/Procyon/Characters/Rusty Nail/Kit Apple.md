@@ -9,7 +9,7 @@ Status:
   - Active
 pronouns: They/Them
 share: "true"
-faction: "[[Rusty Nail]]"
+faction: "[[Procyon/Characters/Rusty Nail/Rusty Nail]]"
 ---
 
 

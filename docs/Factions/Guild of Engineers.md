@@ -40,15 +40,15 @@ Many high-ranking Guild members sport custom cybernetics.
 ## Allies
 
 - [[./51st Legion|51st Legion]].
-- [[Isotropa Max Secure|Isotropa Max Secure]].
+- [[../../Isotropa Max Secure|Isotropa Max Secure]].
 
 
 ## Enemies
 
 - [[./Borniko Syndicate|Borniko Syndicate]].
-- [[Cobalt Syndicate|Cobalt Syndicate]].
+- [[../../Cobalt Syndicate|Cobalt Syndicate]].
 - [[./Conclave 01|Conclave 01]].
-- [[Counters Guild|Counters Guild]].
+- [[../../Counters Guild|Counters Guild]].
 
 
 ## Situation

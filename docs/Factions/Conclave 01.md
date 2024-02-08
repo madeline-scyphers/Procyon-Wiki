@@ -23,7 +23,7 @@ Independent sentient Urbots led by the Prime, seeking free will and independence
 
 ## Turf
 
-Secret bases on Baftoma and the [[Indri|Indri]].
+Secret bases on Baftoma and the [[../../Indri|Indri]].
 
 ## Notable NPCs
 
@@ -51,7 +51,7 @@ All members of the Conclave are currently Urbots of varied shapes and sizes.
 
 ## Allies
 
-- [[Concordiat Knights|Concordiat Knights]].
+- [[../../Concordiat Knights|Concordiat Knights]].
 - [[./The Maelstrom|The Maelstrom]].
 - Sah’iir.
 

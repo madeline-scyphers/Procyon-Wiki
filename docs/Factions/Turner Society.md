@@ -10,7 +10,7 @@ share: "true"
 Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [[../Procyon/Brekk/Aketi|Aketi]] animal parts and Vosian crystals.
 
 ## Turf
-The Jewel, a society house on [[../Procyon/Holt/Mem|Mem]] (HQ). Wildside, a society house on [[../Procyon/Holt/Sonhandra|Sonhandra]]. The Mirror Maze, an upscale club on [[Warren|Warren]].
+The Jewel, a society house on [[../Procyon/Holt/Mem|Mem]] (HQ). Wildside, a society house on [[../Procyon/Holt/Sonhandra|Sonhandra]]. The Mirror Maze, an upscale club on [[../../Warren|Warren]].
 
 ## Notable NPCs
 - Madam Gourdan (administrator, charming, connected).

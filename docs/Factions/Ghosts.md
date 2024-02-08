@@ -39,14 +39,14 @@ Before the mishap, the Ghosts were scientists, all intelligent and educated. The
 
 ## Allies
 
-- [[Ashtari Cult|Ashtari Cult]].
-- [[Suneaters|Suneaters]].
+- [[../../Ashtari Cult|Ashtari Cult]].
+- [[../../Suneaters|Suneaters]].
 
 
 ## Enemies
 
 - [[./Church of Stellar Flame|Church of Stellar Flame]].
-- [[Cult of the Seekers|Cult of the Seekers]].
+- [[../../Cult of the Seekers|Cult of the Seekers]].
 
 
 ## Situation

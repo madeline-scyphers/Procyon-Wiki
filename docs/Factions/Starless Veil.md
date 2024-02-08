@@ -18,7 +18,7 @@ The Veil holds no turf except the occasional safe house or place to reload and r
 - Agent N’Paya Wayline (diplomat, connected, collector).
 
 ## Goals
-Cause civil unrest on [[Warren|Warren]].
+Cause civil unrest on [[../../Warren|Warren]].
 
 ## Notable Assets
 - A network of spies.
