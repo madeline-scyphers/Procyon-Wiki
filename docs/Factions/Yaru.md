@@ -10,7 +10,7 @@ share: "true"
 Also known as the Makers Guild, they grow clones for menial labor that are supposedly short-lived and only barely sentient.
 
 ## Turf
-Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [[../Atlas/Procyon/Iota/Amerath|Amerath]].
+Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [[../Procyon/Iota/Amerath|Amerath]].
 
 ## Notable NPCs
 - Foler Atherton (biologist, concealed).
