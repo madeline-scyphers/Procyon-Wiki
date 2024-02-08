@@ -18,9 +18,9 @@ The sector is a burgeoning place for Syndicates, mystics, and other folks that l
 
 ---
 
-## [[./Rin/index|Rin]]
+## [[Rin|Rin]]
 
-A three-gate system, with the only path deeper into the Hegemony. [[./Rin/index|Rin]] system.
+A three-gate system, with the only path deeper into the Hegemony. [[Rin|Rin]] system.
 
 ---
 
@@ -32,11 +32,11 @@ A three-gate system, with the only path deeper into the Hegemony. [[./Rin/index|
 
 ## [[./Holt/index|Holt]]
 
-A twin star system, [[./Iota/index|Iota]] is a mixed bag. Though many people only pass through it on the way to [[./Brekk/index|Brekk]] is a popular vacation spot for well-off folks, seeming a bit rustic and rural with “charming” ruins, while also sporting enough control and tech to support luxury.
+A twin star system, [[./Iota/index|Iota]] is a mixed bag. Though many people only pass through it on the way to [[Brekk|Brekk]] is a popular vacation spot for well-off folks, seeming a bit rustic and rural with “charming” ruins, while also sporting enough control and tech to support luxury.
 
 ---
 
-## [[./Brekk/index|Brekk]]
+## [[Brekk|Brekk]]
 
 The cultural capitol of Procyon. If you’re looking to file paperwork, strike deals, and otherwise mingle with the elite of the sector, you’ll find many of them on the neon-lit streets of [[./Brekk/Nightfall|Nightfall]] also sports an untamed, largely unexplored jungle world that can hide those fleeing the law, and entice the rich on hunts for dangerous beasts.
 
