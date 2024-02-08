@@ -8,7 +8,7 @@ The planets in Iota orbit a pair of stars—a yellow sun (Iota-1) and a brown dw
 
 # Locations
 
-- [[./Amerath|Amerath]]
+- [[../../../Amerath|Amerath]]
 - [[../../../Indri|Indri]]
 - [[./Lithios|Lithios]]
 
