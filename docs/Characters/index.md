@@ -25,4 +25,7 @@ NPCs
 | [Gruff](./Gruff.md) | \-    | He/Him   | [51st Legion](../Factions/51st%20Legion.md) |
 
 
+
+
 [Gruff](./Gruff.md)
+
