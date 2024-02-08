@@ -8,7 +8,6 @@ Status:
   - Active
 pronouns: He/Him
 share: "true"
-comments: "true"
 ---
 
 
