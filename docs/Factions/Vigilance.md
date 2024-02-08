@@ -10,7 +10,7 @@ share: "true"
 Warrior mystics that seek to enforce an ancient code of justice on those they find wanting.
 
 ## Turf
-The First Temple on [[../Atlas/Procyon/Brekk/Aketi|Aketi]] (HQ).
+The First Temple on [[../Procyon/Brekk/Aketi|Aketi]] (HQ).
 
 ## Notable NPCs
 - Quai-Rosh (elder, mystic, judgmental).
@@ -36,4 +36,4 @@ Each member is trained by one elder mentor. Becoming a Vigilance member means re
 - [[./Turner Society|Turner Society]]
 
 ## Situation
-Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [[../Atlas/Procyon/index|Procyon]]. They have judged the gunrunners and drug makers of [[../Atlas/Procyon/Brekk/Aketi|Aketi]] unworthy.
+Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [[../Procyon/index|Procyon]]. They have judged the gunrunners and drug makers of [[../Procyon/Brekk/Aketi|Aketi]] unworthy.
