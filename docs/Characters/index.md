@@ -14,7 +14,8 @@ title: Characters
 | [Jedd Yulen](./Rusty%20Nail/Jedd%20Yulen.md) | \-                     | He/Him    | [Rusty Nail](./Rusty%20Nail/index.md) |
 
 
-[[Characters/Rusty Nail/Jedd Yulen|Jedd Yulen
+[Jedd Yulen](./Rusty%20Nail/Jedd%20Yulen.md)
+
 
 
 NPCs
