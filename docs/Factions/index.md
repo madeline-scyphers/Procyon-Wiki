@@ -9,28 +9,28 @@ title: Factions
 |---|---|
 |[[./Guild of Engineers|Guild of Engineers]]|5|
 |[[./Church of Stellar Flame|Church of Stellar Flame]]|4|
-|[[Counters Guild|Counters Guild]]|4|
+|[[../../Counters Guild|Counters Guild]]|4|
 |[[./Starless Veil|Starless Veil]]|4|
 |[[./51st Legion|51st Legion]]|3|
 |[[./House Malklaith|House Malklaith]]|3|
-|[[Isotropa Max Secure|Isotropa Max Secure]]|3|
+|[[../../Isotropa Max Secure|Isotropa Max Secure]]|3|
 |[[./Starsmiths Guild|Starsmiths Guild]]|3|
-|[[Cult of the Seekers|Cult of the Seekers]]|2|
-|[[Hegemonic News Network|Hegemonic News Network]]|2|
+|[[../../Cult of the Seekers|Cult of the Seekers]]|2|
+|[[../../Hegemonic News Network|Hegemonic News Network]]|2|
 |[[./Yaru|Yaru]]_|2|
-|[[Concordiat Knights|Concordiat Knights]]|1|
+|[[../../Concordiat Knights|Concordiat Knights]]|1|
 
 |Weirdness|Tier|
 |---|---|
 |[[./Sah'iir|Sah'iir]]|4|
-|[[Suneaters|Suneaters]]|4|
+|[[../../Suneaters|Suneaters]]|4|
 |[[./The Agony|The Agony]]|3|
-|[[Ashtari Cult|Ashtari Cult]]|3|
+|[[../../Ashtari Cult|Ashtari Cult]]|3|
 |[[./Vignerons|Vignerons]]|3|
 |[[./Ghosts|Ghosts]]|2|
 |[[./Mendicants|Mendicants]]|2|
 |[[./Nightspeakers|Nightspeakers]]|2|
-|[[Acolytes of Brashkadesh|Acolytes of Brashkadesh]]|1|
+|[[../../Acolytes of Brashkadesh|Acolytes of Brashkadesh]]|1|
 |[[./Conclave 01|Conclave 01]]|1|
 |[[./Vigilance|Vigilance]]|1|
 
@@ -39,14 +39,14 @@ title: Factions
 |[[./Lost Legion|Lost Legion]]|4|
 |[[./Scarlet Wolves|Scarlet Wolves]]|4|
 |[[./Vorex|Vorex]]|4|
-|[[Ashen Knives|Ashen Knives]]|3|
+|[[../../Ashen Knives|Ashen Knives]]|3|
 |[[./Borniko Syndicate|Borniko Syndicate]]|3|
 |[[./Draxler's Raiders|Draxler's Raiders]]|3|
 |[[./The Maelstrom|The Maelstrom]]|3|
 |[[./Echo Wave Riders|Echo Wave Riders]]|2|
-|[[Janus Syndicate|Janus Syndicate]]|2|
+|[[../../Janus Syndicate|Janus Syndicate]]|2|
 |[[./Turner Society|Turner Society]]|2|
-|[[Cobalt Syndicate|Cobalt Syndicate]]|1|
+|[[../../Cobalt Syndicate|Cobalt Syndicate]]|1|
 |[[./Dyrinek Gang|Dyrinek Gang]]|1|
 |[[./Wreckers|Wreckers]]|1|
 
@@ -56,7 +56,7 @@ Hegemonic military that represents the law anywhere off-planet.
 
 ---
 
-# [[Acolytes of Brashkadesh|Acolytes of Brashkadesh]]
+# [[../../Acolytes of Brashkadesh|Acolytes of Brashkadesh]]
 
 A collective that eschews individuality. Initiates adopt the same garb and the same name, in the pursuit of perfection at any cost.
 
@@ -68,13 +68,13 @@ Cult of humans who infect themselves with Way creatures to access the universe i
 
 ---
 
-# [[Ashen Knives|Ashen Knives]]
+# [[../../Ashen Knives|Ashen Knives]]
 
 Dangerous criminal Syndicate known for their control of gambling and assassination in the sector.
 
 ---
 
-# [[Ashtari Cult|Ashtari Cult]]
+# [[../../Ashtari Cult|Ashtari Cult]]
 
 A Cult of Precursor worshipers claiming Ur descent. They carry vials of gases from the Ashtari Cloud, which they inhale to connect to their presumed ancestors.
 
@@ -92,7 +92,7 @@ One of the official Hegemonic Cults. Religious zealots with only a few powerful 
 
 ---
 
-# [[Cobalt Syndicate|Cobalt Syndicate]]
+# [[../../Cobalt Syndicate|Cobalt Syndicate]]
 
 Organized labor union dabbling in a little crime to fund their demands for a better life. Usually display a blue stripe somewhere on their clothes.
 
@@ -104,19 +104,19 @@ Independent, sentient Urbots led by an ancient Urbot known as the Prime. Working
 
 ---
 
-# [[Concordiat Knights|Concordiat Knights]]
+# [[../../Concordiat Knights|Concordiat Knights]]
 
 Often accompanied by a motley crew of adventurers, these dozen or so colorful characters have the Hegemonic Churches’ blessing to pursue a quest for something called the Light of the World.
 
 ---
 
-# [[Counters Guild|Counters Guild]]
+# [[../../Counters Guild|Counters Guild]]
 
 Officials who maintain the galactic currency network and build shadow repositories in any system the Guild has a presence in, storing mysterious items and securing auctions and commerce.
 
 ---
 
-# [[Cult of the Seekers|Cult of the Seekers]]
+# [[../../Cult of the Seekers|Cult of the Seekers]]
 
 Wandering mystics studying artifacts and seeking new places. Members include the Hegemon’s mother. They want to open the Hantu gate.
 
@@ -124,13 +124,13 @@ Wandering mystics studying artifacts and seeking new places. Members include the
 
 # [[./Draxler's Raiders|Draxler's Raiders]]
 
-Fierce individualistic pirates who specialize in disabling ships before boarding. Mostly found in [[../Procyon/Iota/index|Iota]] and [[Brekk|Brekk]].
+Fierce individualistic pirates who specialize in disabling ships before boarding. Mostly found in [[../Procyon/Iota/index|Iota]] and [[../../Brekk|Brekk]].
 
 ---
 
 # [[./Dyrinek Gang|Dyrinek Gang]]
 
-Mostly young, disenfranchised xenos who have turned to crime and found strength and solidarity with each other. Based on [[Warren|Warren]] but looking to expand wherever there are other like-minded folks.
+Mostly young, disenfranchised xenos who have turned to crime and found strength and solidarity with each other. Based on [[../../Warren|Warren]] but looking to expand wherever there are other like-minded folks.
 
 ---
 
@@ -152,7 +152,7 @@ One of the Hegemonic High Guilds, responsible for resource acquisition, cybernet
 
 ---
 
-# [[Hegemonic News Network|Hegemonic News Network]]
+# [[../../Hegemonic News Network|Hegemonic News Network]]
 
 Those who control the media control the mind. Often use this as leverage over other factions. Spies.
 
@@ -160,17 +160,17 @@ Those who control the media control the mind. Often use this as leverage over ot
 
 # [[./House Malklaith|House Malklaith]]
 
-A powerful Noble House of the Hegemony, ostensibly owns the sector. Represented by the Governor, who lives on [[Warren|Warren]].
+A powerful Noble House of the Hegemony, ostensibly owns the sector. Represented by the Governor, who lives on [[../../Warren|Warren]].
 
 ---
 
-# [[Isotropa Max Secure|Isotropa Max Secure]]
+# [[../../Isotropa Max Secure|Isotropa Max Secure]]
 
 The most notorious prison system in the [[../Procyon/index|Procyon]] sector, housing the worst of the worst. Brokers audiences with its population grants commutations for those with power and wealth.
 
 ---
 
-# [[Janus Syndicate|Janus Syndicate]]
+# [[../../Janus Syndicate|Janus Syndicate]]
 
 Weapons dealers that specialize in ship weapons, headed up by the ruthless Viktor Bax, who insists on doing the first deal with every client in person.
 
@@ -224,7 +224,7 @@ Maintain the jumpgates and hyperspace lanes, and build ships. All ships in Hegem
 
 ---
 
-# [[Suneaters|Suneaters]]
+# [[../../Suneaters|Suneaters]]
 
 Ur-archaeologists and scientists obsessed with recreating jumpgate technology. Looking to extinguish a star in pursuit of their goals.
 
@@ -250,7 +250,7 @@ A small handful of immortality seekers using artifact tech implants and chemical
 
 # [[./Vorex|Vorex]]
 
-The most successful information broker to ever live. Can access any terminal in the system—though no one can explain how. Frantically seeking her sister, who the [[Counters Guild|Counters Guild]] took hostage.
+The most successful information broker to ever live. Can access any terminal in the system—though no one can explain how. Frantically seeking her sister, who the [[../../Counters Guild|Counters Guild]] took hostage.
 
 ---
 
