@@ -10,7 +10,7 @@ share: "true"
 A band of ferocious space pirates hiding among a mysterious nebula and around Baftoma.
 
 ## Turf
-The Nightbreaker (capital ship HQ), [[../Atlas/Procyon/Rin/The Cove|The Cove]] (made of lashed-together ships), The Ashtari Cloud.
+The Nightbreaker (capital ship HQ), [[../Procyon/Rin/The Cove|The Cove]] (made of lashed-together ships), The Ashtari Cloud.
 
 ## Notable NPCs
 - Alanda “the Banshee” Ryle (Pirate Queen, beautiful, mirthful, risk-taker).
@@ -26,7 +26,7 @@ Seize control of a jumpgate.
 - A fleet of pirate ships.
 
 ## Quirks
-The pirates lash together old or damaged ships to make [[../Atlas/Procyon/Rin/The Cove|The Cove]]. [[../Atlas/Procyon/Rin/The Cove|The Cove]] is the size of a planetoid rotating near the center of the Ashtari Cloud.
+The pirates lash together old or damaged ships to make [[../Procyon/Rin/The Cove|The Cove]]. [[../Procyon/Rin/The Cove|The Cove]] is the size of a planetoid rotating near the center of the Ashtari Cloud.
 
 ## Allies
 - [[./Ashen Knives|Ashen Knives]]
