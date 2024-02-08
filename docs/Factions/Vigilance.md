@@ -27,11 +27,11 @@ The First Temple on [[../Procyon/Brekk/Aketi|Aketi]] (HQ).
 Each member is trained by one elder mentor. Becoming a Vigilance member means receiving an artifact blade as a mark of your progress.
 
 ## Allies
-- [[./Concordiat Knights|Concordiat Knights]]
+- [[Concordiat Knights|Concordiat Knights]]
 
 ## Enemies
 - Draxler’s Raiders
-- [[./Janus Syndicate|Janus Syndicate]]
+- [[Janus Syndicate|Janus Syndicate]]
 - [[./Nightspeakers|Nightspeakers]]
 - [[./Turner Society|Turner Society]]
 

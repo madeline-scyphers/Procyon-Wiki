@@ -1,10 +1,12 @@
 ---
 faction: "[[Factions/51st Legion|51st Legion]]"
-pronouns: 
+pronouns: He/Him
 location: 
 role: npc
 status: active
 share: "true"
+tags:
+  - npc
 ---
 
 
@@ -18,7 +20,7 @@ share: "true"
 > ---|---|
 > Faction | [[../Factions/51st Legion|51st Legion]] |
 > Location |  |
-> Pronouns |  |
+> Pronouns | He/Him |
 
 # Gruff
 ## Profile

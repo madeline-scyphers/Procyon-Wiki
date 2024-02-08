@@ -13,7 +13,7 @@ Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the H
 
 ## Turf
 
-Malklaith owns the sector but the Governor rarely leaves [[../Procyon/Rin/Warren|Warren]]. His people can be found in major positions in every system of the sector.
+Malklaith owns the sector but the Governor rarely leaves [[Warren|Warren]]. His people can be found in major positions in every system of the sector.
 
 ## Notable NPCs
 
@@ -46,7 +46,7 @@ Governor Malklaith wears a number of strange rings of Precursor origin, the powe
 ## Enemies
 
 - [[./The Agony|The Agony]].
-- [[./Ashen Knives|Ashen Knives]].
+- [[Ashen Knives|Ashen Knives]].
 - [[./Lost Legion|Lost Legion]].
 - [[./The Maelstrom|The Maelstrom]].
 

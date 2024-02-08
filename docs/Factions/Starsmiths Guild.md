@@ -19,7 +19,7 @@ Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make poss
 - Rip Onister (gate expert, curious, shy, reclusive).
 
 ## Goals
-Find another key for tuning [[../Procyon/Rin/index|Rin]]-[[../Procyon/Holt/index|Holt]].
+Find another key for tuning [[Rin|Rin]]-[[../Procyon/Holt/index|Holt]].
 
 ## Notable Assets
 - Jump drives for use in new ships.
@@ -31,12 +31,12 @@ Find another key for tuning [[../Procyon/Rin/index|Rin]]-[[../Procyon/Holt/index
 All ships in Hegemonic space by law must be registered, certified, and maintained by the Starsmiths Guild. False papers abound, though.
 
 ## Allies
-- [[./Cult of the Seekers|Cult of the Seekers]]
+- [[Cult of the Seekers|Cult of the Seekers]]
 - [[./Echo Wave Riders|Echo Wave Riders]]
 
 ## Enemies
 - [[./Borniko Syndicate|Borniko Syndicate]]
-- [[./Cobalt Syndicate|Cobalt Syndicate]]
+- [[Cobalt Syndicate|Cobalt Syndicate]]
 
 ## Situation
-When the [[../Procyon/Rin/index|Rin]]-[[../Procyon/Holt/index|Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
+When the [[Rin|Rin]]-[[../Procyon/Holt/index|Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
