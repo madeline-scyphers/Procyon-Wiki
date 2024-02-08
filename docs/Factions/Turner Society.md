@@ -7,10 +7,10 @@ share: "true"
 2
 
 ## Nature
-Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [[../Atlas/Procyon/Brekk/Aketi|Aketi]] animal parts and Vosian crystals.
+Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [[../Procyon/Brekk/Aketi|Aketi]] animal parts and Vosian crystals.
 
 ## Turf
-The Jewel, a society house on [[../Atlas/Procyon/Holt/Mem|Mem]] (HQ). Wildside, a society house on [[../Atlas/Procyon/Holt/Sonhandra|Sonhandra]]. The Mirror Maze, an upscale club on [[../../Warren|Warren]].
+The Jewel, a society house on [[../Procyon/Holt/Mem|Mem]] (HQ). Wildside, a society house on [[../Procyon/Holt/Sonhandra|Sonhandra]]. The Mirror Maze, an upscale club on [[../../Warren|Warren]].
 
 ## Notable NPCs
 - Madam Gourdan (administrator, charming, connected).
@@ -19,7 +19,7 @@ The Jewel, a society house on [[../Atlas/Procyon/Holt/Mem|Mem]] (HQ). Wildside, 
 - Chorrguth (xeno, hunter, surly).
 
 ## Notable Assets
-- Vosian crystals and [[../Atlas/Procyon/Brekk/Aketi|Aketi]] animals used to produce Haze.
+- Vosian crystals and [[../Procyon/Brekk/Aketi|Aketi]] animals used to produce Haze.
 - Several society houses.
 - An intrasystem shuttle.
 
@@ -33,4 +33,4 @@ Membership into the society is both exclusive and expensive, and considered a ma
 - [[./Vigilance|Vigilance]]
 
 ## Situation
-Focusing on the upper echelon of [[../Atlas/Procyon/index|Procyon]], the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [[../Atlas/Procyon/Brekk/Aketi|Aketi]] animals, and with the [[./Vigilance|Vigilance]] harassing their production, they struggle to keep up with demand.
+Focusing on the upper echelon of [[../Procyon/index|Procyon]], the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [[../Procyon/Brekk/Aketi|Aketi]] animals, and with the [[./Vigilance|Vigilance]] harassing their production, they struggle to keep up with demand.
