@@ -10,7 +10,7 @@ share: "true"
 Formerly the Hegemon’s personal guard but rebelled when the current Hegemon rose to power. Now they work as guns for hire.
 
 ## Turf
-Ascension (dreadnought HQ). A host of berths in the [[../Atlas/Procyon/Iota/index|Iota]] Shipyards staffed with loyalists.
+Ascension (dreadnought HQ). A host of berths in the [[../Procyon/Iota/index|Iota]] Shipyards staffed with loyalists.
 
 ## Notable NPCs
 - Commander Eterin (disciplined, veteran, inspiring).
