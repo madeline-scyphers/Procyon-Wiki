@@ -4,6 +4,8 @@ title: Characters
 ---
 
 
+[[./Rusty Nail/Kit Apple|Kit Apple]]
+
 # Player Characters
 
 | Name                                                | Alias                  | Pronouns  | Faction                                             |
