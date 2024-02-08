@@ -29,8 +29,8 @@ Seize control of a jumpgate.
 The pirates lash together old or damaged ships to make [[../Procyon/Rin/The Cove|The Cove]]. [[../Procyon/Rin/The Cove|The Cove]] is the size of a planetoid rotating near the center of the Ashtari Cloud.
 
 ## Allies
-- [[./Ashen Knives|Ashen Knives]]
-- [[./Cobalt Syndicate|Cobalt Syndicate]]
+- [[Ashen Knives|Ashen Knives]]
+- [[Cobalt Syndicate|Cobalt Syndicate]]
 - [[./Nightspeakers|Nightspeakers]]
 
 ## Enemies
@@ -40,4 +40,4 @@ The pirates lash together old or damaged ships to make [[../Procyon/Rin/The Cove
 - [[./House Malklaith|House Malklaith]]
 
 ## Situation
-The Maelstrom raids shipping lanes and sells goods via the [[./Ashen Knives|Ashen Knives]]. Alanda is scheming to find a way to jump systems with her entire crew by taking over a jumpgate, preferably without incurring full-scale Hegemonic retribution.
+The Maelstrom raids shipping lanes and sells goods via the [[Ashen Knives|Ashen Knives]]. Alanda is scheming to find a way to jump systems with her entire crew by taking over a jumpgate, preferably without incurring full-scale Hegemonic retribution.
