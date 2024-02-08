@@ -5,4 +5,4 @@ logo: "[[./favicons.png|assests/meta/favicons.png]]"
 
 [[../Procyon|Procyon]]
 [[./Factions/index|Factions]]
-[[../Characters|Characters]]
+[[./Characters/index|Characters]]
