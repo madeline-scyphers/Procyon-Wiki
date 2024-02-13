@@ -5,7 +5,7 @@ tags:
   - faction
 share: "true"
 location:
-  - "[[../Procyon/Iota/Indri|Indri]]"
+  - "[Indri](../Procyon/Iota/Indri.md)"
 tier: "1"
 ---
 ## Tier
@@ -14,7 +14,7 @@ tier: "1"
 
 ## Location
 
-[[../Procyon/Iota/Indri|Indri]]
+[Indri](../Procyon/Iota/Indri.md)
 
 ## Nature
 
@@ -22,14 +22,14 @@ Eschewing individuality, all initiates adopt the same garb and the name “Ashka
 
 ## Turf
 
-A large number of meditation rooms throughout [[../Procyon/Iota/Indri|Indri]].
+A large number of meditation rooms throughout [Indri](../Procyon/Iota/Indri.md).
 
 ## Notable NPCs
 
-- [[Ashkad (charismatic, passionate, idealistic)|Ashkad (charismatic, passionate, idealistic)]]
-- [[Ashkad (ambitious, underhanded, muscled)|Ashkad (ambitious, underhanded, muscled)]]
-- [[Ashkad (mystic, devout, artistic)|Ashkad (mystic, devout, artistic)]]
-- [[Ashkad (technician, skilled, liar, wealthy)|Ashkad (technician, skilled, liar, wealthy)]]
+- [Ashkad (charismatic, passionate, idealistic)](Ashkad%20(charismatic,%20passionate,%20idealistic).md)
+- [Ashkad (ambitious, underhanded, muscled)](Ashkad%20(ambitious,%20underhanded,%20muscled).md)
+- [Ashkad (mystic, devout, artistic)](Ashkad%20(mystic,%20devout,%20artistic).md)
+- [Ashkad (technician, skilled, liar, wealthy)](Ashkad%20(technician,%20skilled,%20liar,%20wealthy).md)
 
 
 ## Goals
@@ -46,13 +46,13 @@ Attuning to the Pillar allows the Acolytes to communicate with each other and in
 
 ## Allies
 
-- [[./Mendicants|Mendicants]]
+- [Mendicants](./Mendicants.md)
 
 
 ## Enemies
 
-- [[./Ashen Knives|Ashen Knives]]
-- [[./Guild of Engineers|Guild of Engineers]]
+- [Ashen Knives](./Ashen%20Knives.md)
+- [Guild of Engineers](./Guild%20of%20Engineers.md)
 
 
 ## Situation
