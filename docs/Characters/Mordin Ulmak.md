@@ -15,18 +15,18 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> # 
+> # Mordin Ulmak
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### 
+> ###### Mordin Ulmak
 > Attribute |  value |
 > ---|---|
-> Alias | 
-> Pronouns | 
-> Faction | 
-> Location |  |
+> Alias | Vapor
+> Pronouns | Any, Sure, Whatever
+> Faction | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]
+> Location | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]] |
 
-# 
+# Mordin Ulmak
 ## Profile
 
 ## Friends
