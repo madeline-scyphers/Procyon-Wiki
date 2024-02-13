@@ -16,8 +16,8 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 > [!infobox]
 > # Mordin Ulmak
-> ![cover hsmall](../ImagePlaceholder.png)
-> [Show To Players](../ImagePlaceholder.png)
+> ![[../ImagePlaceholder.png|cover hsmall]]
+> [[../ImagePlaceholder.png|Show To Players]]
 > ###### Mordin Ulmak
 > Attribute |  value |
 > ---|---|
@@ -30,6 +30,6 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 ## Profile
 
 ## Friends
-- [Ora](./Ora.md) (An info broker)
+- [[./Ora|Ora]] (An info broker)
 ## Enemies
-- [Nyx](Nyx.md) (A moneylender)
+- [[Nyx|Nyx]] (A moneylender)
