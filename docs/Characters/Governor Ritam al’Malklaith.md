@@ -16,18 +16,18 @@ aliases:
 
 
 > [!infobox]
-> # Governor Ritam al’Malklaith
+> # 
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### Governor Ritam al’Malklaith
+> ###### 
 > Attribute |  value |
 > ---|---|
-> Pronouns | He/Him
-> Faction | [[../Factions/House Malklaith|House Malklaith]]
-> Location | [[../Procyon/Rin/Warren|Warren]] |
+> Pronouns | 
+> Faction | 
+> Location |  |
 
 
-# Governor Ritam al’Malklaith
+# 
 ## Profile
 
 ## Friends

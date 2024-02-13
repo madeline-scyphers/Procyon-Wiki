@@ -15,18 +15,18 @@ location: "[[Factions/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> # Kit Apple
+> # 
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### Kit Apple
+> ###### 
 > Attribute |  value |
 > ---|---|
-> Alias | Flex
-> Pronouns | They/Them
-> Faction | [[Rusty Nail|Rusty Nail]]
-> Location | [[Rusty Nail|Rusty Nail]] |
+> Alias | 
+> Pronouns | 
+> Faction | 
+> Location |  |
 
-# Kit Apple
+# 
 ## Profile
 
 ## Friends

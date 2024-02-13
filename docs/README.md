@@ -1,6 +1,6 @@
 ---
 share: "true"
-logo: "[[./favicons.png|assests/meta/favicons.png]]"
+logo: "[[assests/meta/favicons.png]]"
 ---
 
 [[./Procyon/index|Procyon]]

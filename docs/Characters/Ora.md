@@ -23,18 +23,18 @@ tags:
 
 
 > [!infobox]
-> # Ora
+> # 
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### Ora
+> ###### 
 > Attribute |  value |
 > ---|---|
-> Pronouns | They/Them
-> Faction | [[../Factions/Ashen Knives|Ashen Knives]]
-> Location | [[../Procyon/Rin/Warren|Warren]] |
+> Pronouns | 
+> Faction | 
+> Location |  |
 
 
-# Ora
+# 
 ## Profile
 
 ## Friends

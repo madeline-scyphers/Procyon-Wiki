@@ -12,17 +12,17 @@ tags:
 
 
 > [!infobox]
-> # Gruff
+> # 
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Value |
 > ---|---|
-> Faction | [[../Factions/51st Legion|51st Legion]] |
+> Faction |  |
 > Location |  |
-> Pronouns | He/Him |
+> Pronouns |  |
 
-# Gruff
+# 
 ## Profile
 
 ## Friends
