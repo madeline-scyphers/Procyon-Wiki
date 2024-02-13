@@ -9,8 +9,8 @@ playbook: Pilot
 status: active
 pronouns: She/Her
 share: "true"
-faction: "[[Rusty Nail]]"
-location: "[[Rusty Nail]]"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 ---
 
 
