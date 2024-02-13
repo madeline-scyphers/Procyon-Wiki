@@ -16,7 +16,6 @@ aliases:
 
 
 > [!infobox]
-> # Governor Ritam al’Malklaith
 > ![cover hsmall](../ImagePlaceholder.png)
 > [Show To Players](../ImagePlaceholder.png)
 > ###### Governor Ritam al’Malklaith
