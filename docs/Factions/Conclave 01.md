@@ -1,21 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Weird
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Iota/Indri|Indri]]"
+tier: "1"
 ---
-testing...
-
-again
-
-[Mendicants](./Mendicants.md#)
-[[./Yaru|Yaru]]
-[[Conclave 01|Conclave 01]]
-[[Atlas/README|Atlas/README]]
-
-
 ## Tier
 
 1
+
+## Location
+
+[[../Procyon/Iota/Indri|Indri]]
 
 ## Nature
 
@@ -53,7 +52,7 @@ All members of the Conclave are currently Urbots of varied shapes and sizes.
 
 - [[./Concordiat Knights|Concordiat Knights]].
 - [[./The Maelstrom|The Maelstrom]].
-- Sah’iir.
+- [[./Sah'iir|Sah'iir]].
 
 
 ## Enemies

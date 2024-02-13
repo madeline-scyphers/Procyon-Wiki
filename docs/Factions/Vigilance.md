@@ -1,10 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Weird
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Brekk/Aketi|Aketi]]"
+tier: "1"
 ---
 ## Tier
+
 1
+
+## Location
+
+[[../Procyon/Brekk/Aketi|Aketi]]
 
 ## Nature
 Warrior mystics that seek to enforce an ancient code of justice on those they find wanting.

@@ -1,12 +1,22 @@
 ---
-aliases: HNN
-tags: []
+aliases:
+  - HNN
+tags:
+  - Hegemony
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Rin/Warren|Warren]]"
+tier: "2"
 ---
 
 ## Tier
 
 2
+
+## Location
+
+[[../Procyon/Rin/Warren|Warren]]
 
 ## Nature
 

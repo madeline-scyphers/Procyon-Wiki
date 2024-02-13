@@ -1,11 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Criminal
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Iota/index|Iota]]"
+tier: "3"
 ---
 ## Tier
 
 3
+
+## Location
+
+[[../Procyon/Iota/index|Iota]]
 
 ## Nature
 

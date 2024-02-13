@@ -1,10 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Weird
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Iota/Amerath|Amerath]]"
+tier: "2"
 ---
 ## Tier
+
 2
+
+## Location
+
+[[../Procyon/Iota/Amerath|Amerath]]
 
 ## Nature
 Originally the Church of the Emerald Heart, they were politically destroyed and now wander the stars as traveling healers.

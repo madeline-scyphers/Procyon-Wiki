@@ -1,11 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Hegemony
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Holt/Mem|Mem]]"
+tier: "2"
 ---
 ## Tier
 
 2
+
+## Location
+
+[[../Procyon/Holt/Mem|Mem]]
 
 ## Nature
 

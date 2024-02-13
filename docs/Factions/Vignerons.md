@@ -1,10 +1,21 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Weird
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Iota/Amerath|Amerath]]"
+  - "[[../Procyon/Holt/Sonhandra|Sonhandra]]"
+tier: "3"
 ---
 ## Tier
+
 3
+
+## Location
+
+[[../Procyon/Iota/Amerath|Amerath]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
 
 ## Nature
 Pursuers of immortality via tech implants and chemical formulas distilled from the living. Several have been around for centuries.

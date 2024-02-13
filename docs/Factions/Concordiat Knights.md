@@ -1,11 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Hegemony
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Holt/Sonhandra|Sonhandra]]"
+tier: "1"
 ---
 ## Tier
 
 1
+
+## Location
+
+[[../Procyon/Holt/Sonhandra|Sonhandra]]
 
 ## Nature
 

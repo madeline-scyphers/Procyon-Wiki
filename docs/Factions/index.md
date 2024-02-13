@@ -5,34 +5,37 @@ share: "true"
 title: Factions
 ---
 
-|Hegemony|Tier|
-|---|---|
-|[[./Guild of Engineers|Guild of Engineers]]|5|
-|[[./Church of Stellar Flame|Church of Stellar Flame]]|4|
-|[[./Counters Guild|Counters Guild]]|4|
-|[[./Starless Veil|Starless Veil]]|4|
-|[[./51st Legion|51st Legion]]|3|
-|[[./House Malklaith|House Malklaith]]|3|
-|[[./Isotropa Max Secure|Isotropa Max Secure]]|3|
-|[[./Starsmiths Guild|Starsmiths Guild]]|3|
-|[[./Cult of the Seekers|Cult of the Seekers]]|2|
-|[[./Hegemonic News Network|Hegemonic News Network]]|2|
-|[[./Yaru|Yaru]]_|2|
-|[[./Concordiat Knights|Concordiat Knights]]|1|
+| Hegemony | Tier |
+| ---- | ---- |
+| [[./Guild of Engineers|Guild of Engineers]] | 5 |
+| [[./Church of Stellar Flame|Church of Stellar Flame]] | 4 |
+| [[./Counters Guild|Counters Guild]] | 4 |
+| [[./Starless Veil|Starless Veil]] | 4 |
+| [[./51st Legion|51st Legion]] | 3 |
+| [[./House Malklaith|House Malklaith]] | 3 |
+| [[./Isotropa Max Secure|Isotropa Max Secure]] | 3 |
+| [[./Starsmiths Guild|Starsmiths Guild]] | 3 |
+| [[./Cult of the Seekers|Cult of the Seekers]] | 2 |
+| [[./Hegemonic News Network|Hegemonic News Network]] | 2 |
+| [[./Yaru|Yaru]] | 2 |
+| [[./Concordiat Knights|Concordiat Knights]] | 1 |
+|  |  |
 
-|Weirdness|Tier|
-|---|---|
-|[[./Sah'iir|Sah'iir]]|4|
-|[[./Suneaters|Suneaters]]|4|
-|[[./The Agony|The Agony]]|3|
-|[[./Ashtari Cult|Ashtari Cult]]|3|
-|[[./Vignerons|Vignerons]]|3|
-|[[./Ghosts|Ghosts]]|2|
-|[[./Mendicants|Mendicants]]|2|
-|[[./Nightspeakers|Nightspeakers]]|2|
-|[[./Acolytes of Brashkadesh|Acolytes of Brashkadesh]]|1|
-|[[./Conclave 01|Conclave 01]]|1|
-|[[./Vigilance|Vigilance]]|1|
+| Weird | Tier |
+| ---- | ---- |
+| [[./Sah'iir|Sah'iir]] | 4 |
+| [[./Suneaters|Suneaters]] | 4 |
+| [[./The Agony|The Agony]] | 3 |
+| [[./Ashtari Cult|Ashtari Cult]] | 3 |
+| [[./Vignerons|Vignerons]] | 3 |
+| [[./Ghosts|Ghosts]] | 2 |
+| [[./Mendicants|Mendicants]] | 2 |
+| [[./Nightspeakers|Nightspeakers]] | 2 |
+| [[./Acolytes of Brashkadesh|Acolytes of Brashkadesh]] | 1 |
+| [[./Conclave 01|Conclave 01]] | 1 |
+| [[./Vigilance|Vigilance]] | 1 |
+|  |  |
+|  |  |
 
 |Criminal|Tier|
 |---|---|

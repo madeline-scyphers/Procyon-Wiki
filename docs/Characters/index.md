@@ -5,13 +5,6 @@ title: Characters
 
 ## Characters
 
-Test
-test
-test3
-
-
-akdjgf
-
 
 | File                        | Tags                     | Alias                                                                            | Pronouns  | Faction         |
 | --------------------------- | ------------------------ | -------------------------------------------------------------------------------- | --------- | --------------- |
@@ -23,6 +16,7 @@ akdjgf
 | Leto Ramus                  | <ul><li>player</li></ul> | <ul><li>Dr. Igno</li></ul>                                                       | He/Him?   | Rusty Nail      |
 | Ora                         | <ul><li>npc</li></ul>    | \-                                                                               | They/Them | Ashen Knives    |
 | Rocco Apple                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them | House Malklaith |
+| Triv                        | <ul><li>npc</li></ul>    | \-                                                                               | She/Her   | \-              |
 
 
 

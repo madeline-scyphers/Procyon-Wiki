@@ -1,11 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Weird
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Iota/Indri|Indri]]"
+tier: "1"
 ---
 ## Tier
 
-I
+1
+
+## Location
+
+[[../Procyon/Iota/Indri|Indri]]
 
 ## Nature
 

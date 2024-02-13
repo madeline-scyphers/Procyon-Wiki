@@ -1,10 +1,21 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Hegemony
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Iota/index|Iota]]"
+  - "[[Procyon/Procyon|Procyon]]"
+tier: "3"
 ---
 ## Tier
+
 3
+
+## Location
+
+[[../Procyon/Iota/index|Iota]],[[../Procyon/index|Procyon]]
 
 ## Nature
 Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make possible the intragalactic Hegemony.

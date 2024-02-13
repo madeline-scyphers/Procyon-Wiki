@@ -1,16 +1,27 @@
 ---
 aliases: 
-tags: []
+tags:
+  - faction
+  - Weird
 share: "true"
+location:
+  - "[[Procyon/Iota/Lithios|Lithios]]"
+  - "[[../Procyon/Brekk/Nightfall|Nightfall]]"
+tier: "4"
 ---
 ## Tier
+
 4
+
+## Location
+
+[[../Procyon/Iota/Lithios|Lithios]],[[../Procyon/Brekk/Nightfall|Nightfall]]
 
 ## Nature
 Ur-archaeologists obsessed with recreating jumpgate technology. Currently looking to extinguish a star in pursuit of their larger goals.
 
 ## Turf
-An Ur ruin on Lithios (HQ). Several [[../Procyon/Brekk/Nightfall|Nightfall]]-based warehouses.
+An Ur ruin on [[../Procyon/Iota/Lithios|Lithios]] (HQ). Several [[../Procyon/Brekk/Nightfall|Nightfall]]-based warehouses.
 
 ## Notable NPCs
 - Elil (astrophysicist, fanatic, brilliant).

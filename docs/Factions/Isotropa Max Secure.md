@@ -1,10 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Hegemony
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Brekk/index|Brekk]]"
+tier: "3"
 ---
 ## Tier
+
 3
+
+## Location
+
+[[../Procyon/Brekk/index|Brekk]]
 
 ## Nature
 A notorious prison in [[../Procyon/index|Procyon]] housing the worst offenders. Brokers commutations for those with power and wealth.
@@ -13,9 +23,9 @@ A notorious prison in [[../Procyon/index|Procyon]] housing the worst offenders. 
 Isotropa Max Secure in [[../Procyon/Brekk/index|Brekk]] (HQ).
 
 ## Notable NPCs
-- Bafma F’rozz (warden, haughty, confident, wealthy).
-- Kreel (guard captain, muscled, angry).
-- Dr. Xhu (psychotherapist, corrupt, gambler).
+- [[Bafma F’rozz|Bafma F’rozz]] (warden, haughty, confident, wealthy).
+- [[Kreel|Kreel]] (guard captain, muscled, angry).
+- [[Dr. Xhu|Dr. Xhu]] (psychotherapist, corrupt, gambler).
 
 ## Goals
 Get more prisoners (repeat).

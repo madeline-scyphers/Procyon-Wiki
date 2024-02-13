@@ -1,10 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Criminal
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Rin/The Cove|The Cove]]"
+tier: "3"
 ---
 ## Tier
+
 3
+
+## Location
+
+[[../Procyon/Rin/The Cove|The Cove]]
 
 ## Nature
 A band of ferocious space pirates hiding among a mysterious nebula and around Baftoma.

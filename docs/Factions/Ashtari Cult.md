@@ -1,11 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Weird
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Iota/Lithios|Lithios]]"
+tier: "3"
 ---
 ## Tier
 
 3
+
+## Location
+
+[[../Procyon/Iota/Lithios|Lithios]]
 
 ## Nature
 
