@@ -13,7 +13,7 @@ Human Cultists infecting themselves with Way creatures. Named for the pain most 
 
 ## Turf
 
-A platform orbiting Planet Omega (HQ). Secret chantries on [Mem](../Procyon/Holt/Mem.md).
+A platform orbiting Planet Omega (HQ). Secret chantries on [[../Procyon/Holt/Mem|Mem]].
 
 ## Notable NPCs
 
@@ -24,7 +24,7 @@ A platform orbiting Planet Omega (HQ). Secret chantries on [Mem](../Procyon/Holt
 
 ## Goals
 
-Move Planet Omega towards [Mem](../Procyon/Holt/Mem.md).
+Move Planet Omega towards [[../Procyon/Holt/Mem|Mem]].
 
 ## Notable Assets
 
@@ -39,16 +39,16 @@ Each member of the Agony is changed in some highly visible way, either with extr
 
 ## Allies
 
-- [Dyrinek Gang](./Dyrinek%20Gang.md).
-- [The Maelstrom](./The%20Maelstrom.md).
+- [[./Dyrinek Gang|Dyrinek Gang]].
+- [[./The Maelstrom|The Maelstrom]].
 
 
 ## Enemies
 
-- [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md).
-- [House Malklaith](./House%20Malklaith.md).
+- [[./Church of Stellar Flame|Church of Stellar Flame]].
+- [[./House Malklaith|House Malklaith]].
 
 
 ## Situation
 
-Having harvested horrors from Omega’s surface, the Agony have a plan to develop the living planet. By activating sites on the surface, they intend to move it within reach of [Mem](../Procyon/Holt/Mem.md), feeding the oceans to Omega and starting a new era of its evolution.
+Having harvested horrors from Omega’s surface, the Agony have a plan to develop the living planet. By activating sites on the surface, they intend to move it within reach of [[../Procyon/Holt/Mem|Mem]], feeding the oceans to Omega and starting a new era of its evolution.
