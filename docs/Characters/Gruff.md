@@ -1,5 +1,5 @@
 ---
-faction: "[51st Legion](../Factions/51st%2520Legion.md#)"
+faction: "[[Factions/51st Legion|51st Legion]]"
 pronouns: He/Him
 location: 
 role: npc
@@ -13,12 +13,12 @@ tags:
 
 > [!infobox]
 > # Gruff
-> ![cover hsmall](../ImagePlaceholder.png)
-> [Show To Players](../ImagePlaceholder.png)
+> ![[../ImagePlaceholder.png|cover hsmall]]
+> [[../ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Value |
 > ---|---|
-> Faction | [51st Legion](../Factions/51st%2520Legion.md.md#) |
+> Faction | [[../Factions/51st Legion|51st Legion]] |
 > Location |  |
 > Pronouns | He/Him |
 
