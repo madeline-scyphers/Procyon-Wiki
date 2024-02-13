@@ -9,8 +9,8 @@ playbook: Pilot
 status: active
 pronouns: She/Her
 share: "true"
-faction: "[[Characters/Rusty Nail/Rusty Nail]]"
-location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
+faction: "[[Rusty Nail]]"
+location: "[[Rusty Nail]]"
 ---
 
 
@@ -23,8 +23,8 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 > ---|---|
 > Alias | Sunflower
 > Pronouns | She/Her
-> Faction | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]
-> Location | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]] |
+> Faction | [[Rusty Nail|Rusty Nail]]
+> Location | [[Rusty Nail|Rusty Nail]] |
 
 # Flora
 ## Profile
