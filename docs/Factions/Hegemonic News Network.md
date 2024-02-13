@@ -10,23 +10,23 @@ share: "true"
 
 ## Nature
 
-Those who control the media control the mind. Often use this as leverage over other [Factions](./index.md).
+Those who control the media control the mind. Often use this as leverage over other [[./index|Factions]].
 
 ## Turf
 
-HNN Corporate Offices on [Warren](../Procyon/Rin/Warren.md). Field offices on every planet.
+HNN Corporate Offices on [[../Procyon/Rin/Warren|Warren]]. Field offices on every planet.
 
 ## Notable NPCs
 
-- [Cinszo](Cinszo.md) (owner, ambitious, greedy, untrustworthy).
-- [Rinsama Kay](Rinsama%20Kay.md) (chief editor, cynical, demanding, stickler).
-- [Ooxoo](Ooxoo.md) (xeno press pool manager, curious).
-- [Stacy](Stacy.md) Weathers (ace reporter, trained spy, always grinning, nose for trouble).
+- [[Cinszo|Cinszo]] (owner, ambitious, greedy, untrustworthy).
+- [[Rinsama Kay|Rinsama Kay]] (chief editor, cynical, demanding, stickler).
+- [[Ooxoo|Ooxoo]] (xeno press pool manager, curious).
+- [[Stacy|Stacy]] Weathers (ace reporter, trained spy, always grinning, nose for trouble).
 
 
 ## Goals
 
-Find blackmail material on [Governor](../Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) Malklaith.
+Find blackmail material on [[../Characters/Governor Ritam al’Malklaith|Governor]] Malklaith.
 
 ## Notable Assets
 
@@ -40,13 +40,13 @@ The bulk of the HNN’s workforce are contractors selling stories they find to H
 
 ## Allies
 
-- [Starless Veil](./Starless%20Veil.md).
+- [[./Starless Veil|Starless Veil]].
 
 
 ## Enemies
 
-- [Dyrinek Gang](./Dyrinek%20Gang.md).
-- [Mendicants](./Mendicants.md).
+- [[./Dyrinek Gang|Dyrinek Gang]].
+- [[./Mendicants|Mendicants]].
 
 
 ## Situation
