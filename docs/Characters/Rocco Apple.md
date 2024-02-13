@@ -26,21 +26,21 @@ aliases:
 
 > [!infobox]
 > # Rocco Apple
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![cover hsmall](../ImagePlaceholder.png)
+> [Show To Players](../ImagePlaceholder.png)
 > ###### Rocco Apple
 > Attribute |  value |
 > ---|---|
 > Pronouns | They/Them
-> Faction | [[../Factions/House Malklaith|House Malklaith]]
-> Location | [[../Procyon/Rin/Warren|Warren]] |
+> Faction | [House Malklaith](../Factions/House%20Malklaith.md)
+> Location | [Warren](../Procyon/Rin/Warren.md) |
 
 
 # Rocco Apple
 ## Profile
-Works as one of the preeminent ship designers and builders in the system. Works under [[../Factions/House Malklaith|House Malklaith]].
+Works as one of the preeminent ship designers and builders in the system. Works under [House Malklaith](../Factions/House%20Malklaith.md).
 ## Friends
-- [[./Kit Apple|Kit Apple]] ([[./Kit Apple|Kit Apple]]'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them)
+- [Kit Apple](./Kit%20Apple.md) ([Kit Apple](./Kit%20Apple.md)'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them)
 ## Enemies
 
 
