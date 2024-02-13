@@ -1,13 +1,13 @@
 ---
-name: Kit Apple
+name: Mordin Ulmak
 aliases:
-  - Flex
+  - Vapor
 tags:
   - player
 role: player
-playbook: Mechanic
+playbook: Scoundrel
 status: active
-pronouns: They/Them
+pronouns: Any, Sure, Whatever
 share: "true"
 faction: "[[Characters/Rusty Nail/Rusty Nail]]"
 location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
@@ -15,23 +15,21 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> # Kit Apple
+> # Mordin Ulmak
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### Kit Apple
+> ###### Mordin Ulmak
 > Attribute |  value |
 > ---|---|
-> Alias | Flex
-> Pronouns | They/Them
+> Alias | Vapor
+> Pronouns | Any, Sure, Whatever
 > Faction | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]
 > Location | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]] |
 
-# Kit Apple
+# Mordin Ulmak
 ## Profile
 
 ## Friends
-- [[Slice|Slice]] (a junkyard owner)
-- [[./Rocco Apple|Rocco Apple]] 
+- [[./Ora|Ora]] (An info broker)
 ## Enemies
-- [[Stev|Stev]] (A gambler of ill repute)
-
+- [[Nyx|Nyx]] (A moneylender)

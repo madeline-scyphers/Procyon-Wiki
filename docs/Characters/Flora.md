@@ -1,13 +1,13 @@
 ---
-name: Kit Apple
+name: Flora
 aliases:
-  - Flex
+  - Sunflower
 tags:
   - player
 role: player
-playbook: Mechanic
+playbook: Pilot
 status: active
-pronouns: They/Them
+pronouns: She/Her
 share: "true"
 faction: "[[Characters/Rusty Nail/Rusty Nail]]"
 location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
@@ -15,23 +15,21 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> # Kit Apple
+> # Flora
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### Kit Apple
+> ###### Flora
 > Attribute |  value |
 > ---|---|
-> Alias | Flex
-> Pronouns | They/Them
+> Alias | Sunflower
+> Pronouns | She/Her
 > Faction | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]
 > Location | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]] |
 
-# Kit Apple
+# Flora
 ## Profile
 
 ## Friends
-- [[Slice|Slice]] (a junkyard owner)
-- [[./Rocco Apple|Rocco Apple]] 
+- [[Triv|Triv]] (a ship mechanic)
 ## Enemies
-- [[Stev|Stev]] (A gambler of ill repute)
-
+- [[Yattu|Yattu]] (a gang boss)

@@ -17,10 +17,10 @@ The Scorpio (dreadnought HQ), naval yards throughout the sector, outposts at gov
 
 ## Notable NPCs
 
-- Tallon “the Butcher” (commander disciplined imposing vicious).
-- Liyara (lieutenant psychic changed eerie loyal).
-- Thrace (ace pilot reckless gambler loyal).
-- Wick (spy xeno unreadable mysterious loyal).
+- [[Tallon|Tallon]] “the Butcher” (commander disciplined imposing vicious).
+- [[Liyara|Liyara]] (lieutenant psychic changed eerie loyal).
+- [[Thrace|Thrace]] (ace pilot reckless gambler loyal).
+- [[Wick|Wick]] (spy xeno unreadable mysterious loyal).
 
 ## Goals
 
@@ -39,16 +39,16 @@ Oddly few xenos among the Legion.
 
 ## Allies
 
-- [[../../House Malklaith|House Malklaith]].
-- [[../../Starsmiths Guild|Starsmiths Guild]].
+- [[./House Malklaith|House Malklaith]].
+- [[./Starsmiths Guild|Starsmiths Guild]].
 
 
 ## Enemies
 
-- [[../../Ashen Knives|Ashen Knives]].
-- [[../../Church of Stellar Flame|Church of Stellar Flame]].
+- [[./Ashen Knives|Ashen Knives]].
+- [[./Church of Stellar Flame|Church of Stellar Flame]].
 - [[./Lost Legion|Lost Legion]].
-- [[../../The Maelstrom|The Maelstrom]].
+- [[./The Maelstrom|The Maelstrom]].
 
 
 ## Situation

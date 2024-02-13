@@ -1,13 +1,13 @@
 ---
-name: Kit Apple
+name: Leto Ramus
 aliases:
-  - Flex
+  - Dr. Igno
 tags:
   - player
 role: player
-playbook: Mechanic
+playbook: Stitch
 status: active
-pronouns: They/Them
+pronouns: He/Him?
 share: "true"
 faction: "[[Characters/Rusty Nail/Rusty Nail]]"
 location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
@@ -15,23 +15,21 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> # Kit Apple
+> # Leto Ramus
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### Kit Apple
+> ###### Leto Ramus
 > Attribute |  value |
 > ---|---|
-> Alias | Flex
-> Pronouns | They/Them
+> Alias | Dr. Igno
+> Pronouns | He/Him?
 > Faction | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]
 > Location | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]] |
 
-# Kit Apple
+# Leto Ramus
 ## Profile
 
 ## Friends
-- [[Slice|Slice]] (a junkyard owner)
-- [[./Rocco Apple|Rocco Apple]] 
+- [[Juda|Juda]] (A doctor)
 ## Enemies
-- [[Stev|Stev]] (A gambler of ill repute)
-
+- [[Lynie|Lynie]] (A hospital admin)

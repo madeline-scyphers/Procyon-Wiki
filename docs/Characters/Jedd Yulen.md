@@ -1,13 +1,13 @@
 ---
-name: Kit Apple
+name: Jedd Yulen
 aliases:
-  - Flex
+  - 
 tags:
   - player
 role: player
-playbook: Mechanic
+playbook: Muscle
 status: active
-pronouns: They/Them
+pronouns: He/Him
 share: "true"
 faction: "[[Characters/Rusty Nail/Rusty Nail]]"
 location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
@@ -15,23 +15,21 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> # Kit Apple
+> # Jedd Yulen
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### Kit Apple
+> ###### Jedd Yulen
 > Attribute |  value |
 > ---|---|
-> Alias | Flex
-> Pronouns | They/Them
+> Alias | 
+> Pronouns | He/Him
 > Faction | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]
 > Location | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]] |
 
-# Kit Apple
+# Jedd Yulen
 ## Profile
 
 ## Friends
-- [[Slice|Slice]] (a junkyard owner)
-- [[./Rocco Apple|Rocco Apple]] 
+- [[Kriegar|Kriegar]] (A fine blaster pistol)
 ## Enemies
-- [[Stev|Stev]] (A gambler of ill repute)
-
+- [[Yazu|Yazu]] (A crooked cop)
