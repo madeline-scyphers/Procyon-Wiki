@@ -1,11 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Criminal
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Rin/Warren|Warren]]"
+tier: "3"
 ---
 ## Tier
 
 3
+
+## Location
+
+[[../Procyon/Rin/Warren|Warren]]
 
 ## Nature
 
