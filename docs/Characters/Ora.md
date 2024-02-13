@@ -23,7 +23,6 @@ tags:
 
 
 > [!infobox]
-> # Ora
 > ![cover hsmall](../ImagePlaceholder.png)
 > [Show To Players](../ImagePlaceholder.png)
 > ###### Ora
