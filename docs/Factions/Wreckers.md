@@ -1,10 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Criminal
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Rin/index|Rin]]"
+tier: "1"
 ---
 ## Tier
+
 1
+
+## Location
+
+[[../Procyon/Rin/index|Rin]]
 
 ## Nature
 Scavengers, thieves, and hackers who incite [[./index|Factions]] to fight so that they may pick the battlefields clean later.
