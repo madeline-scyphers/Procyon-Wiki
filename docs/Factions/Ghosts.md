@@ -13,19 +13,19 @@ Scientists that live exo-suited in a half-phased state.
 
 ## Turf
 
-The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on [[../Procyon/Iota/Lithios|Lithios]].
+The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on [Lithios](../Procyon/Iota/Lithios.md).
 
 ## Notable NPCs
 
-- [[Nils Boyer|Nils Boyer]] (physicist, brilliant, remorseful).
-- [[Roy Stanz|Roy Stanz]] (biologist, bitter, driven).
-- [[Eegon Mark|Eegon Mark]] (engineer, genius, suit designer).
-- [[Pol Venker|Pol Venker]] (engineer, self-indulgent, cavalier).
+- [Nils Boyer](Nils%20Boyer.md) (physicist, brilliant, remorseful).
+- [Roy Stanz](Roy%20Stanz.md) (biologist, bitter, driven).
+- [Eegon Mark](Eegon%20Mark.md) (engineer, genius, suit designer).
+- [Pol Venker](Pol%20Venker.md) (engineer, self-indulgent, cavalier).
 
 
 ## Goals
 
-Hire Memish to make a bomb for the [[../Procyon/Holt/index|Holt]] gate.
+Hire Memish to make a bomb for the [Holt](../Procyon/Holt/index.md) gate.
 
 ## Notable Assets
 
@@ -39,16 +39,16 @@ Before the mishap, the Ghosts were scientists, all intelligent and educated. The
 
 ## Allies
 
-- [[./Ashtari Cult|Ashtari Cult]].
-- [[./Suneaters|Suneaters]].
+- [Ashtari Cult](./Ashtari%20Cult.md).
+- [Suneaters](./Suneaters.md).
 
 
 ## Enemies
 
-- [[./Church of Stellar Flame|Church of Stellar Flame]].
-- [[./Cult of the Seekers|Cult of the Seekers]].
+- [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md).
+- [Cult of the Seekers](./Cult%20of%20the%20Seekers.md).
 
 
 ## Situation
 
-A mishap with the [[../Procyon/Holt/index|Holt]] gate will restore them to their original forms.
+A mishap with the [Holt](../Procyon/Holt/index.md) gate will restore them to their original forms.
