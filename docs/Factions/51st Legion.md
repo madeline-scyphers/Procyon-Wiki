@@ -1,11 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Hegemony
+  - faction
 share: "true"
+location:
+  - "[[Procyon/Procyon|Procyon]]"
+tier: "3"
 ---
 ## Tier
 
 3
+
+## Location
+
+[[../Procyon/index|Procyon]]
 
 ## Nature
 
