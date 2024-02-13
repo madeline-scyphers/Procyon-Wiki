@@ -9,8 +9,8 @@ playbook: Stitch
 status: active
 pronouns: He/Him?
 share: "true"
-faction: "[[Characters/Rusty Nail/Rusty Nail]]"
-location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Rusty Nail]]"
 ---
 
 
@@ -23,8 +23,8 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 > ---|---|
 > Alias | Dr. Igno
 > Pronouns | He/Him?
-> Faction | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]
-> Location | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]] |
+> Faction | [[Rusty Nail|Rusty Nail]]
+> Location | [[Rusty Nail|Rusty Nail]] |
 
 # Leto Ramus
 ## Profile
