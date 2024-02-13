@@ -10,7 +10,7 @@ share: "true"
 A band of ferocious space pirates hiding among a mysterious nebula and around Baftoma.
 
 ## Turf
-The Nightbreaker (capital ship HQ), [The Cove](../Procyon/Rin/The%20Cove.md) (made of lashed-together ships), The Ashtari Cloud.
+The Nightbreaker (capital ship HQ), [[../Procyon/Rin/The Cove|The Cove]] (made of lashed-together ships), The Ashtari Cloud.
 
 ## Notable NPCs
 - Alanda “the Banshee” Ryle (Pirate Queen, beautiful, mirthful, risk-taker).
@@ -26,18 +26,18 @@ Seize control of a jumpgate.
 - A fleet of pirate ships.
 
 ## Quirks
-The pirates lash together old or damaged ships to make [The Cove](../Procyon/Rin/The%20Cove.md). [The Cove](../Procyon/Rin/The%20Cove.md) is the size of a planetoid rotating near the center of the Ashtari Cloud.
+The pirates lash together old or damaged ships to make [[../Procyon/Rin/The Cove|The Cove]]. [[../Procyon/Rin/The Cove|The Cove]] is the size of a planetoid rotating near the center of the Ashtari Cloud.
 
 ## Allies
-- [Ashen Knives](./Ashen%20Knives.md)
-- [Cobalt Syndicate](./Cobalt%20Syndicate.md)
-- [Nightspeakers](./Nightspeakers.md)
+- [[./Ashen Knives|Ashen Knives]]
+- [[./Cobalt Syndicate|Cobalt Syndicate]]
+- [[./Nightspeakers|Nightspeakers]]
 
 ## Enemies
-- [51st Legion](./51st%20Legion.md)
+- [[./51st Legion|51st Legion]]
 - Draxler’s Raiders
 - The Guilds
-- [House Malklaith](./House%20Malklaith.md)
+- [[./House Malklaith|House Malklaith]]
 
 ## Situation
-The Maelstrom raids shipping lanes and sells goods via the [Ashen Knives](./Ashen%20Knives.md). Alanda is scheming to find a way to jump systems with her entire crew by taking over a jumpgate, preferably without incurring full-scale Hegemonic retribution.
+The Maelstrom raids shipping lanes and sells goods via the [[./Ashen Knives|Ashen Knives]]. Alanda is scheming to find a way to jump systems with her entire crew by taking over a jumpgate, preferably without incurring full-scale Hegemonic retribution.
