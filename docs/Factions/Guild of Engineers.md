@@ -5,7 +5,7 @@ tags:
   - faction
 share: "true"
 location:
-  - "[[../Procyon/Rin/SB-176|SB-176]]"
+  - "[SB-176](../Procyon/Rin/SB-176.md)"
 tier: "5"
 ---
 ## Tier
@@ -14,7 +14,7 @@ tier: "5"
 
 ## Location
 
-[[../Procyon/Rin/SB-176|SB-176]]
+[SB-176](../Procyon/Rin/SB-176.md)
 
 ## Nature
 
@@ -22,14 +22,14 @@ One of the Hegemonic High Guilds responsible for resource acquisition, cyberneti
 
 ## Turf
 
-[[../Procyon/Rin/SB-176|SB-176]].
+[SB-176](../Procyon/Rin/SB-176.md).
 
 ## Notable NPCs
 
-- [[Avalon Riat|Avalon Riat]] (chief executive, cybernetic spider legs, megalomaniac).
-- [[Thiel Kharrat|Thiel Kharrat]] (operations head, brutal, connected, influential).
-- [[Oevers Star|Oevers Star]] (head researcher, genius, reclusive, overworked).
-- [[Yast Jor|Yast Jor]] (commanding, shrewd, bold).
+- [Avalon Riat](Avalon%20Riat.md) (chief executive, cybernetic spider legs, megalomaniac).
+- [Thiel Kharrat](Thiel%20Kharrat.md) (operations head, brutal, connected, influential).
+- [Oevers Star](Oevers%20Star.md) (head researcher, genius, reclusive, overworked).
+- [Yast Jor](Yast%20Jor.md) (commanding, shrewd, bold).
 
 
 ## Goals
@@ -48,18 +48,18 @@ Many high-ranking Guild members sport custom cybernetics.
 
 ## Allies
 
-- [[./51st Legion|51st Legion]].
-- [[./Isotropa Max Secure|Isotropa Max Secure]].
+- [51st Legion](./51st%20Legion.md).
+- [Isotropa Max Secure](./Isotropa%20Max%20Secure.md).
 
 
 ## Enemies
 
-- [[./Borniko Syndicate|Borniko Syndicate]].
-- [[./Cobalt Syndicate|Cobalt Syndicate]].
-- [[./Conclave 01|Conclave 01]].
-- [[./Counters Guild|Counters Guild]].
+- [Borniko Syndicate](./Borniko%20Syndicate.md).
+- [Cobalt Syndicate](./Cobalt%20Syndicate.md).
+- [Conclave 01](./Conclave%2001.md).
+- [Counters Guild](./Counters%20Guild.md).
 
 
 ## Situation
 
-Decadent and powerful, the Guild of Engineers is beyond the [[../Characters/Governor Ritam al’Malklaith|Governor]]'s ability to police. They are exploiting this remote sector to perform experiments banned by the Cults and the Hegemon. Their current project involves converting Way energy into a highly unstable but physical compound.
+Decadent and powerful, the Guild of Engineers is beyond the [Governor](../Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md)'s ability to police. They are exploiting this remote sector to perform experiments banned by the Cults and the Hegemon. Their current project involves converting Way energy into a highly unstable but physical compound.
