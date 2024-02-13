@@ -7,7 +7,7 @@ share: "true"
 1
 
 ## Nature
-Scavengers, thieves, and hackers who incite [[./index|Factions]] to fight so that they may pick the battlefields clean later.
+Scavengers, thieves, and hackers who incite [Factions](./index.md) to fight so that they may pick the battlefields clean later.
 
 ## Turf
 Makeshift base inside a derelict ship near Baftoma (HQ).
@@ -25,11 +25,11 @@ Makeshift base inside a derelict ship near Baftoma (HQ).
 Wreckers pick members from folks already fleeing from someone or hiding in Baftoma. They often trade air and water as a means of scoping folks out.
 
 ## Allies
-- [[./Borniko Syndicate|Borniko Syndicate]]
+- [Borniko Syndicate](./Borniko%20Syndicate.md)
 
 ## Enemies
 - Draxler’s Raiders
-- [[./Echo Wave Riders|Echo Wave Riders]]
+- [Echo Wave Riders](./Echo%20Wave%20Riders.md)
 
 ## Situation
-The crew has hit several targets in the system by sowing confusion between the [[../Procyon/Rin/index|Rin]] [[./index|Factions]], and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
+The crew has hit several targets in the system by sowing confusion between the [Rin](../Procyon/Rin/index.md) [Factions](./index.md), and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
