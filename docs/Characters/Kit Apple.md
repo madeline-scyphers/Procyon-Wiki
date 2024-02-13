@@ -16,8 +16,8 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 > [!infobox]
 > # Kit Apple
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![cover hsmall](../ImagePlaceholder.png)
+> [Show To Players](../ImagePlaceholder.png)
 > ###### Kit Apple
 > Attribute |  value |
 > ---|---|
@@ -30,8 +30,8 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 ## Profile
 
 ## Friends
-- [[Slice|Slice]] (a junkyard owner)
-- [[./Rocco Apple|Rocco Apple]] 
+- [Slice](Slice.md) (a junkyard owner)
+- [Rocco Apple](./Rocco%20Apple.md) 
 ## Enemies
-- [[Stev|Stev]] (A gambler of ill repute)
+- [Stev](Stev.md) (A gambler of ill repute)
 

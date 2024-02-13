@@ -16,8 +16,8 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 > [!infobox]
 > # Leto Ramus
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![cover hsmall](../ImagePlaceholder.png)
+> [Show To Players](../ImagePlaceholder.png)
 > ###### Leto Ramus
 > Attribute |  value |
 > ---|---|
@@ -30,6 +30,6 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 ## Profile
 
 ## Friends
-- [[Juda|Juda]] (A doctor)
+- [Juda](Juda.md) (A doctor)
 ## Enemies
-- [[Lynie|Lynie]] (A hospital admin)
+- [Lynie](Lynie.md) (A hospital admin)

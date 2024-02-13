@@ -10,7 +10,7 @@ share: "true"
 Formerly the Hegemon’s personal guard but rebelled when the current Hegemon rose to power. Now they work as guns for hire.
 
 ## Turf
-Ascension (dreadnought HQ). A host of berths in the [[../Procyon/Iota/index|Iota]] Shipyards staffed with loyalists.
+Ascension (dreadnought HQ). A host of berths in the [Iota](../Procyon/Iota/index.md) Shipyards staffed with loyalists.
 
 ## Notable NPCs
 - Commander Eterin (disciplined, veteran, inspiring).
@@ -32,11 +32,11 @@ All Legionnaires have been branded as traitors. Many bear the tattoo of a phoeni
 
 ## Allies
 - Draxler’s Raiders.
-- [[./Mendicants|Mendicants]].
-- [[./Yaru|Yaru]].
+- [Mendicants](./Mendicants.md).
+- [Yaru](./Yaru.md).
 
 ## Enemies
-Most Hegemony [[./index|Factions]].
+Most Hegemony [Factions](./index.md).
 
 ## Situation
-The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegemon ascended. They protect a young girl heir to the last Hegemon whom they hope to reinstate. They plan to capture the head of the [[./Church of Stellar Flame|Church of Stellar Flame]] and convince her to bless the girl 
+The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegemon ascended. They protect a young girl heir to the last Hegemon whom they hope to reinstate. They plan to capture the head of the [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) and convince her to bless the girl 

@@ -13,18 +13,18 @@ Once lean and battle ready, the Ashen Knives are a decadent Syndicate focused on
 
 ## Turf
 
-Drug dens, gambling houses, a hidden and reinforced bunker on [[../Procyon/Rin/Warren|Warren]].
+Drug dens, gambling houses, a hidden and reinforced bunker on [Warren](../Procyon/Rin/Warren.md).
 
 ## Notable NPCs
 
-- [[Pasha Qo’iin|Pasha Qo’iin]] (sly, corpulent, sartorial, decadent).
-- [[Knife Lirik|Knife Lirik]] (assassin, xeno, gambler, deadly, graceful).
-- [[../Characters/Ora|Ora]] (greedy, well armed, well connected, deals in information).
+- [Pasha Qo’iin](Pasha%20Qo%E2%80%99iin.md) (sly, corpulent, sartorial, decadent).
+- [Knife Lirik](Knife%20Lirik.md) (assassin, xeno, gambler, deadly, graceful).
+- [Ora](../Characters/Ora.md) (greedy, well armed, well connected, deals in information).
 
 
 ## Goals
 
-Control major planetary crimes in [[../Procyon/Rin/index|Rin]].
+Control major planetary crimes in [Rin](../Procyon/Rin/index.md).
 
 ## Notable Assets
 
@@ -40,15 +40,15 @@ To join the Syndicate, Knives must take a life. Being promoted requires doing un
 
 ## Allies
 
-- [[./The Maelstrom|The Maelstrom]].
+- [The Maelstrom](./The%20Maelstrom.md).
 
 
 ## Enemies
 
-- [[./Cobalt Syndicate|Cobalt Syndicate]].
-- [[./House Malklaith|House Malklaith]].
+- [Cobalt Syndicate](./Cobalt%20Syndicate.md).
+- [House Malklaith](./House%20Malklaith.md).
 
 
 ## Situation
 
-The Ashen Knives' power on [[../Procyon/Rin/Warren|Warren]] has filled the Knives’ coffers, and now their sights are set on expanding.
+The Ashen Knives' power on [Warren](../Procyon/Rin/Warren.md) has filled the Knives’ coffers, and now their sights are set on expanding.
