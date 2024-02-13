@@ -14,7 +14,6 @@ location: "[Rusty Nail](Rusty%2520Nail.md#)"
 
 
 > [!infobox]
-> # Jedd Yulen
 > ![cover hsmall](../ImagePlaceholder.png)
 > [Show To Players](../ImagePlaceholder.png)
 > ###### Jedd Yulen
