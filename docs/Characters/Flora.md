@@ -16,8 +16,8 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 > [!infobox]
 > # Flora
-> ![cover hsmall](../ImagePlaceholder.png)
-> [Show To Players](../ImagePlaceholder.png)
+> ![[../ImagePlaceholder.png|cover hsmall]]
+> [[../ImagePlaceholder.png|Show To Players]]
 > ###### Flora
 > Attribute |  value |
 > ---|---|
@@ -30,6 +30,6 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 ## Profile
 
 ## Friends
-- [Triv](Triv.md) (a ship mechanic)
+- [[Triv|Triv]] (a ship mechanic)
 ## Enemies
-- [Yattu](Yattu.md) (a gang boss)
+- [[Yattu|Yattu]] (a gang boss)
