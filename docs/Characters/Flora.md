@@ -15,7 +15,6 @@ location: "[Rusty Nail](Rusty%2520Nail.md#)"
 
 
 > [!infobox]
-> # Flora
 > ![cover hsmall](../ImagePlaceholder.png)
 > [Show To Players](../ImagePlaceholder.png)
 > ###### Flora
