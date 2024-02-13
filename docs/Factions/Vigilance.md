@@ -10,7 +10,7 @@ share: "true"
 Warrior mystics that seek to enforce an ancient code of justice on those they find wanting.
 
 ## Turf
-The First Temple on [[../Procyon/Brekk/Aketi|Aketi]] (HQ).
+The First Temple on [Aketi](../Procyon/Brekk/Aketi.md) (HQ).
 
 ## Notable NPCs
 - Quai-Rosh (elder, mystic, judgmental).
@@ -27,13 +27,13 @@ The First Temple on [[../Procyon/Brekk/Aketi|Aketi]] (HQ).
 Each member is trained by one elder mentor. Becoming a Vigilance member means receiving an artifact blade as a mark of your progress.
 
 ## Allies
-- [[./Concordiat Knights|Concordiat Knights]]
+- [Concordiat Knights](./Concordiat%20Knights.md)
 
 ## Enemies
 - Draxler’s Raiders
-- [[./Janus Syndicate|Janus Syndicate]]
-- [[./Nightspeakers|Nightspeakers]]
-- [[./Turner Society|Turner Society]]
+- [Janus Syndicate](./Janus%20Syndicate.md)
+- [Nightspeakers](./Nightspeakers.md)
+- [Turner Society](./Turner%20Society.md)
 
 ## Situation
-Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [[../Procyon/index|Procyon]]. They have judged the gunrunners and drug makers of [[../Procyon/Brekk/Aketi|Aketi]] unworthy.
+Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [Procyon](../Procyon/index.md). They have judged the gunrunners and drug makers of [Aketi](../Procyon/Brekk/Aketi.md) unworthy.
