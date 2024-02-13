@@ -25,18 +25,18 @@ aliases:
 
 
 > [!infobox]
-> # 
+> # Rocco Apple
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### 
+> ###### Rocco Apple
 > Attribute |  value |
 > ---|---|
-> Pronouns | 
-> Faction | 
-> Location |  |
+> Pronouns | They/Them
+> Faction | [[../Factions/House Malklaith|House Malklaith]]
+> Location | [[../Procyon/Rin/Warren|Warren]] |
 
 
-# 
+# Rocco Apple
 ## Profile
 Works as one of the preeminent ship designers and builders in the system. Works under [[../Factions/House Malklaith|House Malklaith]].
 ## Friends
