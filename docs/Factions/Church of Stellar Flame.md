@@ -1,11 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Hegemony
+  - faction
 share: "true"
+location:
+  - "[[Procyon/Rin/Rin|Rin]]"
+tier: "4"
 ---
 ## Tier
 
 4
+
+## Location
+
+[[../Procyon/Rin/index|Rin]]
 
 ## Nature
 
