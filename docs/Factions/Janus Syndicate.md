@@ -1,10 +1,21 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Criminal
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Holt/Sonhandra|Sonhandra]]"
+  - "[[../Procyon/Brekk/Aketi|Aketi]]"
+tier: "2"
 ---
 ## Tier
+
 2
+
+## Location
+
+[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Brekk/Aketi|Aketi]]
 
 ## Nature
 Weapons dealers specializing in ship weapons, headed up by the ruthless Viktor Bax.
