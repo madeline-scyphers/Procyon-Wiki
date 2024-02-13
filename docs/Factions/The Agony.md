@@ -1,11 +1,21 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Weird
+  - faction
 share: "true"
+location:
+  - "[[Procyon/Holt/Holt|Holt]]"
+  - "[[../Procyon/Holt/Mem|Mem]]"
+tier: "3"
 ---
 ## Tier
 
 3
+
+## Location
+
+[[../Procyon/Holt/index|Holt]],[[../Procyon/Holt/Mem|Mem]]
 
 ## Nature
 
