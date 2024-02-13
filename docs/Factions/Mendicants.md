@@ -5,7 +5,7 @@ tags:
   - faction
 share: "true"
 location:
-  - "[[../Procyon/Iota/Amerath|Amerath]]"
+  - "[Amerath](../Procyon/Iota/Amerath.md)"
 tier: "2"
 ---
 ## Tier
@@ -14,13 +14,13 @@ tier: "2"
 
 ## Location
 
-[[../Procyon/Iota/Amerath|Amerath]]
+[Amerath](../Procyon/Iota/Amerath.md)
 
 ## Nature
 Originally the Church of the Emerald Heart, they were politically destroyed and now wander the stars as traveling healers.
 
 ## Turf
-The Temple on [[../Procyon/Iota/Amerath|Amerath]] (HQ).
+The Temple on [Amerath](../Procyon/Iota/Amerath.md) (HQ).
 
 ## Notable NPCs
 - Ammon (physician, compassionate, changed).
@@ -39,13 +39,13 @@ Find new Emerald Hearts.
 Mendicant physicians implant themselves with Ur artifacts (Emerald Hearts) which change them but also let them heal others.
 
 ## Allies
-- [[./Concordiat Knights|Concordiat Knights]]
-- [[./Lost Legion|Lost Legion]]
-- [[./The Maelstrom|The Maelstrom]]
+- [Concordiat Knights](./Concordiat%20Knights.md)
+- [Lost Legion](./Lost%20Legion.md)
+- [The Maelstrom](./The%20Maelstrom.md)
 
 ## Enemies
 - [Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)
-- [[./Hegemonic News Network|Hegemonic News Network]]
+- [Hegemonic News Network](./Hegemonic%20News%20Network.md)
 
 ## Situation
-An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed them an abomination. In the last Hegemonic Ascension, the Church traded battle might for the right to wipe out most of the Mendicants. Many Emerald Hearts were lost; the Mendicants now seek a cache of them rumored to be hidden deep beneath the ruined ancient temples of [[../Procyon/Iota/Amerath|Amerath]].
+An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed them an abomination. In the last Hegemonic Ascension, the Church traded battle might for the right to wipe out most of the Mendicants. Many Emerald Hearts were lost; the Mendicants now seek a cache of them rumored to be hidden deep beneath the ruined ancient temples of [Amerath](../Procyon/Iota/Amerath.md).
