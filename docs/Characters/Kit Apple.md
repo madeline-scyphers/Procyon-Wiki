@@ -9,8 +9,8 @@ playbook: Mechanic
 status: active
 pronouns: They/Them
 share: "true"
-faction: "[[Characters/Rusty Nail/Rusty Nail]]"
-location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 ---
 
 
@@ -23,8 +23,8 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 > ---|---|
 > Alias | Flex
 > Pronouns | They/Them
-> Faction | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]
-> Location | [[Characters/Rusty Nail/Rusty Nail|Rusty Nail]] |
+> Faction | [[Rusty Nail|Rusty Nail]]
+> Location | [[Rusty Nail|Rusty Nail]] |
 
 # Kit Apple
 ## Profile
