@@ -5,7 +5,7 @@ tags:
   - faction
 share: "true"
 location:
-  - "[[Procyon/Rin/Rin|Rin]]"
+  - "[Rin](../Procyon/Rin/index.md#)"
 tier: "4"
 ---
 ## Tier
@@ -14,7 +14,7 @@ tier: "4"
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]]
+[Rin](../Procyon/Rin/index.md.md#)
 
 ## Nature
 
@@ -26,9 +26,9 @@ The Way of Light, a battle cruiser orbiting incredibly close to a star (HQ).
 
 ## Notable NPCs
 
-- [[Alaana|Alaana]] (Noble, high priestess, mystic, driven, ex-heretic).
-- [[Battle Sister Diana|Battle Sister Diana]] (battle-scarred, exo-suited, unstoppable).
-- [[Iraam the Kind|Iraam the Kind]] (inquisitor, plain, quiet, cruel).
+- [Alaana](Alaana.md) (Noble, high priestess, mystic, driven, ex-heretic).
+- [Battle Sister Diana](Battle%20Sister%20Diana.md) (battle-scarred, exo-suited, unstoppable).
+- [Iraam the Kind](Iraam%20the%20Kind.md) (inquisitor, plain, quiet, cruel).
 
 
 ## Goals
@@ -47,15 +47,15 @@ Each member is branded with a mark of the Church, known as the Kiss of Light. Fa
 
 ## Allies
 
-- [[./Dyrinek Gang|Dyrinek Gang]].
-- [[./The Maelstrom|The Maelstrom]].
+- [Dyrinek Gang](./Dyrinek%20Gang.md).
+- [The Maelstrom](./The%20Maelstrom.md).
 
 
 ## Enemies
 
-- [[./Guild of Engineers|Guild of Engineers]].
-- [[./Starsmiths Guild|Starsmiths Guild]].
-- [[./Yaru|Yaru]].
+- [Guild of Engineers](./Guild%20of%20Engineers.md).
+- [Starsmiths Guild](./Starsmiths%20Guild.md).
+- [Yaru](./Yaru.md).
 
 
 ## Situation
