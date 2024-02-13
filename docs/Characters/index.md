@@ -7,38 +7,38 @@ title: Characters
 
 | File                                                                       | Tags                     | Alias                                                                            | Pronouns            | Faction                                          |
 | -------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------ |
-| [Flora](./Flora.md)                                             | <ul><li>player</li></ul> | <ul><li>Sunflower</li></ul>                                                      | She/Her             | [Rusty Nail](Characters/Rusty%20Nail/Rusty%20Nail.md) |
-| [Governor Ritam al’Malklaith](./Governor%20Ritam%20al%E2%80%99Malklaith.md) | <ul><li>npc</li></ul>    | <ul><li>Governor</li><li>Governor Malklaith</li><li>Ritam Al'Malklaith</li></ul> | He/Him              | [House Malklaith](../Factions/House%20Malklaith.md) |
-| [Gruff](./Gruff.md)                                             | <ul><li>npc</li></ul>    | \-                                                                               | He/Him              | [51st Legion](../Factions/51st%20Legion.md)         |
-| [Jedd Yulen](./Jedd%20Yulen.md)                                   | <ul><li>player</li></ul> | <ul><li>\-</li></ul>                                                             | He/Him              | [Rusty Nail](Characters/Rusty%20Nail/Rusty%20Nail.md) |
-| [Kit Apple](./Kit%20Apple.md)                                     | <ul><li>player</li></ul> | <ul><li>Flex</li></ul>                                                           | They/Them           | [Rusty Nail](Characters/Rusty%20Nail/Rusty%20Nail.md) |
-| [Leto Ramus](./Leto%20Ramus.md)                                   | <ul><li>player</li></ul> | <ul><li>Dr. Igno</li></ul>                                                       | He/Him?             | [Rusty Nail](Characters/Rusty%20Nail/Rusty%20Nail.md) |
-| [Mordin Ulmak](./Mordin%20Ulmak.md)                               | <ul><li>player</li></ul> | <ul><li>Vapor</li></ul>                                                          | Any, Sure, Whatever | [Rusty Nail](Characters/Rusty%20Nail/Rusty%20Nail.md) |
-| [Ora](./Ora.md)                                                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them           | [Ashen Knives](../Factions/Ashen%20Knives.md)       |
-| [Rocco Apple](./Rocco%20Apple.md)                                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them           | [House Malklaith](../Factions/House%20Malklaith.md) |
+| [[./Flora\|Flora]]                                             | <ul><li>player</li></ul> | <ul><li>Sunflower</li></ul>                                                      | She/Her             | [[Characters/Rusty Nail/Rusty Nail\|Rusty Nail]] |
+| [[./Governor Ritam al’Malklaith\|Governor Ritam al’Malklaith]] | <ul><li>npc</li></ul>    | <ul><li>Governor</li><li>Governor Malklaith</li><li>Ritam Al'Malklaith</li></ul> | He/Him              | [[../Factions/House Malklaith\|House Malklaith]] |
+| [[./Gruff\|Gruff]]                                             | <ul><li>npc</li></ul>    | \-                                                                               | He/Him              | [[../Factions/51st Legion\|51st Legion]]         |
+| [[./Jedd Yulen\|Jedd Yulen]]                                   | <ul><li>player</li></ul> | <ul><li>\-</li></ul>                                                             | He/Him              | [[Characters/Rusty Nail/Rusty Nail\|Rusty Nail]] |
+| [[./Kit Apple\|Kit Apple]]                                     | <ul><li>player</li></ul> | <ul><li>Flex</li></ul>                                                           | They/Them           | [[Characters/Rusty Nail/Rusty Nail\|Rusty Nail]] |
+| [[./Leto Ramus\|Leto Ramus]]                                   | <ul><li>player</li></ul> | <ul><li>Dr. Igno</li></ul>                                                       | He/Him?             | [[Characters/Rusty Nail/Rusty Nail\|Rusty Nail]] |
+| [[./Mordin Ulmak\|Mordin Ulmak]]                               | <ul><li>player</li></ul> | <ul><li>Vapor</li></ul>                                                          | Any, Sure, Whatever | [[Characters/Rusty Nail/Rusty Nail\|Rusty Nail]] |
+| [[./Ora\|Ora]]                                                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them           | [[../Factions/Ashen Knives\|Ashen Knives]]       |
+| [[./Rocco Apple\|Rocco Apple]]                                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them           | [[../Factions/House Malklaith\|House Malklaith]] |
 
 
 ## Friends of Characters
 
 | File                                                 | Tags                     | Friends                                                                                                                                                                                          |
 | ---------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Flora](Characters/Flora.md.md#Friends)               | <ul><li>player</li></ul> | <ul><li>[Triv](Triv.md) (a ship mechanic)</li></ul>                                                                                                                                                     |
-| [Jedd Yulen](Characters/Jedd%20Yulen.md.md#Friends)     | <ul><li>player</li></ul> | <ul><li>[Kriegar](Kriegar.md) (A fine blaster pistol)</li></ul>                                                                                                                                            |
-| [Kit Apple](Characters/Kit%20Apple.md.md#Friends)       | <ul><li>player</li></ul> | <ul><li>[Slice](Slice.md) (a junkyard owner)</li><li>[Rocco Apple](Characters/Rocco%20Apple.md)</li></ul>                                                                                                  |
-| [Leto Ramus](Characters/Leto%20Ramus.md.md#Friends)     | <ul><li>player</li></ul> | <ul><li>[Juda](Juda.md) (A doctor)</li></ul>                                                                                                                                                            |
-| [Mordin Ulmak](Characters/Mordin%20Ulmak.md.md#Friends) | <ul><li>player</li></ul> | <ul><li>[Ora](Ora.md) (An info broker)</li></ul>                                                                                                                                                       |
-| [Ora](Characters/Ora.md.md#Friends)                   | <ul><li>npc</li></ul>    | <ul><li></li></ul>                                                                                                                                                                               |
-| [Rocco Apple](Characters/Rocco%20Apple.md.md#Friends)   | <ul><li>npc</li></ul>    | <ul><li>[Kit Apple](Characters/Kit%20Apple.md) ([Kit Apple](Characters/Kit%20Apple.md)'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them)</li></ul> |
+| [[Characters/Flora.md#Friends\|Flora]]               | <ul><li>player</li></ul> | <ul><li>[[Triv|Triv]] (a ship mechanic)</li></ul>                                                                                                                                                     |
+| [[Characters/Jedd Yulen.md#Friends\|Jedd Yulen]]     | <ul><li>player</li></ul> | <ul><li>[[Kriegar|Kriegar]] (A fine blaster pistol)</li></ul>                                                                                                                                            |
+| [[Characters/Kit Apple.md#Friends\|Kit Apple]]       | <ul><li>player</li></ul> | <ul><li>[[Slice|Slice]] (a junkyard owner)</li><li>[[Characters/Rocco Apple\|Rocco Apple]]</li></ul>                                                                                                  |
+| [[Characters/Leto Ramus.md#Friends\|Leto Ramus]]     | <ul><li>player</li></ul> | <ul><li>[[Juda|Juda]] (A doctor)</li></ul>                                                                                                                                                            |
+| [[Characters/Mordin Ulmak.md#Friends\|Mordin Ulmak]] | <ul><li>player</li></ul> | <ul><li>[[Ora|Ora]] (An info broker)</li></ul>                                                                                                                                                       |
+| [[Characters/Ora.md#Friends\|Ora]]                   | <ul><li>npc</li></ul>    | <ul><li></li></ul>                                                                                                                                                                               |
+| [[Characters/Rocco Apple.md#Friends\|Rocco Apple]]   | <ul><li>npc</li></ul>    | <ul><li>[[Characters/Kit Apple\|Kit Apple]] ([[Characters/Kit Apple|Characters/Kit Apple]]'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them)</li></ul> |
 
 
 ## Enemies of Characters
 
 | File                                                 | Tags                     | Enemies                                              |
 | ---------------------------------------------------- | ------------------------ | ---------------------------------------------------- |
-| [Flora](Characters/Flora.md.md#Enemies)               | <ul><li>player</li></ul> | <ul><li>[Yattu](Yattu.md) (a gang boss)</li></ul>            |
-| [Jedd Yulen](Characters/Jedd%20Yulen.md.md#Enemies)     | <ul><li>player</li></ul> | <ul><li>[Yazu](Yazu.md) (A crooked cop)</li></ul>           |
-| [Kit Apple](Characters/Kit%20Apple.md.md#Enemies)       | <ul><li>player</li></ul> | <ul><li>[Stev](Stev.md) (A gambler of ill repute)</li></ul> |
-| [Leto Ramus](Characters/Leto%20Ramus.md.md#Enemies)     | <ul><li>player</li></ul> | <ul><li>[Lynie](Lynie.md) (A hospital admin)</li></ul>       |
-| [Mordin Ulmak](Characters/Mordin%20Ulmak.md.md#Enemies) | <ul><li>player</li></ul> | <ul><li>[Nyx](Nyx.md) (A moneylender)</li></ul>            |
-| [Ora](Characters/Ora.md.md#Enemies)                   | <ul><li>npc</li></ul>    | <ul><li></li></ul>                                   |
+| [[Characters/Flora.md#Enemies\|Flora]]               | <ul><li>player</li></ul> | <ul><li>[[Yattu|Yattu]] (a gang boss)</li></ul>            |
+| [[Characters/Jedd Yulen.md#Enemies\|Jedd Yulen]]     | <ul><li>player</li></ul> | <ul><li>[[Yazu|Yazu]] (A crooked cop)</li></ul>           |
+| [[Characters/Kit Apple.md#Enemies\|Kit Apple]]       | <ul><li>player</li></ul> | <ul><li>[[Stev|Stev]] (A gambler of ill repute)</li></ul> |
+| [[Characters/Leto Ramus.md#Enemies\|Leto Ramus]]     | <ul><li>player</li></ul> | <ul><li>[[Lynie|Lynie]] (A hospital admin)</li></ul>       |
+| [[Characters/Mordin Ulmak.md#Enemies\|Mordin Ulmak]] | <ul><li>player</li></ul> | <ul><li>[[Nyx|Nyx]] (A moneylender)</li></ul>            |
+| [[Characters/Ora.md#Enemies\|Ora]]                   | <ul><li>npc</li></ul>    | <ul><li></li></ul>                                   |
 
