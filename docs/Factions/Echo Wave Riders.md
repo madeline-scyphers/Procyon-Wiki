@@ -1,11 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Criminal
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Brekk/Nightfall|Nightfall]]"
+tier: "2"
 ---
 ## Tier
 
 2
+
+## Location
+
+[[../Procyon/Brekk/Nightfall|Nightfall]]
 
 ## Nature
 
