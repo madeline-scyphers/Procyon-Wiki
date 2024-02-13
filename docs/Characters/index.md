@@ -13,33 +13,17 @@ test3
 akdjgf
 
 
-| File                                                      | Tags                     | Alias                                                                            | Pronouns  | Faction                                                                         |
-| --------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------- |
-| [[index\|Flora]]                       | <ul><li>player</li></ul> | <ul><li>Sunflower</li></ul>                                                      | She/Her   | [[Rusty Nail\|Rusty Nail]]                                          |
-| [[index\|Governor Ritam al’Malklaith]] | <ul><li>npc</li></ul>    | <ul><li>Governor</li><li>Governor Malklaith</li><li>Ritam Al'Malklaith</li></ul> | He/Him    | <ul><li><ul><li>Factions/House Malklaith\\\|House Malklaith</li></ul></li></ul> |
-| [[index\|Gruff]]                       | <ul><li>npc</li></ul>    | \-                                                                               | He/Him    | [[../Factions/51st Legion\|51st Legion]]                                        |
-| [[index\|Jedd Yulen]]                  | <ul><li>player</li></ul> | \-                                                                               | He/Him    | [[Rusty Nail\|Rusty Nail]]                                          |
-| [[index\|Kit Apple]]                   | <ul><li>player</li></ul> | <ul><li>Flex</li></ul>                                                           | They/Them | [[Rusty Nail\|Rusty Nail]]                                          |
-| [[index\|Leto Ramus]]                  | <ul><li>player</li></ul> | <ul><li>Dr. Igno</li></ul>                                                       | He/Him?   | [[Rusty Nail\|Rusty Nail]]                                          |
-| [[index\|Mordin Ulmak]]                | \-                       | \-                                                                               | \-        | \-                                                                              |
-| [[index\|Ora]]                         | <ul><li>npc</li></ul>    | \-                                                                               | They/Them | <ul><li><ul><li>Factions/Ashen Knives\\\|Ashen Knives</li></ul></li></ul>       |
-| [[index\|Rocco Apple]]                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them | <ul><li><ul><li>Factions/House Malklaith\\\|House Malklaith</li></ul></li></ul> |
-
-
-
-
-| File                                                                       | File                                                      | Tags                     | Alias                                                                            | Pronouns  | Faction                                                                         |
-| -------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------- |
-| [[./Flora\|Flora]]                                             | [[index\|Flora]]                       | <ul><li>player</li></ul> | <ul><li>Sunflower</li></ul>                                                      | She/Her   | [[Rusty Nail\|Rusty Nail]]                                          |
-| [[./Governor Ritam al’Malklaith\|Governor Ritam al’Malklaith]] | [[index\|Governor Ritam al’Malklaith]] | <ul><li>npc</li></ul>    | <ul><li>Governor</li><li>Governor Malklaith</li><li>Ritam Al'Malklaith</li></ul> | He/Him    | <ul><li><ul><li>Factions/House Malklaith\\\|House Malklaith</li></ul></li></ul> |
-| [[./Gruff\|Gruff]]                                             | [[index\|Gruff]]                       | <ul><li>npc</li></ul>    | \-                                                                               | He/Him    | [[../Factions/51st Legion\|51st Legion]]                                        |
-| [[./Jedd Yulen\|Jedd Yulen]]                                   | [[index\|Jedd Yulen]]                  | <ul><li>player</li></ul> | \-                                                                               | He/Him    | [[Rusty Nail\|Rusty Nail]]                                          |
-| [[./Kit Apple\|Kit Apple]]                                     | [[index\|Kit Apple]]                   | <ul><li>player</li></ul> | <ul><li>Flex</li></ul>                                                           | They/Them | [[Rusty Nail\|Rusty Nail]]                                          |
-| [[./Leto Ramus\|Leto Ramus]]                                   | [[index\|Leto Ramus]]                  | <ul><li>player</li></ul> | <ul><li>Dr. Igno</li></ul>                                                       | He/Him?   | [[Rusty Nail\|Rusty Nail]]                                          |
-| [[Mordin Ulmak\|Mordin Ulmak]]                               | [[index\|Mordin Ulmak]]                | \-                       | \-                                                                               | \-        | \-                                                                              |
-| [[./Ora\|Ora]]                                                 | [[index\|Ora]]                         | <ul><li>npc</li></ul>    | \-                                                                               | They/Them | <ul><li><ul><li>Factions/Ashen Knives\\\|Ashen Knives</li></ul></li></ul>       |
-| [[./Rocco Apple\|Rocco Apple]]                                 | [[index\|Rocco Apple]]                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them | <ul><li><ul><li>Factions/House Malklaith\\\|House Malklaith</li></ul></li></ul> |
-
+| File                        | Tags                     | Alias                                                                            | Pronouns  | Faction                                          |
+| --------------------------- | ------------------------ | -------------------------------------------------------------------------------- | --------- | ------------------------------------------------ |
+| Flora                       | <ul><li>player</li></ul> | <ul><li>Sunflower</li></ul>                                                      | She/Her   | [[Rusty Nail\|Rusty Nail]]           |
+| Governor Ritam al’Malklaith | <ul><li>npc</li></ul>    | <ul><li>Governor</li><li>Governor Malklaith</li><li>Ritam Al'Malklaith</li></ul> | He/Him    | [[../Factions/House Malklaith\|House Malklaith]] |
+| Gruff                       | <ul><li>npc</li></ul>    | \-                                                                               | He/Him    | [[../Factions/51st Legion\|51st Legion]]         |
+| Jedd Yulen                  | <ul><li>player</li></ul> | \-                                                                               | He/Him    | [[Rusty Nail\|Rusty Nail]]           |
+| Kit Apple                   | <ul><li>player</li></ul> | <ul><li>Flex</li></ul>                                                           | They/Them | [[Rusty Nail\|Rusty Nail]]           |
+| Leto Ramus                  | <ul><li>player</li></ul> | <ul><li>Dr. Igno</li></ul>                                                       | He/Him?   | [[Rusty Nail\|Rusty Nail]]           |
+| Mordin Ulmak                | \-                       | \-                                                                               | \-        | \-                                               |
+| Ora                         | <ul><li>npc</li></ul>    | \-                                                                               | They/Them | [[../Factions/Ashen Knives\|Ashen Knives]]       |
+| Rocco Apple                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them | [[../Factions/House Malklaith\|House Malklaith]] |
 
 
 
