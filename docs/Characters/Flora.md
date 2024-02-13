@@ -15,18 +15,18 @@ location: "[[Rusty Nail]]"
 
 
 > [!infobox]
-> # Flora
+> # 
 > ![[../ImagePlaceholder.png|cover hsmall]]
 > [[../ImagePlaceholder.png|Show To Players]]
-> ###### Flora
+> ###### 
 > Attribute |  value |
 > ---|---|
-> Alias | Sunflower
-> Pronouns | She/Her
-> Faction | [[Rusty Nail|Rusty Nail]]
-> Location | [[Rusty Nail|Rusty Nail]] |
+> Alias | 
+> Pronouns | 
+> Faction | 
+> Location |  |
 
-# Flora
+# 
 ## Profile
 
 ## Friends
