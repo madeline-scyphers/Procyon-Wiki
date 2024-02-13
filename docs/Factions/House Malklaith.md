@@ -13,13 +13,13 @@ Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the H
 
 ## Turf
 
-Malklaith owns the sector but the [Governor](../Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) rarely leaves [Warren](../Procyon/Rin/Warren.md). His people can be found in major positions in every system of the sector.
+Malklaith owns the sector but the [[../Characters/Governor Ritam al’Malklaith|Governor]] rarely leaves [[../Procyon/Rin/Warren|Warren]]. His people can be found in major positions in every system of the sector.
 
 ## Notable NPCs
 
-- [Governor Ritam al’Malklaith](../Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) (Noble, intense, obsessed, well-spoken).
-- [Jerrem](Jerrem.md) (guard captain, tactical, scarred, loyal).
-- [Shim](Shim.md) (judge, corrupt, greedy, ambitious).
+- [[../Characters/Governor Ritam al’Malklaith|Governor Ritam al’Malklaith]] (Noble, intense, obsessed, well-spoken).
+- [[Jerrem|Jerrem]] (guard captain, tactical, scarred, loyal).
+- [[Shim|Shim]] (judge, corrupt, greedy, ambitious).
 
 
 ## Goals
@@ -28,29 +28,29 @@ Acquire the Aleph key.
 
 ## Notable Assets
 
-- [Procyon](../Procyon/index.md) sector taxes generating vast coffers.
+- [[../Procyon/index|Procyon]] sector taxes generating vast coffers.
 - A growing collection of Precursor artifacts.
 
 
 ## Quirks
 
-[Governor Malklaith](../Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) wears a number of strange rings of Precursor origin, the powers of which are not fully known even to him.
+[[../Characters/Governor Ritam al’Malklaith|Governor Malklaith]] wears a number of strange rings of Precursor origin, the powers of which are not fully known even to him.
 
 ## Allies
 
-- [51st Legion](./51st%20Legion.md).
-- [Nightspeakers](./Nightspeakers.md).
-- [Turner Society](./Turner%20Society.md).
+- [[./51st Legion|51st Legion]].
+- [[./Nightspeakers|Nightspeakers]].
+- [[./Turner Society|Turner Society]].
 
 
 ## Enemies
 
-- [The Agony](./The%20Agony.md).
-- [Ashen Knives](./Ashen%20Knives.md).
-- [Lost Legion](./Lost%20Legion.md).
-- [The Maelstrom](./The%20Maelstrom.md).
+- [[./The Agony|The Agony]].
+- [[./Ashen Knives|Ashen Knives]].
+- [[./Lost Legion|Lost Legion]].
+- [[./The Maelstrom|The Maelstrom]].
 
 
 ## Situation
 
-Disgraced after a famous duel, [Governor Malklaith](../Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
+Disgraced after a famous duel, [[../Characters/Governor Ritam al’Malklaith|Governor Malklaith]] is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
