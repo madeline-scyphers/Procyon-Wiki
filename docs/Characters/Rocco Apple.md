@@ -1,8 +1,10 @@
 ---
 name: Rocco Apple
-faction: "[[House Malklaith]]"
+faction:
+  - - Factions/House Malklaith|House Malklaith
 pronouns: They/Them
-location: "[[Warren]]"
+location:
+  - - Procyon/Rin/Warren|Warren
 role: npc
 status: active
 share: "true"
@@ -12,9 +14,9 @@ aliases:
 ---
 ---
 name: Rocco Apple
-faction: "[[House Malklaith]]"
+faction: [[../Factions/House Malklaith|House Malklaith]]
 pronouns: They/Them
-location: "[[Warren]]"
+location: [[Procyon/Rin/Warren|Warren]]
 role: npc
 status: active
 share: "true"
@@ -32,8 +34,8 @@ aliases:
 > Attribute |  value |
 > ---|---|
 > Pronouns | They/Them
-> Faction | [[../Factions/House Malklaith|House Malklaith]]
-> Location | [[../Procyon/Rin/Warren|Warren]] |
+> Faction | Factions/House Malklaith|House Malklaith
+> Location | Procyon/Rin/Warren|Warren |
 
 
 # Rocco Apple

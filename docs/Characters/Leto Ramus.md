@@ -10,7 +10,7 @@ status: active
 pronouns: He/Him?
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: "[[Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 ---
 
 
