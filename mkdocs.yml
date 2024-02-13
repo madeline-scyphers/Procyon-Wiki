@@ -136,7 +136,7 @@ extra:
   comments: true
   generate_graph: false
   attachments: 'assets/img/' #folder where to store attachments
-  no-auto-h1: true
+  no-auto-h1: false
   blog_list:
     pagination: false
     pagination_message: false
