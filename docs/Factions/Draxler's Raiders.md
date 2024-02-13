@@ -5,7 +5,7 @@ tags:
   - faction
 share: "true"
 location:
-  - "[[../Procyon/Iota/index|Iota]]"
+  - "[Iota](../Procyon/Iota/index.md)"
 tier: "3"
 ---
 ## Tier
@@ -14,7 +14,7 @@ tier: "3"
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]]
+[Iota](../Procyon/Iota/index.md)
 
 ## Nature
 
@@ -22,13 +22,13 @@ Violent pirates who disable ships before boarding, ransoming crew and cargo alik
 
 ## Turf
 
-Abandoned mining station in an [[../Procyon/Iota/index|Iota]] asteroid belt (HQ).
+Abandoned mining station in an [Iota](../Procyon/Iota/index.md) asteroid belt (HQ).
 
 ## Notable NPCs
 
-- [[Draxler|Draxler]] (leader, killer, vengeful).
-- [[Wudu|Wudu]] “Starhawk” (captain, loyal, vicious, wary).
-- [[Samara Red|Samara “She Wolf” Red]] (captain, enforcer, cold, physical).
+- [Draxler](Draxler.md) (leader, killer, vengeful).
+- [Wudu](Wudu.md) “Starhawk” (captain, loyal, vicious, wary).
+- [Samara “She Wolf” Red](Samara%20Red.md) (captain, enforcer, cold, physical).
 
 
 ## Goals
@@ -51,16 +51,16 @@ Almost all members of Draxler’s Raiders are wanted for crimes.
 
 ## Allies
 
-- [[./Janus Syndicate|Janus Syndicate]].
-- [[./Lost Legion|Lost Legion]].
+- [Janus Syndicate](./Janus%20Syndicate.md).
+- [Lost Legion](./Lost%20Legion.md).
 
 
 ## Enemies
 
-- [[./51st Legion|51st Legion]].
-- [[./Isotropa Max Secure|Isotropa Max Secure]].
-- [[./The Maelstrom|The Maelstrom]].
-- [[./Vigilance|Vigilance]].
+- [51st Legion](./51st%20Legion.md).
+- [Isotropa Max Secure](./Isotropa%20Max%20Secure.md).
+- [The Maelstrom](./The%20Maelstrom.md).
+- [Vigilance](./Vigilance.md).
 
 
 ## Situation

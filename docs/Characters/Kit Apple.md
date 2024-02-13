@@ -9,29 +9,29 @@ playbook: Mechanic
 status: active
 pronouns: They/Them
 share: "true"
-faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: "[[Factions/Rusty Nail|Rusty Nail]]"
+faction: "[Rusty Nail](Rusty%2520Nail.md#)"
+location: "[Rusty Nail](Rusty%2520Nail.md#)"
 ---
 
 
 > [!infobox]
 > # Kit Apple
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![cover hsmall](../ImagePlaceholder.png)
+> [Show To Players](../ImagePlaceholder.png)
 > ###### Kit Apple
 > Attribute |  value |
 > ---|---|
 > Alias | Flex
 > Pronouns | They/Them
-> Faction | [[Rusty Nail|Rusty Nail]]
-> Location | [[Rusty Nail|Rusty Nail]] |
+> Faction | [Rusty Nail](Rusty%2520Nail.md.md#.md#)
+> Location | [Rusty Nail](Rusty%2520Nail.md.md#.md#) |
 
 # Kit Apple
 ## Profile
 
 ## Friends
-- [[Slice|Slice]] (a junkyard owner)
-- [[./Rocco Apple|Rocco Apple]] 
+- [Slice](Slice.md) (a junkyard owner)
+- [Rocco Apple](./Rocco%20Apple.md) 
 ## Enemies
-- [[Stev|Stev]] (A gambler of ill repute)
+- [Stev](Stev.md) (A gambler of ill repute)
 

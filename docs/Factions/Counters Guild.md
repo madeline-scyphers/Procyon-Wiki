@@ -5,7 +5,7 @@ tags:
   - faction
 share: "true"
 location:
-  - "[[../Procyon/Rin/Warren|Warren]]"
+  - "[Warren](../Procyon/Rin/Warren.md)"
 tier: "4"
 ---
 ## Tier
@@ -14,7 +14,7 @@ tier: "4"
 
 ## Location
 
-[[../Procyon/Rin/Warren|Warren]]
+[Warren](../Procyon/Rin/Warren.md)
 
 ## Nature
 
@@ -22,18 +22,18 @@ Maintains the galactic currency network and shadow repositories in each system.
 
 ## Turf
 
-Numerous shadow repositories storing mysterious items in high-tech vaults, and a currency exchange on [[../Procyon/Rin/Warren|Warren]].
+Numerous shadow repositories storing mysterious items in high-tech vaults, and a currency exchange on [Warren](../Procyon/Rin/Warren.md).
 
 ## Notable NPCs
 
-- [[Torx Verron|Torx Verron]] (chief executive, calculating, ruthless, expansionary).
-- [[Rintar Ix|Rintar Ix]] (operations head, conniving, jealous, sly).
-- [[Broq Vsigh|Broq Vsigh]] (repository head, honorable, meticulous).
+- [Torx Verron](Torx%20Verron.md) (chief executive, calculating, ruthless, expansionary).
+- [Rintar Ix](Rintar%20Ix.md) (operations head, conniving, jealous, sly).
+- [Broq Vsigh](Broq%20Vsigh.md) (repository head, honorable, meticulous).
 
 
 ## Goals
 
-Disrupt the [[./Guild of Engineers|Guild of Engineers]]’ mining operation.
+Disrupt the [Guild of Engineers](./Guild%20of%20Engineers.md)’ mining operation.
 
 ## Notable Assets
 
@@ -49,17 +49,17 @@ Counters Guild members sign contracts for cycles of labor at a time and are paid
 ## Allies
 
 - Sah’iir.
-- [[./Scarlet Wolves|Scarlet Wolves]].
-- [[./Starless Veil|Starless Veil]].
+- [Scarlet Wolves](./Scarlet%20Wolves.md).
+- [Starless Veil](./Starless%20Veil.md).
 
 
 ## Enemies
 
-- [[./Borniko Syndicate|Borniko Syndicate]].
-- [[./Guild of Engineers|Guild of Engineers]].
-- [[./Vorex|Vorex]].
+- [Borniko Syndicate](./Borniko%20Syndicate.md).
+- [Guild of Engineers](./Guild%20of%20Engineers.md).
+- [Vorex](./Vorex.md).
 
 
 ## Situation
 
-Torx is playing Guild politics, aiming to show that the [[./Guild of Engineers|Guild of Engineers]]. He's spent vast sums on this, betting he’ll get it back once the Counters take over.
+Torx is playing Guild politics, aiming to show that the [Guild of Engineers](./Guild%20of%20Engineers.md). He's spent vast sums on this, betting he’ll get it back once the Counters take over.

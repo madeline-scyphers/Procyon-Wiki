@@ -1,10 +1,10 @@
 ---
 share: "true"
-logo: "[[./favicons.png|assests/meta/favicons.png]]"
+logo: "[assests/meta/favicons.png](./favicons.png)"
 ---
 
-A wiki for the Scum and Villainy in the [[./Procyon/index|Procyon]] sector.
+A wiki for the Scum and Villainy in the [Procyon](./Procyon/index.md) sector.
 
-- [[./Procyon/index|Procyon]]
-- [[./Characters/index|Characters]]
-- [[./Characters/index|Characters]]
+- [Procyon](./Procyon/index.md)
+- [Characters](./Characters/index.md)
+- [Characters](./Characters/index.md)

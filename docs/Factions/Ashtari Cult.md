@@ -5,7 +5,7 @@ tags:
   - faction
 share: "true"
 location:
-  - "[[../Procyon/Iota/Lithios|Lithios]]"
+  - "[Lithios](../Procyon/Iota/Lithios.md)"
 tier: "3"
 ---
 ## Tier
@@ -14,7 +14,7 @@ tier: "3"
 
 ## Location
 
-[[../Procyon/Iota/Lithios|Lithios]]
+[Lithios](../Procyon/Iota/Lithios.md)
 
 ## Nature
 
@@ -22,19 +22,19 @@ Precursor worshipers claiming Ur descent. They inhale gases from the Ashtari Clo
 
 ## Turf
 
-An undocumented Ur ruin on [[../Procyon/Iota/Lithios|Lithios]].
+An undocumented Ur ruin on [Lithios](../Procyon/Iota/Lithios.md).
 
 ## Notable NPCs
 
-- [[Urmak Theon|Urmak Theon]] (compassionate, educated, well-spoken).
-- [[Urmak Lesh|Urmak Lesh]] (artificer, ex-Guilder, researcher).
-- [[Urley Fean|Urley Fean]] (Noble, cautious, hidden, influential).
-- [[Rokono Maex|Rokono Maex]] (captain, scavenger, coarse, nonbeliever, stoic).
+- [Urmak Theon](Urmak%20Theon.md) (compassionate, educated, well-spoken).
+- [Urmak Lesh](Urmak%20Lesh.md) (artificer, ex-Guilder, researcher).
+- [Urley Fean](Urley%20Fean.md) (Noble, cautious, hidden, influential).
+- [Rokono Maex](Rokono%20Maex.md) (captain, scavenger, coarse, nonbeliever, stoic).
 
 
 ## Goals
 
-Align the moons of [[../Procyon/Brekk/Nightfall|Nightfall]].
+Align the moons of [Nightfall](../Procyon/Brekk/Nightfall.md).
 
 ## Notable Assets
 
@@ -48,15 +48,15 @@ Each member of the Cult wears a small vial of Ashtari gas to allow them to “co
 
 ## Allies
 
-- [[./Ghosts|Ghosts]].
-- [[./Mendicants|Mendicants]].
+- [Ghosts](./Ghosts.md).
+- [Mendicants](./Mendicants.md).
 
 
 ## Enemies
 
-- [[./Church of Stellar Flame|Church of Stellar Flame]].
+- [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md).
 
 
 ## Situation
 
-Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [[../Procyon/Brekk/Nightfall|Nightfall]] can be used to control the planetoids. The visions
+Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [Nightfall](../Procyon/Brekk/Nightfall.md) can be used to control the planetoids. The visions

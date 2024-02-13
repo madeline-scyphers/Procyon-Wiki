@@ -24,24 +24,24 @@ title: Characters
 
 | File         | Tags                     | Friends                                                                                                                                                            |
 | ------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Flora        | <ul><li>player</li></ul> | [[Triv|Triv]] (a ship mechanic)                                                                                                                                         |
-| Kit Apple    | <ul><li>player</li></ul> | [[Slice|Slice]] (a junkyard owner)                                                                                                                                       |
-| Kit Apple    | <ul><li>player</li></ul> | [[Characters/Rocco Apple\|Rocco Apple]]                                                                                                                            |
-| Jedd Yulen   | <ul><li>player</li></ul> | [[Kriegar|Kriegar]] (A fine blaster pistol)                                                                                                                                |
-| Leto Ramus   | <ul><li>player</li></ul> | [[Juda|Juda]] (A doctor)                                                                                                                                                |
+| Flora        | <ul><li>player</li></ul> | [Triv](Triv.md) (a ship mechanic)                                                                                                                                         |
+| Kit Apple    | <ul><li>player</li></ul> | [Slice](Slice.md) (a junkyard owner)                                                                                                                                       |
+| Kit Apple    | <ul><li>player</li></ul> | [Rocco Apple](Characters/Rocco%20Apple.md)                                                                                                                            |
+| Jedd Yulen   | <ul><li>player</li></ul> | [Kriegar](Kriegar.md) (A fine blaster pistol)                                                                                                                                |
+| Leto Ramus   | <ul><li>player</li></ul> | [Juda](Juda.md) (A doctor)                                                                                                                                                |
 | Ora          | <ul><li>npc</li></ul>    |                                                                                                                                                                    |
-| Rocco Apple  | <ul><li>npc</li></ul>    | [[Characters/Kit Apple\|Kit Apple]] ([[Kit Apple|Kit Apple]]'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them) |
-| Mordin Ulmak | \-                       | [[Ora|Ora]] (An info broker)                                                                                                                                           |
+| Rocco Apple  | <ul><li>npc</li></ul>    | [Kit Apple](Characters/Kit%20Apple.md) ([Kit Apple](Kit%20Apple.md)'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them) |
+| Mordin Ulmak | \-                       | [Ora](Ora.md) (An info broker)                                                                                                                                           |
 
 
 ## Enemies of Characters
 
 | File         | Tags                     | Enemies                            |
 | ------------ | ------------------------ | ---------------------------------- |
-| Flora        | <ul><li>player</li></ul> | [[Yattu|Yattu]] (a gang boss)            |
-| Kit Apple    | <ul><li>player</li></ul> | [[Stev|Stev]] (A gambler of ill repute) |
-| Jedd Yulen   | <ul><li>player</li></ul> | [[Yazu|Yazu]] (A crooked cop)           |
-| Leto Ramus   | <ul><li>player</li></ul> | [[Lynie|Lynie]] (A hospital admin)       |
+| Flora        | <ul><li>player</li></ul> | [Yattu](Yattu.md) (a gang boss)            |
+| Kit Apple    | <ul><li>player</li></ul> | [Stev](Stev.md) (A gambler of ill repute) |
+| Jedd Yulen   | <ul><li>player</li></ul> | [Yazu](Yazu.md) (A crooked cop)           |
+| Leto Ramus   | <ul><li>player</li></ul> | [Lynie](Lynie.md) (A hospital admin)       |
 | Ora          | <ul><li>npc</li></ul>    |                                    |
-| Mordin Ulmak | \-                       | [[Nyx|Nyx]] (A moneylender)            |
+| Mordin Ulmak | \-                       | [Nyx](Nyx.md) (A moneylender)            |
 
