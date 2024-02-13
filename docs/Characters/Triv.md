@@ -25,7 +25,6 @@ aliases:
 
 
 > [!infobox]
-> # Triv
 > ![cover hsmall](../ImagePlaceholder.png)
 > [Show To Players](../ImagePlaceholder.png)
 > ###### Triv

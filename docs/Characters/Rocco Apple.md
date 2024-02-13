@@ -25,7 +25,6 @@ aliases:
 
 
 > [!infobox]
-> # Rocco Apple
 > ![cover hsmall](../ImagePlaceholder.png)
 > [Show To Players](../ImagePlaceholder.png)
 > ###### Rocco Apple
