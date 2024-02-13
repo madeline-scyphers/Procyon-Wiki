@@ -1,10 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - faction
+  - Weird
 share: "true"
+location:
+  - "[[../Procyon/Rin/Warren|Warren]]"
+tier: "4"
 ---
 ## Tier
+
 4
+
+## Location
+
+[[../Procyon/Rin/Warren|Warren]]
 
 ## Nature
 Tall, fully robed xenos who travel with blindfolded servants that speak for them. Gave the Hegemony the ansible network.
