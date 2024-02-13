@@ -1,10 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Criminal
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Rin/Warren|Warren]]"
+tier: "4"
 ---
 ## Tier
+
 4
+
+## Location
+
+[[../Procyon/Rin/Warren|Warren]]
 
 ## Nature
 The most successful information broker to ever live. Can access any terminal in the sector—though no one can explain how.
