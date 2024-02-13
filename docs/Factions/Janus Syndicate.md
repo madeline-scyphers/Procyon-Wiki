@@ -5,8 +5,8 @@ tags:
   - faction
 share: "true"
 location:
-  - "[[../Procyon/Holt/Sonhandra|Sonhandra]]"
-  - "[[../Procyon/Brekk/Aketi|Aketi]]"
+  - "[Sonhandra](../Procyon/Holt/Sonhandra.md)"
+  - "[Aketi](../Procyon/Brekk/Aketi.md)"
 tier: "2"
 ---
 ## Tier
@@ -15,19 +15,19 @@ tier: "2"
 
 ## Location
 
-[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Brekk/Aketi|Aketi]]
+[Sonhandra](../Procyon/Holt/Sonhandra.md),[Aketi](../Procyon/Brekk/Aketi.md)
 
 ## Nature
 Weapons dealers specializing in ship weapons, headed up by the ruthless Viktor Bax.
 
 ## Turf
-Weapons camp on [[../Procyon/Holt/Sonhandra|Sonhandra]] (HQ). A sizable operation at [[../Procyon/Brekk/Aketi|Aketi]]’s Base Camp One.
+Weapons camp on [Sonhandra](../Procyon/Holt/Sonhandra.md) (HQ). A sizable operation at [Aketi](../Procyon/Brekk/Aketi.md)’s Base Camp One.
 
 ## Notable NPCs
 - Viktor Bax (ambitious, charming, distrustful, ruthless).
 - Baruk (xeno bodyguard, huge).
 - Wendel (nervous, technical, loyal).
-- Faye Null (unmarked [[./Yaru|Yaru]] pilot, adventurous, foolhardy).
+- Faye Null (unmarked [Yaru](./Yaru.md) pilot, adventurous, foolhardy).
 
 ## Goals
 Acquire a source for capital weapons.
@@ -44,7 +44,7 @@ Viktor Bax insists on meeting every client the Syndicate does business with in p
 - Draxler’s Raiders.
 
 ## Enemies
-- [[./Vigilance|Vigilance]].
+- [Vigilance](./Vigilance.md).
 
 ## Situation
 Viktor wants to grow beyond the outposts the Syndicate currently runs to a sector-wide affair. As part of his plan to scale up, he’s looking to poach the Legion for some capital weapons. Viktor’s currently digging up dirt on Tallon and secret Legion projects in the sector.
