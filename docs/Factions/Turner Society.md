@@ -1,10 +1,22 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Criminal
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Holt/Mem|Mem]]"
+  - "[[../Procyon/Holt/Sonhandra|Sonhandra]]"
+  - "[[../Procyon/Rin/Warren|Warren]]"
+tier: "2"
 ---
 ## Tier
+
 2
+
+## Location
+
+[[../Procyon/Holt/Mem|Mem]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Nature
 Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [[../Procyon/Brekk/Aketi|Aketi]] animal parts and Vosian crystals.
