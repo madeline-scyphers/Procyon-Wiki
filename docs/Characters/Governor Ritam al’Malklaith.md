@@ -2,7 +2,7 @@
 name: Governor Ritam al’Malklaith
 faction: "[[Factions/House Malklaith]]"
 pronouns: He/Him
-location: "[[Procyon/Rin/Warren|Warren]]"
+location: "[Warren](../Procyon/Rin/Warren.md#)"
 role: npc
 status: active
 share: "true"
@@ -17,14 +17,14 @@ aliases:
 
 > [!infobox]
 > # Governor Ritam al’Malklaith
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![cover hsmall](../ImagePlaceholder.png)
+> [Show To Players](../ImagePlaceholder.png)
 > ###### Governor Ritam al’Malklaith
 > Attribute |  value |
 > ---|---|
 > Pronouns | He/Him
-> Faction | [[../Factions/House Malklaith|House Malklaith]]
-> Location | [[../Procyon/Rin/Warren|Warren]] |
+> Faction | [House Malklaith](../Factions/House%20Malklaith.md)
+> Location | [Warren](../Procyon/Rin/Warren.md.md#) |
 
 
 # Governor Ritam al’Malklaith
