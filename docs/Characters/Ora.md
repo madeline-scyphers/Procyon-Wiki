@@ -1,10 +1,8 @@
 ---
 name: Ora
-faction:
-  - - Factions/Ashen Knives|Ashen Knives
+faction: "[[Factions/Ashen Knives|Ashen Knives]]"
 pronouns: They/Them
-location:
-  - - Procyon/Rin/Warren|Warren
+location: "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
@@ -13,9 +11,9 @@ tags:
 ---
 ---
 name: Ora
-faction:  [[Factions/Ashen Knives|Ashen Knives]]
+faction:  "[[Factions/Ashen Knives|Ashen Knives]]"
 pronouns:  They/Them
-location: [[Procyon/Rin/Warren|Warren]]
+location: "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
@@ -32,8 +30,8 @@ tags:
 > Attribute |  value |
 > ---|---|
 > Pronouns | They/Them
-> Faction | Factions/Ashen Knives|Ashen Knives
-> Location | Procyon/Rin/Warren|Warren |
+> Faction | [[../Factions/Ashen Knives|Ashen Knives]]
+> Location | [[../Procyon/Rin/Warren|Warren]] |
 
 
 # Ora
