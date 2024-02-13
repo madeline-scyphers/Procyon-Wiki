@@ -8,9 +8,9 @@ testing...
 again
 
 [Mendicants](./Mendicants.md#)
-[Yaru](./Yaru.md)
-[Conclave 01](Conclave%2001.md)
-[README](Atlas/README.md)
+[[./Yaru|Yaru]]
+[[Conclave 01|Conclave 01]]
+[[Atlas/README|Atlas/README]]
 
 
 ## Tier
@@ -23,19 +23,19 @@ Independent sentient Urbots led by the Prime, seeking free will and independence
 
 ## Turf
 
-Secret bases on Baftoma and the [Indri](../Procyon/Iota/Indri.md).
+Secret bases on Baftoma and the [[../Procyon/Iota/Indri|Indri]].
 
 ## Notable NPCs
 
-- [The Prime](The%20Prime.md) (ancient, powerful, mysterious, wise).
-- [Bar-Hazuk](Bar-Hazuk.md) (gardener, huge, kind).
-- [Delta-7](Delta-7.md) (architect, weapons platform, massive).
-- [Sp-d3r](Sp-d3r.md) (hacker, infiltrator, cloaked, tiny).
+- [[The Prime|The Prime]] (ancient, powerful, mysterious, wise).
+- [[Bar-Hazuk|Bar-Hazuk]] (gardener, huge, kind).
+- [[Delta-7|Delta-7]] (architect, weapons platform, massive).
+- [[Sp-d3r|Sp-d3r]] (hacker, infiltrator, cloaked, tiny).
 
 
 ## Goals
 
-Take control of the [Iota](../Procyon/Iota/index.md) factory.
+Take control of the [[../Procyon/Iota/index|Iota]] factory.
 
 ## Notable Assets
 
@@ -51,17 +51,17 @@ All members of the Conclave are currently Urbots of varied shapes and sizes.
 
 ## Allies
 
-- [Concordiat Knights](./Concordiat%20Knights.md).
-- [The Maelstrom](./The%20Maelstrom.md).
+- [[./Concordiat Knights|Concordiat Knights]].
+- [[./The Maelstrom|The Maelstrom]].
 - Sah’iir.
 
 
 ## Enemies
 
-- [51st Legion](./51st%20Legion.md).
-- [Guild of Engineers](./Guild%20of%20Engineers.md).
+- [[./51st Legion|51st Legion]].
+- [[./Guild of Engineers|Guild of Engineers]].
 
 
 ## Situation
 
-The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [Iota](../Procyon/Iota/index.md) and start doing so secretly.
+The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [[../Procyon/Iota/index|Iota]] and start doing so secretly.

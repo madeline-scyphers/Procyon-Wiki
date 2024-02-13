@@ -17,15 +17,15 @@ Lost Paradise, a club with an attached warehouse where the gang does its busines
 
 ## Notable NPCs
 
-- [Dyrinek](Dyrinek.md) (xeno, revolutionary, proud).
-- [Burn](Burn.md) (Memish mystic xeno, fast, overconfident, untrained).
-- [Radds](Radds.md) (human, hacker, smart).
-- [Myrk](Myrk.md) (xeno, gun enthusiast, hothead).
+- [[Dyrinek|Dyrinek]] (xeno, revolutionary, proud).
+- [[Burn|Burn]] (Memish mystic xeno, fast, overconfident, untrained).
+- [[Radds|Radds]] (human, hacker, smart).
+- [[Myrk|Myrk]] (xeno, gun enthusiast, hothead).
 
 
 ## Goals
 
-Take over the [Hegemonic News Network](./Hegemonic%20News%20Network.md).
+Take over the [[./Hegemonic News Network|Hegemonic News Network]].
 
 ## Notable Assets
 
@@ -39,15 +39,15 @@ When a new member joins the gang, they all go out on a drunken tear across the c
 
 ## Allies
 
-- [Cobalt Syndicate](./Cobalt%20Syndicate.md).
+- [[./Cobalt Syndicate|Cobalt Syndicate]].
 
 
 ## Enemies
 
-- [Hegemonic News Network](./Hegemonic%20News%20Network.md).
-- [House Malklaith](./House%20Malklaith.md).
+- [[./Hegemonic News Network|Hegemonic News Network]].
+- [[./House Malklaith|House Malklaith]].
 
 
 ## Situation
 
-The gang has had run-ins with [System](System.md) police, and the [HNN](./Hegemonic%20News%20Network.md) paints them as lowlifes with no future. Dyrinek wants to send a message that they won’t be so easily dismissed and plans to take over the airwaves to broadcast the gang’s punk ideology. All they need is the opportunity.
+The gang has had run-ins with [[System|System]] police, and the [[./Hegemonic News Network|HNN]] paints them as lowlifes with no future. Dyrinek wants to send a message that they won’t be so easily dismissed and plans to take over the airwaves to broadcast the gang’s punk ideology. All they need is the opportunity.

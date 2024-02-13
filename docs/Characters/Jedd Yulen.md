@@ -16,8 +16,8 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 
 > [!infobox]
 > # Jedd Yulen
-> ![cover hsmall](../ImagePlaceholder.png)
-> [Show To Players](../ImagePlaceholder.png)
+> ![[../ImagePlaceholder.png|cover hsmall]]
+> [[../ImagePlaceholder.png|Show To Players]]
 > ###### Jedd Yulen
 > Attribute |  value |
 > ---|---|
@@ -30,6 +30,6 @@ location: "[[Characters/Rusty Nail/Rusty Nail|Rusty Nail]]"
 ## Profile
 
 ## Friends
-- [Kriegar](Kriegar.md) (A fine blaster pistol)
+- [[Kriegar|Kriegar]] (A fine blaster pistol)
 ## Enemies
-- [Yazu](Yazu.md) (A crooked cop)
+- [[Yazu|Yazu]] (A crooked cop)
