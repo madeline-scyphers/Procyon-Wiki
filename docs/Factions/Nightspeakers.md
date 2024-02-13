@@ -1,10 +1,20 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Weird
+  - faction
 share: "true"
+location:
+  - "[[../Procyon/Brekk/index|Brekk]]"
+tier: "2"
 ---
 ## Tier
+
 2
+
+## Location
+
+[[../Procyon/Brekk/index|Brekk]]
 
 ## Nature
 Mystics with dark proclivities bent on seeking a set of dangerous Precursor artifacts.
