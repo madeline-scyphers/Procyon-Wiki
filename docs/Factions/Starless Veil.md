@@ -1,10 +1,19 @@
 ---
 aliases: 
-tags: []
+tags:
+  - Hegemony
+  - faction
 share: "true"
+location: 
+tier: "4"
 ---
 ## Tier
+
 4
+
+## Location
+
+
 
 ## Nature
 Spies and Hegemonic counterintelligence, seeking to undermine the Governor to make a case for change in House control.
