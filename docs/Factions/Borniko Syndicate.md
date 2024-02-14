@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Criminal
   - faction
+faction_type: Criminal
+share: "true"
+location:
+  - "[Warren](../Procyon/Rin/Warren.md#)"
+tier: "3"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Criminal"
 share: "true"
 location:
   - "[Warren](../Procyon/Rin/Warren.md#)"
@@ -14,7 +24,7 @@ tier: "3"
 
 ## Location
 
-[Warren](../Procyon/Rin/Warren.md.md#)
+[Warren](../Procyon/Rin/Warren.md.md#.md#)
 
 ## Nature
 
