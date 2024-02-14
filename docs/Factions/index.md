@@ -5,7 +5,7 @@ share: "true"
 title: Factions
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/14KeUXYA6ppnNxd7BM4XapvXclCkykn9tfcB4piMNOY4/edit?usp=editing" style="border:0px #ffffff none; width:100%; height:100%;" name="myiFrame" frameborder="1" marginheight="0px" marginwidth="0px" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/14KeUXYA6ppnNxd7BM4XapvXclCkykn9tfcB4piMNOY4/edit?usp=editing" width=1800 height=1000></iframe>
 
 | File                                                             | Type     | Tier | Location                                                                                                                                     |
 | ---------------------------------------------------------------- | -------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,49 +48,6 @@ title: Factions
 | [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) | Weird    | 1    | <ul><li>[Indri](Procyon/Iota/Indri.md.md)</li></ul>                                                                                          |
 
 
-
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  |  |  | Criminal | Criminal | Criminal | Criminal | Criminal | Criminal | Criminal | Criminal | Criminal | Criminal | Criminal | Criminal | Criminal | Hegemony | Hegemony | Hegemony | Hegemony | Hegemony | Hegemony | Hegemony | Hegemony | Hegemony | Hegemony | Hegemony | Hegemony | Weird | Weird | Weird | Weird | Weird | Weird | Weird | Weird | Weird | Weird | Weird |
-|  | Status | Rusty Nail | Lost Legion | Scarlet Wolves | Vorex | Ashen Knives | Borniko Syndicate | Draxler's Raiders | The Maelstrom | Echo Wave Riders | Janus Syndicate | Turner Society | Cobalt Syndicate | Dyrnek Gang | Wreckers | Guild of Engineers | Church of Stellar Flame | Counters Guild | Starless Veil | The 51st Legion | Isotropa Max Secure | House Malklaith | Starsmiths Guild | Hegemonic New Network | Cult of the Seekers | Yaru | Concordiat Knights | Sah'iir | Suneaters | The Agony | The Ashtari Cult | Vignerons | Ghosts | Mendicants | Nightspeakers | Acolytes of Brashkadesh | Conclave 01 | Vigilance |
-|  | Rusty Nail |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Lost Legion |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Scarlet Wolves |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Vorex |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Ashen Knives |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Borniko Syndicate |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Draxler's Raiders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | The Maelstrom |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Echo Wave Riders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Janus Syndicate |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Turner Society |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Cobalt Syndicate |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Dyrnek Gang |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Criminal | Wreckers |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Guild of Engineers |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Church of Stellar Flame |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Counters Guild |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Starless Veil |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | The 51st Legion |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Isotropa Max Secure |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | House Malklaith |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Starsmiths Guild |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Hegemonic New Network |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Cult of the Seekers |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Yaru |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hegemony | Concordiat Knights |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | Sah'iir |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | Suneaters |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | The Agony |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | The Ashtari Cult |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | Vignerons |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | Ghosts |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | Mendicants |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | Nightspeakers |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | Acolytes of Brashkadesh |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | Conclave 01 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Weird | Vigilance |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 # [51st Legion](./51st%20Legion.md)
 
