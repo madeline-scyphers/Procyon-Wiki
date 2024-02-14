@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Hegemony
   - faction
+faction_type: Hegemony
+share: "true"
+location:
+  - "[Sonhandra](../Procyon/Holt/Sonhandra.md)"
+tier: "1"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Hegemony"
 share: "true"
 location:
   - "[Sonhandra](../Procyon/Holt/Sonhandra.md)"
