@@ -2,7 +2,18 @@
 aliases: 
 tags:
   - faction
-  - Weird
+faction_type: Weird
+share: "true"
+location:
+  - "[Lithios](../Procyon/Iota/Lithios.md#)"
+  - "[Nightfall](../Procyon/Brekk/Nightfall.md)"
+tier: "4"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Weird"
 share: "true"
 location:
   - "[Lithios](../Procyon/Iota/Lithios.md#)"
@@ -15,7 +26,7 @@ tier: "4"
 
 ## Location
 
-[Lithios](../Procyon/Iota/Lithios.md.md#),[Nightfall](../Procyon/Brekk/Nightfall.md)
+[Lithios](../Procyon/Iota/Lithios.md.md#.md#),[Nightfall](../Procyon/Brekk/Nightfall.md)
 
 ## Nature
 Ur-archaeologists obsessed with recreating jumpgate technology. Currently looking to extinguish a star in pursuit of their larger goals.
