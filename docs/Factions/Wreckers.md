@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Criminal
   - faction
+faction_type: Criminal
+share: "true"
+location:
+  - "[Rin](../Procyon/Rin/index.md)"
+tier: "1"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Criminal"
 share: "true"
 location:
   - "[Rin](../Procyon/Rin/index.md)"
