@@ -1,8 +1,20 @@
 ---
 aliases: 
 tags:
-  - Criminal
   - faction
+faction_type: Criminal
+share: "true"
+location:
+  - "[Mem](../Procyon/Holt/Mem.md)"
+  - "[Sonhandra](../Procyon/Holt/Sonhandra.md)"
+  - "[Warren](../Procyon/Rin/Warren.md)"
+tier: "2"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Criminal"
 share: "true"
 location:
   - "[Mem](../Procyon/Holt/Mem.md)"

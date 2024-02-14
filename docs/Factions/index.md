@@ -5,53 +5,50 @@ share: "true"
 title: Factions
 ---
 
-| Hegemony | Tier |
-| ---- | ---- |
-| [Guild of Engineers](./Guild%20of%20Engineers.md) | 5 |
-| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) | 4 |
-| [Counters Guild](./Counters%20Guild.md) | 4 |
-| [Starless Veil](./Starless%20Veil.md) | 4 |
-| [51st Legion](./51st%20Legion.md) | 3 |
-| [House Malklaith](./House%20Malklaith.md) | 3 |
-| [Isotropa Max Secure](./Isotropa%20Max%20Secure.md) | 3 |
-| [Starsmiths Guild](./Starsmiths%20Guild.md) | 3 |
-| [Cult of the Seekers](./Cult%20of%20the%20Seekers.md) | 2 |
-| [Hegemonic News Network](./Hegemonic%20News%20Network.md) | 2 |
-| [Yaru](./Yaru.md) | 2 |
-| [Concordiat Knights](./Concordiat%20Knights.md) | 1 |
-|  |  |
 
-| Weird | Tier |
-| ---- | ---- |
-| [Sah'iir](./Sah'iir.md) | 4 |
-| [Suneaters](./Suneaters.md) | 4 |
-| [The Agony](./The%20Agony.md) | 3 |
-| [Ashtari Cult](./Ashtari%20Cult.md) | 3 |
-| [Vignerons](./Vignerons.md) | 3 |
-| [Ghosts](./Ghosts.md) | 2 |
-| [Mendicants](./Mendicants.md) | 2 |
-| [Nightspeakers](./Nightspeakers.md) | 2 |
-| [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) | 1 |
-| [Conclave 01](./Conclave%2001.md) | 1 |
-| [Vigilance](./Vigilance.md) | 1 |
-|  |  |
-|  |  |
+| File                                                             | Type     | Tier | Location                                                                                                                                     |
+| ---------------------------------------------------------------- | -------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Rusty Nail](Rusty%20Nail.md)                           | \-       | 0    | \-                                                                                                                                           |
+| [Vorex](./Vorex.md)                                     | Criminal | 4    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li></ul>                                                                                         |
+| [Scarlet Wolves](./Scarlet%20Wolves.md)                   | Criminal | 4    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li><li>[Procyon](Procyon/Procyon.md.md)</li></ul>                                                |
+| [Lost Legion](./Lost%20Legion.md)                         | Criminal | 4    | <ul><li>[Iota](Procyon/Iota/Iota.md.md)</li></ul>                                                                                            |
+| [Cobalt Syndicate](./Cobalt%20Syndicate.md)               | Criminal | 4    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li></ul>                                                                                         |
+| [The Maelstrom](./The%20Maelstrom.md)                     | Criminal | 3    | <ul><li>[The Cove](Procyon/Rin/The%20Cove.md.md)</li></ul>                                                                                     |
+| [Draxler's Raiders](./Draxler's%20Raiders.md)             | Criminal | 3    | <ul><li>[Iota](Procyon/Iota/Iota.md.md)</li></ul>                                                                                            |
+| [Ashen Knives](./Ashen%20Knives.md)                       | Criminal | 3    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li></ul>                                                                                         |
+| [Borniko Syndicate](./Borniko%20Syndicate.md)             | Criminal | 3    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li></ul>                                                                                         |
+| [Turner Society](./Turner%20Society.md)                   | Criminal | 2    | <ul><li>[Mem](Procyon/Holt/Mem.md.md)</li><li>[Sonhandra](Procyon/Holt/Sonhandra.md.md)</li><li>[Warren](Procyon/Rin/Warren.md.md)</li></ul> |
+| [Janus Syndicate](./Janus%20Syndicate.md)                 | Criminal | 2    | <ul><li>[Sonhandra](Procyon/Holt/Sonhandra.md.md)</li><li>[Aketi](Procyon/Brekk/Aketi.md.md)</li></ul>                                       |
+| [Echo Wave Riders](./Echo%20Wave%20Riders.md)               | Criminal | 2    | <ul><li>[Nightfall](Procyon/Brekk/Nightfall.md.md)</li></ul>                                                                                 |
+| [Wreckers](./Wreckers.md)                               | Criminal | 1    | <ul><li>[Rin](Procyon/Rin/Rin.md.md)</li></ul>                                                                                               |
+| [Dyrinek Gang](./Dyrinek%20Gang.md)                       | Criminal | 1    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li></ul>                                                                                         |
+| [Guild of Engineers](./Guild%20of%20Engineers.md)           | Hegemony | 5    | <ul><li>[SB-176](Procyon/Rin/SB-176.md.md)</li></ul>                                                                                         |
+| [Starless Veil](./Starless%20Veil.md)                     | Hegemony | 4    | \-                                                                                                                                           |
+| [Counters Guild](./Counters%20Guild.md)                   | Hegemony | 4    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li></ul>                                                                                         |
+| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) | Hegemony | 4    | <ul><li>[Rin](Procyon/Rin/Rin.md.md)</li></ul>                                                                                               |
+| [Starsmiths Guild](./Starsmiths%20Guild.md)               | Hegemony | 3    | <ul><li>[Iota](Procyon/Iota/Iota.md.md)</li><li>[Procyon](Procyon/Procyon.md.md)</li></ul>                                                   |
+| [House Malklaith](./House%20Malklaith.md)                 | Hegemony | 3    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li><li>[Procyon](Procyon/Procyon.md.md)</li></ul>                                                |
+| [Isotropa Max Secure](./Isotropa%20Max%20Secure.md)         | Hegemony | 3    | <ul><li>[Brekk](Procyon/Brekk/Brekk.md.md)</li></ul>                                                                                         |
+| [51st Legion](./51st%20Legion.md)                         | Hegemony | 3    | <ul><li>[Procyon](Procyon/Procyon.md.md)</li></ul>                                                                                           |
+| [Yaru](./Yaru.md)                                       | Hegemony | 2    | <ul><li>[Amerath](Procyon/Iota/Amerath.md.md)</li></ul>                                                                                      |
+| [Hegemonic News Network](./Hegemonic%20News%20Network.md)   | Hegemony | 2    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li></ul>                                                                                         |
+| [Cult of the Seekers](./Cult%20of%20the%20Seekers.md)         | Hegemony | 2    | <ul><li>[Mem](Procyon/Holt/Mem.md.md)</li></ul>                                                                                              |
+| [Concordiat Knights](./Concordiat%20Knights.md)           | Hegemony | 1    | <ul><li>[Sonhandra](Procyon/Holt/Sonhandra.md.md)</li></ul>                                                                                  |
+| [Suneaters](./Suneaters.md)                             | Weird    | 4    | <ul><li>[Lithios](Procyon/Iota/Lithios.md.md)</li><li>[Nightfall](Procyon/Brekk/Nightfall.md.md)</li></ul>                                   |
+| [Sah'iir](./Sah'iir.md)                                 | Weird    | 4    | <ul><li>[Warren](Procyon/Rin/Warren.md.md)</li></ul>                                                                                         |
+| [Vignerons](./Vignerons.md)                             | Weird    | 3    | <ul><li>[Amerath](Procyon/Iota/Amerath.md.md)</li><li>[Sonhandra](Procyon/Holt/Sonhandra.md.md)</li></ul>                                    |
+| [The Agony](./The%20Agony.md)                             | Weird    | 3    | <ul><li>[Holt](Procyon/Holt/Holt.md.md)</li><li>[Mem](Procyon/Holt/Mem.md.md)</li></ul>                                                      |
+| [Ashtari Cult](./Ashtari%20Cult.md)                       | Weird    | 3    | <ul><li>[Lithios](Procyon/Iota/Lithios.md.md)</li></ul>                                                                                      |
+| [Nightspeakers](./Nightspeakers.md)                     | Weird    | 2    | <ul><li>[Brekk](Procyon/Brekk/Brekk.md.md)</li></ul>                                                                                         |
+| [Mendicants](./Mendicants.md)                           | Weird    | 2    | <ul><li>[Amerath](Procyon/Iota/Amerath.md.md)</li></ul>                                                                                      |
+| [Ghosts](./Ghosts.md)                                   | Weird    | 2    | <ul><li>[Lithios](Procyon/Iota/Lithios.md.md)</li></ul>                                                                                      |
+| [Vigilance](./Vigilance.md)                             | Weird    | 1    | <ul><li>[Aketi](Procyon/Brekk/Aketi.md.md)</li></ul>                                                                                         |
+| [Conclave 01](./Conclave%2001.md)                         | Weird    | 1    | <ul><li>[Indri](Procyon/Iota/Indri.md.md)</li></ul>                                                                                          |
+| [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) | Weird    | 1    | <ul><li>[Indri](Procyon/Iota/Indri.md.md)</li></ul>                                                                                          |
 
-|Criminal|Tier|
-|---|---|
-|[Lost Legion](./Lost%20Legion.md)|4|
-|[Scarlet Wolves](./Scarlet%20Wolves.md)|4|
-|[Vorex](./Vorex.md)|4|
-|[Ashen Knives](./Ashen%20Knives.md)|3|
-|[Borniko Syndicate](./Borniko%20Syndicate.md)|3|
-|[Draxler's Raiders](./Draxler's%20Raiders.md)|3|
-|[The Maelstrom](./The%20Maelstrom.md)|3|
-|[Echo Wave Riders](./Echo%20Wave%20Riders.md)|2|
-|[Janus Syndicate](./Janus%20Syndicate.md)|2|
-|[Turner Society](./Turner%20Society.md)|2|
-|[Cobalt Syndicate](./Cobalt%20Syndicate.md)|1|
-|[Dyrinek Gang](./Dyrinek%20Gang.md)|1|
-|[Wreckers](./Wreckers.md)|1|
+
+
+
 
 # [51st Legion](./51st%20Legion.md)
 

@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Hegemony
   - faction
+faction_type: Hegemony
+share: "true"
+location:
+  - "[Mem](../Procyon/Holt/Mem.md)"
+tier: "2"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Hegemony"
 share: "true"
 location:
   - "[Mem](../Procyon/Holt/Mem.md)"

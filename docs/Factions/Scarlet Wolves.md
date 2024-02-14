@@ -2,7 +2,18 @@
 aliases: 
 tags:
   - faction
-  - Criminal
+faction_type: Criminal
+share: "true"
+location:
+  - "[Warren](../Procyon/Rin/Warren.md)"
+  - "[Procyon](../Procyon/index.md#)"
+tier: "4"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Criminal"
 share: "true"
 location:
   - "[Warren](../Procyon/Rin/Warren.md)"
@@ -15,7 +26,7 @@ tier: "4"
 
 ## Location
 
-[Warren](../Procyon/Rin/Warren.md),[Procyon](../Procyon/index.md.md#)
+[Warren](../Procyon/Rin/Warren.md),[Procyon](../Procyon/index.md.md#.md#)
 
 ## Nature
 Although they often hire themselves out as bounty hunters, the Scarlet Wolves are a renowned group of assassins.

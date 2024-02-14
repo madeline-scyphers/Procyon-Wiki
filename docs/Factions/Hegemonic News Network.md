@@ -2,8 +2,19 @@
 aliases:
   - HNN
 tags:
-  - Hegemony
   - faction
+faction_type: Hegemony
+share: "true"
+location:
+  - "[Warren](../Procyon/Rin/Warren.md)"
+tier: "2"
+---
+---
+aliases:
+  - HNN
+tags:
+  - faction
+faction_type: "Hegemony"
 share: "true"
 location:
   - "[Warren](../Procyon/Rin/Warren.md)"

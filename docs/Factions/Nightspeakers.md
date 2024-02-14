@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Weird
   - faction
+faction_type: Weird
+share: "true"
+location:
+  - "[Brekk](../Procyon/Brekk/index.md)"
+tier: "2"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Weird"
 share: "true"
 location:
   - "[Brekk](../Procyon/Brekk/index.md)"

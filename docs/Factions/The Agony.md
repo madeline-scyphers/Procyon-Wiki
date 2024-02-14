@@ -1,8 +1,19 @@
 ---
 aliases: 
 tags:
-  - Weird
   - faction
+faction_type: Weird
+share: "true"
+location:
+  - "[Holt](../Procyon/Holt/index.md#)"
+  - "[Mem](../Procyon/Holt/Mem.md)"
+tier: "3"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Weird"
 share: "true"
 location:
   - "[Holt](../Procyon/Holt/index.md#)"
@@ -15,7 +26,7 @@ tier: "3"
 
 ## Location
 
-[Holt](../Procyon/Holt/index.md.md#),[Mem](../Procyon/Holt/Mem.md)
+[Holt](../Procyon/Holt/index.md.md#.md#),[Mem](../Procyon/Holt/Mem.md)
 
 ## Nature
 

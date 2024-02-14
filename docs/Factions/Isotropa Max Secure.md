@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Hegemony
   - faction
+faction_type: Hegemony
+share: "true"
+location:
+  - "[Brekk](../Procyon/Brekk/index.md)"
+tier: "3"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Hegemony"
 share: "true"
 location:
   - "[Brekk](../Procyon/Brekk/index.md)"

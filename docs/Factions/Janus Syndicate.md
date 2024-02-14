@@ -1,8 +1,19 @@
 ---
 aliases: 
 tags:
-  - Criminal
   - faction
+faction_type: Criminal
+share: "true"
+location:
+  - "[Sonhandra](../Procyon/Holt/Sonhandra.md)"
+  - "[Aketi](../Procyon/Brekk/Aketi.md)"
+tier: "2"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Criminal"
 share: "true"
 location:
   - "[Sonhandra](../Procyon/Holt/Sonhandra.md)"

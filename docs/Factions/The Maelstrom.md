@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Criminal
   - faction
+faction_type: Criminal
+share: "true"
+location:
+  - "[The Cove](../Procyon/Rin/The%20Cove.md)"
+tier: "3"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Criminal"
 share: "true"
 location:
   - "[The Cove](../Procyon/Rin/The%20Cove.md)"

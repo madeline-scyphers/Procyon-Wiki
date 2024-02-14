@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Weird
   - faction
+faction_type: Weird
+share: "true"
+location:
+  - "[Indri](../Procyon/Iota/Indri.md)"
+tier: "1"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Weird"
 share: "true"
 location:
   - "[Indri](../Procyon/Iota/Indri.md)"

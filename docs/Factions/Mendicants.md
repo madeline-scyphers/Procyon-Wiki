@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Weird
   - faction
+faction_type: Weird
+share: "true"
+location:
+  - "[Amerath](../Procyon/Iota/Amerath.md)"
+tier: "2"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Weird"
 share: "true"
 location:
   - "[Amerath](../Procyon/Iota/Amerath.md)"

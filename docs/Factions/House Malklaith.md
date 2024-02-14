@@ -1,8 +1,19 @@
 ---
 aliases: 
 tags:
-  - Hegemony
   - faction
+faction_type: Hegemony
+share: "true"
+location:
+  - "[Warren](../Procyon/Rin/Warren.md)"
+  - "[Procyon](../Procyon/index.md)"
+tier: "3"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Hegemony"
 share: "true"
 location:
   - "[Warren](../Procyon/Rin/Warren.md)"
