@@ -1,8 +1,18 @@
 ---
 aliases: 
 tags:
-  - Hegemony
   - faction
+faction_type: Hegemony
+share: "true"
+location:
+  - "[Procyon](../Procyon/index.md#)"
+tier: "3"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Hegemony"
 share: "true"
 location:
   - "[Procyon](../Procyon/index.md#)"
@@ -14,7 +24,7 @@ tier: "3"
 
 ## Location
 
-[Procyon](../Procyon/index.md.md#)
+[Procyon](../Procyon/index.md.md#.md#)
 
 ## Nature
 
