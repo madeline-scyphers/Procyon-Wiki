@@ -2,7 +2,17 @@
 aliases: 
 tags:
   - faction
-  - Weird
+faction_type: Weird
+share: "true"
+location:
+  - "[Warren](../Procyon/Rin/Warren.md)"
+tier: "4"
+---
+---
+aliases: 
+tags:
+  - faction
+faction_type: "Weird"
 share: "true"
 location:
   - "[Warren](../Procyon/Rin/Warren.md)"
