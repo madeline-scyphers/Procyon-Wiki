@@ -1,11 +1,18 @@
 ---
 aliases: 
 tags:
-  - Hegemony
   - faction
+faction_type: Hegemony
 share: "true"
 location: 
 tier: "4"
+allies:
+  - "[Dyrinek Gang](./Dyrinek%20Gang.md)"
+  - "[The Maelstrom](./The%20Maelstrom.md)"
+Enemies:
+  - "[Guild of Engineers](./Guild%20of%20Engineers.md)"
+  - "[Starsmiths Guild](Factions/Starsmiths%20Guild.md)"
+  - "[Yaru](./Yaru.md)"
 ---
 ## Tier
 
