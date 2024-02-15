@@ -110,30 +110,67 @@ Membership into the society is both exclusive and expensive, and considered a ma
 
 Focusing on the upper echelon of [Procyon](Procyon/Procyon.md), the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [Aketi](Procyon/Brekk/Aketi.md) animals, and with the [Vigilance](Factions/Vigilance.md) harassing their production, they struggle to keep up with demand.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [House Malklaith](./House%2520Malklaith.md.md#.md#)
 
-## Neutral 
+| Helpful From                                     |
+| ------------------------------------------------ |
+| [House Malklaith](./House%2520Malklaith.md.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Vigilance](./Vigilance.md.md#.md#.md#.md#)
 
-## Hostile
+
+| Interfering From                     |
+| ------------------------------------ |
+| [Vigilance](./Vigilance.md.md#.md#.md#.md#) |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
