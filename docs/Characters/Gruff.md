@@ -1,5 +1,5 @@
 ---
-faction: "[51st Legion](../Factions/51st%2520Legion.md#)"
+faction: "[Ghosts](../Factions/Ghosts.md#)"
 pronouns: He/Him
 location: 
 role: npc
@@ -17,12 +17,14 @@ tags:
 > ###### Basic Information
 > Type |  Value |
 > ---|---|
-> Faction | [51st Legion](../Factions/51st%2520Legion.md.md#) |
+> Faction | [Ghosts](../Factions/Ghosts.md.md#) |
 > Location |  |
 > Pronouns | He/Him |
 
 # Gruff
 ## Profile
+
+Average scientist, wasn't gonna make it very far up the ranks. Often made mistakes with his papers. Accidently got turned into a half-phased being.
 
 ## Friends
 
