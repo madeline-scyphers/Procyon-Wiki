@@ -70,8 +70,6 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
   - admonition
-  - toc:
-      permalink: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences:
