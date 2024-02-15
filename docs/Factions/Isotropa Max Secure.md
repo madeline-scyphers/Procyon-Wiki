@@ -98,30 +98,68 @@ The staff of Isotropa are all corrupt and will take bribes for almost anything.
 
 Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, and Kreel’s "educating" the prisoners, Isotropa always needs more funds and bodies. The prison spends a lot of time lobbying local planetary Governors to increase sentencing or acquiring “special guests” from [Factions](Factions.md) and just as much time looking for bribes.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Guild of Engineers](./Guild%20of%20Engineers.md)
 
-## Helpful 
+| Frinendly From                                         |
+| ------------------------------------------------------ |
+| [Guild of Engineers](./Guild%20of%20Engineers.md) |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#)
 
-## Hostile
+
+| Interfering From                                     |
+| ---------------------------------------------------- |
+| [Lost Legion](./Lost%20Legion.md)             |
+| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#) |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
