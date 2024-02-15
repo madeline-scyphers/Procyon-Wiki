@@ -110,30 +110,70 @@ Each member is trained by one elder mentor. Becoming a Vigilance member means re
 
 Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [Procyon](Procyon/Procyon.md). They have judged the gunrunners and drug makers of [Aketi](Procyon/Brekk/Aketi.md) unworthy.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [Concordiat Knights](./Concordiat%2520Knights.md.md#.md#)
 
-## Neutral 
+| Helpful From                                           |
+| ------------------------------------------------------ |
+| [Concordiat Knights](./Concordiat%2520Knights.md.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#),[Janus Syndicate](./Janus%2520Syndicate.md.md#.md#),[Turner Society](./Turner%2520Society.md.md#.md#)
 
-## Hostile
+
+| Interfering From                                     |
+| ---------------------------------------------------- |
+| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#) |
+| [Turner Society](./Turner%2520Society.md.md#.md#)       |
+| [Janus Syndicate](./Janus%2520Syndicate.md.md#.md#)     |
+| [Vignerons](./Vignerons.md)                 |
+
+
+
+## Hostile With
 
 [Nightspeakers](./Nightspeakers.md.md#.md#)
 
-## War
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
