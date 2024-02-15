@@ -104,30 +104,68 @@ Echo Wave Riders don’t respect those who don’t know how to pilot their own s
 
 The Riders are left alone by authorities if their races are kept far enough from civilization—and claiming Bright Wind takes care of that. They plan to put on an epic race among system pilots for prestige and cash.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From                                       |
+| ---------------------------------------------------- |
+| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#.md#) |
+| [Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#)   |
+
+
+## Helpful With
 
 [Borniko Syndicate](./Borniko%2520Syndicate.md.md#.md#),[Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#)
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
+
+
+
+
+| Interfering From |
+| ---------------- |
+
+
+
+## Hostile With
 
 [Wreckers](./Wreckers.md.md#.md#)
 
-## War
+
+| Hostile From                       |
+| ---------------------------------- |
+| [Wreckers](./Wreckers.md.md#.md#) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

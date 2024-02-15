@@ -114,30 +114,66 @@ Because the genetic material harvested from their kills must be suitable for the
 
 The Vignerons distill life essence from living victims and use it to extend their own lives. With this technology, their founders have lived for hundreds of years. Owing to its highly illegal nature, the Vignerons operate in secret, augmenting themselves and manipulating people behind the scenes. They wish to grow, converting a number of superior bodies to their cause.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [Borniko Syndicate](./Borniko%2520Syndicate.md.md#.md#),[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#)
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [The Agony](./The%2520Agony.md.md#.md#),[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#.md#),[Vigilance](./Vigilance.md.md#.md#)
 
-## Hostile
+
+| Interfering From                               |
+| ---------------------------------------------- |
+| [Scarlet Wolves](./Scarlet%20Wolves.md) |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

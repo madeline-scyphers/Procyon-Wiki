@@ -104,30 +104,68 @@ Many of the Cult are young ex-Legionnaires that have been personally drafted by 
 
 The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. Having found a lead on [Shimaya](Procyon/Brekk/Shimaya.md), they’ve set up a dig site that promises to unearth at least some of the missing pieces of the Hantu gate.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#)
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [Hegemonic News Network](./Hegemonic%2520News%2520Network.md.md#.md#)
 
-## Neutral 
+| Helpful From                                       |
+| -------------------------------------------------- |
+| [Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Ghosts](./Ghosts.md.md#.md#)
 
-## Hostile
+
+| Interfering From                         |
+| ---------------------------------------- |
+| [Lost Legion](./Lost%20Legion.md) |
+
+
+
+## Hostile With
 
 [Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#.md#)
 
-## War
+
+| Hostile From                   |
+| ------------------------------ |
+| [Ghosts](./Ghosts.md.md#.md#) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

@@ -111,33 +111,72 @@ Oddly few xenos among the Legion.
 
 Tallon earned commendations on the battlefield but swore to cleanse the Hegemonic military of nepotism after his command was sacrificed to a Noble’s daughter. He uses his secretly psychic lieutenant Li
 
-## Allies
+## Allies With
 
 [House Malklaith](./House%2520Malklaith.md.md#.md#)
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#)
 
-## Helpful 
+| Frinendly From                                         |
+| ------------------------------------------------------ |
+| [Guild of Engineers](./Guild%20of%20Engineers.md) |
+| [House Malklaith](./House%2520Malklaith.md.md#.md#)       |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [The Maelstrom](./The%2520Maelstrom.md.md#.md#)
 
-## Hostile
+
+| Interfering From                             |
+| -------------------------------------------- |
+| [The Maelstrom](./The%2520Maelstrom.md.md#.md#) |
+| [Yaru](./Yaru.md)                   |
+
+
+
+## Hostile With
 
 [Ashen Knives](./Ashen%2520Knives.md.md#.md#),[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#.md#)
 
-## War
+
+| Hostile From                                         |
+| ---------------------------------------------------- |
+| [Draxler's Raiders](./Draxler's%20Raiders.md) |
+| [Nightspeakers](./Nightspeakers.md)         |
+| [Conclave 01](./Conclave%2001.md)             |
+
+
+
+## War With
 
 [Lost Legion](./Lost%2520Legion.md.md#.md#)
 
+| War From |
+| -------- |
 
 

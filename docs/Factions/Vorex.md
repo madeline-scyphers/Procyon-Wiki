@@ -100,30 +100,66 @@ Few have met Vorex in person; most talk to her through a random terminal or Urbo
 
 Vorex has been an information broker for years. Using an Ur artifact, she's developed a massive network for buying and selling information. The [Counters Guild](Factions/Counters%20Guild.md) kidnapped her sister to make Vorex access the [Guild of Engineers](Factions/Guild%20of%20Engineers.md)' network. Vorex seeks to free her sister without tipping her hand.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [Conclave 01](./Conclave%252001.md.md#.md#)
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
+
+
+
+
+| Interfering From                               |
+| ---------------------------------------------- |
+| [Counters Guild](./Counters%2520Guild.md.md#.md#.md#.md#) |
+
+
+
+## Hostile With
 
 [Counters Guild](./Counters%2520Guild.md.md#.md#.md#.md#)
 
-## War
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

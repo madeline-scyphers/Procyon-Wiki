@@ -100,30 +100,67 @@ Wreckers pick members from folks already fleeing from someone or hiding in Bafto
 
 The crew has hit several targets in the system by sowing confusion between the [Rin](Procyon/Rin/Rin.md) [Factions](Factions/Factions.md), and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [Borniko Syndicate](./Borniko%2520Syndicate.md.md#.md#)
 
-## Neutral 
+| Helpful From                                         |
+| ---------------------------------------------------- |
+| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
+
+
+
+
+| Interfering From |
+| ---------------- |
+
+
+
+## Hostile With
 
 [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#),[Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#.md#)
 
-## War
+
+| Hostile From                                       |
+| -------------------------------------------------- |
+| [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#.md#) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

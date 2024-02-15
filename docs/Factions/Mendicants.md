@@ -108,30 +108,70 @@ Mendicant physicians implant themselves with Ur artifacts (Emerald Hearts) which
 
 An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed them an abomination. In the last Hegemonic Ascension, the Church traded battle might for the right to wipe out most of the Mendicants. Many Emerald Hearts were lost; the Mendicants now seek a cache of them rumored to be hidden deep beneath the ruined ancient temples of [Amerath](Procyon/Iota/Amerath.md).
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Lost Legion](./Lost%2520Legion.md.md#.md#)
 
-## Helpful 
+| Frinendly From                                                   |
+| ---------------------------------------------------------------- |
+| [Lost Legion](./Lost%2520Legion.md.md#.md#)                         |
+| [Ashtari Cult](./Ashtari%20Cult.md)                       |
+| [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) |
+
+
+## Helpful With
 
 [The Maelstrom](./The%2520Maelstrom.md.md#.md#),[Concordiat Knights](./Concordiat%2520Knights.md.md#.md#)
 
-## Neutral 
+| Helpful From                                           |
+| ------------------------------------------------------ |
+| [Concordiat Knights](./Concordiat%2520Knights.md.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#.md#),[Hegemonic News Network](./Hegemonic%2520News%2520Network.md.md#.md#)
 
-## Hostile
+
+| Interfering From                                               |
+| -------------------------------------------------------------- |
+| [Hegemonic News Network](./Hegemonic%2520News%2520Network.md.md#.md#) |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

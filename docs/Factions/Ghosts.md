@@ -72,7 +72,6 @@ turf: The Skeleton Key, a half-phased corvette (HQ), and a secret research facil
 quirks: Before the mishap, the Ghosts were scientists, all intelligent and educated. They phase out of reality if they stay too long outside their suits (or people).
 situation: A mishap with the [Holt](Procyon/Holt/Holt.md) gate will restore them to their original forms.
 ---
-
 ## Tier
 
 2
@@ -109,30 +108,68 @@ Before the mishap, the Ghosts were scientists, all intelligent and educated. The
 
 A mishap with the [Holt](Procyon/Holt/Holt.md) gate will restore them to their original forms.
 
-## Allies
+## Allies With
 
 [Ashtari Cult](./Ashtari%2520Cult.md.md#.md#)
 
-## Friendly 
+| Allies From                                |
+| ------------------------------------------ |
+| [Ashtari Cult](./Ashtari%2520Cult.md.md#.md#) |
+
+
+## Friendly With
 
 [Suneaters](./Suneaters.md.md#.md#)
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From                         |
+| ------------------------------------ |
+| [Suneaters](./Suneaters.md.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#.md#)
 
-## Hostile
+
+| Interfering From                                         |
+| -------------------------------------------------------- |
+| [Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#.md#) |
+
+
+
+## Hostile With
 
 [Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#.md#)
 
-## War
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

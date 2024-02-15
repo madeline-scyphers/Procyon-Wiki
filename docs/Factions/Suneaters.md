@@ -112,30 +112,67 @@ Suneaters spend most of their days handling Ur artifacts and have all learned ho
 
 Many are ex-Guilders or mystics, who have poured decades of money and study into their cause. If successful in their mission to mine [Iota](Procyon/Iota/Iota.md)-2 for energy, the Hegemon would instantly grant the Suneaters Guild status, even if everyone in [Iota](Procyon/Iota/Iota.md) perishes. The Suneaters consider it worth the risk.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From                 |
+| ------------------------------ |
+| [Ghosts](./Ghosts.md.md#.md#) |
+
+
+## Helpful With
 
 [Ghosts](./Ghosts.md.md#.md#)
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
+
+
+
+
+| Interfering From                 |
+| -------------------------------- |
+| [Sah'iir](./Sah'iir.md.md#.md#) |
+
+
+
+## Hostile With
 
 [Sah'iir](./Sah'iir.md.md#.md#)
 
-## War
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

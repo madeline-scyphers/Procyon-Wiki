@@ -106,30 +106,68 @@ All members of the Conclave are currently Urbots of varied shapes and sizes.
 
 The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [Iota](Procyon/Iota/Iota.md) and start doing so secretly.
 
-## Allies
+## Allies With
 
 [Borniko Syndicate](./Borniko%2520Syndicate.md.md#.md#)
 
-## Friendly 
+| Allies From                                          |
+| ---------------------------------------------------- |
+| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#.md#) |
+
+
+## Friendly With
 
 [Sah'iir](./Sah'iir.md.md#.md#)
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [Concordiat Knights](./Concordiat%2520Knights.md.md#.md#),[The Maelstrom](./The%2520Maelstrom.md.md#.md#)
 
-## Neutral 
+| Helpful From                 |
+| ---------------------------- |
+| [Vorex](./Vorex.md) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
+
+
+
+
+| Interfering From                                       |
+| ------------------------------------------------------ |
+| [Guild of Engineers](./Guild%2520of%2520Engineers.md.md#.md#) |
+
+
+
+## Hostile With
 
 [51st Legion](./51st%2520Legion.md.md#.md#),[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#.md#)
 
-## War
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

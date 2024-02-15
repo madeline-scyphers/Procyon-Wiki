@@ -115,30 +115,76 @@ Many high-ranking Guild members sport custom cybernetics.
 
 Decadent and powerful, the Guild of Engineers is beyond the [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md)'s ability to police. They are exploiting this remote sector to perform experiments banned by the Cults and the Hegemon. Their current project involves converting Way energy into a highly unstable but physical compound.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [51st Legion](./51st%2520Legion.md.md#.md#),[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#.md#)
 
-## Helpful 
+| Frinendly From                                           |
+| -------------------------------------------------------- |
+| [Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#.md#) |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From               |
+| -------------------------- |
+| [Yaru](./Yaru.md) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Borniko Syndicate](./Borniko%2520Syndicate.md.md#.md#),[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#),[Conclave 01](./Conclave%252001.md.md#.md#),[Counters Guild](./Counters%2520Guild.md.md#.md#)
 
-## Hostile
+
+| Interfering From                             |
+| -------------------------------------------- |
+| [The Maelstrom](./The%20Maelstrom.md) |
+| [Starless Veil](./Starless%20Veil.md) |
+| [Sah'iir](./Sah'iir.md)             |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From                                                     |
+| ---------------------------------------------------------------- |
+| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#)               |
+| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#.md#)             |
+| [Counters Guild](./Counters%2520Guild.md.md#.md#)                   |
+| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) |
+| [Conclave 01](./Conclave%252001.md.md#.md#)                         |
+| [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

@@ -118,30 +118,75 @@ The pirates lash together old or damaged ships to make [The Cove](Procyon/Rin/Th
 
 The Maelstrom raids shipping lanes and sells goods via the [Ashen Knives](Factions/Ashen%20Knives.md). Alanda is scheming to find a way to jump systems with her entire crew by taking over a jumpgate, preferably without incurring full-scale Hegemonic retribution.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Ashen Knives](./Ashen%2520Knives.md.md#.md#.md#.md#),[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#),[Nightspeakers](./Nightspeakers.md.md#.md#)
 
-## Helpful 
+| Frinendly From                                     |
+| -------------------------------------------------- |
+| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#) |
+| [Ashen Knives](./Ashen%2520Knives.md.md#.md#.md#.md#)         |
+| [The Agony](./The%20Agony.md)               |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From                                                     |
+| ---------------------------------------------------------------- |
+| [Starless Veil](./Starless%20Veil.md)                     |
+| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) |
+| [Mendicants](./Mendicants.md)                           |
+| [Conclave 01](./Conclave%2001.md)                         |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [51st Legion](./51st%2520Legion.md.md#.md#),[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#.md#),[Counters Guild](./Counters%2520Guild.md.md#.md#),[Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#),[Makers Guild](./Yaru.md.md#.md#),[House Malklaith](./House%2520Malklaith.md.md#.md#)
 
-## Hostile
+
+| Interfering From                                 |
+| ------------------------------------------------ |
+| [House Malklaith](./House%2520Malklaith.md.md#.md#) |
+| [51st Legion](./51st%2520Legion.md.md#.md#)         |
+
+
+
+## Hostile With
 
 [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#)
 
-## War
+
+| Hostile From                                         |
+| ---------------------------------------------------- |
+| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

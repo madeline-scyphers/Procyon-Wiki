@@ -108,30 +108,72 @@ Joining the Borniko Syndicate involves pulling off a heist that impresses the le
 
 The Borniko have been working on bigger and bigger heists.
 
-## Allies
+## Allies With
 
 [Conclave 01](./Conclave%252001.md.md#.md#)
 
-## Friendly 
+| Allies From                              |
+| ---------------------------------------- |
+| [Conclave 01](./Conclave%252001.md.md#.md#) |
+
+
+## Friendly With
 
 [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#.md#)
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [Wreckers](./Wreckers.md.md#.md#)
 
-## Neutral 
+| Helpful From                                       |
+| -------------------------------------------------- |
+| [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#.md#) |
+| [Wreckers](./Wreckers.md.md#.md#)                 |
+| [Vignerons](./Vignerons.md)               |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#)
 
-## Hostile
+
+| Interfering From                                       |
+| ------------------------------------------------------ |
+| [Guild of Engineers](./Guild%2520of%2520Engineers.md.md#.md#) |
+| [Counters Guild](./Counters%2520Guild.md.md#.md#.md#.md#)         |
+| [Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#)     |
+
+
+
+## Hostile With
 
 [Guild of Engineers](./Guild%2520of%2520Engineers.md.md#.md#)
 
-## War
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
 
 [Counters Guild](./Counters%2520Guild.md.md#.md#.md#.md#)
+
+| War From |
+| -------- |
+
+

@@ -108,30 +108,68 @@ The bulk of the HNN’s workforce are contractors selling stories they find to H
 
 The HNN is effectively the private intelligence agency of Cinszo, using its media influence to sway public opinion and gather intelligence.
 
-## Allies
+## Allies With
 
 [Starless Veil](./Starless%20Veil.md)
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From                                             |
+| -------------------------------------------------------- |
+| [Cult of the Seekers](./Cult%20of%20the%20Seekers.md) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Dyrinek Gang](./Dyrinek%20Gang.md),[Mendicants](./Mendicants.md)
 
-## Hostile
+
+| Interfering From                       |
+| -------------------------------------- |
+| [Mendicants](./Mendicants.md) |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From                               |
+| ------------------------------------------ |
+| [Dyrinek Gang](./Dyrinek%20Gang.md) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

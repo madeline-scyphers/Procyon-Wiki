@@ -128,30 +128,70 @@ All Legionnaires have been branded as traitors. Many bear the tattoo of a phoeni
 
 The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegemon ascended. They protect a young girl heir to the last Hegemon whom they hope to reinstate. They plan to capture the head of the [Church of Stellar Flame](Factions/Church%20of%20Stellar%20Flame.md) and convince her to bless the girl
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#),[Mendicants](./Mendicants.md.md#.md#),[Yaru](./Yaru.md.md#.md#.md#.md#)
 
-## Helpful 
+| Frinendly From                                       |
+| ---------------------------------------------------- |
+| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#) |
+| [Mendicants](./Mendicants.md.md#.md#)               |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From               |
+| -------------------------- |
+| [Yaru](./Yaru.md.md#.md#.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#.md#.md#.md#),[Counters Guild](./Counters%2520Guild.md.md#.md#),[Starless Veil](./Starless%2520Veil.md.md#.md#),[The 51st Legion](Factions/The%2051st%20Legion.md),[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#.md#),[House Malklaith](./House%2520Malklaith.md.md#.md#),[Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#),[Hegemonic New Network](Factions/Hegemonic%20New%20Network.md),[Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#.md#),[Yaru](./Yaru.md.md#.md#.md#.md#),[Concordiat Knights](./Concordiat%2520Knights.md.md#.md#)
 
-## Hostile
+
+| Interfering From |
+| ---------------- |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From                                     |
+| ------------------------------------------------ |
+| [House Malklaith](./House%2520Malklaith.md.md#.md#) |
+
+
+
+## War With
+
+
+
+| War From                                 |
+| ---------------------------------------- |
+| [51st Legion](./51st%20Legion.md) |
 
 

@@ -106,30 +106,69 @@ All members of the Veil have had advanced mental training to resist interrogatio
 
 The Veil serves the Hegemony itself, even above the Hegemon. When power struggles from the Core spill out into the rim, the Veil follows.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From                                                    |
+| -------------------------------------------------------------- |
+| [Hegemonic News Network](./Hegemonic%20News%20Network.md) |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From                                 |
+| ---------------------------------------------- |
+| [Counters Guild](./Counters%20Guild.md) |
+
+
+## Helpful With
 
 [Dyrinek Gang](./Dyrinek%2520Gang.md.md#.md#),[The Maelstrom](./The%2520Maelstrom.md.md#.md#)
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#),[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#.md#)
 
-## Hostile
+
+| Interfering From                         |
+| ---------------------------------------- |
+| [Lost Legion](./Lost%20Legion.md) |
+
+
+
+## Hostile With
 
 [Yaru](./Yaru.md.md#.md#)
 
-## War
+
+| Hostile From                                   |
+| ---------------------------------------------- |
+| [Scarlet Wolves](./Scarlet%20Wolves.md) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

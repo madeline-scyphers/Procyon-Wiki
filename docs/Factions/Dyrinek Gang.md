@@ -104,30 +104,70 @@ When a new member joins the gang, they all go out on a drunken tear across the c
 
 The gang has had run-ins with System police, and the Hegemonic News Network paints them as lowlifes with no future. Dyrinek wants to send a message that they won’t be so easily dismissed and plans to take over the airwaves to broadcast the gang’s punk ideology. All they need is the opportunity.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From                                        |
+| -------------------------------------------------- |
+| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#) |
+
+
+## Friendly With
 
 [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#)
 
-## Helpful 
+| Frinendly From                                                   |
+| ---------------------------------------------------------------- |
+| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) |
+| [The Agony](./The%20Agony.md)                             |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From                                 |
+| -------------------------------------------- |
+| [Starless Veil](./Starless%20Veil.md) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
+
+
+
+
+| Interfering From                                               |
+| -------------------------------------------------------------- |
+| [Hegemonic News Network](./Hegemonic%2520News%2520Network.md.md#.md#.md#.md#) |
+
+
+
+## Hostile With
 
 [House Malklaith](./House%2520Malklaith.md.md#.md#),[Hegemonic News Network](./Hegemonic%2520News%2520Network.md.md#.md#.md#.md#)
 
-## War
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

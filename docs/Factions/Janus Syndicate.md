@@ -108,30 +108,67 @@ Viktor Bax insists on meeting every client the Syndicate does business with in p
 
 Viktor wants to grow beyond the outposts the Syndicate currently runs to a sector-wide affair. As part of his plan to scale up, he’s looking to poach the Legion for some capital weapons. Viktor’s currently digging up dirt on Tallon and secret Legion projects in the sector.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From                                       |
+| ---------------------------------------------------- |
+| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#) |
+
+
+## Helpful With
 
 [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#)
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Vigilance](./Vigilance.md)
 
-## Hostile
+
+| Interfering From                     |
+| ------------------------------------ |
+| [Vigilance](./Vigilance.md) |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 

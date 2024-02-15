@@ -106,30 +106,67 @@ Each member of the Agony is changed in some highly visible way, either with extr
 
 Having harvested horrors from Omega’s surface, the Agony have a plan to develop the living planet. By activating sites on the surface, they intend to move it within reach of [Mem](Procyon/Holt/Mem.md), feeding the oceans to Omega and starting a new era of its evolution.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Dyrinek Gang](./Dyrinek%2520Gang.md.md#.md#),[The Maelstrom](./The%2520Maelstrom.md.md#.md#)
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#.md#),[House Malklaith](./House%2520Malklaith.md.md#.md#)
 
-## Hostile
+
+| Interfering From                                 |
+| ------------------------------------------------ |
+| [House Malklaith](./House%2520Malklaith.md.md#.md#) |
+| [Vignerons](./Vignerons.md)             |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
