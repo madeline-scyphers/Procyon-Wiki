@@ -104,30 +104,66 @@ Each member of the Cult wears a small vial of Ashtari gas to allow them to “co
 
 Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [Nightfall](Procyon/Brekk/Nightfall.md) can be used to control the planetoids. The visions
 
-## Allies
+## Allies With
 
 [Ghosts](./Ghosts.md)
 
-## Friendly 
+| Allies From                    |
+| ------------------------------ |
+| [Ghosts](./Ghosts.md) |
+
+
+## Friendly With
 
 [Mendicants](./Mendicants.md)
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
 
 
 
-## War
+
+| Interfering From |
+| ---------------- |
+
+
+
+## Hostile With
+
+
+
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
 
 [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md)
+
+| War From |
+| -------- |
+
+
