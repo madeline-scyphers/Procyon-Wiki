@@ -110,30 +110,72 @@ Counters Guild members sign contracts for cycles of labor at a time and are paid
 
 Torx is playing Guild politics, aiming to show that the [Guild of Engineers](Guild%20of%20Engineers.md). He's spent vast sums on this, betting he’ll get it back once the Counters take over.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Starless Veil](./Starless%20Veil.md),[Scarlet Wolves](./Scarlet%20Wolves.md)
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [Sah'iir](./Sah'iir.md.md#.md#)
 
-## Neutral 
+| Helpful From                     |
+| -------------------------------- |
+| [Sah'iir](./Sah'iir.md.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Vorex](./Vorex.md),[Borniko Syndicate](./Borniko%20Syndicate.md)
 
-## Hostile
+
+| Interfering From                                       |
+| ------------------------------------------------------ |
+| [Lost Legion](./Lost%20Legion.md)               |
+| [The Maelstrom](./The%20Maelstrom.md)           |
+| [Guild of Engineers](./Guild%20of%20Engineers.md) |
+| [Yaru](./Yaru.md)                             |
+
+
+
+## Hostile With
 
 [Guild of Engineers](./Guild%20of%20Engineers.md)
 
-## War
+
+| Hostile From                 |
+| ---------------------------- |
+| [Vorex](./Vorex.md) |
+
+
+
+## War With
+
+
+
+| War From                                             |
+| ---------------------------------------------------- |
+| [Borniko Syndicate](./Borniko%20Syndicate.md) |
 
 
