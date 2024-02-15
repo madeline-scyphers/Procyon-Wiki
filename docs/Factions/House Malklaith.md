@@ -112,30 +112,73 @@ Malklaith owns the sector but the [Governor](Characters/Governor%20Ritam%20al%E2
 
 Disgraced after a famous duel, [Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From                              |
+| ---------------------------------------- |
+| [51st Legion](./51st%2520Legion.md.md#.md#) |
+
+
+## Friendly With
 
 [51st Legion](./51st%2520Legion.md.md#.md#),[Nightspeakers](./Nightspeakers.md.md#.md#)
 
-## Helpful 
+| Frinendly From                               |
+| -------------------------------------------- |
+| [Nightspeakers](./Nightspeakers.md.md#.md#) |
+
+
+## Helpful With
 
 [Turner Society](./Turner%2520Society.md.md#.md#)
 
-## Neutral 
+| Helpful From                                   |
+| ---------------------------------------------- |
+| [Turner Society](./Turner%2520Society.md.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [The Agony](./The%2520Agony.md.md#.md#),[Ashen Knives](./Ashen%2520Knives.md.md#.md#),[The Maelstrom](./The%2520Maelstrom.md.md#.md#)
 
-## Hostile
+
+| Interfering From                             |
+| -------------------------------------------- |
+| [Lost Legion](./Lost%2520Legion.md.md#.md#)     |
+| [The Maelstrom](./The%2520Maelstrom.md.md#.md#) |
+| [The Agony](./The%2520Agony.md.md#.md#)         |
+
+
+
+## Hostile With
 
 [Lost Legion](./Lost%2520Legion.md.md#.md#)
 
-## War
+
+| Hostile From                               |
+| ------------------------------------------ |
+| [Ashen Knives](./Ashen%2520Knives.md.md#.md#) |
+| [Dyrinek Gang](./Dyrinek%20Gang.md) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
