@@ -98,6 +98,7 @@ When the [Rin](Procyon/Rin/Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first o
 | Helpful From                                       |
 | -------------------------------------------------- |
 | [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#) |
+| [Yaru](./Yaru.md)                         |
 
 
 ## Neutral With

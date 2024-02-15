@@ -150,8 +150,9 @@ The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegem
 
 
 
-| Helpful From |
-| ------------ |
+| Helpful From               |
+| -------------------------- |
+| [Yaru](./Yaru.md.md#.md#.md#.md#) |
 
 
 ## Neutral With

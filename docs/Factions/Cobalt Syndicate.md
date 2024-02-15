@@ -153,6 +153,7 @@ Jax has taken over shipping lanes between Aleph and the Core worlds. He’s ange
 | Interfering From                                       |
 | ------------------------------------------------------ |
 | [Guild of Engineers](./Guild%20of%20Engineers.md) |
+| [Yaru](./Yaru.md)                             |
 
 
 

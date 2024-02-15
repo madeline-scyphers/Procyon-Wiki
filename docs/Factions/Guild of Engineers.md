@@ -136,8 +136,9 @@ Decadent and powerful, the Guild of Engineers is beyond the [Governor](Character
 
 
 
-| Helpful From |
-| ------------ |
+| Helpful From               |
+| -------------------------- |
+| [Yaru](./Yaru.md) |
 
 
 ## Neutral With
