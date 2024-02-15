@@ -40,7 +40,8 @@ theme:
 # Extensions
 markdown_extensions:
   - toc:
-      permalink: true
+      # permalink: true
+      toc_depth: 0
   - footnotes
   - nl2br
   - attr_list
