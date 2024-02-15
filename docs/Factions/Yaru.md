@@ -112,30 +112,71 @@ The Makers Guild doesn't accept new members. The progenitors have self-perfected
 
 When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, strictly regulated by the Hegemon, have been severely reduced. Unsatisfied, they have thrown in with the [Lost Legion](Factions/Lost%20Legion.md), and are secretly working to restore the previous Hegemon to power.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From                           |
+| ---------------------------------------- |
+| [Lost Legion](./Lost%2520Legion.md.md#.md#.md#.md#) |
+
+
+## Helpful With
 
 [Lost Legion](./Lost%2520Legion.md.md#.md#.md#.md#),[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#.md#),[Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#)
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Counters Guild](./Counters%2520Guild.md.md#.md#),[51st Legion](./51st%2520Legion.md.md#.md#),[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#)
 
-## Hostile
+
+| Interfering From                                                 |
+| ---------------------------------------------------------------- |
+| [Lost Legion](./Lost%2520Legion.md.md#.md#.md#.md#)                         |
+| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#)               |
+| [The Maelstrom](./The%20Maelstrom.md)                     |
+| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From                                 |
+| -------------------------------------------- |
+| [Starless Veil](./Starless%20Veil.md) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
