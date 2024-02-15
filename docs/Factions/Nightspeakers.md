@@ -100,30 +100,68 @@ Nightspeakers have pitch-black eyes and resonating voices after training in the 
 
 Though few, each member is a potent mystic. They hire themselves out to powerful individuals while searching for a set of Precursor artifacts called the Raiment of Night. Doraam has become the Governor’s personal mystic and advisor after sensing a piece of the Raiment—the Aleph key.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [House Malklaith](./House%2520Malklaith.md.md#.md#)
 
-## Helpful 
+| Frinendly From                                   |
+| ------------------------------------------------ |
+| [The Maelstrom](./The%20Maelstrom.md)     |
+| [House Malklaith](./House%2520Malklaith.md.md#.md#) |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
+
+
+
+
+| Interfering From |
+| ---------------- |
+
+
+
+## Hostile With
 
 [51st Legion](./51st%2520Legion.md.md#.md#),[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#.md#)
 
-## War
+
+| Hostile From                         |
+| ------------------------------------ |
+| [Vigilance](./Vigilance.md) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
