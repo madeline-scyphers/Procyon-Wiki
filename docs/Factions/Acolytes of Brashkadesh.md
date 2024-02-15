@@ -102,30 +102,66 @@ Attuning to the Pillar allows the Acolytes to communicate with each other and in
 
 The Acolytes are ready to begin the next phase of growing their following, but the Pillar requires massive reserves of energy to keep attuning to more people. They plan to indoctrinate an entire power plant’s workforce, so they can repurpose the plant to power the Pillar of Truth.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Mendicants](./Mendicants.md)
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
+
+
+
+
+| Interfering From                                       |
+| ------------------------------------------------------ |
+| [Concordiat Knights](./Concordiat%20Knights.md) |
+
+
+
+## Hostile With
 
 [Guild of Engineers](./Guild%20of%20Engineers.md),[Ashen Knives](./Ashen%20Knives.md)
 
-## War
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
