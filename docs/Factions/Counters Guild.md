@@ -155,6 +155,7 @@ Torx is playing Guild politics, aiming to show that the [Guild of Engineers](Gui
 | [Lost Legion](./Lost%20Legion.md)               |
 | [The Maelstrom](./The%20Maelstrom.md)           |
 | [Guild of Engineers](./Guild%20of%20Engineers.md) |
+| [Yaru](./Yaru.md)                             |
 
 
 
