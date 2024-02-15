@@ -107,30 +107,70 @@ To join the Syndicate, Knives must take a life. Being promoted requires doing un
 
 The Ashen Knives' power on [Warren](Procyon/Rin/Warren.md) has filled the Knives’ coffers, and now their sights are set on expanding.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [The Maelstrom](./The%2520Maelstrom.md.md#.md#)
 
-## Helpful 
+| Frinendly From                               |
+| -------------------------------------------- |
+| [The Maelstrom](./The%2520Maelstrom.md.md#.md#) |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
 
 
 
-## Hostile
+## Interfering With
+
+
+
+
+| Interfering From                                 |
+| ------------------------------------------------ |
+| [House Malklaith](./House%2520Malklaith.md.md#.md#) |
+
+
+
+## Hostile With
 
 [House Malklaith](./House%2520Malklaith.md.md#.md#)
 
-## War
+
+| Hostile From                                                     |
+| ---------------------------------------------------------------- |
+| [51st Legion](./51st%20Legion.md)                         |
+| [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) |
+
+
+
+## War With
 
 [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#)
+
+| War From                                           |
+| -------------------------------------------------- |
+| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#.md#) |
+
+
