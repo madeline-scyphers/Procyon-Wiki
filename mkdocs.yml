@@ -39,6 +39,8 @@ theme:
         - search.highlight
 # Extensions
 markdown_extensions:
+  - toc:
+      toc_depth: 0
   - footnotes
   - nl2br
   - attr_list
