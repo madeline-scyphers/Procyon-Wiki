@@ -108,30 +108,72 @@ Every member wears a solid blue stripe somewhere on their clothing. A blue strip
 
 Jax has taken over shipping lanes between Aleph and the Core worlds. He’s angered a number of powerful Guild [Factions](Factions.md), and the secret wars between them are nearing a violent outburst. Jax has been stockpiling.
 
-## Allies
+## Allies With
 
 [Dyrinek Gang](./Dyrinek%20Gang.md)
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [The Maelstrom](./The%20Maelstrom.md)
 
-## Helpful 
+| Frinendly From                               |
+| -------------------------------------------- |
+| [The Maelstrom](./The%20Maelstrom.md) |
+| [Dyrinek Gang](./Dyrinek%20Gang.md)   |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From                         |
+| ------------------------------------ |
+| [Vignerons](./Vignerons.md) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Yaru](./Yaru.md)
 
-## Hostile
+
+| Interfering From                                       |
+| ------------------------------------------------------ |
+| [Guild of Engineers](./Guild%20of%20Engineers.md) |
+| [Yaru](./Yaru.md)                             |
+
+
+
+## Hostile With
 
 [Guild of Engineers](./Guild%20of%20Engineers.md),[Starsmiths Guild](./Starsmiths%20Guild.md)
 
-## War
+
+| Hostile From                                       |
+| -------------------------------------------------- |
+| [Starsmiths Guild](./Starsmiths%20Guild.md) |
+
+
+
+## War With
 
 [Ashen Knives](./Ashen%20Knives.md)
+
+| War From                                   |
+| ------------------------------------------ |
+| [Ashen Knives](./Ashen%20Knives.md) |
+
+
