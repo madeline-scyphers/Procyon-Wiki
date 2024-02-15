@@ -155,7 +155,6 @@ Tallon earned commendations on the battlefield but swore to cleanse the Hegemoni
 | Interfering From                             |
 | -------------------------------------------- |
 | [The Maelstrom](./The%2520Maelstrom.md.md#.md#) |
-| [Yaru](./Yaru.md)                   |
 
 
 

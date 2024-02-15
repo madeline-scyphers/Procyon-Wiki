@@ -36,6 +36,7 @@ turf: Iota Shipyards (HQ). All major spaceports.
 quirks: All ships in Hegemonic space by law must be registered, certified, and maintained by the Starsmiths Guild. False papers abound, though.
 situation: When the [Rin](Procyon/Rin/Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
 ---
+
 ## Tier
 
 3
@@ -97,7 +98,6 @@ When the [Rin](Procyon/Rin/Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first o
 | Helpful From                                       |
 | -------------------------------------------------- |
 | [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#) |
-| [Yaru](./Yaru.md)                         |
 
 
 ## Neutral With
