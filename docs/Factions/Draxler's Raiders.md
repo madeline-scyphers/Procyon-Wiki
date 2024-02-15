@@ -114,30 +114,71 @@ Almost all members of Draxler’s Raiders are wanted for crimes.
 
 Draxler has made a lot of waves since taking over the Raiders, making numerous enemies and allies al
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Janus Syndicate](./Janus%2520Syndicate.md.md#.md#),[Lost Legion](./Lost%2520Legion.md.md#.md#)
 
-## Helpful 
+| Frinendly From                           |
+| ---------------------------------------- |
+| [Lost Legion](./Lost%2520Legion.md.md#.md#) |
+
+
+## Helpful With
 
 
 
-## Neutral 
+| Helpful From                                     |
+| ------------------------------------------------ |
+| [Janus Syndicate](./Janus%2520Syndicate.md.md#.md#) |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Vigilance](./Vigilance.md.md#.md#),[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#.md#)
 
-## Hostile
+
+| Interfering From                                         |
+| -------------------------------------------------------- |
+| [Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#.md#) |
+| [Vigilance](./Vigilance.md.md#.md#)                     |
+
+
+
+## Hostile With
 
 [The Maelstrom](./The%2520Maelstrom.md.md#.md#),[51st Legion](./51st%2520Legion.md.md#.md#)
 
-## War
+
+| Hostile From                                 |
+| -------------------------------------------- |
+| [The Maelstrom](./The%2520Maelstrom.md.md#.md#) |
+| [Wreckers](./Wreckers.md)           |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
