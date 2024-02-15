@@ -104,30 +104,74 @@ Each member is branded with a mark of the Church, known as the Kiss of Light. Fa
 
 Alaana has few but elite resources in the sector. Without widespread followers, she relies on her attuned prayers and instincts to guide her. The Church is focusing on finding key targets rather than widespread action.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Dyrinek Gang](./Dyrinek%2520Gang.md.md#.md#)
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [The Maelstrom](./The%2520Maelstrom.md.md#.md#)
 
-## Neutral 
+| Helpful From |
+| ------------ |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Yaru](./Yaru.md.md#.md#),[Starsmiths Guild](./Starsmiths%2520Guild.md.md#.md#)
 
-## Hostile
+
+| Interfering From                         |
+| ---------------------------------------- |
+| [Lost Legion](./Lost%20Legion.md) |
+| [Vignerons](./Vignerons.md)     |
+| [The Agony](./The%20Agony.md)     |
+| [Mendicants](./Mendicants.md)   |
+| [Ghosts](./Ghosts.md)           |
+
+
+
+## Hostile With
 
 [Guild of Engineers](./Guild%2520of%2520Engineers.md.md#.md#)
 
-## War
+
+| Hostile From                                             |
+| -------------------------------------------------------- |
+| [51st Legion](./51st%20Legion.md)                 |
+| [Cult of the Seekers](./Cult%20of%20the%20Seekers.md) |
+| [Nightspeakers](./Nightspeakers.md)             |
+
+
+
+## War With
+
+
+
+| War From                                   |
+| ------------------------------------------ |
+| [Ashtari Cult](./Ashtari%20Cult.md) |
 
 
