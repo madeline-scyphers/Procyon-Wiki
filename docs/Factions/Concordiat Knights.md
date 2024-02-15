@@ -107,30 +107,69 @@ Each Knight is as distinct as they can be from each other. This tight-knit group
 
 A retrieved message about a powerful artifact that could terraform previously dead worlds ignited a fervor in a number of Hegemonic youths. Taking an oath blessed by the Hegemon to find it, they're looking all over the Galaxy. Nicols recently found a marked map of [Procyon](Procyon/Procyon.md) predating the Hegemony.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 
 
-## Helpful 
+| Frinendly From |
+| -------------- |
+
+
+## Helpful With
 
 [Vigilance](./Vigilance.md),[Mendicants](./Mendicants.md)
 
-## Neutral 
+| Helpful From                             |
+| ---------------------------------------- |
+| [Mendicants](./Mendicants.md)   |
+| [Conclave 01](./Conclave%2001.md) |
+| [Vigilance](./Vigilance.md)     |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md)
 
-## Hostile
+
+| Interfering From                         |
+| ---------------------------------------- |
+| [Lost Legion](./Lost%20Legion.md) |
 
 
 
-## War
+## Hostile With
+
+
+
+
+| Hostile From |
+| ------------ |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
