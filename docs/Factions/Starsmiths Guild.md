@@ -72,30 +72,75 @@ All ships in Hegemonic space by law must be registered, certified, and maintaine
 
 When the [Rin](Procyon/Rin/Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
 
-## Allies
+## Allies With
 
 
 
-## Friendly 
+| Allies From |
+| ----------- |
+
+
+## Friendly With
 
 [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#)
 
-## Helpful 
+| Frinendly From                                           |
+| -------------------------------------------------------- |
+| [51st Legion](./51st%20Legion.md)                 |
+| [Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#) |
+
+
+## Helpful With
 
 [Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#)
 
-## Neutral 
+| Helpful From                                       |
+| -------------------------------------------------- |
+| [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#) |
+| [Yaru](./Yaru.md)                         |
+
+
+## Neutral With
 
 
 
-## Interfering
+
+| Neutral From |
+| ------------ |
+
+
+
+## Interfering With
 
 [Borniko Syndicate](./Borniko%2520Syndicate.md.md#)
 
-## Hostile
+
+| Interfering From                                                 |
+| ---------------------------------------------------------------- |
+| [Lost Legion](./Lost%20Legion.md)                         |
+| [The Maelstrom](./The%20Maelstrom.md)                     |
+| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#)             |
+| [Starless Veil](./Starless%20Veil.md)                     |
+| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) |
+
+
+
+## Hostile With
 
 [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#)
 
-## War
+
+| Hostile From                                       |
+| -------------------------------------------------- |
+| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#) |
+
+
+
+## War With
+
+
+
+| War From |
+| -------- |
 
 
