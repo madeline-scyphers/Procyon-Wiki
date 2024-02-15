@@ -1,0 +1,4 @@
+/* add table min width to widen tables */
+.md-typeset__table {
+   min-width: 100%;
+}
