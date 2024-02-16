@@ -33,9 +33,9 @@ A doctor
 
 ## Relationships
 
-| Friend                                   | Profile |
-| ---------------------------------------- | ------- |
-| [[Characters/Leto Ramus.md\|Leto Ramus]] |         |
+| Friend                                   | Profile               |
+| ---------------------------------------- | --------------------- |
+| [[Characters/Leto Ramus.md\|Leto Ramus]] | wanderer and academic |
 
 
 | Enemy | Profile |
