@@ -50,7 +50,7 @@ One of the Hegemonic High Guilds responsible for resource acquisition, cyberneti
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/SB-176|SB-176]]
+[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Rin/SB-176|SB-176]]
 
 ## Turf
 
