@@ -45,7 +45,7 @@ Mystics with dark proclivities bent on seeking a set of dangerous Precursor arti
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]]
+[[../Procyon/Brekk/Brekk|Brekk]]
 
 ## Turf
 
