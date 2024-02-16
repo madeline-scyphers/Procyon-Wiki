@@ -9,9 +9,6 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: []
-friends: []
-enemies: []
 ---
 ---
 name: Krieger
@@ -24,9 +21,6 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: []
-friends: []
-enemies: []
 ---
 
 

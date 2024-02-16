@@ -12,7 +12,7 @@ faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 location: "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: ""
 friends:
-  - "[[Kriegar|Kriegar]]"
+  - "[[Krieger|Krieger]]"
 enemies:
   - "[[Yazu|Yazu]]"
 ---
@@ -34,7 +34,7 @@ enemies:
 
 
 ## Friends
-[[Kriegar|Kriegar]]
+[[Characters/Krieger.md|Krieger]]
 
 ## Enemies
 [[Characters/Yazu.md|Yazu]]
