@@ -12,8 +12,10 @@ share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 location: "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: ""
-friends: []
-enemies: []
+friends:
+  - "[[Ora|Ora]]"
+enemies:
+  - "[[Nyx|Nyx]]"
 ---
 
 
@@ -31,7 +33,10 @@ enemies: []
 # Mordin Ulmak
 ## Profile
 
+
 ## Friends
-- [[Ora|Ora]] (An info broker)
+[[Characters/Ora.md|Ora]]
+
 ## Enemies
-- [[Nyx|Nyx]] (A moneylender)
+[[Characters/Nyx.md|Nyx]]
+

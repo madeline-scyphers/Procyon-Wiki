@@ -11,9 +11,12 @@ pronouns: They/Them
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 location: "[[Factions/Rusty Nail|Rusty Nail]]"
-profile: ""
-friends: []
-enemies: []
+profile: Spent whole life on ships
+friends:
+  - "[[Slice|Slice]]"
+  - "[[Characters/Rocco Apple|Rocco Apple]]"
+enemies:
+  - "[[Stev|Stev]]"
 ---
 
 
@@ -30,10 +33,11 @@ enemies: []
 
 # Kit Apple
 ## Profile
+Spent whole life on ships
 
 ## Friends
-- [[Slice|Slice]] (a junkyard owner)
-- [[Characters/Rocco Apple|Rocco Apple]] 
+[[Characters/Slice.md|Slice]],[[Characters/Rocco Apple.md|Rocco Apple]]
+
 ## Enemies
-- [[Stev|Stev]] (A gambler of ill repute)
+[[Characters/Stev.md|Stev]]
 

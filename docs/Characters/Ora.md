@@ -8,8 +8,9 @@ status: active
 share: "true"
 tags:
   - npc
-profile: ""
-friends: []
+profile: An info broker
+friends:
+  - "[[Characters/Mordin Ulmak|Mordin Ulmak]]"
 enemies: []
 ---
 ---
@@ -22,8 +23,9 @@ status: active
 share: "true"
 tags:
   - npc
-profile: ""
-friends: []
+profile: An info broker
+friends:
+  - "[[Characters/Mordin Ulmak|Mordin Ulmak]]"
 enemies: []
 ---
 
@@ -41,9 +43,11 @@ enemies: []
 
 # Ora
 ## Profile
+An info broker
 
 ## Friends
--
+[[Characters/Mordin Ulmak.md|Mordin Ulmak]]
+
 ## Enemies
--
+
 

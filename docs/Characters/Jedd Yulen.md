@@ -11,8 +11,10 @@ share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 location: "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: ""
-friends: []
-enemies: []
+friends:
+  - "[[Kriegar|Kriegar]]"
+enemies:
+  - "[[Yazu|Yazu]]"
 ---
 
 
@@ -30,7 +32,9 @@ enemies: []
 # Jedd Yulen
 ## Profile
 
+
 ## Friends
-- [[Kriegar|Kriegar]] (A fine blaster pistol)
+[[Kriegar|Kriegar]]
+
 ## Enemies
-- [[Yazu|Yazu]] (A crooked cop)
+[[Characters/Yazu.md|Yazu]]

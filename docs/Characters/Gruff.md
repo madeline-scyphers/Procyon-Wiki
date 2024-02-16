@@ -7,7 +7,7 @@ status: active
 share: "true"
 tags:
   - npc
-profile: ""
+profile: Average scientist, wasn't gonna make it very far up the ranks. Often made mistakes with his papers. Accidently got turned into a half-phased being.
 friends: []
 enemies: []
 ---
@@ -26,11 +26,12 @@ enemies: []
 
 # Gruff
 ## Profile
-
 Average scientist, wasn't gonna make it very far up the ranks. Often made mistakes with his papers. Accidently got turned into a half-phased being.
 
 ## Friends
 
+
 ## Enemies
+
 
 
