@@ -10,8 +10,7 @@ status: active
 pronouns: Any, Sure, Whatever
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location:
-  - Rusty Nail
+location: Rusty Nail
 profile: ""
 friends:
   - "[[Ora|Ora]]"
@@ -30,8 +29,7 @@ status: active
 pronouns: Any, Sure, Whatever
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: 
-  - "Rusty Nail"
+location: "Rusty Nail"
 profile: ""
 friends:
   - "[[Ora|Ora]]"
