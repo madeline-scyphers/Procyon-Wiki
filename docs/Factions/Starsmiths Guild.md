@@ -51,7 +51,7 @@ Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make poss
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/index|Procyon]]
+[[Procyon/Iota.md|Iota]],[[Procyon.md|Procyon]]
 
 ## Turf
 
@@ -83,22 +83,22 @@ When the [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first open
 
 ## Friendly With
 
-[[./Echo Wave Riders|Echo Wave Riders]]
+[[Factions/Echo Wave Riders.md|Echo Wave Riders]]
 
 | Frinendly From                                           |
 | -------------------------------------------------------- |
-| [[./51st Legion\|51st Legion]]                 |
-| [[./Cult of the Seekers\|Cult of the Seekers]] |
+| [[Factions/51st Legion.md\|51st Legion]]                 |
+| [[Factions/Cult of the Seekers.md\|Cult of the Seekers]] |
 
 
 ## Helpful With
 
-[[./Cult of the Seekers|Cult of the Seekers]]
+[[Factions/Cult of the Seekers.md|Cult of the Seekers]]
 
 | Helpful From                                       |
 | -------------------------------------------------- |
-| [[./Echo Wave Riders\|Echo Wave Riders]] |
-| [[./Yaru\|Yaru]]                         |
+| [[Factions/Echo Wave Riders.md\|Echo Wave Riders]] |
+| [[Factions/Yaru.md\|Yaru]]                         |
 
 
 ## Neutral With
@@ -113,27 +113,27 @@ When the [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first open
 
 ## Interfering With
 
-[[./Borniko Syndicate|Borniko Syndicate]]
+[[Factions/Borniko Syndicate.md|Borniko Syndicate]]
 
 
 | Interfering From                                                 |
 | ---------------------------------------------------------------- |
-| [[./Lost Legion\|Lost Legion]]                         |
-| [[./The Maelstrom\|The Maelstrom]]                     |
-| [[./Borniko Syndicate\|Borniko Syndicate]]             |
-| [[./Starless Veil\|Starless Veil]]                     |
-| [[./Church of Stellar Flame\|Church of Stellar Flame]] |
+| [[Factions/Lost Legion.md\|Lost Legion]]                         |
+| [[Factions/The Maelstrom.md\|The Maelstrom]]                     |
+| [[Factions/Borniko Syndicate.md\|Borniko Syndicate]]             |
+| [[Factions/Starless Veil.md\|Starless Veil]]                     |
+| [[Factions/Church of Stellar Flame.md\|Church of Stellar Flame]] |
 
 
 
 ## Hostile With
 
-[[./Cobalt Syndicate|Cobalt Syndicate]]
+[[Factions/Cobalt Syndicate.md|Cobalt Syndicate]]
 
 
 | Hostile From                                       |
 | -------------------------------------------------- |
-| [[./Cobalt Syndicate\|Cobalt Syndicate]] |
+| [[Factions/Cobalt Syndicate.md\|Cobalt Syndicate]] |
 
 
 
