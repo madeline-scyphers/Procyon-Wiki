@@ -1,6 +1,6 @@
 ---
 share: "true"
-title: Characters
+title: index
 ---
 
 ## Characters
