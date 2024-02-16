@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Rin/index|Rin]]"
+  - "[[Rin|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "4"
 nature: The most successful information broker to ever live. Can access any terminal in the sector—though no one can explain how.
