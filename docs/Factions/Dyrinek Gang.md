@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Rin/Rin|Rin]]"
+  - "[[Procyon/Rin/index|index]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "1"
 nature: Mostly young disenfranchised xenos who have turned to crime and found strength and solidarity with each other.
@@ -47,7 +47,7 @@ Mostly young disenfranchised xenos who have turned to crime and found strength a
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/index|index]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
