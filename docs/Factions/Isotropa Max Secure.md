@@ -44,7 +44,7 @@ A notorious prison in [[Procyon/Procyon|Procyon/Procyon]] housing the worst offe
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]]
+[[../Procyon/Brekk/Brekk|Brekk]]
 
 ## Turf
 
