@@ -5,37 +5,37 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[Rin](Rin.md)"
-  - "[Warren](../Procyon/Rin/Warren.md#)"
-  - "[Procyon](../Procyon/index.md#)"
+  - "[[Rin|Rin]]"
+  - "[[Procyon/Rin/Warren|Warren]]"
+  - "[[Procyon|Procyon]]"
 tier: "3"
 nature: Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the House holds a small seat on a local moon.
 allies: []
 friendly:
-  - "[51st Legion](./51st%2520Legion.md#)"
-  - "[Nightspeakers](./Nightspeakers.md#)"
+  - "[[Factions/51st Legion|Factions/51st Legion]]"
+  - "[[Factions/Nightspeakers|Factions/Nightspeakers]]"
 helpful:
-  - "[Turner Society](./Turner%2520Society.md#)"
+  - "[[Factions/Turner Society|Factions/Turner Society]]"
 neutral: []
 interfering:
-  - "[The Agony](./The%2520Agony.md#)"
-  - "[Ashen Knives](./Ashen%2520Knives.md#)"
-  - "[The Maelstrom](./The%2520Maelstrom.md#)"
+  - "[[Factions/The Agony|Factions/The Agony]]"
+  - "[[Factions/Ashen Knives|Factions/Ashen Knives]]"
+  - "[[Factions/The Maelstrom|Factions/The Maelstrom]]"
 hostile:
-  - "[Lost Legion](./Lost%2520Legion.md#)"
+  - "[[Factions/Lost Legion|Factions/Lost Legion]]"
 war: []
 goals:
   - Acquire the Aleph key.
 notable assets:
-  - "[Procyon](Procyon/Procyon.md) sector taxes generating vast coffers."
+  - "[[Procyon/Procyon|Procyon/Procyon]] sector taxes generating vast coffers."
   - A growing collection of Precursor artifacts.
 notable npcs:
-  - "[Governor Ritam al’Malklaith](Governor%20Ritam%20al%E2%80%99Malklaith.md) (Noble, intense, obsessed, well-spoken)."
+  - "[[Governor Ritam al’Malklaith|Governor Ritam al’Malklaith]] (Noble, intense, obsessed, well-spoken)."
   - Jerrem (guard captain, tactical, scarred, loyal).
   - Shim (judge, corrupt, greedy, ambitious).
-turf: Malklaith owns the sector but the [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) rarely leaves [Warren](../Procyon/Rin/Warren.md#). His people can be found in major positions in every system of the sector.
-quirks: "[Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) wears a number of strange rings of Precursor origin, the powers of which are not fully known even to him."
-situation: Disgraced after a famous duel, [Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
+turf: Malklaith owns the sector but the [[Characters/Governor Ritam al’Malklaith|Governor]] rarely leaves [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. His people can be found in major positions in every system of the sector.
+quirks: "[[Characters/Governor Ritam al’Malklaith|Governor Malklaith]] wears a number of strange rings of Precursor origin, the powers of which are not fully known even to him."
+situation: Disgraced after a famous duel, [[Characters/Governor Ritam al’Malklaith|Governor Malklaith]] is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
 ---
 ## Tier
 
@@ -51,27 +51,27 @@ Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the H
 
 ## Location
 
-[Rin](../Procyon/Rin/index.md),[Warren](../Procyon/Rin/Warren.md.md#.md#),[Procyon](../Procyon/index.md.md#)
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]],[[../Procyon/index|Procyon]]
 
 ## Turf
 
-Malklaith owns the sector but the [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) rarely leaves [Warren](Procyon/Rin/Warren.md). His people can be found in major positions in every system of the sector.
+Malklaith owns the sector but the [[Characters/Governor Ritam al’Malklaith|Governor]] rarely leaves [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. His people can be found in major positions in every system of the sector.
 
 ## Notable NPCs
 
-[Governor Ritam al’Malklaith](Governor%20Ritam%20al%E2%80%99Malklaith.md) (Noble, intense, obsessed, well-spoken).,Jerrem (guard captain, tactical, scarred, loyal).,Shim (judge, corrupt, greedy, ambitious).
+[[Governor Ritam al’Malklaith|Governor Ritam al’Malklaith]] (Noble, intense, obsessed, well-spoken).,Jerrem (guard captain, tactical, scarred, loyal).,Shim (judge, corrupt, greedy, ambitious).
 
 ## Notable Assets
 
-[Procyon](Procyon/Procyon.md) sector taxes generating vast coffers.,A growing collection of Precursor artifacts.
+[[Procyon/Procyon|Procyon/Procyon]] sector taxes generating vast coffers.,A growing collection of Precursor artifacts.
 
 ## Quirks
 
-[Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) wears a number of strange rings of Precursor origin, the powers of which are not fully known even to him.
+[[Characters/Governor Ritam al’Malklaith|Governor Malklaith]] wears a number of strange rings of Precursor origin, the powers of which are not fully known even to him.
 
 ## Situation
 
-Disgraced after a famous duel, [Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
+Disgraced after a famous duel, [[Characters/Governor Ritam al’Malklaith|Governor Malklaith]] is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
 
 ## Allies With
 
@@ -79,25 +79,25 @@ Disgraced after a famous duel, [Governor Malklaith](Characters/Governor%20Ritam%
 
 | Allies From                              |
 | ---------------------------------------- |
-| [51st Legion](./51st%2520Legion.md.md#) |
+| [[./51st Legion\|51st Legion]] |
 
 
 ## Friendly With
 
-[51st Legion](./51st%2520Legion.md.md#),[Nightspeakers](./Nightspeakers.md.md#)
+[[./51st Legion|51st Legion]],[[./Nightspeakers|Nightspeakers]]
 
 | Frinendly From                               |
 | -------------------------------------------- |
-| [Nightspeakers](./Nightspeakers.md.md#) |
+| [[./Nightspeakers\|Nightspeakers]] |
 
 
 ## Helpful With
 
-[Turner Society](./Turner%2520Society.md.md#)
+[[./Turner Society|Turner Society]]
 
 | Helpful From                                   |
 | ---------------------------------------------- |
-| [Turner Society](./Turner%2520Society.md.md#) |
+| [[./Turner Society\|Turner Society]] |
 
 
 ## Neutral With
@@ -112,25 +112,25 @@ Disgraced after a famous duel, [Governor Malklaith](Characters/Governor%20Ritam%
 
 ## Interfering With
 
-[The Agony](./The%2520Agony.md.md#),[Ashen Knives](./Ashen%2520Knives.md.md#),[The Maelstrom](./The%2520Maelstrom.md.md#)
+[[./The Agony|The Agony]],[[./Ashen Knives|Ashen Knives]],[[./The Maelstrom|The Maelstrom]]
 
 
 | Interfering From                             |
 | -------------------------------------------- |
-| [Lost Legion](./Lost%2520Legion.md.md#)     |
-| [The Maelstrom](./The%2520Maelstrom.md.md#) |
-| [The Agony](./The%2520Agony.md.md#)         |
+| [[./Lost Legion\|Lost Legion]]     |
+| [[./The Maelstrom\|The Maelstrom]] |
+| [[./The Agony\|The Agony]]         |
 
 
 
 ## Hostile With
 
-[Lost Legion](./Lost%2520Legion.md.md#)
+[[./Lost Legion|Lost Legion]]
 
 
 | Hostile From                               |
 | ------------------------------------------ |
-| [Dyrinek Gang](./Dyrinek%20Gang.md) |
+| [[./Dyrinek Gang\|Dyrinek Gang]] |
 
 
 
