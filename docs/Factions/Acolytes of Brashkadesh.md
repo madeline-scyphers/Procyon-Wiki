@@ -5,7 +5,7 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Iota/index|index]]"
+  - "[[Procyon/Iota/Iota|Iota]]"
   - "[[Procyon/Iota/Indri|Indri]]"
 tier: "1"
 nature: Eschewing individuality, all initiates adopt the same garb and the name “Ashkad” in the pursuit of perfection at any cost.
@@ -46,7 +46,7 @@ Eschewing individuality, all initiates adopt the same garb and the name “Ashka
 
 ## Location
 
-[[../Procyon/Iota/index|index]],[[../Procyon/Iota/Indri|Indri]]
+[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Indri|Indri]]
 
 ## Turf
 

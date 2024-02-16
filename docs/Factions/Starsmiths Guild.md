@@ -5,8 +5,8 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Iota/index|index]]"
-  - "[[Procyon/index|index]]"
+  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Procyon|Procyon]]"
 tier: "3"
 nature: Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make possible the intragalactic Hegemony.
 allies: 
@@ -51,7 +51,7 @@ Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make poss
 
 ## Location
 
-[[../Procyon/Iota/index|index]],[[../Procyon/index|index]]
+[[../Procyon/Iota/index|Iota]],[[../Procyon/index|Procyon]]
 
 ## Turf
 

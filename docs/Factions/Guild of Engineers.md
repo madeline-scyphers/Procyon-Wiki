@@ -5,7 +5,7 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Rin/index|index]]"
+  - "[[Rin|Rin]]"
   - "[[Procyon/Rin/SB-176|SB-176]]"
 tier: "5"
 nature: One of the Hegemonic High Guilds responsible for resource acquisition, cybernetics, AI tech advancement, and research.
@@ -50,7 +50,7 @@ One of the Hegemonic High Guilds responsible for resource acquisition, cyberneti
 
 ## Location
 
-[[../Procyon/Rin/index|index]],[[../Procyon/Rin/SB-176|SB-176]]
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/SB-176|SB-176]]
 
 ## Turf
 

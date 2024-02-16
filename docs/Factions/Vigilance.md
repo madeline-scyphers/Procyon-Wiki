@@ -5,7 +5,7 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Brekk/index|index]]"
+  - "[[Procyon/Brekk/Brekk|Brekk]]"
   - "[[Procyon/Brekk/Aketi|Aketi]]"
 tier: "1"
 nature: Warrior mystics that seek to enforce an ancient code of justice on those they find wanting.
@@ -50,7 +50,7 @@ Warrior mystics that seek to enforce an ancient code of justice on those they fi
 
 ## Location
 
-[[../Procyon/Brekk/index|index]],[[../Procyon/Brekk/Aketi|Aketi]]
+[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Brekk/Aketi|Aketi]]
 
 ## Turf
 

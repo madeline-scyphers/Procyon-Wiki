@@ -5,8 +5,8 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Iota/index|index]]"
-  - "[[Procyon/Holt/index|index]]"
+  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Holt/Holt|Holt]]"
   - "[[Procyon/Iota/Amerath|Amerath]]"
   - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
 tier: "3"
@@ -52,7 +52,7 @@ Pursuers of immortality via tech implants and chemical formulas distilled from t
 
 ## Location
 
-[[../Procyon/Iota/index|index]],[[../Procyon/Holt/index|index]],[[../Procyon/Iota/Amerath|Amerath]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
+[[../Procyon/Iota/index|Iota]],[[../Procyon/Holt/index|Holt]],[[../Procyon/Iota/Amerath|Amerath]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
 
 ## Turf
 

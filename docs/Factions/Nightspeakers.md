@@ -5,7 +5,7 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Brekk/index|index]]"
+  - "[[Procyon/Brekk/Brekk|Brekk]]"
 tier: "2"
 nature: Mystics with dark proclivities bent on seeking a set of dangerous Precursor artifacts.
 allies: []
@@ -45,7 +45,7 @@ Mystics with dark proclivities bent on seeking a set of dangerous Precursor arti
 
 ## Location
 
-[[../Procyon/Brekk/index|index]]
+[[../Procyon/Brekk/index|Brekk]]
 
 ## Turf
 

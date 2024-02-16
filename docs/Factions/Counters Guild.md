@@ -5,7 +5,7 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Rin/index|index]]"
+  - "[[Rin|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "4"
 nature: Maintains the galactic currency network and shadow repositories in each system.
@@ -50,7 +50,7 @@ Maintains the galactic currency network and shadow repositories in each system.
 
 ## Location
 
-[[../Procyon/Rin/index|index]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 

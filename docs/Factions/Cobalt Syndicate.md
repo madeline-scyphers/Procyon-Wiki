@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Rin/index|index]]"
+  - "[[Rin|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "4"
 nature: Once a labor union, the Cobalt Syndicate has turned to smuggling and extortion to carve out shipping lanes and have a real say.
@@ -49,7 +49,7 @@ Once a labor union, the Cobalt Syndicate has turned to smuggling and extortion t
 
 ## Location
 
-[[../Procyon/Rin/index|index]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
