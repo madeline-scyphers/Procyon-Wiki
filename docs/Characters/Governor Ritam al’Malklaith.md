@@ -34,10 +34,15 @@ enemies: []
 ## Profile
 
 
-## Friends
-[[Characters/Rocco Apple.md|Rocco Apple]]
+## Relationships
 
-## Enemies
+| Friend                                     | Profile                                                                                                                                                                                                                                                            |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Characters/Rocco Apple.md\|Rocco Apple]] | Works as one of the preeminent ship designers and builders in the system. Works under [[Factions/House Malklaith\|House Malklaith]].
+ [[Kit Apple|Kit Apple]]'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them |
 
+
+| Enemy | Profile |
+| ----- | ------- |
 
 
