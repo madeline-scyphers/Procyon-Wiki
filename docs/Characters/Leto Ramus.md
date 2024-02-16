@@ -10,8 +10,9 @@ status: active
 pronouns: He/Him?
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: "[[Factions/Rusty Nail|Rusty Nail]]"
-profile: ""
+location:
+  - "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: wanderer and academic
 friends:
   - "[[Juda|Juda]]"
 enemies:
@@ -32,7 +33,7 @@ enemies:
 
 # Leto Ramus
 ## Profile
-
+wanderer and academic
 
 ## Relationships
 
