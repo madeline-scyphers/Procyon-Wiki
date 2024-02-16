@@ -50,7 +50,7 @@ Maintains the galactic currency network and shadow repositories in each system.
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[Procyon/Rin.md|Rin]],[[Procyon/Rin/Warren.md|Warren]]
 
 ## Turf
 
@@ -82,7 +82,7 @@ Torx is playing Guild politics, aiming to show that the [[Guild of Engineers|Gui
 
 ## Friendly With
 
-[[./Starless Veil|Starless Veil]],[[./Scarlet Wolves|Scarlet Wolves]]
+[[Factions/Starless Veil.md|Starless Veil]],[[Factions/Scarlet Wolves.md|Scarlet Wolves]]
 
 | Frinendly From |
 | -------------- |
@@ -90,11 +90,11 @@ Torx is playing Guild politics, aiming to show that the [[Guild of Engineers|Gui
 
 ## Helpful With
 
-[[./Sah'iir|Sah'iir]]
+[[Factions/Sah'iir.md|Sah'iir]]
 
 | Helpful From                     |
 | -------------------------------- |
-| [[./Sah'iir\|Sah'iir]] |
+| [[Factions/Sah'iir.md\|Sah'iir]] |
 
 
 ## Neutral With
@@ -109,26 +109,26 @@ Torx is playing Guild politics, aiming to show that the [[Guild of Engineers|Gui
 
 ## Interfering With
 
-[[./Vorex|Vorex]],[[./Borniko Syndicate|Borniko Syndicate]]
+[[Factions/Vorex.md|Vorex]],[[Factions/Borniko Syndicate.md|Borniko Syndicate]]
 
 
 | Interfering From                                       |
 | ------------------------------------------------------ |
-| [[./Lost Legion\|Lost Legion]]               |
-| [[./The Maelstrom\|The Maelstrom]]           |
-| [[./Guild of Engineers\|Guild of Engineers]] |
-| [[./Yaru\|Yaru]]                             |
+| [[Factions/Lost Legion.md\|Lost Legion]]               |
+| [[Factions/The Maelstrom.md\|The Maelstrom]]           |
+| [[Factions/Guild of Engineers.md\|Guild of Engineers]] |
+| [[Factions/Yaru.md\|Yaru]]                             |
 
 
 
 ## Hostile With
 
-[[./Guild of Engineers|Guild of Engineers]]
+[[Factions/Guild of Engineers.md|Guild of Engineers]]
 
 
 | Hostile From                 |
 | ---------------------------- |
-| [[./Vorex\|Vorex]] |
+| [[Factions/Vorex.md\|Vorex]] |
 
 
 
@@ -138,5 +138,5 @@ Torx is playing Guild politics, aiming to show that the [[Guild of Engineers|Gui
 
 | War From                                             |
 | ---------------------------------------------------- |
-| [[./Borniko Syndicate\|Borniko Syndicate]] |
+| [[Factions/Borniko Syndicate.md\|Borniko Syndicate]] |
 
