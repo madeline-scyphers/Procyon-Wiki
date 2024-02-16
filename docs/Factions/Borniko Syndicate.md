@@ -49,7 +49,7 @@ A tightly knit group of thieves who steal high-end technological supplies.
 
 ## Location
 
-[[../Procyon/Rin/Warren|Warren]],[[../Procyon/Rin/index|Rin]]
+[[../Procyon/Rin/Warren|Warren]],[[../Procyon/Rin/Rin|Rin]]
 
 ## Turf
 
