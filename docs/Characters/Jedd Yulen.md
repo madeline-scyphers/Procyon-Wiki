@@ -8,26 +8,26 @@ playbook: Muscle
 status: active
 pronouns: He/Him
 share: "true"
-faction: "[Rusty Nail](../Factions/Rusty%2520Nail.md#)"
-location: "[Rusty Nail](../Factions/Rusty%2520Nail.md#)"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 ---
 
 
 > [!infobox]
-> ![cover hsmall](../ImagePlaceholder.png)
-> [Show To Players](../ImagePlaceholder.png)
+> ![[../ImagePlaceholder.png|cover hsmall]]
+> [[../ImagePlaceholder.png|Show To Players]]
 > ###### Jedd Yulen
 > Attribute |  value |
 > ---|---|
 > Alias | 
 > Pronouns | He/Him
-> Faction | [Rusty Nail](../Factions/Rusty%2520Nail.md.md#.md#)
-> Location | [Rusty Nail](../Factions/Rusty%2520Nail.md.md#.md#) |
+> Faction | [[../Factions/Rusty Nail|Rusty Nail]]
+> Location | [[../Factions/Rusty Nail|Rusty Nail]] |
 
 # Jedd Yulen
 ## Profile
 
 ## Friends
-- [Kriegar](Kriegar.md) (A fine blaster pistol)
+- [[Kriegar|Kriegar]] (A fine blaster pistol)
 ## Enemies
-- [Yazu](Yazu.md) (A crooked cop)
+- [[Yazu|Yazu]] (A crooked cop)

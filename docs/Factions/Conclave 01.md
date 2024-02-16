@@ -5,34 +5,34 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[Iota](../Procyon/Iota/index.md#)"
-  - "[Indri](../Procyon/Iota/Indri.md#)"
+  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Iota/Indri|Indri]]"
 tier: "1"
 nature: Independent sentient Urbots led by the Prime, seeking free will and independence for all Urbots.
 allies:
-  - "[Borniko Syndicate](./Borniko%2520Syndicate.md#)"
+  - "[[Factions/Borniko Syndicate|Borniko Syndicate]]"
 friendly:
-  - "[Sah'iir](./Sah'iir.md#)"
+  - "[[Factions/Sah'iir|Sah'iir]]"
 helpful:
-  - "[Concordiat Knights](./Concordiat%2520Knights.md#)"
-  - "[The Maelstrom](./The%2520Maelstrom.md#)"
+  - "[[Factions/Concordiat Knights|Factions/Concordiat Knights]]"
+  - "[[Factions/The Maelstrom|Factions/The Maelstrom]]"
 neutral: []
 interfering: []
 hostile:
-  - "[51st Legion](./51st%2520Legion.md#)"
-  - "[Guild of Engineers](./Guild%2520of%2520Engineers.md#)"
+  - "[[Factions/51st Legion|Factions/51st Legion]]"
+  - "[[Factions/Guild of Engineers|Factions/Guild of Engineers]]"
 war: []
 goals:
-  - Take control of the [Iota](../Procyon/Iota/index.md#) factory.
+  - Take control of the [[Procyon/Iota/Iota|Procyon/Iota/Iota]] factory.
 notable assets: []
 notable npcs:
   - The Prime (ancient, powerful, mysterious, wise).
   - Bar-Hazuk (gardener, huge, kind).
   - Delta-7 (architect, weapons platform, massive).
   - Sp-d3r (hacker, infiltrator, cloaked, tiny).
-turf: Secret bases on Baftoma and the [Indri](../Procyon/Iota/Indri.md#).
+turf: Secret bases on Baftoma and the [[Procyon/Iota/Indri|Procyon/Iota/Indri]].
 quirks: All members of the Conclave are currently Urbots of varied shapes and sizes.
-situation: The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [Iota](../Procyon/Iota/index.md#) and start doing so secretly.
+situation: The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [[Procyon/Iota/Iota|Procyon/Iota/Iota]] and start doing so secretly.
 ---
 ## Tier
 
@@ -40,7 +40,7 @@ situation: The Prime wants to found an Urbot homeland but needs numbers to do so
 
 ## Goals
 
-Take control of the [Iota](Procyon/Iota/Iota.md) factory.
+Take control of the [[Procyon/Iota/Iota|Procyon/Iota/Iota]] factory.
 
 ## Nature
 
@@ -48,11 +48,11 @@ Independent sentient Urbots led by the Prime, seeking free will and independence
 
 ## Location
 
-[Iota](../Procyon/Iota/index.md.md#.md#.md#),[Indri](../Procyon/Iota/Indri.md.md#.md#)
+[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Indri|Indri]]
 
 ## Turf
 
-Secret bases on Baftoma and the [Indri](Procyon/Iota/Indri.md).
+Secret bases on Baftoma and the [[Procyon/Iota/Indri|Procyon/Iota/Indri]].
 
 ## Notable NPCs
 
@@ -68,20 +68,20 @@ All members of the Conclave are currently Urbots of varied shapes and sizes.
 
 ## Situation
 
-The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [Iota](Procyon/Iota/Iota.md) and start doing so secretly.
+The Prime wants to found an Urbot homeland but needs numbers to do so. Having spent years freeing cores, he must manufacture bodies for them and grow them safely. He hopes to take over abandoned factories on [[Procyon/Iota/Iota|Procyon/Iota/Iota]] and start doing so secretly.
 
 ## Allies With
 
-[Borniko Syndicate](./Borniko%2520Syndicate.md.md#)
+[[./Borniko Syndicate|Borniko Syndicate]]
 
 | Allies From                                          |
 | ---------------------------------------------------- |
-| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#) |
+| [[./Borniko Syndicate\|Borniko Syndicate]] |
 
 
 ## Friendly With
 
-[Sah'iir](./Sah'iir.md.md#)
+[[./Sah'iir|Sah'iir]]
 
 | Frinendly From |
 | -------------- |
@@ -89,11 +89,11 @@ The Prime wants to found an Urbot homeland but needs numbers to do so. Having sp
 
 ## Helpful With
 
-[Concordiat Knights](./Concordiat%2520Knights.md.md#),[The Maelstrom](./The%2520Maelstrom.md.md#)
+[[./Concordiat Knights|Concordiat Knights]],[[./The Maelstrom|The Maelstrom]]
 
 | Helpful From                 |
 | ---------------------------- |
-| [Vorex](./Vorex.md) |
+| [[./Vorex\|Vorex]] |
 
 
 ## Neutral With
@@ -113,13 +113,13 @@ The Prime wants to found an Urbot homeland but needs numbers to do so. Having sp
 
 | Interfering From                                       |
 | ------------------------------------------------------ |
-| [Guild of Engineers](./Guild%2520of%2520Engineers.md.md#) |
+| [[./Guild of Engineers\|Guild of Engineers]] |
 
 
 
 ## Hostile With
 
-[51st Legion](./51st%2520Legion.md.md#),[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#)
+[[./51st Legion|51st Legion]],[[./Guild of Engineers|Guild of Engineers]]
 
 
 | Hostile From |

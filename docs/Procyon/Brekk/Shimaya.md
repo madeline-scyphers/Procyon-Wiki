@@ -27,7 +27,7 @@ Professors walking down the marble paths of the Academy. A market street with in
 
 ## Hondo Suzuka
 
-[HNN](../../Factions/Hegemonic%20News%20Network.md) reporter seeking evidence of conspiracy at Khalud Academy, where several top students have vanished. (ambitious, vigilant, charming)
+[[../../Factions/Hegemonic News Network|HNN]] reporter seeking evidence of conspiracy at Khalud Academy, where several top students have vanished. (ambitious, vigilant, charming)
 
 ---
 

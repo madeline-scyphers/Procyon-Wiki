@@ -9,26 +9,26 @@ playbook: Pilot
 status: active
 pronouns: She/Her
 share: "true"
-faction: "[Rusty Nail](../Factions/Rusty%2520Nail.md#)"
-location: "[Rusty Nail](../Factions/Rusty%2520Nail.md#)"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 ---
 
 
 > [!infobox]
-> ![cover hsmall](../ImagePlaceholder.png)
-> [Show To Players](../ImagePlaceholder.png)
+> ![[../ImagePlaceholder.png|cover hsmall]]
+> [[../ImagePlaceholder.png|Show To Players]]
 > ###### Flora
 > Attribute |  value |
 > ---|---|
 > Alias | Sunflower
 > Pronouns | She/Her
-> Faction | [Rusty Nail](../Factions/Rusty%2520Nail.md.md#.md#)
-> Location | [Rusty Nail](../Factions/Rusty%2520Nail.md.md#.md#) |
+> Faction | [[../Factions/Rusty Nail|Rusty Nail]]
+> Location | [[../Factions/Rusty Nail|Rusty Nail]] |
 
 # Flora
 ## Profile
 
 ## Friends
-- [Triv](./Triv.md) (a ship mechanic)
+- [[./Triv|Triv]] (a ship mechanic)
 ## Enemies
-- [Yattu](Yattu.md) (a gang boss)
+- [[Yattu|Yattu]] (a gang boss)
