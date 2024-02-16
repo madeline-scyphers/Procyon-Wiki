@@ -5,30 +5,30 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Brekk|Brekk]]"
+  - "[Brekk](Brekk.md)"
 tier: "3"
-nature: A notorious prison in [[Procyon/Procyon|Procyon/Procyon]] housing the worst offenders. Brokers commutations for those with power and wealth.
+nature: A notorious prison in [Procyon](Procyon/Procyon.md) housing the worst offenders. Brokers commutations for those with power and wealth.
 allies: []
 friendly:
-  - "[[Guild of Engineers|Guild of Engineers]]"
+  - "[Guild of Engineers](Guild%20of%20Engineers.md)"
 helpful: []
 neutral: []
 interfering:
-  - "[[Factions/Draxler's Raiders|Draxler's Raiders]]"
+  - "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
 hostile: []
 war: []
 goals:
   - Get more prisoners (repeat).
 notable assets:
-  - The biggest supermax prison in [[Procyon/Procyon|Procyon/Procyon]].
+  - The biggest supermax prison in [Procyon](Procyon/Procyon.md).
   - An organized file of dirt on anyone they do business with.
 notable npcs:
   - Bafma F’rozz (warden, haughty, confident, wealthy).
   - Kreel (guard captain, muscled, angry).
   - Dr. Xhu (psychotherapist, corrupt, gambler).
-turf: Isotropa Max Secure in [[Procyon/Brekk/Brekk|Procyon/Brekk/Brekk]] (HQ).
+turf: Isotropa Max Secure in [Brekk](Procyon/Brekk/Brekk.md) (HQ).
 quirks: The staff of Isotropa are all corrupt and will take bribes for almost anything.
-situation: Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, and Kreel’s "educating" the prisoners, Isotropa always needs more funds and bodies. The prison spends a lot of time lobbying local planetary Governors to increase sentencing or acquiring “special guests” from [[Factions|Factions]] and just as much time looking for bribes.
+situation: Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, and Kreel’s "educating" the prisoners, Isotropa always needs more funds and bodies. The prison spends a lot of time lobbying local planetary Governors to increase sentencing or acquiring “special guests” from [Factions](Factions.md) and just as much time looking for bribes.
 ---
 ## Tier
 
@@ -40,15 +40,15 @@ Get more prisoners (repeat).
 
 ## Nature
 
-A notorious prison in [[Procyon/Procyon|Procyon/Procyon]] housing the worst offenders. Brokers commutations for those with power and wealth.
+A notorious prison in [Procyon](Procyon/Procyon.md) housing the worst offenders. Brokers commutations for those with power and wealth.
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]]
+[Brekk](../Procyon/Brekk/index.md)
 
 ## Turf
 
-Isotropa Max Secure in [[Procyon/Brekk/Brekk|Procyon/Brekk/Brekk]] (HQ).
+Isotropa Max Secure in [Brekk](Procyon/Brekk/Brekk.md) (HQ).
 
 ## Notable NPCs
 
@@ -56,7 +56,7 @@ Bafma F’rozz (warden, haughty, confident, wealthy).,Kreel (guard captain, musc
 
 ## Notable Assets
 
-The biggest supermax prison in [[Procyon/Procyon|Procyon/Procyon]].,An organized file of dirt on anyone they do business with.
+The biggest supermax prison in [Procyon](Procyon/Procyon.md).,An organized file of dirt on anyone they do business with.
 
 ## Quirks
 
@@ -64,7 +64,7 @@ The staff of Isotropa are all corrupt and will take bribes for almost anything.
 
 ## Situation
 
-Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, and Kreel’s "educating" the prisoners, Isotropa always needs more funds and bodies. The prison spends a lot of time lobbying local planetary Governors to increase sentencing or acquiring “special guests” from [[Factions|Factions]] and just as much time looking for bribes.
+Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, and Kreel’s "educating" the prisoners, Isotropa always needs more funds and bodies. The prison spends a lot of time lobbying local planetary Governors to increase sentencing or acquiring “special guests” from [Factions](Factions.md) and just as much time looking for bribes.
 
 ## Allies With
 
@@ -76,11 +76,11 @@ Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, 
 
 ## Friendly With
 
-[[./Guild of Engineers|Guild of Engineers]]
+[Guild of Engineers](./Guild%20of%20Engineers.md)
 
 | Frinendly From                                         |
 | ------------------------------------------------------ |
-| [[./Guild of Engineers\|Guild of Engineers]] |
+| [Guild of Engineers](./Guild%20of%20Engineers.md) |
 
 
 ## Helpful With
@@ -103,13 +103,13 @@ Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, 
 
 ## Interfering With
 
-[[./Draxler's Raiders|Draxler's Raiders]]
+[Draxler's Raiders](./Draxler's%2520Raiders.md.md#)
 
 
 | Interfering From                                     |
 | ---------------------------------------------------- |
-| [[./Lost Legion\|Lost Legion]]             |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
+| [Lost Legion](./Lost%20Legion.md)             |
+| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#) |
 
 
 
