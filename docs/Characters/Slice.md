@@ -33,9 +33,9 @@ Junkyard owner
 
 ## Relationships
 
-| Friend                                 | Profile                   |
-| -------------------------------------- | ------------------------- |
-| [[Characters/Kit Apple.md\|Kit Apple]] | Spent whole life on ships |
+| Friend                                 | Profile                                              |
+| -------------------------------------- | ---------------------------------------------------- |
+| [[Characters/Kit Apple.md\|Kit Apple]] | Spent whole life on ships. Worked as a ship laborer. |
 
 
 | Enemy | Profile |
