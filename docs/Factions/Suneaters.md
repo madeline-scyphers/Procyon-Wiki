@@ -5,8 +5,8 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Iota/index|Iota]]"
-  - "[[Procyon/Brekk/index|Brekk]]"
+  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Brekk/Brekk|Brekk]]"
   - "[[Procyon/Iota/Lithios|Lithios]]"
   - "[[Procyon/Brekk/Nightfall|Nightfall]]"
 tier: "4"
