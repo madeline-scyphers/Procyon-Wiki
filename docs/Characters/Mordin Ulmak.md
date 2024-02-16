@@ -11,7 +11,7 @@ status: active
 pronouns: Any, Sure, Whatever
 share: "true"
 location:
-  - "[[Procyon/Rin|Rin]]"
+  - "[[Rusty Nail|Rusty Nail]]"
 profile: ""
 friends:
   - "[[Ora|Ora]]"
@@ -30,7 +30,8 @@ playbook: Scoundrel
 status: active
 pronouns: Any, Sure, Whatever
 share: "true"
-location: ["[[Procyon/Rin|Rin]]"]
+location: 
+  - "[[Rusty Nail|Rusty Nail]]"
 profile: ""
 friends:
   - "[[Ora|Ora]]"
@@ -48,7 +49,7 @@ enemies:
 > Alias | Vapor
 > Pronouns | Any, Sure, Whatever
 > Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
-> Location | [[Procyon/Rin.md|Rin]] |
+> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Mordin Ulmak
 ## Profile
