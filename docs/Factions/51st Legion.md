@@ -4,7 +4,6 @@ tags:
   - faction
 faction_type: Hegemony
 share: true
-tier: "3"
 ---
 ---
 aliases:
@@ -12,12 +11,11 @@ tags:
   - faction
 faction_type: Hegemony
 share: true
-tier: "3"
 ---
 
 ## Tier
 
-3
+
 
 ## Goals
 
