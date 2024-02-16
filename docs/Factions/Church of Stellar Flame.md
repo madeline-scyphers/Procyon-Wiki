@@ -5,7 +5,7 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Rin/Rin|Rin]]"
+  - "[[Procyon/Rin/index|index]]"
 tier: "4"
 nature: A religious group with Hegemonic backing, believing that many Precursor artifacts and mystic practices are dangerous.
 allies: []
@@ -47,7 +47,7 @@ A religious group with Hegemonic backing, believing that many Precursor artifact
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]]
+[[../Procyon/Rin/index|index]]
 
 ## Turf
 

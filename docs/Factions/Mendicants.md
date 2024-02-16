@@ -5,7 +5,7 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Iota/index|index]]"
   - "[[Procyon/Iota/Amerath|Amerath]]"
 tier: "2"
 nature: Formerly the Hegemon’s personal guard but rebelled when the current Hegemon rose to power. Now they work as guns for hire.
@@ -49,7 +49,7 @@ Formerly the Hegemon’s personal guard but rebelled when the current Hegemon ro
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Amerath|Amerath]]
+[[../Procyon/Iota/index|index]],[[../Procyon/Iota/Amerath|Amerath]]
 
 ## Turf
 

@@ -5,7 +5,7 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Iota/index|index]]"
   - "[[Procyon/Iota/Lithios|Lithios]]"
 tier: "2"
 nature: Scientists that live exo-suited in a half-phased state.
@@ -49,7 +49,7 @@ Scientists that live exo-suited in a half-phased state.
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
+[[../Procyon/Iota/index|index]],[[../Procyon/Iota/Lithios|Lithios]]
 
 ## Turf
 

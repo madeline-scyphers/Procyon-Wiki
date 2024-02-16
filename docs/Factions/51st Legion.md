@@ -5,7 +5,7 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Procyon|Procyon]]"
+  - "[[Procyon/index|index]]"
 tier: "3"
 nature: A faction of the Hegemonic military preparing a coup.
 allies:
@@ -51,7 +51,7 @@ A faction of the Hegemonic military preparing a coup.
 
 ## Location
 
-[[../Procyon/index|Procyon]]
+[[../Procyon/index|index]]
 
 ## Turf
 

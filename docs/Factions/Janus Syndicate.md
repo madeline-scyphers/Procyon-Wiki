@@ -5,8 +5,8 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Holt/Holt|Holt]]"
-  - "[[Procyon/Brekk/Brekk|Brekk]]"
+  - "[[Procyon/Holt/index|index]]"
+  - "[[Procyon/Brekk/index|index]]"
   - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
   - "[[Procyon/Brekk/Aketi|Aketi]]"
 tier: "2"
@@ -49,7 +49,7 @@ Weapons dealers specializing in ship weapons, headed up by the ruthless Viktor B
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Brekk/Aketi|Aketi]]
+[[../Procyon/Holt/index|index]],[[../Procyon/Brekk/index|index]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Brekk/Aketi|Aketi]]
 
 ## Turf
 

@@ -5,7 +5,7 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Iota/index|index]]"
   - "[[Procyon/Iota/Lithios|Lithios]]"
 tier: "3"
 nature: Precursor worshipers claiming Ur descent. They inhale gases from the Ashtari Cloud to connect to their presumed ancestors.
@@ -47,7 +47,7 @@ Precursor worshipers claiming Ur descent. They inhale gases from the Ashtari Clo
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
+[[../Procyon/Iota/index|index]],[[../Procyon/Iota/Lithios|Lithios]]
 
 ## Turf
 
