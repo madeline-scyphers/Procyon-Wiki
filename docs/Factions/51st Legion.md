@@ -75,7 +75,10 @@ quirks: Oddly few xenos among the Legion.
 situation: Tallon earned commendations on the battlefield but swore to cleanse the Hegemonic military of nepotism after his command was sacrificed to a Noble’s daughter. He uses his secretly psychic lieutenant Li
 ---
 
+test
+
 ## Tier
+
 
 3
 
