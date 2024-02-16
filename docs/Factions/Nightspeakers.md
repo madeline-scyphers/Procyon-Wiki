@@ -45,7 +45,7 @@ Mystics with dark proclivities bent on seeking a set of dangerous Precursor arti
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]]
+[[Procyon/Brekk.md|Brekk]]
 
 ## Turf
 
@@ -77,12 +77,12 @@ Though few, each member is a potent mystic. They hire themselves out to powerful
 
 ## Friendly With
 
-[[./House Malklaith|House Malklaith]]
+[[Factions/House Malklaith.md|House Malklaith]]
 
 | Frinendly From                                   |
 | ------------------------------------------------ |
-| [[./The Maelstrom\|The Maelstrom]]     |
-| [[./House Malklaith\|House Malklaith]] |
+| [[Factions/The Maelstrom.md\|The Maelstrom]]     |
+| [[Factions/House Malklaith.md\|House Malklaith]] |
 
 
 ## Helpful With
@@ -115,12 +115,12 @@ Though few, each member is a potent mystic. They hire themselves out to powerful
 
 ## Hostile With
 
-[[./51st Legion|51st Legion]],[[./Church of Stellar Flame|Church of Stellar Flame]]
+[[Factions/51st Legion.md|51st Legion]],[[Factions/Church of Stellar Flame.md|Church of Stellar Flame]]
 
 
 | Hostile From                         |
 | ------------------------------------ |
-| [[./Vigilance\|Vigilance]] |
+| [[Factions/Vigilance.md\|Vigilance]] |
 
 
 
