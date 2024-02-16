@@ -5,18 +5,18 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[Rin](../Procyon/Rin/index.md#)"
+  - "[[Procyon/Rin/Rin|Rin]]"
 tier: "1"
 nature: Scavengers, thieves, and hackers who incite factions to fight so that they may pick the battlefields clean later.
 allies: []
 friendly: []
 helpful:
-  - "[Borniko Syndicate](./Borniko%2520Syndicate.md#)"
+  - "[[Factions/Borniko Syndicate|Factions/Borniko Syndicate]]"
 neutral: []
 interfering: []
 hostile:
-  - "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
-  - "[Echo Wave Riders](./Echo%2520Wave%2520Riders.md#)"
+  - "[[Factions/Draxler's Raiders|Draxler's Raiders]]"
+  - "[[Factions/Echo Wave Riders|Factions/Echo Wave Riders]]"
 war: []
 goals:
   - repair the derelict-8
@@ -29,7 +29,7 @@ notable npcs:
   - Qord (xeno, thief, delicate, one-handed).
 turf: Makeshift base inside a derelict ship near Baftoma (HQ).
 quirks: Wreckers pick members from folks already fleeing from someone or hiding in Baftoma. They often trade air and water as a means of scoping folks out.
-situation: The crew has hit several targets in the system by sowing confusion between the [Rin](../Procyon/Rin/index.md#) [Factions](Factions/Factions.md), and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
+situation: The crew has hit several targets in the system by sowing confusion between the [[Procyon/Rin/Rin|Procyon/Rin/Rin]] [[Factions/Factions|Factions/Factions]], and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
 ---
 ## Tier
 
@@ -45,7 +45,7 @@ Scavengers, thieves, and hackers who incite factions to fight so that they may p
 
 ## Location
 
-[Rin](../Procyon/Rin/index.md.md#.md#)
+[[../Procyon/Rin/index|Rin]]
 
 ## Turf
 
@@ -65,7 +65,7 @@ Wreckers pick members from folks already fleeing from someone or hiding in Bafto
 
 ## Situation
 
-The crew has hit several targets in the system by sowing confusion between the [Rin](Procyon/Rin/Rin.md) [Factions](Factions/Factions.md), and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
+The crew has hit several targets in the system by sowing confusion between the [[Procyon/Rin/Rin|Procyon/Rin/Rin]] [[Factions/Factions|Factions/Factions]], and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
 
 ## Allies With
 
@@ -85,11 +85,11 @@ The crew has hit several targets in the system by sowing confusion between the [
 
 ## Helpful With
 
-[Borniko Syndicate](./Borniko%2520Syndicate.md.md#)
+[[./Borniko Syndicate|Borniko Syndicate]]
 
 | Helpful From                                         |
 | ---------------------------------------------------- |
-| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#) |
+| [[./Borniko Syndicate\|Borniko Syndicate]] |
 
 
 ## Neutral With
@@ -114,12 +114,12 @@ The crew has hit several targets in the system by sowing confusion between the [
 
 ## Hostile With
 
-[Draxler's Raiders](./Draxler's%2520Raiders.md.md#),[Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#)
+[[./Draxler's Raiders|Draxler's Raiders]],[[./Echo Wave Riders|Echo Wave Riders]]
 
 
 | Hostile From                                       |
 | -------------------------------------------------- |
-| [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#) |
+| [[./Echo Wave Riders\|Echo Wave Riders]] |
 
 
 
