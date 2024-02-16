@@ -48,7 +48,7 @@ Fourth and fifth children, these young Nobles have taken an oath sanctified by t
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
+[[../Procyon/Holt/Holt|Holt]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
 
 ## Turf
 

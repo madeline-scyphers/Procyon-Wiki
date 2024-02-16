@@ -59,7 +59,7 @@ Formerly the Hegemon’s personal guard but rebelled when the current Hegemon ro
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]]
+[[../Procyon/Iota/Iota|Iota]]
 
 ## Turf
 

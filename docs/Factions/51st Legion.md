@@ -51,7 +51,7 @@ A faction of the Hegemonic military preparing a coup.
 
 ## Location
 
-[[../Procyon/index|Procyon]]
+[[../Procyon/Procyon|Procyon]]
 
 ## Turf
 

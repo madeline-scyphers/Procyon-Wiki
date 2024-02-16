@@ -54,7 +54,7 @@ A band of ferocious space pirates hiding among a mysterious nebula and around Ba
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/The Cove|The Cove]]
+[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Rin/The Cove|The Cove]]
 
 ## Turf
 

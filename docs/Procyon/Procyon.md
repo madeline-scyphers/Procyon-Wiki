@@ -2,7 +2,6 @@
 aliases:
   - Procyon
 share: "true"
-title: Procyon
 ---
 
 ![[../procyon.png|procyon]]
@@ -18,25 +17,25 @@ The sector is a burgeoning place for Syndicates, mystics, and other folks that l
 
 ---
 
-## [[./Rin/index|Rin]]
+## [[./Rin/Rin|Rin]]
 
-A three-gate system, with the only path deeper into the Hegemony. [[./Rin/index|Rin]] system.
-
----
-
-## [[./Holt/index|Holt]]
-
-[[./Holt/index|Holt]] is the biggest hotbed of scum and villainy.
+A three-gate system, with the only path deeper into the Hegemony. [[./Rin/Rin|Rin]] system.
 
 ---
 
-## [[./Holt/index|Holt]]
+## [[./Holt/Holt|Holt]]
 
-A twin star system, [[./Iota/index|Iota]] is a mixed bag. Though many people only pass through it on the way to [[./Brekk/index|Brekk]] is a popular vacation spot for well-off folks, seeming a bit rustic and rural with “charming” ruins, while also sporting enough control and tech to support luxury.
+[[./Holt/Holt|Holt]] is the biggest hotbed of scum and villainy.
 
 ---
 
-## [[./Brekk/index|Brekk]]
+## [[./Holt/Holt|Holt]]
+
+A twin star system, [[./Iota/Iota|Iota]] is a mixed bag. Though many people only pass through it on the way to [[./Brekk/Brekk|Brekk]] is a popular vacation spot for well-off folks, seeming a bit rustic and rural with “charming” ruins, while also sporting enough control and tech to support luxury.
+
+---
+
+## [[./Brekk/Brekk|Brekk]]
 
 The cultural capitol of Procyon. If you’re looking to file paperwork, strike deals, and otherwise mingle with the elite of the sector, you’ll find many of them on the neon-lit streets of [[./Brekk/Nightfall|Nightfall]] also sports an untamed, largely unexplored jungle world that can hide those fleeing the law, and entice the rich on hunts for dangerous beasts.
 

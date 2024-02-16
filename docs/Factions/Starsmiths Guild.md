@@ -89,7 +89,7 @@ Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make poss
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/index|Procyon]]
+[[../Procyon/Iota/Iota|Iota]],[[../Procyon/Procyon|Procyon]]
 
 ## Turf
 

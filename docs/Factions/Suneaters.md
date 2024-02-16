@@ -51,7 +51,7 @@ Ur-archaeologists obsessed with recreating jumpgate technology. Currently lookin
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Iota/Lithios|Lithios]],[[../Procyon/Brekk/Nightfall|Nightfall]]
+[[../Procyon/Iota/Iota|Iota]],[[../Procyon/Brekk/Brekk|Brekk]],[[../Procyon/Iota/Lithios|Lithios]],[[../Procyon/Brekk/Nightfall|Nightfall]]
 
 ## Turf
 

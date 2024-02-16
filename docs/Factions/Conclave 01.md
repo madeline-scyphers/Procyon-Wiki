@@ -48,7 +48,7 @@ Independent sentient Urbots led by the Prime, seeking free will and independence
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Indri|Indri]]
+[[../Procyon/Iota/Iota|Iota]],[[../Procyon/Iota/Indri|Indri]]
 
 ## Turf
 

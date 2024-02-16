@@ -49,7 +49,7 @@ Scientists that live exo-suited in a half-phased state.
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
+[[../Procyon/Iota/Iota|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
 
 ## Turf
 

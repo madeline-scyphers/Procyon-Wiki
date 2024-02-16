@@ -45,7 +45,7 @@ The most successful information broker to ever live. Can access any terminal in 
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 

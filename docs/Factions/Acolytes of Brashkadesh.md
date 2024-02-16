@@ -46,7 +46,7 @@ Eschewing individuality, all initiates adopt the same garb and the name “Ashka
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Indri|Indri]]
+[[../Procyon/Iota/Iota|Iota]],[[../Procyon/Iota/Indri|Indri]]
 
 ## Turf
 

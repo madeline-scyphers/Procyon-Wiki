@@ -32,7 +32,7 @@ A bustling street market with neon signs promising foods of all kinds in several
 
 ## [[../../Characters/Governor Ritam al’Malklaith|Governor Ritam al’Malklaith]]
 
-Governor of the [[./index|Rin]]
+Governor of the [[./Rin|Rin]]
 
 ---
 

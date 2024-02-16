@@ -49,7 +49,7 @@ Once a labor union, the Cobalt Syndicate has turned to smuggling and extortion t
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 

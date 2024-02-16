@@ -47,7 +47,7 @@ Pilots that organize illegal races, take mercenary work, or test dangerous new e
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Brekk/Nightfall|Nightfall]]
+[[../Procyon/Brekk/Brekk|Brekk]],[[../Procyon/Brekk/Nightfall|Nightfall]]
 
 ## Turf
 

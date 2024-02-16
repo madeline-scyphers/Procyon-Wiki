@@ -50,7 +50,7 @@ Warrior mystics that seek to enforce an ancient code of justice on those they fi
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Brekk/Aketi|Aketi]]
+[[../Procyon/Brekk/Brekk|Brekk]],[[../Procyon/Brekk/Aketi|Aketi]]
 
 ## Turf
 

@@ -2,7 +2,6 @@
 aliases:
   - Factions
 share: "true"
-title: Factions
 ---
 ![[../procyon.png|procyon]]
 
