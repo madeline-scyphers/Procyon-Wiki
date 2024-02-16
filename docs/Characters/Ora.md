@@ -23,14 +23,14 @@ tags:
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![[ImagePlaceholder.png|cover hsmall]]
+> [[ImagePlaceholder.png|Show To Players]]
 > ###### Ora
 > Attribute |  value |
 > ---|---|
 > Pronouns | They/Them
-> Faction | [[../Factions/Ashen Knives|Ashen Knives]]
-> Location | [[../Procyon/Rin/Warren|Warren]] |
+> Faction | [[Factions/Ashen Knives.md|Ashen Knives]]
+> Location | [[Procyon/Rin/Warren.md|Warren]] |
 
 
 # Ora
