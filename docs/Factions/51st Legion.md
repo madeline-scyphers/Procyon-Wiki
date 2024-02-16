@@ -3,7 +3,7 @@ aliases:
 tags:
   - faction
 faction_type: Hegemony
-share: "true"
+share: true
 location:
   - "[Procyon](../Procyon/index.md#)"
 tier: "3"
@@ -17,7 +17,7 @@ aliases:
 tags:
   - faction
 faction_type: Hegemony
-share: "true"
+share: true
 location:
   - "[Procyon](../Procyon/index.md#)"
 tier: "3"
