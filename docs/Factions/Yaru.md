@@ -51,7 +51,7 @@ Also known as the Makers Guild, they grow clones for menial labor that are suppo
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Amerath|Amerath]]
+[[../Procyon/Iota/Iota|Iota]],[[../Procyon/Iota/Amerath|Amerath]]
 
 ## Turf
 
