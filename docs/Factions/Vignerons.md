@@ -39,7 +39,7 @@ quirks: Because the genetic material harvested from their kills must be suitable
 situation: The Vignerons distill life essence from living victims and use it to extend their own lives. With this technology, their founders have lived for hundreds of years. Owing to its highly illegal nature, the Vignerons operate in secret, augmenting themselves and manipulating people behind the scenes. They wish to grow, converting a number of superior bodies to their cause.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Weird
@@ -54,26 +54,26 @@ nature: Pursuers of immortality via tech implants and chemical formulas distille
 allies:
 friendly:
 helpful:
-- "[Borniko Syndicate](./Borniko%2520Syndicate.md#)"
-- "[Cobalt Syndicate](./Cobalt%2520Syndicate.md#)"
+  - "[Borniko Syndicate](./Borniko%2520Syndicate.md#)"
+  - "[Cobalt Syndicate](./Cobalt%2520Syndicate.md#)"
 neutral:
 interfering:
-- "[The Agony](./The%2520Agony.md#)"
-- "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
-- "[Vigilance](./Vigilance.md#)"
+  - "[The Agony](./The%2520Agony.md#)"
+  - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
+  - "[Vigilance](./Vigilance.md#)"
 hostile:
 war:
-goals: 
-- abduct and convert elite warriors
-notable assets: 
-- A few sophisticated frigates.
-- Centuries of experience.
-- A small stockpile of life-extension fluid.
-- Gain potency for a while after taking the substance.
-notable npcs: 
-- Asphodel (general, flawless, calculating, ravenous).
-- Nehemiah (warrior, ancient, brutal, huge, fast).
-- Morwenna (mystic, selective, enthralling).
+goals:
+  - abduct and convert elite warriors
+notable assets:
+  - A few sophisticated frigates.
+  - Centuries of experience.
+  - A small stockpile of life-extension fluid.
+  - Gain potency for a while after taking the substance.
+notable npcs:
+  - Asphodel (general, flawless, calculating, ravenous).
+  - Nehemiah (warrior, ancient, brutal, huge, fast).
+  - Morwenna (mystic, selective, enthralling).
 turf: Anodyne, a pleasure den on [Amerath](../Procyon/Iota/Amerath.md#) (HQ). Rust, an auction house on [Sonhandra](../Procyon/Holt/Sonhandra.md#).
 quirks: Because the genetic material harvested from their kills must be suitable for the recipient, Vignerons only hunt human targets.
 situation: The Vignerons distill life essence from living victims and use it to extend their own lives. With this technology, their founders have lived for hundreds of years. Owing to its highly illegal nature, the Vignerons operate in secret, augmenting themselves and manipulating people behind the scenes. They wish to grow, converting a number of superior bodies to their cause.
@@ -175,5 +175,4 @@ The Vignerons distill life essence from living victims and use it to extend thei
 
 | War From |
 | -------- |
-
 

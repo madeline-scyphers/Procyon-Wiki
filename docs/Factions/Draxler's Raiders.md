@@ -39,7 +39,7 @@ quirks: Almost all members of Draxler’s Raiders are wanted for crimes.
 situation: Draxler has made a lot of waves since taking over the Raiders, making numerous enemies and allies al
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Criminal
@@ -50,30 +50,30 @@ tier: "3"
 nature: Violent pirates who disable ships before boarding, ransoming crew and cargo alike.
 allies:
 friendly:
-- "[Janus Syndicate](./Janus%2520Syndicate.md#)"
-- "[Lost Legion](./Lost%2520Legion.md#)"
+  - "[Janus Syndicate](./Janus%2520Syndicate.md#)"
+  - "[Lost Legion](./Lost%2520Legion.md#)"
 helpful:
 neutral:
 interfering:
-- "[Vigilance](./Vigilance.md#)"
-- "[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md#)"
+  - "[Vigilance](./Vigilance.md#)"
+  - "[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md#)"
 hostile:
-- "[The Maelstrom](./The%2520Maelstrom.md#)"
-- "[51st Legion](./51st%2520Legion.md#)"
+  - "[The Maelstrom](./The%2520Maelstrom.md#)"
+  - "[51st Legion](./51st%2520Legion.md#)"
 war:
 goals:
-- Not specified in the provided text.
-notable assets: 
-- Mining ships retrofitted with grapplers.
-- Heat shields for surviving in the Ring of Fire.
-- Draxler’s cloaking device.
-- Power armor for boarding.
-- Prisoners for ransom.
-- Caches of goods stolen from raided ships.
+  - Not specified in the provided text.
+notable assets:
+  - Mining ships retrofitted with grapplers.
+  - Heat shields for surviving in the Ring of Fire.
+  - Draxler’s cloaking device.
+  - Power armor for boarding.
+  - Prisoners for ransom.
+  - Caches of goods stolen from raided ships.
 notable npcs:
-- Draxler (leader, killer, vengeful).
-- Wudu “Starhawk” (captain, loyal, vicious, wary).
-- Samara “She Wolf” Red (captain, enforcer, cold, physical).
+  - Draxler (leader, killer, vengeful).
+  - Wudu “Starhawk” (captain, loyal, vicious, wary).
+  - Samara “She Wolf” Red (captain, enforcer, cold, physical).
 turf: Abandoned mining station in an [Iota](../Procyon/Iota/index.md#) asteroid belt (HQ).
 quirks: Almost all members of Draxler’s Raiders are wanted for crimes.
 situation: Draxler has made a lot of waves since taking over the Raiders, making numerous enemies and allies al
@@ -180,5 +180,4 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 | War From |
 | -------- |
-
 

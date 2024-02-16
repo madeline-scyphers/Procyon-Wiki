@@ -38,7 +38,7 @@ quirks: "[Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith
 situation: Disgraced after a famous duel, [Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Hegemony
@@ -51,27 +51,27 @@ tier: "3"
 nature: Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the House holds a small seat on a local moon.
 allies:
 friendly:
-- "[51st Legion](./51st%2520Legion.md#)"
-- "[Nightspeakers](./Nightspeakers.md#)"
+  - "[51st Legion](./51st%2520Legion.md#)"
+  - "[Nightspeakers](./Nightspeakers.md#)"
 helpful:
-- "[Turner Society](./Turner%2520Society.md#)"
+  - "[Turner Society](./Turner%2520Society.md#)"
 neutral:
 interfering:
-- "[The Agony](./The%2520Agony.md#)"
-- "[Ashen Knives](./Ashen%2520Knives.md#)"
-- "[The Maelstrom](./The%2520Maelstrom.md#)"
+  - "[The Agony](./The%2520Agony.md#)"
+  - "[Ashen Knives](./Ashen%2520Knives.md#)"
+  - "[The Maelstrom](./The%2520Maelstrom.md#)"
 hostile:
-- "[Lost Legion](./Lost%2520Legion.md#)"
+  - "[Lost Legion](./Lost%2520Legion.md#)"
 war:
-goals: 
-- Acquire the Aleph key.
-notable assets: 
-- "[Procyon](../Procyon/index.md#) sector taxes generating vast coffers."
-- A growing collection of Precursor artifacts.
+goals:
+  - Acquire the Aleph key.
+notable assets:
+  - "[Procyon](../Procyon/index.md#) sector taxes generating vast coffers."
+  - A growing collection of Precursor artifacts.
 notable npcs:
-- "[Governor Ritam al’Malklaith](Governor%20Ritam%20al%E2%80%99Malklaith.md) (Noble, intense, obsessed, well-spoken)."
-- Jerrem (guard captain, tactical, scarred, loyal).
-- Shim (judge, corrupt, greedy, ambitious).
+  - "[Governor Ritam al’Malklaith](Governor%20Ritam%20al%E2%80%99Malklaith.md) (Noble, intense, obsessed, well-spoken)."
+  - Jerrem (guard captain, tactical, scarred, loyal).
+  - Shim (judge, corrupt, greedy, ambitious).
 turf: Malklaith owns the sector but the [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) rarely leaves [Warren](../Procyon/Rin/Warren.md#). His people can be found in major positions in every system of the sector.
 quirks: "[Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) wears a number of strange rings of Precursor origin, the powers of which are not fully known even to him."
 situation: Disgraced after a famous duel, [Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
@@ -180,5 +180,4 @@ Disgraced after a famous duel, [Governor Malklaith](Characters/Governor%20Ritam%
 
 | War From |
 | -------- |
-
 

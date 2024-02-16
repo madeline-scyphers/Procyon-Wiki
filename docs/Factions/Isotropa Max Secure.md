@@ -31,7 +31,7 @@ quirks: The staff of Isotropa are all corrupt and will take bribes for almost an
 situation: Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, and Kreel’s "educating" the prisoners, Isotropa always needs more funds and bodies. The prison spends a lot of time lobbying local planetary Governors to increase sentencing or acquiring “special guests” from [Factions](Factions.md) and just as much time looking for bribes.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Hegemony
@@ -42,22 +42,22 @@ tier: "3"
 nature: A notorious prison in [Procyon](Procyon/Procyon.md) housing the worst offenders. Brokers commutations for those with power and wealth.
 allies:
 friendly:
-- "[Guild of Engineers](Guild%20of%20Engineers.md)"
+  - "[Guild of Engineers](Guild%20of%20Engineers.md)"
 helpful:
 neutral:
 interfering:
-- "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
+  - "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
 hostile:
 war:
-goals: 
-- Get more prisoners (repeat).
+goals:
+  - Get more prisoners (repeat).
 notable assets:
-- The biggest supermax prison in [Procyon](Procyon/Procyon.md).
-- An organized file of dirt on anyone they do business with.
+  - The biggest supermax prison in [Procyon](Procyon/Procyon.md).
+  - An organized file of dirt on anyone they do business with.
 notable npcs:
-- Bafma F’rozz (warden, haughty, confident, wealthy).
-- Kreel (guard captain, muscled, angry).
-- Dr. Xhu (psychotherapist, corrupt, gambler).
+  - Bafma F’rozz (warden, haughty, confident, wealthy).
+  - Kreel (guard captain, muscled, angry).
+  - Dr. Xhu (psychotherapist, corrupt, gambler).
 turf: Isotropa Max Secure in [Brekk](../Procyon/Brekk/index.md#) (HQ).
 quirks: The staff of Isotropa are all corrupt and will take bribes for almost anything.
 situation: Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, and Kreel’s "educating" the prisoners, Isotropa always needs more funds and bodies. The prison spends a lot of time lobbying local planetary Governors to increase sentencing or acquiring “special guests” from [Factions](Factions.md) and just as much time looking for bribes.
@@ -161,5 +161,4 @@ Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, 
 
 | War From |
 | -------- |
-
 

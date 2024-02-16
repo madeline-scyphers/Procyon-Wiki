@@ -38,7 +38,7 @@ quirks: Suneaters spend most of their days handling Ur artifacts and have all le
 situation: Many are ex-Guilders or mystics, who have poured decades of money and study into their cause. If successful in their mission to mine [Iota](../Procyon/Iota/index.md#)-2 for energy, the Hegemon would instantly grant the Suneaters Guild status, even if everyone in [Iota](../Procyon/Iota/index.md#) perishes. The Suneaters consider it worth the risk.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Weird
@@ -53,25 +53,25 @@ nature: Ur-archaeologists obsessed with recreating jumpgate technology. Currentl
 allies:
 friendly:
 helpful:
-- "[Ghosts](./Ghosts.md#)"
+  - "[Ghosts](./Ghosts.md#)"
 neutral:
 interfering:
 hostile:
-- "[Sah'iir](./Sah'iir.md#)"
+  - "[Sah'iir](./Sah'iir.md#)"
 war:
-goals: 
-- devour [Iota 2](../Procyon/Iota/index.md#.md#) and store energy 
-notable assets: 
-- A few well-armed, unmarked ships.
-- Armed troops.
-- Mystics painfully trained to Way-bend gravity.
-- Parts to build a jumpgate with activated Ur beacon.
-- Solar siphon.
+goals:
+  - devour [Iota 2](../Procyon/Iota/index.md#.md#) and store energy
+notable assets:
+  - A few well-armed, unmarked ships.
+  - Armed troops.
+  - Mystics painfully trained to Way-bend gravity.
+  - Parts to build a jumpgate with activated Ur beacon.
+  - Solar siphon.
 notable npcs:
-- Elil (astrophysicist, fanatic, brilliant).
-- Ruba (archaeologist, mystic, seer).
-- Racel (engineer, loyal, conflicted).
-- Rygar Z’tann (mystic, guard, gravity bender).
+  - Elil (astrophysicist, fanatic, brilliant).
+  - Ruba (archaeologist, mystic, seer).
+  - Racel (engineer, loyal, conflicted).
+  - Rygar Z’tann (mystic, guard, gravity bender).
 turf: An Ur ruin on [Lithios](Lithios.md) (HQ). Several [Nightfall](../Procyon/Brekk/Nightfall.md#)-based warehouses.
 quirks: Suneaters spend most of their days handling Ur artifacts and have all learned how to handle them safely.
 situation: Many are ex-Guilders or mystics, who have poured decades of money and study into their cause. If successful in their mission to mine [Iota](../Procyon/Iota/index.md#)-2 for energy, the Hegemon would instantly grant the Suneaters Guild status, even if everyone in [Iota](../Procyon/Iota/index.md#) perishes. The Suneaters consider it worth the risk.
@@ -174,5 +174,4 @@ Many are ex-Guilders or mystics, who have poured decades of money and study into
 
 | War From |
 | -------- |
-
 

@@ -33,7 +33,7 @@ quirks: Each member of the Wolves bears a distinctive tattoo of a wolf holding a
 situation: The Scarlet Wolves are contract killers specializing in hard targets. They have a reputation for delivering, minimizing collateral, and never taking bribes. They’ve taken a large contract from the [Counters Guild](./Counters%2520Guild.md#) to kill a number of the [Guild of Engineers](Factions/Guild%20of%20Engineers.md)’ heads but need time to set up the hit.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Criminal
@@ -49,19 +49,19 @@ friendly:
 helpful:
 neutral:
 interfering:
-- "[Vignerons](./Vignerons.md#)"
+  - "[Vignerons](./Vignerons.md#)"
 hostile:
-- "[Starless Veil](./Starless%2520Veil.md#)"
+  - "[Starless Veil](./Starless%2520Veil.md#)"
 war:
-goals: 
-- Murder top [Guild of Engineers](Factions/Guild%20of%20Engineers.md) officials.
-notable assets: 
-- A large armory of the very best weapons.
-- An actual huge wolf genetically engineered by the [Yaru](Factions/Yaru.md) as payment. (Rik keeps it. They feed it others who don’t pay.)
+goals:
+  - Murder top [Guild of Engineers](Factions/Guild%20of%20Engineers.md) officials.
+notable assets:
+  - A large armory of the very best weapons.
+  - An actual huge wolf genetically engineered by the [Yaru](Factions/Yaru.md) as payment. (Rik keeps it. They feed it others who don’t pay.)
 notable npcs:
-- Rik “Old Wolf” Urus (leader, dangerous, retired, cunning).
-- Hara “Mamba” M’brozz (sniper, killer, thrill-seeker).
-- Jet “Shark” Wolffe (aloof, confident, unforgiving).
+  - Rik “Old Wolf” Urus (leader, dangerous, retired, cunning).
+  - Hara “Mamba” M’brozz (sniper, killer, thrill-seeker).
+  - Jet “Shark” Wolffe (aloof, confident, unforgiving).
 turf: The Killroom, a high-end safe house on [Warren](../Procyon/Rin/Warren.md#) (HQ). Holdouts on most planets.
 quirks: Each member of the Wolves bears a distinctive tattoo of a wolf holding a star in its mouth.
 situation: The Scarlet Wolves are contract killers specializing in hard targets. They have a reputation for delivering, minimizing collateral, and never taking bribes. They’ve taken a large contract from the [Counters Guild](./Counters%2520Guild.md#) to kill a number of the [Guild of Engineers](Factions/Guild%20of%20Engineers.md)’ heads but need time to set up the hit.
@@ -163,5 +163,4 @@ The Scarlet Wolves are contract killers specializing in hard targets. They have 
 
 | War From |
 | -------- |
-
 

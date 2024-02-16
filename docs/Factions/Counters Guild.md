@@ -37,7 +37,7 @@ quirks: Counters Guild members sign contracts for cycles of labor at a time and 
 situation: Torx is playing Guild politics, aiming to show that the [Guild of Engineers](Guild%20of%20Engineers.md). He's spent vast sums on this, betting he’ll get it back once the Counters take over.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Hegemony
@@ -49,27 +49,27 @@ tier: "4"
 nature: Maintains the galactic currency network and shadow repositories in each system.
 allies:
 friendly:
-- "[Starless Veil](Starless%20Veil.md)"
-- "[Scarlet Wolves](Scarlet%20Wolves.md)"
+  - "[Starless Veil](Starless%20Veil.md)"
+  - "[Scarlet Wolves](Scarlet%20Wolves.md)"
 helpful:
-- "[Sah'iir](./Sah'iir.md#)"
+  - "[Sah'iir](./Sah'iir.md#)"
 neutral:
 interfering:
-- "[Vorex](Vorex.md)"
-- "[Borniko Syndicate](Borniko%20Syndicate.md)"
+  - "[Vorex](Vorex.md)"
+  - "[Borniko Syndicate](Borniko%20Syndicate.md)"
 hostile:
-- "[Guild of Engineers](Guild%20of%20Engineers.md)"
+  - "[Guild of Engineers](Guild%20of%20Engineers.md)"
 war:
 goals:
-- Disrupt the [Guild of Engineers](Guild%20of%20Engineers.md)’ mining operation.
-notable assets: 
-- Shadow vaults unknown even to the Hegemon.
-- An ansible network relay.
-- Vast wealth.
+  - Disrupt the [Guild of Engineers](Guild%20of%20Engineers.md)’ mining operation.
+notable assets:
+  - Shadow vaults unknown even to the Hegemon.
+  - An ansible network relay.
+  - Vast wealth.
 notable npcs:
-- Torx Verron (chief executive, calculating, ruthless, expansionary).
-- Rintar Ix (operations head, conniving, jealous, sly).
-- Broq Vsigh (repository head, honorable, meticulous).
+  - Torx Verron (chief executive, calculating, ruthless, expansionary).
+  - Rintar Ix (operations head, conniving, jealous, sly).
+  - Broq Vsigh (repository head, honorable, meticulous).
 turf: Numerous shadow repositories storing mysterious items in high-tech vaults, and a currency exchange on [Warren](../Procyon/Rin/Warren.md#).
 quirks: Counters Guild members sign contracts for cycles of labor at a time and are paid up-front. Any breach of the contract can be punished harshly.
 situation: Torx is playing Guild politics, aiming to show that the [Guild of Engineers](Guild%20of%20Engineers.md). He's spent vast sums on this, betting he’ll get it back once the Counters take over.
@@ -155,6 +155,7 @@ Torx is playing Guild politics, aiming to show that the [Guild of Engineers](Gui
 | [Lost Legion](./Lost%20Legion.md)               |
 | [The Maelstrom](./The%20Maelstrom.md)           |
 | [Guild of Engineers](./Guild%20of%20Engineers.md) |
+| [Yaru](./Yaru.md)                             |
 
 
 
@@ -176,5 +177,4 @@ Torx is playing Guild politics, aiming to show that the [Guild of Engineers](Gui
 | War From                                             |
 | ---------------------------------------------------- |
 | [Borniko Syndicate](./Borniko%20Syndicate.md) |
-
 
