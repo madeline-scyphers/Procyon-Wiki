@@ -5,18 +5,18 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[Rin](../Procyon/Rin/index.md#)"
-  - "[Warren](../Procyon/Rin/Warren.md#)"
+  - "[[Procyon/Rin/Rin|Rin]]"
+  - "[[Procyon/Rin/Warren|Warren]]"
 tier: "4"
 nature: Tall, fully robed xenos who travel with blindfolded servants that speak for them. Gave the Hegemony the ansible network.
 allies: []
 friendly: []
 helpful:
-  - "[Counters Guild](./Counters%2520Guild.md#)"
+  - "[[Factions/Counters Guild|Factions/Counters Guild]]"
 neutral: []
 interfering:
-  - "[Guild of Engineers](./Guild%2520of%2520Engineers.md#)"
-  - "[Suneaters](./Suneaters.md#)"
+  - "[[Factions/Guild of Engineers|Factions/Guild of Engineers]]"
+  - "[[Factions/Suneaters|Factions/Suneaters]]"
 hostile: []
 war: []
 goals:
@@ -29,9 +29,9 @@ notable npcs:
   - Ren 3-Meti (matriarch, xeno, cunning, commanding).
   - Iisoo 7-Chim (trader, explorer, xeno, humanitarian).
   - Wi 13-Meti (Ren’s clutchmate, xeno, ambitious, underhanded, marked).
-turf: The Sah'iir Embassy, recently purchased on [Warren](../Procyon/Rin/Warren.md#) (HQ). Workstations at every ansible network point.
+turf: The Sah'iir Embassy, recently purchased on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] (HQ). Workstations at every ansible network point.
 quirks: The Sah'iir communicate via special hosts they control called Echoes. Each may have up to a dozen of such Echoes. It's said they sense who is suitable to be their Echo regardless of distance.
-situation: The Sah'iir have earned their place by being too important to the Hegemony to get rid of. While not technically a Guild, they guard the secrets of ansibles as if they were one. They have detected a signal from [Procyon](Procyon/Procyon.md) when a Precursor ansible was activated and have come to investigate
+situation: The Sah'iir have earned their place by being too important to the Hegemony to get rid of. While not technically a Guild, they guard the secrets of ansibles as if they were one. They have detected a signal from [[Procyon/Procyon|Procyon/Procyon]] when a Precursor ansible was activated and have come to investigate
 ---
 ## Tier
 
@@ -47,11 +47,11 @@ Tall, fully robed xenos who travel with blindfolded servants that speak for them
 
 ## Location
 
-[Rin](../Procyon/Rin/index.md.md#),[Warren](../Procyon/Rin/Warren.md.md#.md#)
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
-The Sah'iir Embassy, recently purchased on [Warren](Procyon/Rin/Warren.md) (HQ). Workstations at every ansible network point.
+The Sah'iir Embassy, recently purchased on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] (HQ). Workstations at every ansible network point.
 
 ## Notable NPCs
 
@@ -67,7 +67,7 @@ The Sah'iir communicate via special hosts they control called Echoes. Each may h
 
 ## Situation
 
-The Sah'iir have earned their place by being too important to the Hegemony to get rid of. While not technically a Guild, they guard the secrets of ansibles as if they were one. They have detected a signal from [Procyon](Procyon/Procyon.md) when a Precursor ansible was activated and have come to investigate
+The Sah'iir have earned their place by being too important to the Hegemony to get rid of. While not technically a Guild, they guard the secrets of ansibles as if they were one. They have detected a signal from [[Procyon/Procyon|Procyon/Procyon]] when a Precursor ansible was activated and have come to investigate
 
 ## Allies With
 
@@ -83,16 +83,16 @@ The Sah'iir have earned their place by being too important to the Hegemony to ge
 
 | Frinendly From                           |
 | ---------------------------------------- |
-| [Conclave 01](./Conclave%2001.md) |
+| [[./Conclave 01\|Conclave 01]] |
 
 
 ## Helpful With
 
-[Counters Guild](./Counters%2520Guild.md.md#)
+[[./Counters Guild|Counters Guild]]
 
 | Helpful From                                   |
 | ---------------------------------------------- |
-| [Counters Guild](./Counters%2520Guild.md.md#) |
+| [[./Counters Guild\|Counters Guild]] |
 
 
 ## Neutral With
@@ -107,7 +107,7 @@ The Sah'iir have earned their place by being too important to the Hegemony to ge
 
 ## Interfering With
 
-[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#),[Suneaters](./Suneaters.md.md#)
+[[./Guild of Engineers|Guild of Engineers]],[[./Suneaters|Suneaters]]
 
 
 | Interfering From |
@@ -122,7 +122,7 @@ The Sah'iir have earned their place by being too important to the Hegemony to ge
 
 | Hostile From                         |
 | ------------------------------------ |
-| [Suneaters](./Suneaters.md.md#) |
+| [[./Suneaters\|Suneaters]] |
 
 
 
