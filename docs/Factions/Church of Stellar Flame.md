@@ -47,7 +47,7 @@ A religious group with Hegemonic backing, believing that many Precursor artifact
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]]
+[[Procyon/Rin.md|Rin]]
 
 ## Turf
 
@@ -79,7 +79,7 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 
 ## Friendly With
 
-[[./Dyrinek Gang|Dyrinek Gang]]
+[[Factions/Dyrinek Gang.md|Dyrinek Gang]]
 
 | Frinendly From |
 | -------------- |
@@ -87,7 +87,7 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 
 ## Helpful With
 
-[[./The Maelstrom|The Maelstrom]]
+[[Factions/The Maelstrom.md|The Maelstrom]]
 
 | Helpful From |
 | ------------ |
@@ -105,29 +105,29 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 
 ## Interfering With
 
-[[./Yaru|Yaru]],[[./Starsmiths Guild|Starsmiths Guild]]
+[[Factions/Yaru.md|Yaru]],[[Factions/Starsmiths Guild.md|Starsmiths Guild]]
 
 
 | Interfering From                         |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
-| [[./Vignerons\|Vignerons]]     |
-| [[./The Agony\|The Agony]]     |
-| [[./Mendicants\|Mendicants]]   |
-| [[./Ghosts\|Ghosts]]           |
+| [[Factions/Lost Legion.md\|Lost Legion]] |
+| [[Factions/Vignerons.md\|Vignerons]]     |
+| [[Factions/The Agony.md\|The Agony]]     |
+| [[Factions/Mendicants.md\|Mendicants]]   |
+| [[Factions/Ghosts.md\|Ghosts]]           |
 
 
 
 ## Hostile With
 
-[[./Guild of Engineers|Guild of Engineers]]
+[[Factions/Guild of Engineers.md|Guild of Engineers]]
 
 
 | Hostile From                                             |
 | -------------------------------------------------------- |
-| [[./51st Legion\|51st Legion]]                 |
-| [[./Cult of the Seekers\|Cult of the Seekers]] |
-| [[./Nightspeakers\|Nightspeakers]]             |
+| [[Factions/51st Legion.md\|51st Legion]]                 |
+| [[Factions/Cult of the Seekers.md\|Cult of the Seekers]] |
+| [[Factions/Nightspeakers.md\|Nightspeakers]]             |
 
 
 
@@ -137,5 +137,5 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 
 | War From                                   |
 | ------------------------------------------ |
-| [[./Ashtari Cult\|Ashtari Cult]] |
+| [[Factions/Ashtari Cult.md\|Ashtari Cult]] |
 
