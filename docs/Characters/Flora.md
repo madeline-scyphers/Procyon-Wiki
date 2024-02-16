@@ -17,25 +17,6 @@ friends:
 enemies:
   - "[[Yattu|Yattu]] (a gang boss)"
 ---
----
-name: Flora
-aliases:
-  - Sunflower
-tags:
-  - player
-role: player
-playbook: Pilot
-status: active
-pronouns: She/Her
-share: "true"
-faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: "[[Factions/Rusty Nail|Rusty Nail]]"
-profile: ""
-friends:
-- "[[Triv|Triv]] (a ship mechanic)"
-enemies:
-- "[[Yattu|Yattu]] (a gang boss)"
----
 
 
 > [!infobox]
