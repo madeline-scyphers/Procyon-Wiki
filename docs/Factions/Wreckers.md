@@ -45,7 +45,7 @@ Scavengers, thieves, and hackers who incite factions to fight so that they may p
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]]
+[[../Procyon/Rin/Rin|Rin]]
 
 ## Turf
 
