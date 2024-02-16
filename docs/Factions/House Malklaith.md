@@ -116,8 +116,9 @@ Disgraced after a famous duel, [Governor Malklaith](Characters/Governor%20Ritam%
 
 
 
-| Allies From |
-| ----------- |
+| Allies From                              |
+| ---------------------------------------- |
+| [51st Legion](./51st%2520Legion.md.md#.md#) |
 
 
 ## Friendly With

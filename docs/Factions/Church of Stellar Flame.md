@@ -160,6 +160,7 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 
 | Hostile From                                             |
 | -------------------------------------------------------- |
+| [51st Legion](./51st%20Legion.md)                 |
 | [Cult of the Seekers](./Cult%20of%20the%20Seekers.md) |
 | [Nightspeakers](./Nightspeakers.md)             |
 
