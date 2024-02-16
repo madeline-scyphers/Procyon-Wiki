@@ -36,7 +36,7 @@ quirks: Viktor Bax insists on meeting every client the Syndicate does business w
 situation: Viktor wants to grow beyond the outposts the Syndicate currently runs to a sector-wide affair. As part of his plan to scale up, he’s looking to poach the Legion for some capital weapons. Viktor’s currently digging up dirt on Tallon and secret Legion projects in the sector.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Criminal
@@ -51,23 +51,23 @@ nature: Weapons dealers specializing in ship weapons, headed up by the ruthless 
 allies:
 friendly:
 helpful:
-- "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
+  - "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
 neutral:
 interfering:
-- "[Vigilance](Vigilance.md)"
+  - "[Vigilance](Vigilance.md)"
 hostile:
 war:
-goals: 
-- Acquire a source for capital weapons.
-notable assets: 
-- A large stockpile of weapons, particularly ship weapons.
-- Several small but well-armed ships.
-- A map of the current dark hyperspace lanes.
+goals:
+  - Acquire a source for capital weapons.
+notable assets:
+  - A large stockpile of weapons, particularly ship weapons.
+  - Several small but well-armed ships.
+  - A map of the current dark hyperspace lanes.
 notable npcs:
-- Viktor Bax (ambitious, charming, distrustful, ruthless).
-- Baruk (xeno bodyguard, huge).
-- Wendel (nervous, technical, loyal).
-- Faye Null (unmarked [Yaru](Yaru.md) pilot, adventurous, foolhardy).
+  - Viktor Bax (ambitious, charming, distrustful, ruthless).
+  - Baruk (xeno bodyguard, huge).
+  - Wendel (nervous, technical, loyal).
+  - Faye Null (unmarked [Yaru](Yaru.md) pilot, adventurous, foolhardy).
 turf: Weapons camp on [Sonhandra](../Procyon/Holt/Sonhandra.md#) (HQ). A sizable operation at [Aketi](../Procyon/Brekk/Aketi.md#)’s Base Camp One.
 quirks: Viktor Bax insists on meeting every client the Syndicate does business with in person.
 situation: Viktor wants to grow beyond the outposts the Syndicate currently runs to a sector-wide affair. As part of his plan to scale up, he’s looking to poach the Legion for some capital weapons. Viktor’s currently digging up dirt on Tallon and secret Legion projects in the sector.
@@ -170,5 +170,4 @@ Viktor wants to grow beyond the outposts the Syndicate currently runs to a secto
 
 | War From |
 | -------- |
-
 
