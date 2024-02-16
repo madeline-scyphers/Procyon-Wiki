@@ -2,7 +2,8 @@
 name: Ora
 faction: "[[Factions/Ashen Knives|Ashen Knives]]"
 pronouns: They/Them
-location: "[[Procyon/Rin/Warren|Warren]]"
+location:
+  - "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
@@ -17,7 +18,8 @@ enemies: []
 name: Ora
 faction:  "[[Factions/Ashen Knives|Ashen Knives]]"
 pronouns:  They/Them
-location: "[[Procyon/Rin/Warren|Warren]]"
+location: 
+  - "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
