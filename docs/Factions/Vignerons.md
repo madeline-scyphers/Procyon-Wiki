@@ -5,22 +5,22 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Iota|Iota]]"
-  - "[[Holt|Holt]]"
-  - "[[Procyon/Iota/Amerath|Amerath]]"
-  - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
+  - "[Iota](Iota.md)"
+  - "[Holt](Holt.md)"
+  - "[Amerath](../Procyon/Iota/Amerath.md#)"
+  - "[Sonhandra](../Procyon/Holt/Sonhandra.md#)"
 tier: "3"
 nature: Pursuers of immortality via tech implants and chemical formulas distilled from the living. Several have been around for centuries.
 allies: []
 friendly: []
 helpful:
-  - "[[Factions/Borniko Syndicate|Borniko Syndicate]]"
-  - "[[Factions/Cobalt Syndicate|Cobalt Syndicate]]"
+  - "[Borniko Syndicate](./Borniko%2520Syndicate.md#)"
+  - "[Cobalt Syndicate](./Cobalt%2520Syndicate.md#)"
 neutral: []
 interfering:
-  - "[[Factions/The Agony|Factions/The Agony]]"
-  - "[[Factions/Church of Stellar Flame|Factions/Church of Stellar Flame]]"
-  - "[[Factions/Vigilance|Factions/Vigilance]]"
+  - "[The Agony](./The%2520Agony.md#)"
+  - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
+  - "[Vigilance](./Vigilance.md#)"
 hostile: []
 war: []
 goals:
@@ -34,7 +34,7 @@ notable npcs:
   - Asphodel (general, flawless, calculating, ravenous).
   - Nehemiah (warrior, ancient, brutal, huge, fast).
   - Morwenna (mystic, selective, enthralling).
-turf: Anodyne, a pleasure den on [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]] (HQ). Rust, an auction house on [[Procyon/Holt/Sonhandra|Procyon/Holt/Sonhandra]].
+turf: Anodyne, a pleasure den on [Amerath](../Procyon/Iota/Amerath.md#) (HQ). Rust, an auction house on [Sonhandra](../Procyon/Holt/Sonhandra.md#).
 quirks: Because the genetic material harvested from their kills must be suitable for the recipient, Vignerons only hunt human targets.
 situation: The Vignerons distill life essence from living victims and use it to extend their own lives. With this technology, their founders have lived for hundreds of years. Owing to its highly illegal nature, the Vignerons operate in secret, augmenting themselves and manipulating people behind the scenes. They wish to grow, converting a number of superior bodies to their cause.
 ---
@@ -52,11 +52,11 @@ Pursuers of immortality via tech implants and chemical formulas distilled from t
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Holt/index|Holt]],[[../Procyon/Iota/Amerath|Amerath]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
+[Iota](../Procyon/Iota/index.md),[Holt](../Procyon/Holt/index.md),[Amerath](../Procyon/Iota/Amerath.md.md#.md#),[Sonhandra](../Procyon/Holt/Sonhandra.md.md#.md#)
 
 ## Turf
 
-Anodyne, a pleasure den on [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]] (HQ). Rust, an auction house on [[Procyon/Holt/Sonhandra|Procyon/Holt/Sonhandra]].
+Anodyne, a pleasure den on [Amerath](Procyon/Iota/Amerath.md) (HQ). Rust, an auction house on [Sonhandra](Procyon/Holt/Sonhandra.md).
 
 ## Notable NPCs
 
@@ -92,7 +92,7 @@ The Vignerons distill life essence from living victims and use it to extend thei
 
 ## Helpful With
 
-[[./Borniko Syndicate|Borniko Syndicate]],[[./Cobalt Syndicate|Cobalt Syndicate]]
+[Borniko Syndicate](./Borniko%2520Syndicate.md.md#),[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#)
 
 | Helpful From |
 | ------------ |
@@ -110,12 +110,12 @@ The Vignerons distill life essence from living victims and use it to extend thei
 
 ## Interfering With
 
-[[./The Agony|The Agony]],[[./Church of Stellar Flame|Church of Stellar Flame]],[[./Vigilance|Vigilance]]
+[The Agony](./The%2520Agony.md.md#),[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#),[Vigilance](./Vigilance.md.md#)
 
 
 | Interfering From                               |
 | ---------------------------------------------- |
-| [[./Scarlet Wolves\|Scarlet Wolves]] |
+| [Scarlet Wolves](./Scarlet%20Wolves.md) |
 
 
 
