@@ -10,7 +10,7 @@ status: active
 pronouns: Any, Sure, Whatever
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: ""[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 ---
 
 
@@ -20,10 +20,10 @@ location: ""[[Factions/Rusty Nail|Rusty Nail]]"
 > ###### Mordin Ulmak
 > Attribute |  value |
 > ---|---|
-> Alias | 
-> Pronouns | 
-> Faction | 
-> Location |  |
+> Alias | Vapor
+> Pronouns | Any, Sure, Whatever
+> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
+> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Mordin Ulmak
 ## Profile
