@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Brekk/Brekk|Brekk]]"
+  - "[[Procyon/Brekk/index|Brekk]]"
   - "[[Procyon/Brekk/Nightfall|Nightfall]]"
 tier: "2"
 nature: Pilots that organize illegal races, take mercenary work, or test dangerous new engine/flight technologies for the Guilds.
