@@ -1,12 +1,15 @@
 ---
 faction: "[[Factions/Ghosts|Ghosts]]"
 pronouns: He/Him
-location: 
+location: ""
 role: npc
 status: active
 share: "true"
 tags:
   - npc
+profile: ""
+friends: []
+enemies: []
 ---
 
 
