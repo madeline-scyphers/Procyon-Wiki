@@ -1,18 +1,36 @@
 ---
 name: Triv
-faction: "[[]]"
+faction: ""
 pronouns: She/Her
-location: ""
+location:
+  - ""
 role: npc
 status: active
 share: "true"
 tags:
   - npc
-aliases: []
+aliases: 
 profile: A ship mechanic
 friends:
   - "[[Characters/Flora|Flora]]"
-enemies: []
+enemies: 
+---
+---
+name: Triv
+faction: ""
+pronouns: She/Her
+location:
+  - ""
+role: npc
+status: active
+share: "true"
+tags:
+  - npc
+aliases: 
+profile: A ship mechanic
+friends:
+  - "[[Characters/Flora|Flora]]"
+enemies:
 ---
 
 
@@ -23,7 +41,7 @@ enemies: []
 > Attribute |  value |
 > ---|---|
 > Pronouns | She/Her
-> Faction | [[Characters/Triv.md|Triv]]
+> Faction | 
 > Location |  |
 
 
@@ -31,8 +49,15 @@ enemies: []
 ## Profile
 A ship mechanic
 
-## Friends
-[[Characters/Flora.md|Flora]]
 
-## Enemies
+## Relationships
+
+| Friend                         | Profile |
+| ------------------------------ | ------- |
+| [[Characters/Flora.md\|Flora]] |         |
+
+
+| Enemy | Profile |
+| ----- | ------- |
+
 
