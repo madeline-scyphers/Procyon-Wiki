@@ -1,6 +1,8 @@
 ---
 share: "true"
-title: Characters
+aliases:
+  - Factions
+title: index
 ---
 
 ## Characters
