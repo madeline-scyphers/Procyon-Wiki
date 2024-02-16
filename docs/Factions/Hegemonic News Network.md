@@ -49,7 +49,7 @@ Those who control the media control the mind. Often use this as leverage over ot
 
 ## Location
 
-[[../Procyon/index|Procyon]],[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[Procyon.md|Procyon]],[[Procyon/Rin.md|Rin]],[[Procyon/Rin/Warren.md|Warren]]
 
 ## Turf
 
@@ -73,7 +73,7 @@ The HNN is effectively the private intelligence agency of Cinszo, using its medi
 
 ## Allies With
 
-[[./Starless Veil|Starless Veil]]
+[[Factions/Starless Veil.md|Starless Veil]]
 
 | Allies From |
 | ----------- |
@@ -93,7 +93,7 @@ The HNN is effectively the private intelligence agency of Cinszo, using its medi
 
 | Helpful From                                             |
 | -------------------------------------------------------- |
-| [[./Cult of the Seekers\|Cult of the Seekers]] |
+| [[Factions/Cult of the Seekers.md\|Cult of the Seekers]] |
 
 
 ## Neutral With
@@ -108,12 +108,12 @@ The HNN is effectively the private intelligence agency of Cinszo, using its medi
 
 ## Interfering With
 
-[[./Dyrinek Gang|Dyrinek Gang]],[[./Mendicants|Mendicants]]
+[[Factions/Dyrinek Gang.md|Dyrinek Gang]],[[Factions/Mendicants.md|Mendicants]]
 
 
 | Interfering From                       |
 | -------------------------------------- |
-| [[./Mendicants\|Mendicants]] |
+| [[Factions/Mendicants.md\|Mendicants]] |
 
 
 
@@ -124,7 +124,7 @@ The HNN is effectively the private intelligence agency of Cinszo, using its medi
 
 | Hostile From                               |
 | ------------------------------------------ |
-| [[./Dyrinek Gang\|Dyrinek Gang]] |
+| [[Factions/Dyrinek Gang.md\|Dyrinek Gang]] |
 
 
 
