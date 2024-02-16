@@ -34,8 +34,16 @@ enemies:
 ## Profile
 
 
-## Friends
-[[Characters/Triv.md|Triv]]
+## Relationships
 
-## Enemies
-[[Characters/Yattu.md|Yattu]]
+| Friend                       | Profile         |
+| ---------------------------- | --------------- |
+| [[Characters/Triv.md\|Triv]] | A ship mechanic |
+
+
+| Enemy                          | Profile                                            |
+| ------------------------------ | -------------------------------------------------- |
+| [[Characters/Yattu.md\|Yattu]] | Gang boss. [[Characters/Yazu\|Yazu]]'s twin sister |
+
+
+
