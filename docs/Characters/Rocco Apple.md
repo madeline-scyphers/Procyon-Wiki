@@ -38,10 +38,10 @@ Works as one of the preeminent ship designers and builders in the system. Works 
 
 ## Relationships
 
-| Friend                                                                     | Profile                   |
-| -------------------------------------------------------------------------- | ------------------------- |
-| [[Characters/Governor Ritam al’Malklaith.md\|Governor Ritam al’Malklaith]] |                           |
-| [[Characters/Kit Apple.md\|Kit Apple]]                                     | Spent whole life on ships |
+| Friend                                                                     | Profile                                              |
+| -------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [[Characters/Governor Ritam al’Malklaith.md\|Governor Ritam al’Malklaith]] |                                                      |
+| [[Characters/Kit Apple.md\|Kit Apple]]                                     | Spent whole life on ships. Worked as a ship laborer. |
 
 
 | Enemy | Profile |
