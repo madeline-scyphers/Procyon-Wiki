@@ -2,20 +2,6 @@
 name: Krieger
 faction: ""
 pronouns: ""
-location:
-  - "[[Factions/Rusty Nail|Rusty Nail]]"
-role: npc
-status: active
-share: "true"
-tags:
-  - npc
----
----
-name: Krieger
-faction: ""
-pronouns: ""
-location: 
-  - "[[Factions/Rusty Nail|Rusty Nail]]"
 role: npc
 status: active
 share: "true"
@@ -31,7 +17,7 @@ tags:
 > ---|---|
 > Pronouns | 
 > Faction | 
-> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
+> Location |  |
 
 
 # Krieger
