@@ -49,7 +49,7 @@ Weapons dealers specializing in ship weapons, headed up by the ruthless Viktor B
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Brekk/Aketi|Aketi]]
+[[../Procyon/Holt/Holt|Holt]],[[../Procyon/Brekk/Brekk|Brekk]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Brekk/Aketi|Aketi]]
 
 ## Turf
 
