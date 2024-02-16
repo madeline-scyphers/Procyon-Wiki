@@ -34,9 +34,15 @@ enemies:
 ## Profile
 
 
-## Friends
-[[Characters/Ora.md|Ora]]
+## Relationships
 
-## Enemies
-[[Characters/Nyx.md|Nyx]]
+| Friend                     | Profile        |
+| -------------------------- | -------------- |
+| [[Characters/Ora.md\|Ora]] | An info broker |
+
+
+| Enemy                      | Profile       |
+| -------------------------- | ------------- |
+| [[Characters/Nyx.md\|Nyx]] | A moneylender |
+
 
