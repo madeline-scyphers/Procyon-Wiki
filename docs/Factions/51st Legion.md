@@ -23,11 +23,11 @@ war:
   - "[Lost Legion](./Lost%2520Legion.md#)"
 goals:
   - Cleanse the legion of anyone disloyal.
-notable assets:
+notable_assets:
   - A legion of the Hegemonic Guard
   - The Scorpio (dreadnought)
   - An illegal psychic
-notable npcs:
+notable_npcs:
   - Tallon “the Butcher” (commander disciplined imposing vicious)
   - Liyara (lieutenant psychic changed eerie loyal)
   - Thrace (ace pilot reckless gambler loyal)
@@ -61,11 +61,11 @@ war:
   - "[Lost Legion](./Lost%2520Legion.md#)"
 goals:
   - Cleanse the legion of anyone disloyal.
-notable assets:
+notable_assets:
   - A legion of the Hegemonic Guard
   - The Scorpio (dreadnought)
   - An illegal psychic
-notable npcs:
+notable_npcs:
   - Tallon “the Butcher” (commander disciplined imposing vicious)
   - Liyara (lieutenant psychic changed eerie loyal)
   - Thrace (ace pilot reckless gambler loyal)
