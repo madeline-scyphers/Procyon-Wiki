@@ -13,7 +13,8 @@ aliases:
   - Governor Malklaith
   - Ritam Al'Malklaith
 profile: ""
-friends: []
+friends:
+  - "[[Characters/Rocco Apple|Rocco Apple]]"
 enemies: []
 ---
 
@@ -32,8 +33,11 @@ enemies: []
 # Governor Ritam al’Malklaith
 ## Profile
 
+
 ## Friends
+[[Characters/Rocco Apple.md|Rocco Apple]]
 
 ## Enemies
+
 
 
