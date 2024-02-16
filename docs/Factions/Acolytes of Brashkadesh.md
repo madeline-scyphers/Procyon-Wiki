@@ -46,7 +46,7 @@ Eschewing individuality, all initiates adopt the same garb and the name “Ashka
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Indri|Indri]]
+[[Procyon/Iota.md|Iota]],[[Procyon/Iota/Indri.md|Indri]]
 
 ## Turf
 
@@ -78,7 +78,7 @@ The Acolytes are ready to begin the next phase of growing their following, but t
 
 ## Friendly With
 
-[[./Mendicants|Mendicants]]
+[[Factions/Mendicants.md|Mendicants]]
 
 | Frinendly From |
 | -------------- |
@@ -109,13 +109,13 @@ The Acolytes are ready to begin the next phase of growing their following, but t
 
 | Interfering From                                       |
 | ------------------------------------------------------ |
-| [[./Concordiat Knights\|Concordiat Knights]] |
+| [[Factions/Concordiat Knights.md\|Concordiat Knights]] |
 
 
 
 ## Hostile With
 
-[[./Guild of Engineers|Guild of Engineers]],[[./Ashen Knives|Ashen Knives]]
+[[Factions/Guild of Engineers.md|Guild of Engineers]],[[Factions/Ashen Knives.md|Ashen Knives]]
 
 
 | Hostile From |
