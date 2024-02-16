@@ -135,6 +135,7 @@ Jax has taken over shipping lanes between Aleph and the Core worlds. He’s ange
 
 [[Factions/Ashen Knives.md|Ashen Knives]]
 
-| War From |
-| -------- |
+| War From                                   |
+| ------------------------------------------ |
+| [[Factions/Ashen Knives.md\|Ashen Knives]] |
 
