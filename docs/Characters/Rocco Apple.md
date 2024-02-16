@@ -1,8 +1,8 @@
 ---
 name: Rocco Apple
-faction: "[House Malklaith](../Factions/House%20Malklaith.md)"
+faction: "[[../Factions/House Malklaith|House Malklaith]]"
 pronouns: They/Them
-location: "[Warren](../Procyon/Rin/Warren.md#)"
+location: "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
@@ -12,9 +12,9 @@ aliases:
 ---
 ---
 name: Rocco Apple
-faction: "[House Malklaith](../Factions/House%20Malklaith.md)"
+faction: "[[../Factions/House Malklaith|House Malklaith]]"
 pronouns: They/Them
-location: "[Warren](../Procyon/Rin/Warren.md#)"
+location: "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
@@ -25,21 +25,21 @@ aliases:
 
 
 > [!infobox]
-> ![cover hsmall](../ImagePlaceholder.png)
-> [Show To Players](../ImagePlaceholder.png)
+> ![[../ImagePlaceholder.png|cover hsmall]]
+> [[../ImagePlaceholder.png|Show To Players]]
 > ###### Rocco Apple
 > Attribute |  value |
 > ---|---|
 > Pronouns | They/Them
-> Faction | [House Malklaith](../Factions/House%20Malklaith.md)
-> Location | [Warren](../Procyon/Rin/Warren.md.md#.md#) |
+> Faction | [[../Factions/House Malklaith|House Malklaith]]
+> Location | [[../Procyon/Rin/Warren|Warren]] |
 
 
 # Rocco Apple
 ## Profile
-Works as one of the preeminent ship designers and builders in the system. Works under [House Malklaith](../Factions/House%20Malklaith.md).
+Works as one of the preeminent ship designers and builders in the system. Works under [[../Factions/House Malklaith|House Malklaith]].
 ## Friends
-- [Kit Apple](./Kit%20Apple.md) ([Kit Apple](./Kit%20Apple.md)'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them)
+- [[./Kit Apple|Kit Apple]] ([[./Kit Apple|Kit Apple]]'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them)
 ## Enemies
 
 
