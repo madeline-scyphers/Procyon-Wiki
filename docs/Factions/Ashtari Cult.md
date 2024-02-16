@@ -5,22 +5,22 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[Iota](Iota.md)"
-  - "[Lithios](../Procyon/Iota/Lithios.md#)"
+  - "[[Iota|Iota]]"
+  - "[[Procyon/Iota/Lithios|Lithios]]"
 tier: "3"
 nature: Precursor worshipers claiming Ur descent. They inhale gases from the Ashtari Cloud to connect to their presumed ancestors.
 allies:
-  - "[Ghosts](Ghosts.md)"
+  - "[[Ghosts|Ghosts]]"
 friendly:
-  - "[Mendicants](Mendicants.md)"
+  - "[[Mendicants|Mendicants]]"
 helpful: []
 neutral: []
 interfering: []
 hostile: []
 war:
-  - "[Church of Stellar Flame](Church%20of%20Stellar%20Flame.md)"
+  - "[[Church of Stellar Flame|Church of Stellar Flame]]"
 goals:
-  - Align the moons of [Nightfall](Procyon/Brekk/Nightfall.md).
+  - Align the moons of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
 notable assets:
   - A bevy of Ur artifacts.
   - Stockpile of Ashtari gas.
@@ -29,9 +29,9 @@ notable npcs:
   - Urmak Lesh (artificer, ex-Guilder, researcher).
   - Urley Fean (Noble, cautious, hidden, influential).
   - Rokono Maex (captain, scavenger, coarse, nonbeliever, stoic).
-turf: An undocumented Ur ruin on [Lithios](../Procyon/Iota/Lithios.md#).
+turf: An undocumented Ur ruin on [[Procyon/Iota/Lithios|Procyon/Iota/Lithios]].
 quirks: Each member of the Cult wears a small vial of Ashtari gas to allow them to “commune” with their “Ur past.” These visions of lives eons ago have unearthed previously unknown ruins.
-situation: Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [Nightfall](Procyon/Brekk/Nightfall.md) can be used to control the planetoids. The visions
+situation: Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]] can be used to control the planetoids. The visions
 ---
 ## Tier
 
@@ -39,7 +39,7 @@ situation: Visions granted when inhaling Ashtari gas in sacred places about the 
 
 ## Goals
 
-Align the moons of [Nightfall](Procyon/Brekk/Nightfall.md).
+Align the moons of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
 
 ## Nature
 
@@ -47,11 +47,11 @@ Precursor worshipers claiming Ur descent. They inhale gases from the Ashtari Clo
 
 ## Location
 
-[Iota](../Procyon/Iota/index.md),[Lithios](../Procyon/Iota/Lithios.md.md#.md#)
+[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
 
 ## Turf
 
-An undocumented Ur ruin on [Lithios](Procyon/Iota/Lithios.md).
+An undocumented Ur ruin on [[Procyon/Iota/Lithios|Procyon/Iota/Lithios]].
 
 ## Notable NPCs
 
@@ -67,20 +67,20 @@ Each member of the Cult wears a small vial of Ashtari gas to allow them to “co
 
 ## Situation
 
-Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [Nightfall](Procyon/Brekk/Nightfall.md) can be used to control the planetoids. The visions
+Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]] can be used to control the planetoids. The visions
 
 ## Allies With
 
-[Ghosts](./Ghosts.md)
+[[./Ghosts|Ghosts]]
 
 | Allies From                    |
 | ------------------------------ |
-| [Ghosts](./Ghosts.md) |
+| [[./Ghosts\|Ghosts]] |
 
 
 ## Friendly With
 
-[Mendicants](./Mendicants.md)
+[[./Mendicants|Mendicants]]
 
 | Frinendly From |
 | -------------- |
@@ -126,7 +126,7 @@ Visions granted when inhaling Ashtari gas in sacred places about the sector indi
 
 ## War With
 
-[Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md)
+[[./Church of Stellar Flame|Church of Stellar Flame]]
 
 | War From |
 | -------- |
