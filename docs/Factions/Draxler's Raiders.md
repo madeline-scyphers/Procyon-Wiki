@@ -52,7 +52,7 @@ Violent pirates who disable ships before boarding, ransoming crew and cargo alik
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]]
+[[../Procyon/Iota/Iota|Iota]]
 
 ## Turf
 
