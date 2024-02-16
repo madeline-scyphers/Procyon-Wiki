@@ -49,7 +49,7 @@ Those who control the media control the mind. Often use this as leverage over ot
 
 ## Location
 
-[[../Procyon/index|Procyon]],[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Procyon|Procyon]],[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
