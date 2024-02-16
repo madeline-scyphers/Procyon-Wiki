@@ -52,7 +52,7 @@ Pursuers of immortality via tech implants and chemical formulas distilled from t
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Holt/index|Holt]],[[../Procyon/Iota/Amerath|Amerath]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
+[[Procyon/Iota.md|Iota]],[[Procyon/Holt.md|Holt]],[[Procyon/Iota/Amerath.md|Amerath]],[[Procyon/Holt/Sonhandra.md|Sonhandra]]
 
 ## Turf
 
@@ -92,7 +92,7 @@ The Vignerons distill life essence from living victims and use it to extend thei
 
 ## Helpful With
 
-[[./Borniko Syndicate|Borniko Syndicate]],[[./Cobalt Syndicate|Cobalt Syndicate]]
+[[Factions/Borniko Syndicate.md|Borniko Syndicate]],[[Factions/Cobalt Syndicate.md|Cobalt Syndicate]]
 
 | Helpful From |
 | ------------ |
@@ -110,12 +110,12 @@ The Vignerons distill life essence from living victims and use it to extend thei
 
 ## Interfering With
 
-[[./The Agony|The Agony]],[[./Church of Stellar Flame|Church of Stellar Flame]],[[./Vigilance|Vigilance]]
+[[Factions/The Agony.md|The Agony]],[[Factions/Church of Stellar Flame.md|Church of Stellar Flame]],[[Factions/Vigilance.md|Vigilance]]
 
 
 | Interfering From                               |
 | ---------------------------------------------- |
-| [[./Scarlet Wolves\|Scarlet Wolves]] |
+| [[Factions/Scarlet Wolves.md\|Scarlet Wolves]] |
 
 
 
