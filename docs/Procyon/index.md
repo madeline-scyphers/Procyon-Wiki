@@ -1,15 +1,8 @@
 ---
 aliases:
   - Procyon
-tags: 
 share: "true"
 title: index
----
----
-aliases:
-  - Procyon
-tags:
-share: "true"
 ---
 
 ![[../procyon.png|procyon]]
