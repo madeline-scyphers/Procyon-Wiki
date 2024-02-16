@@ -5,20 +5,20 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Iota|Iota]]"
-  - "[[Procyon/Iota/Amerath|Amerath]]"
+  - "[Iota](Iota.md)"
+  - "[Amerath](../Procyon/Iota/Amerath.md#)"
 tier: "2"
 nature: Formerly the Hegemon’s personal guard but rebelled when the current Hegemon rose to power. Now they work as guns for hire.
 allies: []
 friendly:
-  - "[[Factions/Lost Legion|Factions/Lost Legion]]"
+  - "[Lost Legion](./Lost%2520Legion.md#)"
 helpful:
-  - "[[Factions/The Maelstrom|Factions/The Maelstrom]]"
-  - "[[Factions/Concordiat Knights|Factions/Concordiat Knights]]"
+  - "[The Maelstrom](./The%2520Maelstrom.md#)"
+  - "[Concordiat Knights](./Concordiat%2520Knights.md#)"
 neutral: []
 interfering:
-  - "[[Factions/Church of Stellar Flame|Church of Stellar Flame]]"
-  - "[[Factions/Hegemonic News Network|Factions/Hegemonic News Network]]"
+  - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
+  - "[Hegemonic News Network](./Hegemonic%2520News%2520Network.md#)"
 hostile: []
 war: []
 goals:
@@ -31,9 +31,9 @@ notable npcs:
   - Kambree (researcher, cheerful, organized).
   - Kairi (xeno physician, somber).
   - Tar Hawkson (mystic, ancient, changed, powerful).
-turf: The Temple on [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]] (HQ).
+turf: The Temple on [Amerath](../Procyon/Iota/Amerath.md#) (HQ).
 quirks: Mendicant physicians implant themselves with Ur artifacts (Emerald Hearts) which change them but also let them heal others.
-situation: An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed them an abomination. In the last Hegemonic Ascension, the Church traded battle might for the right to wipe out most of the Mendicants. Many Emerald Hearts were lost; the Mendicants now seek a cache of them rumored to be hidden deep beneath the ruined ancient temples of [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]].
+situation: An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed them an abomination. In the last Hegemonic Ascension, the Church traded battle might for the right to wipe out most of the Mendicants. Many Emerald Hearts were lost; the Mendicants now seek a cache of them rumored to be hidden deep beneath the ruined ancient temples of [Amerath](../Procyon/Iota/Amerath.md#).
 ---
 ## Tier
 
@@ -49,11 +49,11 @@ Formerly the Hegemon’s personal guard but rebelled when the current Hegemon ro
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Amerath|Amerath]]
+[Iota](../Procyon/Iota/index.md),[Amerath](../Procyon/Iota/Amerath.md.md#.md#.md#)
 
 ## Turf
 
-The Temple on [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]] (HQ).
+The Temple on [Amerath](Procyon/Iota/Amerath.md) (HQ).
 
 ## Notable NPCs
 
@@ -69,7 +69,7 @@ Mendicant physicians implant themselves with Ur artifacts (Emerald Hearts) which
 
 ## Situation
 
-An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed them an abomination. In the last Hegemonic Ascension, the Church traded battle might for the right to wipe out most of the Mendicants. Many Emerald Hearts were lost; the Mendicants now seek a cache of them rumored to be hidden deep beneath the ruined ancient temples of [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]].
+An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed them an abomination. In the last Hegemonic Ascension, the Church traded battle might for the right to wipe out most of the Mendicants. Many Emerald Hearts were lost; the Mendicants now seek a cache of them rumored to be hidden deep beneath the ruined ancient temples of [Amerath](Procyon/Iota/Amerath.md).
 
 ## Allies With
 
@@ -81,22 +81,22 @@ An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed the
 
 ## Friendly With
 
-[[./Lost Legion|Lost Legion]]
+[Lost Legion](./Lost%2520Legion.md.md#)
 
 | Frinendly From                                                   |
 | ---------------------------------------------------------------- |
-| [[./Lost Legion\|Lost Legion]]                         |
-| [[./Ashtari Cult\|Ashtari Cult]]                       |
-| [[./Acolytes of Brashkadesh\|Acolytes of Brashkadesh]] |
+| [Lost Legion](./Lost%2520Legion.md.md#)                         |
+| [Ashtari Cult](./Ashtari%20Cult.md)                       |
+| [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) |
 
 
 ## Helpful With
 
-[[./The Maelstrom|The Maelstrom]],[[./Concordiat Knights|Concordiat Knights]]
+[The Maelstrom](./The%2520Maelstrom.md.md#),[Concordiat Knights](./Concordiat%2520Knights.md.md#)
 
 | Helpful From                                           |
 | ------------------------------------------------------ |
-| [[./Concordiat Knights\|Concordiat Knights]] |
+| [Concordiat Knights](./Concordiat%2520Knights.md.md#) |
 
 
 ## Neutral With
@@ -111,12 +111,12 @@ An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed the
 
 ## Interfering With
 
-[[./Church of Stellar Flame|Church of Stellar Flame]],[[./Hegemonic News Network|Hegemonic News Network]]
+[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#),[Hegemonic News Network](./Hegemonic%2520News%2520Network.md.md#)
 
 
 | Interfering From                                               |
 | -------------------------------------------------------------- |
-| [[./Hegemonic News Network\|Hegemonic News Network]] |
+| [Hegemonic News Network](./Hegemonic%2520News%2520Network.md.md#) |
 
 
 
