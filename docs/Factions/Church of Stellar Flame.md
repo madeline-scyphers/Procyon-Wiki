@@ -5,20 +5,20 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Rin|Rin]]"
+  - "[Rin](Rin.md)"
 tier: "4"
 nature: A religious group with Hegemonic backing, believing that many Precursor artifacts and mystic practices are dangerous.
 allies: []
 friendly:
-  - "[[Factions/Dyrinek Gang|Factions/Dyrinek Gang]]"
+  - "[Dyrinek Gang](./Dyrinek%2520Gang.md#)"
 helpful:
-  - "[[Factions/The Maelstrom|Factions/The Maelstrom]]"
+  - "[The Maelstrom](./The%2520Maelstrom.md#)"
 neutral: []
 interfering:
-  - "[[Factions/Yaru|Factions/Yaru]]"
-  - "[[Factions/Starsmiths Guild|Factions/Starsmiths Guild]]"
+  - "[Yaru](./Yaru.md#)"
+  - "[Starsmiths Guild](./Starsmiths%2520Guild.md#)"
 hostile:
-  - "[[Factions/Guild of Engineers|Factions/Guild of Engineers]]"
+  - "[Guild of Engineers](./Guild%2520of%2520Engineers.md#)"
 war: []
 goals:
   - Root out heretics and dangerous elements.
@@ -47,7 +47,7 @@ A religious group with Hegemonic backing, believing that many Precursor artifact
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]]
+[Rin](../Procyon/Rin/index.md)
 
 ## Turf
 
@@ -79,7 +79,7 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 
 ## Friendly With
 
-[[./Dyrinek Gang|Dyrinek Gang]]
+[Dyrinek Gang](./Dyrinek%2520Gang.md.md#)
 
 | Frinendly From |
 | -------------- |
@@ -87,7 +87,7 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 
 ## Helpful With
 
-[[./The Maelstrom|The Maelstrom]]
+[The Maelstrom](./The%2520Maelstrom.md.md#)
 
 | Helpful From |
 | ------------ |
@@ -105,29 +105,29 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 
 ## Interfering With
 
-[[./Yaru|Yaru]],[[./Starsmiths Guild|Starsmiths Guild]]
+[Yaru](./Yaru.md.md#),[Starsmiths Guild](./Starsmiths%2520Guild.md.md#)
 
 
 | Interfering From                         |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
-| [[./Vignerons\|Vignerons]]     |
-| [[./The Agony\|The Agony]]     |
-| [[./Mendicants\|Mendicants]]   |
-| [[./Ghosts\|Ghosts]]           |
+| [Lost Legion](./Lost%20Legion.md) |
+| [Vignerons](./Vignerons.md)     |
+| [The Agony](./The%20Agony.md)     |
+| [Mendicants](./Mendicants.md)   |
+| [Ghosts](./Ghosts.md)           |
 
 
 
 ## Hostile With
 
-[[./Guild of Engineers|Guild of Engineers]]
+[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#)
 
 
 | Hostile From                                             |
 | -------------------------------------------------------- |
-| [[./51st Legion\|51st Legion]]                 |
-| [[./Cult of the Seekers\|Cult of the Seekers]] |
-| [[./Nightspeakers\|Nightspeakers]]             |
+| [51st Legion](./51st%20Legion.md)                 |
+| [Cult of the Seekers](./Cult%20of%20the%20Seekers.md) |
+| [Nightspeakers](./Nightspeakers.md)             |
 
 
 
@@ -137,5 +137,5 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 
 | War From                                   |
 | ------------------------------------------ |
-| [[./Ashtari Cult\|Ashtari Cult]] |
+| [Ashtari Cult](./Ashtari%20Cult.md) |
 
