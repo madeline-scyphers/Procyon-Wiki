@@ -47,7 +47,7 @@ Tall, fully robed xenos who travel with blindfolded servants that speak for them
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[Procyon/Rin.md|Rin]],[[Procyon/Rin/Warren.md|Warren]]
 
 ## Turf
 
@@ -83,16 +83,16 @@ The Sah'iir have earned their place by being too important to the Hegemony to ge
 
 | Frinendly From                           |
 | ---------------------------------------- |
-| [[./Conclave 01\|Conclave 01]] |
+| [[Factions/Conclave 01.md\|Conclave 01]] |
 
 
 ## Helpful With
 
-[[./Counters Guild|Counters Guild]]
+[[Factions/Counters Guild.md|Counters Guild]]
 
 | Helpful From                                   |
 | ---------------------------------------------- |
-| [[./Counters Guild\|Counters Guild]] |
+| [[Factions/Counters Guild.md\|Counters Guild]] |
 
 
 ## Neutral With
@@ -107,7 +107,7 @@ The Sah'iir have earned their place by being too important to the Hegemony to ge
 
 ## Interfering With
 
-[[./Guild of Engineers|Guild of Engineers]],[[./Suneaters|Suneaters]]
+[[Factions/Guild of Engineers.md|Guild of Engineers]],[[Factions/Suneaters.md|Suneaters]]
 
 
 | Interfering From |
@@ -122,7 +122,7 @@ The Sah'iir have earned their place by being too important to the Hegemony to ge
 
 | Hostile From                         |
 | ------------------------------------ |
-| [[./Suneaters\|Suneaters]] |
+| [[Factions/Suneaters.md\|Suneaters]] |
 
 
 
