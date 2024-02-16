@@ -49,7 +49,7 @@ A tightly knit group of thieves who steal high-end technological supplies.
 
 ## Location
 
-[[../Procyon/Rin/Warren|Warren]],[[../Procyon/Rin/index|Rin]]
+[[Procyon/Rin/Warren.md|Warren]],[[Procyon/Rin.md|Rin]]
 
 ## Turf
 
@@ -73,16 +73,16 @@ The Borniko have been working on bigger and bigger heists.
 
 ## Allies With
 
-[[./Conclave 01|Conclave 01]]
+[[Factions/Conclave 01.md|Conclave 01]]
 
 | Allies From                              |
 | ---------------------------------------- |
-| [[./Conclave 01\|Conclave 01]] |
+| [[Factions/Conclave 01.md\|Conclave 01]] |
 
 
 ## Friendly With
 
-[[./Echo Wave Riders|Echo Wave Riders]]
+[[Factions/Echo Wave Riders.md|Echo Wave Riders]]
 
 | Frinendly From |
 | -------------- |
@@ -90,13 +90,13 @@ The Borniko have been working on bigger and bigger heists.
 
 ## Helpful With
 
-[[./Wreckers|Wreckers]]
+[[Factions/Wreckers.md|Wreckers]]
 
 | Helpful From                                       |
 | -------------------------------------------------- |
-| [[./Echo Wave Riders\|Echo Wave Riders]] |
-| [[./Wreckers\|Wreckers]]                 |
-| [[./Vignerons\|Vignerons]]               |
+| [[Factions/Echo Wave Riders.md\|Echo Wave Riders]] |
+| [[Factions/Wreckers.md\|Wreckers]]                 |
+| [[Factions/Vignerons.md\|Vignerons]]               |
 
 
 ## Neutral With
@@ -111,20 +111,20 @@ The Borniko have been working on bigger and bigger heists.
 
 ## Interfering With
 
-[[./Starsmiths Guild|Starsmiths Guild]]
+[[Factions/Starsmiths Guild.md|Starsmiths Guild]]
 
 
 | Interfering From                                       |
 | ------------------------------------------------------ |
-| [[./Guild of Engineers\|Guild of Engineers]] |
-| [[./Counters Guild\|Counters Guild]]         |
-| [[./Starsmiths Guild\|Starsmiths Guild]]     |
+| [[Factions/Guild of Engineers.md\|Guild of Engineers]] |
+| [[Factions/Counters Guild.md\|Counters Guild]]         |
+| [[Factions/Starsmiths Guild.md\|Starsmiths Guild]]     |
 
 
 
 ## Hostile With
 
-[[./Guild of Engineers|Guild of Engineers]]
+[[Factions/Guild of Engineers.md|Guild of Engineers]]
 
 
 | Hostile From |
@@ -134,7 +134,7 @@ The Borniko have been working on bigger and bigger heists.
 
 ## War With
 
-[[./Counters Guild|Counters Guild]]
+[[Factions/Counters Guild.md|Counters Guild]]
 
 | War From |
 | -------- |
