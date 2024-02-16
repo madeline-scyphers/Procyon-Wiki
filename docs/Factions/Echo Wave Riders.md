@@ -5,31 +5,31 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[Brekk](../Procyon/Brekk/index.md#)"
-  - "[Nightfall](../Procyon/Brekk/Nightfall.md#)"
+  - "[[Procyon/Brekk/Brekk|Brekk]]"
+  - "[[Procyon/Brekk/Nightfall|Nightfall]]"
 tier: "2"
 nature: Pilots that organize illegal races, take mercenary work, or test dangerous new engine/flight technologies for the Guilds.
 allies: []
 friendly: []
 helpful:
-  - "[Borniko Syndicate](./Borniko%2520Syndicate.md#)"
-  - "[Starsmiths Guild](./Starsmiths%2520Guild.md#)"
+  - "[[Factions/Borniko Syndicate|Factions/Borniko Syndicate]]"
+  - "[[Factions/Starsmiths Guild|Factions/Starsmiths Guild]]"
 neutral: []
 interfering: []
 hostile:
-  - "[Wreckers](./Wreckers.md#)"
+  - "[[Factions/Wreckers|Factions/Wreckers]]"
 war: []
 goals:
-  - Organize a system-wide race in [Brekk](../Procyon/Brekk/index.md#).
+  - Organize a system-wide race in [[Procyon/Brekk/Brekk|Procyon/Brekk/Brekk]].
 notable assets:
   - A host of ships of their own and access to far more.
-  - Substantial mechanical facilities on [Nightfall](../Procyon/Brekk/Nightfall.md#).
+  - Substantial mechanical facilities on [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
 notable npcs:
   - Garge Ztar (risk-taker, ambitious, charismatic).
   - Elen (engineer, analytical, race-winner).
   - Inofra (stunt pilot, compassionate, veteran).
   - Dom (ex-Starsmith mechanic, genius, family man, lives to race).
-turf: A secluded hangar on [Nightfall](../Procyon/Brekk/Nightfall.md#).
+turf: A secluded hangar on [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
 quirks: Echo Wave Riders don’t respect those who don’t know how to pilot their own ship and settle all scores with races.
 situation: The Riders are left alone by authorities if their races are kept far enough from civilization—and claiming Bright Wind takes care of that. They plan to put on an epic race among system pilots for prestige and cash.
 ---
@@ -39,7 +39,7 @@ situation: The Riders are left alone by authorities if their races are kept far 
 
 ## Goals
 
-Organize a system-wide race in [Brekk](Procyon/Brekk/Brekk.md).
+Organize a system-wide race in [[Procyon/Brekk/Brekk|Procyon/Brekk/Brekk]].
 
 ## Nature
 
@@ -47,11 +47,11 @@ Pilots that organize illegal races, take mercenary work, or test dangerous new e
 
 ## Location
 
-[Brekk](../Procyon/Brekk/index.md.md#.md#),[Nightfall](../Procyon/Brekk/Nightfall.md.md#.md#.md#)
+[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Brekk/Nightfall|Nightfall]]
 
 ## Turf
 
-A secluded hangar on [Nightfall](Procyon/Brekk/Nightfall.md).
+A secluded hangar on [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
 
 ## Notable NPCs
 
@@ -59,7 +59,7 @@ Garge Ztar (risk-taker, ambitious, charismatic).,Elen (engineer, analytical, rac
 
 ## Notable Assets
 
-A host of ships of their own and access to far more.,Substantial mechanical facilities on [Nightfall](Procyon/Brekk/Nightfall.md).
+A host of ships of their own and access to far more.,Substantial mechanical facilities on [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
 
 ## Quirks
 
@@ -83,13 +83,13 @@ The Riders are left alone by authorities if their races are kept far enough from
 
 | Frinendly From                                       |
 | ---------------------------------------------------- |
-| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#) |
-| [Starsmiths Guild](./Starsmiths%2520Guild.md.md#)   |
+| [[./Borniko Syndicate\|Borniko Syndicate]] |
+| [[./Starsmiths Guild\|Starsmiths Guild]]   |
 
 
 ## Helpful With
 
-[Borniko Syndicate](./Borniko%2520Syndicate.md.md#),[Starsmiths Guild](./Starsmiths%2520Guild.md.md#)
+[[./Borniko Syndicate|Borniko Syndicate]],[[./Starsmiths Guild|Starsmiths Guild]]
 
 | Helpful From |
 | ------------ |
@@ -117,12 +117,12 @@ The Riders are left alone by authorities if their races are kept far enough from
 
 ## Hostile With
 
-[Wreckers](./Wreckers.md.md#)
+[[./Wreckers|Wreckers]]
 
 
 | Hostile From                       |
 | ---------------------------------- |
-| [Wreckers](./Wreckers.md.md#) |
+| [[./Wreckers\|Wreckers]] |
 
 
 
