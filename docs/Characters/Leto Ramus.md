@@ -9,26 +9,26 @@ playbook: Stitch
 status: active
 pronouns: He/Him?
 share: "true"
-faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: "[[Factions/Rusty Nail|Rusty Nail]]"
+faction: "[Rusty Nail](../Factions/Rusty%2520Nail.md#)"
+location: "[Rusty Nail](../Factions/Rusty%2520Nail.md#)"
 ---
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![cover hsmall](../ImagePlaceholder.png)
+> [Show To Players](../ImagePlaceholder.png)
 > ###### Leto Ramus
 > Attribute |  value |
 > ---|---|
 > Alias | Dr. Igno
 > Pronouns | He/Him?
-> Faction | [[../Factions/Rusty Nail|Rusty Nail]]
-> Location | [[../Factions/Rusty Nail|Rusty Nail]] |
+> Faction | [Rusty Nail](../Factions/Rusty%2520Nail.md.md#.md#)
+> Location | [Rusty Nail](../Factions/Rusty%2520Nail.md.md#.md#) |
 
 # Leto Ramus
 ## Profile
 
 ## Friends
-- [[Juda|Juda]] (A doctor)
+- [Juda](Juda.md) (A doctor)
 ## Enemies
-- [[Lynie|Lynie]] (A hospital admin)
+- [Lynie](Lynie.md) (A hospital admin)
