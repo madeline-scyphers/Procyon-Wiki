@@ -5,22 +5,22 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[Rin](../Procyon/Rin/index.md#)"
-  - "[Warren](../Procyon/Rin/Warren.md#)"
+  - "[[Procyon/Rin/Rin|Rin]]"
+  - "[[Procyon/Rin/Warren|Warren]]"
 tier: "3"
 nature: Once lean and battle ready, the Ashen Knives are a decadent Syndicate focused on drugs, gambling, and pleasures of the flesh.
 allies: []
 friendly:
-  - "[The Maelstrom](./The%2520Maelstrom.md#)"
+  - "[[Factions/The Maelstrom|Factions/The Maelstrom]]"
 helpful: []
 neutral: []
 interfering: []
 hostile:
-  - "[House Malklaith](./House%2520Malklaith.md#)"
+  - "[[Factions/House Malklaith|Factions/House Malklaith]]"
 war:
-  - "[Cobalt Syndicate](./Cobalt%2520Syndicate.md#)"
+  - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
 goals:
-  - Control major planetary crimes in [Rin](../Procyon/Rin/index.md#).
+  - Control major planetary crimes in [[Procyon/Rin/Rin|Procyon/Rin/Rin]].
 notable assets:
   - A crew of well-trained assassins often with a Precursor artifact or two up their sleeves.
   - Heavy coffers.
@@ -29,10 +29,10 @@ notable assets:
 notable npcs:
   - Pasha Qo’iin (sly, corpulent, sartorial, decadent).
   - Knife Lirik (assassin, xeno, gambler, deadly, graceful).
-  - "[Ora](Ora.md) (greedy, well armed, well connected, deals in information)."
-turf: Drug dens, gambling houses, a hidden and reinforced bunker on [Warren](../Procyon/Rin/Warren.md#).
+  - "[[Ora|Ora]] (greedy, well armed, well connected, deals in information)."
+turf: Drug dens, gambling houses, a hidden and reinforced bunker on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
 quirks: To join the Syndicate, Knives must take a life. Being promoted requires doing unsavory tasks. Their regional leaders are titled “Pashas.”
-situation: The Ashen Knives' power on [Warren](../Procyon/Rin/Warren.md#) has filled the Knives’ coffers, and now their sights are set on expanding.
+situation: The Ashen Knives' power on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] has filled the Knives’ coffers, and now their sights are set on expanding.
 ---
 ## Tier
 
@@ -40,7 +40,7 @@ situation: The Ashen Knives' power on [Warren](../Procyon/Rin/Warren.md#) has fi
 
 ## Goals
 
-Control major planetary crimes in [Rin](Procyon/Rin/Rin.md).
+Control major planetary crimes in [[Procyon/Rin/Rin|Procyon/Rin/Rin]].
 
 ## Nature
 
@@ -48,15 +48,15 @@ Once lean and battle ready, the Ashen Knives are a decadent Syndicate focused on
 
 ## Location
 
-[Rin](../Procyon/Rin/index.md.md#.md#),[Warren](../Procyon/Rin/Warren.md.md#.md#.md#)
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
-Drug dens, gambling houses, a hidden and reinforced bunker on [Warren](Procyon/Rin/Warren.md).
+Drug dens, gambling houses, a hidden and reinforced bunker on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
 
 ## Notable NPCs
 
-Pasha Qo’iin (sly, corpulent, sartorial, decadent).,Knife Lirik (assassin, xeno, gambler, deadly, graceful).,[Ora](Ora.md) (greedy, well armed, well connected, deals in information).
+Pasha Qo’iin (sly, corpulent, sartorial, decadent).,Knife Lirik (assassin, xeno, gambler, deadly, graceful).,[[Ora|Ora]] (greedy, well armed, well connected, deals in information).
 
 ## Notable Assets
 
@@ -68,7 +68,7 @@ To join the Syndicate, Knives must take a life. Being promoted requires doing un
 
 ## Situation
 
-The Ashen Knives' power on [Warren](Procyon/Rin/Warren.md) has filled the Knives’ coffers, and now their sights are set on expanding.
+The Ashen Knives' power on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] has filled the Knives’ coffers, and now their sights are set on expanding.
 
 ## Allies With
 
@@ -80,11 +80,11 @@ The Ashen Knives' power on [Warren](Procyon/Rin/Warren.md) has filled the Knives
 
 ## Friendly With
 
-[The Maelstrom](./The%2520Maelstrom.md.md#)
+[[./The Maelstrom|The Maelstrom]]
 
 | Frinendly From                               |
 | -------------------------------------------- |
-| [The Maelstrom](./The%2520Maelstrom.md.md#) |
+| [[./The Maelstrom\|The Maelstrom]] |
 
 
 ## Helpful With
@@ -112,27 +112,27 @@ The Ashen Knives' power on [Warren](Procyon/Rin/Warren.md) has filled the Knives
 
 | Interfering From                                 |
 | ------------------------------------------------ |
-| [House Malklaith](./House%2520Malklaith.md.md#) |
+| [[./House Malklaith\|House Malklaith]] |
 
 
 
 ## Hostile With
 
-[House Malklaith](./House%2520Malklaith.md.md#)
+[[./House Malklaith|House Malklaith]]
 
 
 | Hostile From                                                     |
 | ---------------------------------------------------------------- |
-| [51st Legion](./51st%20Legion.md)                         |
-| [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) |
+| [[./51st Legion\|51st Legion]]                         |
+| [[./Acolytes of Brashkadesh\|Acolytes of Brashkadesh]] |
 
 
 
 ## War With
 
-[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#)
+[[./Cobalt Syndicate|Cobalt Syndicate]]
 
 | War From                                           |
 | -------------------------------------------------- |
-| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#) |
+| [[./Cobalt Syndicate\|Cobalt Syndicate]] |
 
