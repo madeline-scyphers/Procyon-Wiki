@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Iota/index|Iota]]"
+  - "[[Procyon/Iota/Iota|Iota]]"
 tier: "3"
 nature: Violent pirates who disable ships before boarding, ransoming crew and cargo alike.
 allies: []
