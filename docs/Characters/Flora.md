@@ -13,9 +13,9 @@ faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 location: "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: ""
 friends:
-  - "[[Triv|Triv]] (a ship mechanic)"
+  - "[[Triv|Triv]]"
 enemies:
-  - "[[Yattu|Yattu]] (a gang boss)"
+  - "[[Yattu|Yattu]]"
 ---
 
 
@@ -35,7 +35,7 @@ enemies:
 
 
 ## Friends
-[[Triv|Triv]] (a ship mechanic)
+[[Characters/Triv.md|Triv]]
 
 ## Enemies
-[[Yattu|Yattu]] (a gang boss)
+[[Characters/Yattu.md|Yattu]]
