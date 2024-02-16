@@ -2,8 +2,7 @@
 name: Krieger
 faction: ""
 pronouns: ""
-location:
-  - "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 role: npc
 status: active
 share: "true"
@@ -18,8 +17,7 @@ enemies:
 name: Krieger
 faction: ""
 pronouns: ""
-location:
-  - "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 role: npc
 status: active
 share: "true"
