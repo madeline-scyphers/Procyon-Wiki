@@ -1,5 +1,44 @@
 ---
-aliases: 
+aliases:
+  - Makers Guild
+tags:
+  - faction
+faction_type: Hegemony
+share: "true"
+location:
+  - "[Iota](../Procyon/Iota/index.md)"
+  - "[Amerath](../Procyon/Iota/Amerath.md)"
+tier: "2"
+nature: Also known as the Makers Guild, they grow clones for menial labor that are supposedly short-lived and only barely sentient.
+allies: 
+friendly: 
+helpful:
+  - "[Lost Legion](./Lost%20Legion.md)"
+  - "[Guild of Engineers](./Guild%20of%20Engineers.md)"
+  - "[Starsmiths Guild](./Starsmiths%20Guild.md)"
+neutral: 
+interfering:
+  - "[Counters Guild](./Counters%20Guild.md)"
+  - "[51st Legion](./51st%20Legion.md)"
+  - "[Cobalt Syndicate](./Cobalt%20Syndicate.md)"
+hostile: 
+war: 
+goals:
+  - breed clone soldiers for lost legion
+notable assets:
+  - Cloning facilities.
+  - Clones placed in several important households and facilities, which report back.
+  - Powerful capacity for genetic manipulation.
+notable npcs:
+  - Foler Atherton (biologist, concealed).
+  - Bal Yn (geneticist, haughty).
+  - Rech (savant, cold). All unmarked progenitor clones.
+turf: Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [Amerath](../Procyon/Iota/Amerath.md).
+quirks: The Makers Guild doesn't accept new members. The progenitors have self-perfected and are frozen; only so many are allowed to be active at once. The Yaru (as the clones are called) make many people in their presence uneasy.
+situation: When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, strictly regulated by the Hegemon, have been severely reduced. Unsatisfied, they have thrown in with the [Lost Legion](./Lost%20Legion.md), and are secretly working to restore the previous Hegemon to power.
+---
+---
+aliases:
   - Makers Guild
 tags:
   - faction
@@ -18,20 +57,20 @@ helpful:
   - "[Starsmiths Guild](./Starsmiths%20Guild.md)"
 neutral:
 interfering:
-. - "[Counters Guild](./Counters%20Guild.md)"
+  - "[Counters Guild](./Counters%20Guild.md)"
   - "[51st Legion](./51st%20Legion.md)"
   - "[Cobalt Syndicate](./Cobalt%20Syndicate.md)"
 hostile:
 war:
-goals: 
-- breed clone soldiers for lost legion 
-notable assets: 
+goals:
+  - breed clone soldiers for lost legion
+notable assets:
   - Cloning facilities.
   - Clones placed in several important households and facilities, which report back.
   - Powerful capacity for genetic manipulation.
 notable npcs:
   - Foler Atherton (biologist, concealed).
-. - Bal Yn (geneticist, haughty).
+  - Bal Yn (geneticist, haughty).
   - Rech (savant, cold). All unmarked progenitor clones.
 turf: Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [Amerath](../Procyon/Iota/Amerath.md).
 quirks: The Makers Guild doesn't accept new members. The progenitors have self-perfected and are frozen; only so many are allowed to be active at once. The Yaru (as the clones are called) make many people in their presence uneasy.
@@ -39,39 +78,39 @@ situation: When the Hegemon ascended, the Yaru sided with a competitor, and thei
 ---
 ## Tier
 
-
+2
 
 ## Goals
 
-
+breed clone soldiers for lost legion
 
 ## Nature
 
-
+Also known as the Makers Guild, they grow clones for menial labor that are supposedly short-lived and only barely sentient.
 
 ## Location
 
-
+[Iota](../Procyon/Iota/index.md),[Amerath](../Procyon/Iota/Amerath.md)
 
 ## Turf
 
-
+Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [Amerath](Procyon/Iota/Amerath.md).
 
 ## Notable NPCs
 
-
+Foler Atherton (biologist, concealed).,Bal Yn (geneticist, haughty).,Rech (savant, cold). All unmarked progenitor clones.
 
 ## Notable Assets
 
-
+Cloning facilities.,Clones placed in several important households and facilities, which report back.,Powerful capacity for genetic manipulation.
 
 ## Quirks
 
-
+The Makers Guild doesn't accept new members. The progenitors have self-perfected and are frozen; only so many are allowed to be active at once. The Yaru (as the clones are called) make many people in their presence uneasy.
 
 ## Situation
 
-
+When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, strictly regulated by the Hegemon, have been severely reduced. Unsatisfied, they have thrown in with the [Lost Legion](Factions/Lost%20Legion.md), and are secretly working to restore the previous Hegemon to power.
 
 ## Allies With
 
@@ -92,7 +131,7 @@ situation: When the Hegemon ascended, the Yaru sided with a competitor, and thei
 
 ## Helpful With
 
-
+[Lost Legion](./Lost%20Legion.md),[Guild of Engineers](./Guild%20of%20Engineers.md),[Starsmiths Guild](./Starsmiths%20Guild.md)
 
 | Helpful From |
 | ------------ |
@@ -110,7 +149,7 @@ situation: When the Hegemon ascended, the Yaru sided with a competitor, and thei
 
 ## Interfering With
 
-
+[Counters Guild](./Counters%20Guild.md),[51st Legion](./51st%20Legion.md),[Cobalt Syndicate](./Cobalt%20Syndicate.md)
 
 
 | Interfering From                                                 |
@@ -143,8 +182,8 @@ situation: When the Hegemon ascended, the Yaru sided with a competitor, and thei
 
 
 
-aliases: 
-- Makers Guild
+aliases:
+  - Makers Guild
 tags:
   - faction
 faction_type: Hegemony
@@ -157,27 +196,26 @@ nature: Also known as the Makers Guild, they grow clones for menial labor that a
 allies:
 friendly:
 helpful:
-- "[Lost Legion](./Lost%20Legion.md)"
-- "[Guild of Engineers](./Guild%20of%20Engineers.md)"
-- "[Starsmiths Guild](./Starsmiths%20Guild.md)"
+  - "[Lost Legion](./Lost%20Legion.md)"
+  - "[Guild of Engineers](./Guild%20of%20Engineers.md)"
+  - "[Starsmiths Guild](./Starsmiths%20Guild.md)"
 neutral:
 interfering:
-- "[Counters Guild](./Counters%20Guild.md)"
-- "[51st Legion](./51st%20Legion.md)"
-- "[Cobalt Syndicate](./Cobalt%20Syndicate.md)"
+  - "[Counters Guild](./Counters%20Guild.md)"
+  - "[51st Legion](./51st%20Legion.md)"
+  - "[Cobalt Syndicate](./Cobalt%20Syndicate.md)"
 hostile:
 war:
-goals: 
-- breed clone soldiers for lost legion 
-notable assets: 
-- Cloning facilities.
-- Clones placed in several important households and facilities, which report back.
-- Powerful capacity for genetic manipulation.
+goals:
+  - breed clone soldiers for lost legion
+notable assets:
+  - Cloning facilities.
+  - Clones placed in several important households and facilities, which report back.
+  - Powerful capacity for genetic manipulation.
 notable npcs:
-- Foler Atherton (biologist, concealed).
-- Bal Yn (geneticist, haughty).
-- Rech (savant, cold). All unmarked progenitor clones.
+  - Foler Atherton (biologist, concealed).
+  - Bal Yn (geneticist, haughty).
+  - Rech (savant, cold). All unmarked progenitor clones.
 turf: Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [Amerath](../Procyon/Iota/Amerath.md).
 quirks: The Makers Guild doesn't accept new members. The progenitors have self-perfected and are frozen; only so many are allowed to be active at once. The Yaru (as the clones are called) make many people in their presence uneasy.
 situation: When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, strictly regulated by the Hegemon, have been severely reduced. Unsatisfied, they have thrown in with the [Lost Legion](./Lost%20Legion.md), and are secretly working to restore the previous Hegemon to power.
-
