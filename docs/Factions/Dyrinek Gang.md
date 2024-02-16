@@ -5,22 +5,22 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Rin|Rin]]"
-  - "[[Procyon/Rin/Warren|Warren]]"
+  - "[Rin](Rin.md)"
+  - "[Warren](../Procyon/Rin/Warren.md#)"
 tier: "1"
 nature: Mostly young disenfranchised xenos who have turned to crime and found strength and solidarity with each other.
 allies: []
 friendly:
-  - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
+  - "[Cobalt Syndicate](./Cobalt%2520Syndicate.md#)"
 helpful: []
 neutral: []
 interfering: []
 hostile:
-  - "[[Factions/House Malklaith|Factions/House Malklaith]]"
-  - "[[Factions/Hegemonic News Network|Factions/Hegemonic News Network]]"
+  - "[House Malklaith](./House%2520Malklaith.md#)"
+  - "[Hegemonic News Network](./Hegemonic%2520News%2520Network.md#)"
 war: []
 goals:
-  - Take over the [[Factions/Hegemonic News Network|Factions/Hegemonic News Network]].
+  - Take over the [Hegemonic News Network](./Hegemonic%2520News%2520Network.md#).
 notable assets:
   - A collection of high-end hoverbikes.
   - Minor artifacts some of the leaders have attached to themselves.
@@ -39,7 +39,7 @@ situation: The gang has had run-ins with System police, and the Hegemonic News N
 
 ## Goals
 
-Take over the [[Factions/Hegemonic News Network|Factions/Hegemonic News Network]].
+Take over the [Hegemonic News Network](Factions/Hegemonic%20News%20Network.md).
 
 ## Nature
 
@@ -47,7 +47,7 @@ Mostly young disenfranchised xenos who have turned to crime and found strength a
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[Rin](../Procyon/Rin/index.md),[Warren](../Procyon/Rin/Warren.md.md#)
 
 ## Turf
 
@@ -75,17 +75,17 @@ The gang has had run-ins with System police, and the Hegemonic News Network pain
 
 | Allies From                                        |
 | -------------------------------------------------- |
-| [[./Cobalt Syndicate\|Cobalt Syndicate]] |
+| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#) |
 
 
 ## Friendly With
 
-[[./Cobalt Syndicate|Cobalt Syndicate]]
+[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#)
 
 | Frinendly From                                                   |
 | ---------------------------------------------------------------- |
-| [[./Church of Stellar Flame\|Church of Stellar Flame]] |
-| [[./The Agony\|The Agony]]                             |
+| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) |
+| [The Agony](./The%20Agony.md)                             |
 
 
 ## Helpful With
@@ -94,7 +94,7 @@ The gang has had run-ins with System police, and the Hegemonic News Network pain
 
 | Helpful From                                 |
 | -------------------------------------------- |
-| [[./Starless Veil\|Starless Veil]] |
+| [Starless Veil](./Starless%20Veil.md) |
 
 
 ## Neutral With
@@ -114,13 +114,13 @@ The gang has had run-ins with System police, and the Hegemonic News Network pain
 
 | Interfering From                                               |
 | -------------------------------------------------------------- |
-| [[./Hegemonic News Network\|Hegemonic News Network]] |
+| [Hegemonic News Network](./Hegemonic%2520News%2520Network.md.md#.md#) |
 
 
 
 ## Hostile With
 
-[[./House Malklaith|House Malklaith]],[[./Hegemonic News Network|Hegemonic News Network]]
+[House Malklaith](./House%2520Malklaith.md.md#),[Hegemonic News Network](./Hegemonic%2520News%2520Network.md.md#.md#)
 
 
 | Hostile From |
