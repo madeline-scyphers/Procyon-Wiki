@@ -91,6 +91,7 @@ The Maelstrom raids shipping lanes and sells goods via the [[Factions/Ashen Kniv
 | Frinendly From                                     |
 | -------------------------------------------------- |
 | [[Factions/Cobalt Syndicate.md\|Cobalt Syndicate]] |
+| [[Factions/Ashen Knives.md\|Ashen Knives]]         |
 | [[Factions/The Agony.md\|The Agony]]               |
 
 
