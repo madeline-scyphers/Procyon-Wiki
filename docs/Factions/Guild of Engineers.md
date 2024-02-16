@@ -5,21 +5,21 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[Rin](../Procyon/Rin/index.md#)"
+  - "[[Procyon/Rin/Rin|Rin]]"
   - "[[Procyon/Rin/SB-176|SB-176]]"
 tier: "5"
 nature: One of the Hegemonic High Guilds responsible for resource acquisition, cybernetics, AI tech advancement, and research.
 allies: []
 friendly:
-  - "[51st Legion](./51st%2520Legion.md#)"
-  - "[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md#)"
+  - "[[Factions/51st Legion|Factions/51st Legion]]"
+  - "[[Factions/Isotropa Max Secure|Factions/Isotropa Max Secure]]"
 helpful: []
 neutral: []
 interfering:
-  - "[Borniko Syndicate](./Borniko%2520Syndicate.md#)"
-  - "[Cobalt Syndicate](./Cobalt%2520Syndicate.md#)"
-  - "[Conclave 01](./Conclave%252001.md#)"
-  - "[Counters Guild](./Counters%2520Guild.md#)"
+  - "[[Factions/Borniko Syndicate|Factions/Borniko Syndicate]]"
+  - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
+  - "[[Factions/Conclave 01|Factions/Conclave 01]]"
+  - "[[Factions/Counters Guild|Factions/Counters Guild]]"
 hostile: []
 war: []
 goals:
@@ -34,7 +34,7 @@ notable npcs:
   - Yast Jor (commanding, shrewd, bold).
 turf: "[[Procyon/Rin/SB-176]]"
 quirks: Many high-ranking Guild members sport custom cybernetics.
-situation: Decadent and powerful, the Guild of Engineers is beyond the [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md)'s ability to police. They are exploiting this remote sector to perform experiments banned by the Cults and the Hegemon. Their current project involves converting Way energy into a highly unstable but physical compound.
+situation: Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governor Ritam al’Malklaith|Governor]]'s ability to police. They are exploiting this remote sector to perform experiments banned by the Cults and the Hegemon. Their current project involves converting Way energy into a highly unstable but physical compound.
 ---
 ## Tier
 
@@ -50,11 +50,11 @@ One of the Hegemonic High Guilds responsible for resource acquisition, cyberneti
 
 ## Location
 
-[Rin](../Procyon/Rin/index.md.md#),[SB-176](../Procyon/Rin/SB-176.md)
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/SB-176|SB-176]]
 
 ## Turf
 
-[SB-176](../Procyon/Rin/SB-176.md)
+[[../Procyon/Rin/SB-176|SB-176]]
 
 ## Notable NPCs
 
@@ -70,7 +70,7 @@ Many high-ranking Guild members sport custom cybernetics.
 
 ## Situation
 
-Decadent and powerful, the Guild of Engineers is beyond the [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md)'s ability to police. They are exploiting this remote sector to perform experiments banned by the Cults and the Hegemon. Their current project involves converting Way energy into a highly unstable but physical compound.
+Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governor Ritam al’Malklaith|Governor]]'s ability to police. They are exploiting this remote sector to perform experiments banned by the Cults and the Hegemon. Their current project involves converting Way energy into a highly unstable but physical compound.
 
 ## Allies With
 
@@ -82,11 +82,11 @@ Decadent and powerful, the Guild of Engineers is beyond the [Governor](Character
 
 ## Friendly With
 
-[51st Legion](./51st%2520Legion.md.md#),[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#)
+[[./51st Legion|51st Legion]],[[./Isotropa Max Secure|Isotropa Max Secure]]
 
 | Frinendly From                                           |
 | -------------------------------------------------------- |
-| [Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#) |
+| [[./Isotropa Max Secure\|Isotropa Max Secure]] |
 
 
 ## Helpful With
@@ -95,7 +95,7 @@ Decadent and powerful, the Guild of Engineers is beyond the [Governor](Character
 
 | Helpful From               |
 | -------------------------- |
-| [Yaru](./Yaru.md) |
+| [[./Yaru\|Yaru]] |
 
 
 ## Neutral With
@@ -110,14 +110,14 @@ Decadent and powerful, the Guild of Engineers is beyond the [Governor](Character
 
 ## Interfering With
 
-[Borniko Syndicate](./Borniko%2520Syndicate.md.md#),[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#),[Conclave 01](./Conclave%252001.md.md#),[Counters Guild](./Counters%2520Guild.md.md#)
+[[./Borniko Syndicate|Borniko Syndicate]],[[./Cobalt Syndicate|Cobalt Syndicate]],[[./Conclave 01|Conclave 01]],[[./Counters Guild|Counters Guild]]
 
 
 | Interfering From                             |
 | -------------------------------------------- |
-| [The Maelstrom](./The%20Maelstrom.md) |
-| [Starless Veil](./Starless%20Veil.md) |
-| [Sah'iir](./Sah'iir.md)             |
+| [[./The Maelstrom\|The Maelstrom]] |
+| [[./Starless Veil\|Starless Veil]] |
+| [[./Sah'iir\|Sah'iir]]             |
 
 
 
@@ -128,12 +128,12 @@ Decadent and powerful, the Guild of Engineers is beyond the [Governor](Character
 
 | Hostile From                                                     |
 | ---------------------------------------------------------------- |
-| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#)               |
-| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#)             |
-| [Counters Guild](./Counters%2520Guild.md.md#)                   |
-| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) |
-| [Conclave 01](./Conclave%252001.md.md#)                         |
-| [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) |
+| [[./Cobalt Syndicate\|Cobalt Syndicate]]               |
+| [[./Borniko Syndicate\|Borniko Syndicate]]             |
+| [[./Counters Guild\|Counters Guild]]                   |
+| [[./Church of Stellar Flame\|Church of Stellar Flame]] |
+| [[./Conclave 01\|Conclave 01]]                         |
+| [[./Acolytes of Brashkadesh\|Acolytes of Brashkadesh]] |
 
 
 
