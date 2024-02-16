@@ -9,6 +9,12 @@ playbook: Scoundrel
 status: active
 pronouns: Any, Sure, Whatever
 share: "true"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: ""
+friends:
+  - "[[Ora|Ora]]"
+enemies:
+  - "[[Nyx|Nyx]]"
 ---
 
 
@@ -20,7 +26,7 @@ share: "true"
 > ---|---|
 > Alias | Vapor
 > Pronouns | Any, Sure, Whatever
-> Faction | 
+> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
 > Location |  |
 
 # Mordin Ulmak
@@ -28,8 +34,8 @@ share: "true"
 
 
 ## Friends
-
+[[Characters/Ora.md|Ora]]
 
 ## Enemies
-
+[[Characters/Nyx.md|Nyx]]
 
