@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: []
 tags:
   - faction
 faction_type: Weird
@@ -9,56 +9,18 @@ location:
   - "[Aketi](../Procyon/Brekk/Aketi.md#)"
 tier: "1"
 nature: Warrior mystics that seek to enforce an ancient code of justice on those they find wanting.
-allies: 
-friendly: 
+allies: []
+friendly: []
 helpful:
   - "[Concordiat Knights](./Concordiat%2520Knights.md#)"
-neutral: 
+neutral: []
 interfering:
   - "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
   - "[Janus Syndicate](./Janus%2520Syndicate.md#)"
   - "[Turner Society](./Turner%2520Society.md#)"
 hostile:
   - "[Nightspeakers](./Nightspeakers.md#)"
-war: 
-goals:
-  - burn down base camp one
-notable assets:
-  - Hidden forest temple.
-  - Temple archives going back to the early days of the Hegemony.
-  - Mystic tools.
-  - A handful of powerful mystic warriors.
-notable npcs:
-  - Quai-Rosh (elder, mystic, judgmental).
-  - Aayli Spacerunner (elder, stoic, warrior).
-  - Ulek Spacedancer (apprentice, rash, friendly).
-turf: The First Temple on [Aketi](../Procyon/Brekk/Aketi.md#) (HQ).
-quirks: Each member is trained by one elder mentor. Becoming a Vigilance member means receiving an artifact blade as a mark of your progress.
-situation: Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [Procyon](Procyon/Procyon.md). They have judged the gunrunners and drug makers of [Aketi](../Procyon/Brekk/Aketi.md#) unworthy.
----
----
-aliases:
-tags:
-  - faction
-faction_type: Weird
-share: "true"
-location:
-  - "[Brekk](../Procyon/Brekk/index.md#)"
-  - "[Aketi](../Procyon/Brekk/Aketi.md#)"
-tier: "1"
-nature: Warrior mystics that seek to enforce an ancient code of justice on those they find wanting.
-allies:
-friendly:
-helpful:
-  - "[Concordiat Knights](./Concordiat%2520Knights.md#)"
-neutral:
-interfering:
-  - "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
-  - "[Janus Syndicate](./Janus%2520Syndicate.md#)"
-  - "[Turner Society](./Turner%2520Society.md#)"
-hostile:
-  - "[Nightspeakers](./Nightspeakers.md#)"
-war:
+war: []
 goals:
   - burn down base camp one
 notable assets:
@@ -88,7 +50,7 @@ Warrior mystics that seek to enforce an ancient code of justice on those they fi
 
 ## Location
 
-[Brekk](../Procyon/Brekk/index.md.md#.md#),[Aketi](../Procyon/Brekk/Aketi.md.md#.md#.md#.md#.md#.md#)
+[Brekk](../Procyon/Brekk/index.md.md#),[Aketi](../Procyon/Brekk/Aketi.md.md#.md#.md#)
 
 ## Turf
 
@@ -128,11 +90,11 @@ Though the Hegemony colonized the sector a hundred years ago, Vigilance was foun
 
 ## Helpful With
 
-[Concordiat Knights](./Concordiat%2520Knights.md.md#.md#)
+[Concordiat Knights](./Concordiat%2520Knights.md.md#)
 
 | Helpful From                                           |
 | ------------------------------------------------------ |
-| [Concordiat Knights](./Concordiat%2520Knights.md.md#.md#) |
+| [Concordiat Knights](./Concordiat%2520Knights.md.md#) |
 
 
 ## Neutral With
@@ -147,21 +109,21 @@ Though the Hegemony colonized the sector a hundred years ago, Vigilance was foun
 
 ## Interfering With
 
-[Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#),[Janus Syndicate](./Janus%2520Syndicate.md.md#.md#),[Turner Society](./Turner%2520Society.md.md#.md#)
+[Draxler's Raiders](./Draxler's%2520Raiders.md.md#),[Janus Syndicate](./Janus%2520Syndicate.md.md#),[Turner Society](./Turner%2520Society.md.md#)
 
 
 | Interfering From                                     |
 | ---------------------------------------------------- |
-| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#.md#) |
-| [Turner Society](./Turner%2520Society.md.md#.md#)       |
-| [Janus Syndicate](./Janus%2520Syndicate.md.md#.md#)     |
+| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#) |
+| [Turner Society](./Turner%2520Society.md.md#)       |
+| [Janus Syndicate](./Janus%2520Syndicate.md.md#)     |
 | [Vignerons](./Vignerons.md)                 |
 
 
 
 ## Hostile With
 
-[Nightspeakers](./Nightspeakers.md.md#.md#)
+[Nightspeakers](./Nightspeakers.md.md#)
 
 
 | Hostile From |
