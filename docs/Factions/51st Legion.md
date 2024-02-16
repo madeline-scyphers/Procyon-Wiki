@@ -5,10 +5,6 @@ tags:
 faction_type: Hegemony
 share: true
 tier: "3"
-nature: A faction of the Hegemonic military preparing a coup.
-turf: The Scorpio (dreadnought HQ), naval yards throughout the sector, outposts at government and public installations and trade lanes.
-quirks: Oddly few xenos among the Legion.
-situation: Tallon earned commendations on the battlefield but swore to cleanse the Hegemonic military of nepotism after his command was sacrificed to a Noble’s daughter. He uses his secretly psychic lieutenant Li
 ---
 ---
 aliases:
@@ -17,10 +13,6 @@ tags:
 faction_type: Hegemony
 share: true
 tier: "3"
-nature: A faction of the Hegemonic military preparing a coup.
-turf: The Scorpio (dreadnought HQ), naval yards throughout the sector, outposts at government and public installations and trade lanes.
-quirks: Oddly few xenos among the Legion.
-situation: Tallon earned commendations on the battlefield but swore to cleanse the Hegemonic military of nepotism after his command was sacrificed to a Noble’s daughter. He uses his secretly psychic lieutenant Li
 ---
 
 ## Tier
@@ -33,7 +25,7 @@ situation: Tallon earned commendations on the battlefield but swore to cleanse t
 
 ## Nature
 
-A faction of the Hegemonic military preparing a coup.
+
 
 ## Location
 
@@ -41,7 +33,7 @@ A faction of the Hegemonic military preparing a coup.
 
 ## Turf
 
-The Scorpio (dreadnought HQ), naval yards throughout the sector, outposts at government and public installations and trade lanes.
+
 
 ## Notable NPCs
 
@@ -53,11 +45,11 @@ The Scorpio (dreadnought HQ), naval yards throughout the sector, outposts at gov
 
 ## Quirks
 
-Oddly few xenos among the Legion.
+
 
 ## Situation
 
-Tallon earned commendations on the battlefield but swore to cleanse the Hegemonic military of nepotism after his command was sacrificed to a Noble’s daughter. He uses his secretly psychic lieutenant Li
+
 
 ## Allies With
 
