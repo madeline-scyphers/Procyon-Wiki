@@ -1,4 +1,5 @@
 ---
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 name: Flora
 aliases:
   - Sunflower
@@ -9,7 +10,6 @@ playbook: Pilot
 status: active
 pronouns: She/Her
 share: "true"
-faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 location:
   - "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: ""
@@ -19,6 +19,7 @@ enemies:
   - "[[Yattu|Yattu]]"
 ---
 ---
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 name: Flora
 aliases:
   - Sunflower
@@ -29,7 +30,6 @@ playbook: Pilot
 status: active
 pronouns: She/Her
 share: "true"
-faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 location: 
   - "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: ""
