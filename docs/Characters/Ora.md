@@ -33,9 +33,9 @@ An info broker
 
 ## Relationships
 
-| Friend                                       | Profile |
-| -------------------------------------------- | ------- |
-| [[Characters/Mordin Ulmak.md\|Mordin Ulmak]] |         |
+| Friend                                       | Profile      |
+| -------------------------------------------- | ------------ |
+| [[Characters/Mordin Ulmak.md\|Mordin Ulmak]] | Manufactured |
 
 
 | Enemy | Profile |

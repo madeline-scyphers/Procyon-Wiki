@@ -36,8 +36,8 @@ A moneylender
 | ------ | ------- |
 
 
-| Enemy                                        | Profile |
-| -------------------------------------------- | ------- |
-| [[Characters/Mordin Ulmak.md\|Mordin Ulmak]] |         |
+| Enemy                                        | Profile      |
+| -------------------------------------------- | ------------ |
+| [[Characters/Mordin Ulmak.md\|Mordin Ulmak]] | Manufactured |
 
 

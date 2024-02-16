@@ -10,8 +10,9 @@ status: active
 pronouns: They/Them
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: "[[Factions/Rusty Nail|Rusty Nail]]"
-profile: Spent whole life on ships
+location:
+  - "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: Spent whole life on ships. Worked as a ship laborer.
 friends:
   - "[[Slice|Slice]]"
   - "[[Characters/Rocco Apple|Rocco Apple]]"
@@ -33,7 +34,7 @@ enemies:
 
 # Kit Apple
 ## Profile
-Spent whole life on ships
+Spent whole life on ships. Worked as a ship laborer.
 
 
 ## Relationships

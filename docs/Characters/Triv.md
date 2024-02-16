@@ -52,9 +52,9 @@ A ship mechanic
 
 ## Relationships
 
-| Friend                         | Profile |
-| ------------------------------ | ------- |
-| [[Characters/Flora.md\|Flora]] |         |
+| Friend                         | Profile              |
+| ------------------------------ | -------------------- |
+| [[Characters/Flora.md\|Flora]] | Colonist and loborer |
 
 
 | Enemy | Profile |
