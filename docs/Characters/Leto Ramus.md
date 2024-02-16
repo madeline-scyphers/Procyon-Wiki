@@ -10,7 +10,28 @@ status: active
 pronouns: He/Him?
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: "[[Factions/Rusty Nail|Rusty Nail]]"
+location:
+  - "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: ""
+friends:
+  - "[[Juda|Juda]]"
+enemies:
+  - "[[Lynie|Lynie]]"
+---
+---
+name: Leto Ramus
+aliases:
+  - Dr. Igno
+tags:
+  - player
+role: player
+playbook: Stitch
+status: active
+pronouns: He/Him?
+share: "true"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+location: 
+  - "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: ""
 friends:
   - "[[Juda|Juda]]"
