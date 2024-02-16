@@ -5,7 +5,7 @@ tags:
 faction_type: Hegemony
 share: true
 location:
-  - "[Procyon](../Procyon/index.md#)"
+  - Procyon
 tier: "3"
 nature: A faction of the Hegemonic military preparing a coup.
 turf: The Scorpio (dreadnought HQ), naval yards throughout the sector, outposts at government and public installations and trade lanes.
@@ -19,7 +19,7 @@ tags:
 faction_type: Hegemony
 share: true
 location:
-  - "[Procyon](../Procyon/index.md#)"
+  - Procyon
 tier: "3"
 nature: A faction of the Hegemonic military preparing a coup.
 turf: The Scorpio (dreadnought HQ), naval yards throughout the sector, outposts at government and public installations and trade lanes.
@@ -41,7 +41,7 @@ A faction of the Hegemonic military preparing a coup.
 
 ## Location
 
-[Procyon](../Procyon/index.md.md#.md#)
+Procyon
 
 ## Turf
 
