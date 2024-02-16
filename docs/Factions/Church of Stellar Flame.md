@@ -47,7 +47,7 @@ A religious group with Hegemonic backing, believing that many Precursor artifact
 
 ## Location
 
-[[../Procyon/Rin/Rin|Rin]]
+[[../Procyon/Rin/index|Rin]]
 
 ## Turf
 
