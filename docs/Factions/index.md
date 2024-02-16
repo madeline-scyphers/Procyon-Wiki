@@ -1,7 +1,6 @@
 ---
 aliases:
   - Factions
-tags: 
 share: "true"
 title: index
 ---
