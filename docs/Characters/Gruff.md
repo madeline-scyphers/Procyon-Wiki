@@ -28,10 +28,15 @@ enemies: []
 ## Profile
 Average scientist, wasn't gonna make it very far up the ranks. Often made mistakes with his papers. Accidently got turned into a half-phased being.
 
-## Friends
+
+## Relationships
+
+| Friend | Profile |
+| ------ | ------- |
 
 
-## Enemies
+| Enemy | Profile |
+| ----- | ------- |
 
 
 
