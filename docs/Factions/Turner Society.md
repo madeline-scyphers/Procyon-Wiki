@@ -5,26 +5,26 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Holt|Holt]]"
-  - "[[Rin|Rin]]"
-  - "[[Procyon/Holt/Mem|Mem]]"
-  - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
-  - "[[Procyon/Rin/Warren|Warren]]"
+  - "[Holt](Holt.md)"
+  - "[Rin](Rin.md)"
+  - "[Mem](../Procyon/Holt/Mem.md#)"
+  - "[Sonhandra](../Procyon/Holt/Sonhandra.md#)"
+  - "[Warren](../Procyon/Rin/Warren.md#)"
 tier: "2"
-nature: Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] animal parts and Vosian crystals.
+nature: Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [Aketi](Procyon/Brekk/Aketi.md) animal parts and Vosian crystals.
 allies: []
 friendly: []
 helpful:
-  - "[[Factions/House Malklaith|Factions/House Malklaith]]"
+  - "[House Malklaith](./House%2520Malklaith.md#)"
 neutral: []
 interfering:
-  - "[[Factions/Vigilance|Factions/Vigilance]]"
+  - "[Vigilance](./Vigilance.md#)"
 hostile: []
 war: []
 goals:
-  - find new hunting grounds on [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]]
+  - find new hunting grounds on [Aketi](Procyon/Brekk/Aketi.md)
 notable assets:
-  - Vosian crystals and [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] animals used to produce Haze.
+  - Vosian crystals and [Aketi](Procyon/Brekk/Aketi.md) animals used to produce Haze.
   - Several society houses.
   - An intrasystem shuttle.
 notable npcs:
@@ -32,9 +32,9 @@ notable npcs:
   - Pytric (chemist, callous, reclusive).
   - Vallis (minor Noble, addicted, wealthy).
   - Chorrguth (xeno, hunter, surly).
-turf: The Jewel, a society house on [[Procyon/Holt/Mem|Procyon/Holt/Mem]] (HQ). Wildside, a society house on [[Procyon/Holt/Sonhandra|Procyon/Holt/Sonhandra]]. The Mirror Maze, an upscale club on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
+turf: The Jewel, a society house on [Mem](../Procyon/Holt/Mem.md#) (HQ). Wildside, a society house on [Sonhandra](../Procyon/Holt/Sonhandra.md#). The Mirror Maze, an upscale club on [Warren](../Procyon/Rin/Warren.md#).
 quirks: Membership into the society is both exclusive and expensive, and considered a mark of taste amongst high society.
-situation: Focusing on the upper echelon of [[Procyon/Procyon|Procyon/Procyon]], the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] animals, and with the [[Factions/Vigilance|Factions/Vigilance]] harassing their production, they struggle to keep up with demand.
+situation: Focusing on the upper echelon of [Procyon](Procyon/Procyon.md), the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [Aketi](Procyon/Brekk/Aketi.md) animals, and with the [Vigilance](./Vigilance.md#) harassing their production, they struggle to keep up with demand.
 ---
 ## Tier
 
@@ -42,19 +42,19 @@ situation: Focusing on the upper echelon of [[Procyon/Procyon|Procyon/Procyon]],
 
 ## Goals
 
-find new hunting grounds on [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]]
+find new hunting grounds on [Aketi](Procyon/Brekk/Aketi.md)
 
 ## Nature
 
-Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] animal parts and Vosian crystals.
+Syndicate-run drug dens masquerading as society houses. Their drugs are cooked with [Aketi](Procyon/Brekk/Aketi.md) animal parts and Vosian crystals.
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Rin/index|Rin]],[[../Procyon/Holt/Mem|Mem]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Rin/Warren|Warren]]
+[Holt](../Procyon/Holt/index.md),[Rin](../Procyon/Rin/index.md),[Mem](../Procyon/Holt/Mem.md.md#.md#),[Sonhandra](../Procyon/Holt/Sonhandra.md.md#.md#),[Warren](../Procyon/Rin/Warren.md.md#.md#)
 
 ## Turf
 
-The Jewel, a society house on [[Procyon/Holt/Mem|Procyon/Holt/Mem]] (HQ). Wildside, a society house on [[Procyon/Holt/Sonhandra|Procyon/Holt/Sonhandra]]. The Mirror Maze, an upscale club on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
+The Jewel, a society house on [Mem](Procyon/Holt/Mem.md) (HQ). Wildside, a society house on [Sonhandra](Procyon/Holt/Sonhandra.md). The Mirror Maze, an upscale club on [Warren](Procyon/Rin/Warren.md).
 
 ## Notable NPCs
 
@@ -62,7 +62,7 @@ Madam Gourdan (administrator, charming, connected).,Pytric (chemist, callous, re
 
 ## Notable Assets
 
-Vosian crystals and [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] animals used to produce Haze.,Several society houses.,An intrasystem shuttle.
+Vosian crystals and [Aketi](Procyon/Brekk/Aketi.md) animals used to produce Haze.,Several society houses.,An intrasystem shuttle.
 
 ## Quirks
 
@@ -70,7 +70,7 @@ Membership into the society is both exclusive and expensive, and considered a ma
 
 ## Situation
 
-Focusing on the upper echelon of [[Procyon/Procyon|Procyon/Procyon]], the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] animals, and with the [[Factions/Vigilance|Factions/Vigilance]] harassing their production, they struggle to keep up with demand.
+Focusing on the upper echelon of [Procyon](Procyon/Procyon.md), the Society has traded the typical complications of running drugs for new problems. Their unique drug requires Vosian crystals and [Aketi](Procyon/Brekk/Aketi.md) animals, and with the [Vigilance](Factions/Vigilance.md) harassing their production, they struggle to keep up with demand.
 
 ## Allies With
 
@@ -90,11 +90,11 @@ Focusing on the upper echelon of [[Procyon/Procyon|Procyon/Procyon]], the Societ
 
 ## Helpful With
 
-[[./House Malklaith|House Malklaith]]
+[House Malklaith](./House%2520Malklaith.md.md#)
 
 | Helpful From                                     |
 | ------------------------------------------------ |
-| [[./House Malklaith\|House Malklaith]] |
+| [House Malklaith](./House%2520Malklaith.md.md#) |
 
 
 ## Neutral With
@@ -109,12 +109,12 @@ Focusing on the upper echelon of [[Procyon/Procyon|Procyon/Procyon]], the Societ
 
 ## Interfering With
 
-[[./Vigilance|Vigilance]]
+[Vigilance](./Vigilance.md.md#.md#)
 
 
 | Interfering From                     |
 | ------------------------------------ |
-| [[./Vigilance\|Vigilance]] |
+| [Vigilance](./Vigilance.md.md#.md#) |
 
 
 
