@@ -5,23 +5,23 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Iota|Iota]]"
-  - "[[Procyon/Iota/Lithios|Lithios]]"
+  - "[Iota](Iota.md)"
+  - "[Lithios](../Procyon/Iota/Lithios.md#)"
 tier: "2"
 nature: Scientists that live exo-suited in a half-phased state.
 allies:
-  - "[[Factions/Ashtari Cult|Factions/Ashtari Cult]]"
+  - "[Ashtari Cult](./Ashtari%2520Cult.md#)"
 friendly:
-  - "[[Factions/Suneaters|Factions/Suneaters]]"
+  - "[Suneaters](./Suneaters.md#)"
 helpful: []
 neutral: []
 interfering:
-  - "[[Factions/Church of Stellar Flame|Factions/Church of Stellar Flame]]"
+  - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
 hostile:
-  - "[[Factions/Cult of the Seekers|Factions/Cult of the Seekers]]"
+  - "[Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md#)"
 war: []
 goals:
-  - Hire Memish to make a bomb for the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate.
+  - Hire Memish to make a bomb for the [Holt](Procyon/Holt/Holt.md) gate.
 notable assets:
   - A corvette that can travel along Way lines.
   - The ability to phase on top of people, possessing them, though the body dies a few days later.
@@ -30,10 +30,10 @@ notable npcs:
   - Roy Stanz (biologist, bitter, driven).
   - Eegon Mark (engineer, genius, suit designer).
   - Pol Venker (engineer, self-indulgent, cavalier).
-  - "[[Characters/Gruff|Gruff]] (average scientist, wasn't gonna make it very far)"
-turf: The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on [[Procyon/Iota/Lithios|Procyon/Iota/Lithios]].
+  - "[Gruff](Characters/Gruff.md) (average scientist, wasn't gonna make it very far)"
+turf: The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on [Lithios](../Procyon/Iota/Lithios.md#).
 quirks: Before the mishap, the Ghosts were scientists, all intelligent and educated. They phase out of reality if they stay too long outside their suits (or people).
-situation: A mishap with the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate will restore them to their original forms.
+situation: A mishap with the [Holt](Procyon/Holt/Holt.md) gate will restore them to their original forms.
 ---
 ## Tier
 
@@ -41,7 +41,7 @@ situation: A mishap with the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate will r
 
 ## Goals
 
-Hire Memish to make a bomb for the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate.
+Hire Memish to make a bomb for the [Holt](Procyon/Holt/Holt.md) gate.
 
 ## Nature
 
@@ -49,15 +49,15 @@ Scientists that live exo-suited in a half-phased state.
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
+[Iota](../Procyon/Iota/index.md),[Lithios](../Procyon/Iota/Lithios.md.md#.md#)
 
 ## Turf
 
-The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on [[Procyon/Iota/Lithios|Procyon/Iota/Lithios]].
+The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on [Lithios](Procyon/Iota/Lithios.md).
 
 ## Notable NPCs
 
-Nils Boyer (physicist, brilliant, remorseful).,Roy Stanz (biologist, bitter, driven).,Eegon Mark (engineer, genius, suit designer).,Pol Venker (engineer, self-indulgent, cavalier).,[[Characters/Gruff|Gruff]] (average scientist, wasn't gonna make it very far)
+Nils Boyer (physicist, brilliant, remorseful).,Roy Stanz (biologist, bitter, driven).,Eegon Mark (engineer, genius, suit designer).,Pol Venker (engineer, self-indulgent, cavalier).,[Gruff](Characters/Gruff.md) (average scientist, wasn't gonna make it very far)
 
 ## Notable Assets
 
@@ -69,20 +69,20 @@ Before the mishap, the Ghosts were scientists, all intelligent and educated. The
 
 ## Situation
 
-A mishap with the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate will restore them to their original forms.
+A mishap with the [Holt](Procyon/Holt/Holt.md) gate will restore them to their original forms.
 
 ## Allies With
 
-[[./Ashtari Cult|Ashtari Cult]]
+[Ashtari Cult](./Ashtari%2520Cult.md.md#)
 
 | Allies From                                |
 | ------------------------------------------ |
-| [[./Ashtari Cult\|Ashtari Cult]] |
+| [Ashtari Cult](./Ashtari%2520Cult.md.md#) |
 
 
 ## Friendly With
 
-[[./Suneaters|Suneaters]]
+[Suneaters](./Suneaters.md.md#)
 
 | Frinendly From |
 | -------------- |
@@ -94,7 +94,7 @@ A mishap with the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate will restore them
 
 | Helpful From                         |
 | ------------------------------------ |
-| [[./Suneaters\|Suneaters]] |
+| [Suneaters](./Suneaters.md.md#) |
 
 
 ## Neutral With
@@ -109,18 +109,18 @@ A mishap with the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate will restore them
 
 ## Interfering With
 
-[[./Church of Stellar Flame|Church of Stellar Flame]]
+[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#)
 
 
 | Interfering From                                         |
 | -------------------------------------------------------- |
-| [[./Cult of the Seekers\|Cult of the Seekers]] |
+| [Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#) |
 
 
 
 ## Hostile With
 
-[[./Cult of the Seekers|Cult of the Seekers]]
+[Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#)
 
 
 | Hostile From |
