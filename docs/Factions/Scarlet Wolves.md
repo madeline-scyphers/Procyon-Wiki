@@ -46,7 +46,7 @@ Although they often hire themselves out as bounty hunters, the Scarlet Wolves ar
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/index|Procyon]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Procyon|Procyon]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
