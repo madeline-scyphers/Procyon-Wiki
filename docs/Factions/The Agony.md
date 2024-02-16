@@ -48,7 +48,7 @@ Human Cultists splicing themselves with Way creature DNA. Named for the pain mos
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Holt/Mem|Mem]]
+[[../Procyon/Holt/Holt|Holt]],[[../Procyon/Holt/Mem|Mem]]
 
 ## Turf
 
