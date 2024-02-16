@@ -5,25 +5,25 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[Warren](../Procyon/Rin/Warren.md#)"
-  - "[Rin](Rin.md)"
+  - "[[Procyon/Rin/Warren|Warren]]"
+  - "[[Rin|Rin]]"
 tier: "3"
 nature: A tightly knit group of thieves who steal high-end technological supplies.
 allies:
-  - "[Conclave 01](./Conclave%252001.md#)"
+  - "[[Factions/Conclave 01|Factions/Conclave 01]]"
 friendly:
-  - "[Echo Wave Riders](./Echo%2520Wave%2520Riders.md#)"
+  - "[[Factions/Echo Wave Riders|Factions/Echo Wave Riders]]"
 helpful:
-  - "[Wreckers](./Wreckers.md#)"
+  - "[[Factions/Wreckers|Factions/Wreckers]]"
 neutral: []
 interfering:
-  - "[Starsmiths Guild](./Starsmiths%2520Guild.md#)"
+  - "[[Factions/Starsmiths Guild|Factions/Starsmiths Guild]]"
 hostile:
-  - "[Guild of Engineers](./Guild%2520of%2520Engineers.md#)"
+  - "[[Factions/Guild of Engineers|Factions/Guild of Engineers]]"
 war:
-  - "[Counters Guild](./Counters%2520Guild.md#)"
+  - "[[Factions/Counters Guild|Factions/Counters Guild]]"
 goals:
-  - Steal [Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md)’s rings.
+  - Steal [[Characters/Governor Ritam al’Malklaith|Governor Malklaith]]’s rings.
 notable assets:
   - An entire vault of Guild technology.
 notable npcs:
@@ -31,7 +31,7 @@ notable npcs:
   - Nals E (Urboticist, gearhead, muscled).
   - MaxiMillions (arrogant, expert infiltrator, gorgeous).
   - Pip (mystic xeno, small, unsettling).
-turf: A former [Counters Guild](./Counters%2520Guild.md#) shadow repository that the Syndicate managed to erase from the Guild ledgers.
+turf: A former [[Factions/Counters Guild|Factions/Counters Guild]] shadow repository that the Syndicate managed to erase from the Guild ledgers.
 quirks: Joining the Borniko Syndicate involves pulling off a heist that impresses the leadership.
 situation: The Borniko have been working on bigger and bigger heists.
 ---
@@ -41,7 +41,7 @@ situation: The Borniko have been working on bigger and bigger heists.
 
 ## Goals
 
-Steal [Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md)’s rings.
+Steal [[Characters/Governor Ritam al’Malklaith|Governor Malklaith]]’s rings.
 
 ## Nature
 
@@ -49,11 +49,11 @@ A tightly knit group of thieves who steal high-end technological supplies.
 
 ## Location
 
-[Warren](../Procyon/Rin/Warren.md.md#),[Rin](../Procyon/Rin/index.md)
+[[../Procyon/Rin/Warren|Warren]],[[../Procyon/Rin/index|Rin]]
 
 ## Turf
 
-A former [Counters Guild](Factions/Counters%20Guild.md) shadow repository that the Syndicate managed to erase from the Guild ledgers.
+A former [[Factions/Counters Guild|Factions/Counters Guild]] shadow repository that the Syndicate managed to erase from the Guild ledgers.
 
 ## Notable NPCs
 
@@ -73,16 +73,16 @@ The Borniko have been working on bigger and bigger heists.
 
 ## Allies With
 
-[Conclave 01](./Conclave%252001.md.md#)
+[[./Conclave 01|Conclave 01]]
 
 | Allies From                              |
 | ---------------------------------------- |
-| [Conclave 01](./Conclave%252001.md.md#) |
+| [[./Conclave 01\|Conclave 01]] |
 
 
 ## Friendly With
 
-[Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#)
+[[./Echo Wave Riders|Echo Wave Riders]]
 
 | Frinendly From |
 | -------------- |
@@ -90,13 +90,13 @@ The Borniko have been working on bigger and bigger heists.
 
 ## Helpful With
 
-[Wreckers](./Wreckers.md.md#)
+[[./Wreckers|Wreckers]]
 
 | Helpful From                                       |
 | -------------------------------------------------- |
-| [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#) |
-| [Wreckers](./Wreckers.md.md#)                 |
-| [Vignerons](./Vignerons.md)               |
+| [[./Echo Wave Riders\|Echo Wave Riders]] |
+| [[./Wreckers\|Wreckers]]                 |
+| [[./Vignerons\|Vignerons]]               |
 
 
 ## Neutral With
@@ -111,20 +111,20 @@ The Borniko have been working on bigger and bigger heists.
 
 ## Interfering With
 
-[Starsmiths Guild](./Starsmiths%2520Guild.md.md#)
+[[./Starsmiths Guild|Starsmiths Guild]]
 
 
 | Interfering From                                       |
 | ------------------------------------------------------ |
-| [Guild of Engineers](./Guild%2520of%2520Engineers.md.md#) |
-| [Counters Guild](./Counters%2520Guild.md.md#.md#)         |
-| [Starsmiths Guild](./Starsmiths%2520Guild.md.md#)     |
+| [[./Guild of Engineers\|Guild of Engineers]] |
+| [[./Counters Guild\|Counters Guild]]         |
+| [[./Starsmiths Guild\|Starsmiths Guild]]     |
 
 
 
 ## Hostile With
 
-[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#)
+[[./Guild of Engineers|Guild of Engineers]]
 
 
 | Hostile From |
@@ -134,7 +134,7 @@ The Borniko have been working on bigger and bigger heists.
 
 ## War With
 
-[Counters Guild](./Counters%2520Guild.md.md#.md#)
+[[./Counters Guild|Counters Guild]]
 
 | War From |
 | -------- |

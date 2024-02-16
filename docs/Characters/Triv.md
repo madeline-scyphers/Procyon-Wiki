@@ -25,14 +25,14 @@ aliases:
 
 
 > [!infobox]
-> ![cover hsmall](../ImagePlaceholder.png)
-> [Show To Players](../ImagePlaceholder.png)
+> ![[../ImagePlaceholder.png|cover hsmall]]
+> [[../ImagePlaceholder.png|Show To Players]]
 > ###### Triv
 > Attribute |  value |
 > ---|---|
 > Pronouns | She/Her
-> Faction | [Triv](Triv.md)
-> Location | [Triv](Triv.md) |
+> Faction | [[Triv|Triv]]
+> Location | [[Triv|Triv]] |
 
 
 # Triv

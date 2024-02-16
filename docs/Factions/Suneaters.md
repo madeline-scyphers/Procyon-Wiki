@@ -5,23 +5,23 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[Iota](Iota.md)"
-  - "[Brekk](Brekk.md)"
-  - "[Lithios](../Procyon/Iota/Lithios.md#)"
-  - "[Nightfall](../Procyon/Brekk/Nightfall.md#)"
+  - "[[Iota|Iota]]"
+  - "[[Brekk|Brekk]]"
+  - "[[Procyon/Iota/Lithios|Lithios]]"
+  - "[[Procyon/Brekk/Nightfall|Nightfall]]"
 tier: "4"
 nature: Ur-archaeologists obsessed with recreating jumpgate technology. Currently looking to extinguish a star in pursuit of their larger goals.
 allies: []
 friendly: []
 helpful:
-  - "[Ghosts](./Ghosts.md#)"
+  - "[[Factions/Ghosts|Ghosts]]"
 neutral: []
 interfering: []
 hostile:
-  - "[Sah'iir](./Sah'iir.md#)"
+  - "[[Factions/Sah'iir|Sah'iir]]"
 war: []
 goals:
-  - devour [Iota 2](Procyon/Iota/Iota.md) and store energy
+  - devour [[Procyon/Iota/Iota|Iota 2]] and store energy
 notable assets:
   - A few well-armed, unmarked ships.
   - Armed troops.
@@ -33,9 +33,9 @@ notable npcs:
   - Ruba (archaeologist, mystic, seer).
   - Racel (engineer, loyal, conflicted).
   - Rygar Z’tann (mystic, guard, gravity bender).
-turf: An Ur ruin on [Lithios](Lithios.md) (HQ). Several [Nightfall](../Procyon/Brekk/Nightfall.md#)-based warehouses.
+turf: An Ur ruin on [[Lithios|Lithios]] (HQ). Several [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]]-based warehouses.
 quirks: Suneaters spend most of their days handling Ur artifacts and have all learned how to handle them safely.
-situation: Many are ex-Guilders or mystics, who have poured decades of money and study into their cause. If successful in their mission to mine [Iota](Procyon/Iota/Iota.md)-2 for energy, the Hegemon would instantly grant the Suneaters Guild status, even if everyone in [Iota](Procyon/Iota/Iota.md) perishes. The Suneaters consider it worth the risk.
+situation: Many are ex-Guilders or mystics, who have poured decades of money and study into their cause. If successful in their mission to mine [[Procyon/Iota/Iota|Procyon/Iota/Iota]]-2 for energy, the Hegemon would instantly grant the Suneaters Guild status, even if everyone in [[Procyon/Iota/Iota|Procyon/Iota/Iota]] perishes. The Suneaters consider it worth the risk.
 ---
 ## Tier
 
@@ -43,7 +43,7 @@ situation: Many are ex-Guilders or mystics, who have poured decades of money and
 
 ## Goals
 
-devour [Iota 2](Procyon/Iota/Iota.md) and store energy
+devour [[Procyon/Iota/Iota|Iota 2]] and store energy
 
 ## Nature
 
@@ -51,11 +51,11 @@ Ur-archaeologists obsessed with recreating jumpgate technology. Currently lookin
 
 ## Location
 
-[Iota](../Procyon/Iota/index.md),[Brekk](../Procyon/Brekk/index.md),[Lithios](../Procyon/Iota/Lithios.md.md#),[Nightfall](../Procyon/Brekk/Nightfall.md.md#.md#)
+[[../Procyon/Iota/index|Iota]],[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Iota/Lithios|Lithios]],[[../Procyon/Brekk/Nightfall|Nightfall]]
 
 ## Turf
 
-An Ur ruin on [Lithios](Lithios.md) (HQ). Several [Nightfall](Procyon/Brekk/Nightfall.md)-based warehouses.
+An Ur ruin on [[Lithios|Lithios]] (HQ). Several [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]]-based warehouses.
 
 ## Notable NPCs
 
@@ -71,7 +71,7 @@ Suneaters spend most of their days handling Ur artifacts and have all learned ho
 
 ## Situation
 
-Many are ex-Guilders or mystics, who have poured decades of money and study into their cause. If successful in their mission to mine [Iota](Procyon/Iota/Iota.md)-2 for energy, the Hegemon would instantly grant the Suneaters Guild status, even if everyone in [Iota](Procyon/Iota/Iota.md) perishes. The Suneaters consider it worth the risk.
+Many are ex-Guilders or mystics, who have poured decades of money and study into their cause. If successful in their mission to mine [[Procyon/Iota/Iota|Procyon/Iota/Iota]]-2 for energy, the Hegemon would instantly grant the Suneaters Guild status, even if everyone in [[Procyon/Iota/Iota|Procyon/Iota/Iota]] perishes. The Suneaters consider it worth the risk.
 
 ## Allies With
 
@@ -87,12 +87,12 @@ Many are ex-Guilders or mystics, who have poured decades of money and study into
 
 | Frinendly From                 |
 | ------------------------------ |
-| [Ghosts](./Ghosts.md.md#) |
+| [[./Ghosts\|Ghosts]] |
 
 
 ## Helpful With
 
-[Ghosts](./Ghosts.md.md#)
+[[./Ghosts|Ghosts]]
 
 | Helpful From |
 | ------------ |
@@ -115,13 +115,13 @@ Many are ex-Guilders or mystics, who have poured decades of money and study into
 
 | Interfering From                 |
 | -------------------------------- |
-| [Sah'iir](./Sah'iir.md.md#) |
+| [[./Sah'iir\|Sah'iir]] |
 
 
 
 ## Hostile With
 
-[Sah'iir](./Sah'iir.md.md#)
+[[./Sah'iir|Sah'iir]]
 
 
 | Hostile From |

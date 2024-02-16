@@ -5,23 +5,23 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[Iota](Iota.md)"
-  - "[Procyon](../Procyon/index.md#)"
+  - "[[Iota|Iota]]"
+  - "[[Procyon|Procyon]]"
 tier: "3"
 nature: Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make possible the intragalactic Hegemony.
 allies: 
 friendly:
-  - "[Echo Wave Riders](./Echo%2520Wave%2520Riders.md#)"
+  - "[[Factions/Echo Wave Riders|Factions/Echo Wave Riders]]"
 helpful:
-  - "[Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md#)"
+  - "[[Factions/Cult of the Seekers|Factions/Cult of the Seekers]]"
 neutral: 
 interfering:
-  - "[Borniko Syndicate](./Borniko%2520Syndicate.md#)"
+  - "[[Factions/Borniko Syndicate|Factions/Borniko Syndicate]]"
 hostile:
-  - "[Cobalt Syndicate](./Cobalt%2520Syndicate.md#)"
+  - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
 war: 
 goals:
-  - Find another key for tuning [Rin](Rin.md)-[Holt](Procyon/Holt/Holt.md).
+  - Find another key for tuning [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
 notable assets:
   - Jump drives for use in new ships.
   - A shipyard.
@@ -34,7 +34,7 @@ notable npcs:
   - Rip Onister (gate expert, curious, shy, reclusive).
 turf: Iota Shipyards (HQ). All major spaceports.
 quirks: All ships in Hegemonic space by law must be registered, certified, and maintained by the Starsmiths Guild. False papers abound, though.
-situation: When the [Rin](Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
+situation: When the [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
 ---
 
 ## Tier
@@ -43,7 +43,7 @@ situation: When the [Rin](Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first op
 
 ## Goals
 
-Find another key for tuning [Rin](Rin.md)-[Holt](Procyon/Holt/Holt.md).
+Find another key for tuning [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
 
 ## Nature
 
@@ -51,7 +51,7 @@ Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make poss
 
 ## Location
 
-[Iota](../Procyon/Iota/index.md),[Procyon](../Procyon/index.md.md#)
+[[../Procyon/Iota/index|Iota]],[[../Procyon/index|Procyon]]
 
 ## Turf
 
@@ -71,7 +71,7 @@ All ships in Hegemonic space by law must be registered, certified, and maintaine
 
 ## Situation
 
-When the [Rin](Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
+When the [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
 
 ## Allies With
 
@@ -83,22 +83,22 @@ When the [Rin](Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first opened, sever
 
 ## Friendly With
 
-[Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#)
+[[./Echo Wave Riders|Echo Wave Riders]]
 
 | Frinendly From                                           |
 | -------------------------------------------------------- |
-| [51st Legion](./51st%20Legion.md)                 |
-| [Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#) |
+| [[./51st Legion\|51st Legion]]                 |
+| [[./Cult of the Seekers\|Cult of the Seekers]] |
 
 
 ## Helpful With
 
-[Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#)
+[[./Cult of the Seekers|Cult of the Seekers]]
 
 | Helpful From                                       |
 | -------------------------------------------------- |
-| [Echo Wave Riders](./Echo%2520Wave%2520Riders.md.md#) |
-| [Yaru](./Yaru.md)                         |
+| [[./Echo Wave Riders\|Echo Wave Riders]] |
+| [[./Yaru\|Yaru]]                         |
 
 
 ## Neutral With
@@ -113,27 +113,27 @@ When the [Rin](Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first opened, sever
 
 ## Interfering With
 
-[Borniko Syndicate](./Borniko%2520Syndicate.md.md#)
+[[./Borniko Syndicate|Borniko Syndicate]]
 
 
 | Interfering From                                                 |
 | ---------------------------------------------------------------- |
-| [Lost Legion](./Lost%20Legion.md)                         |
-| [The Maelstrom](./The%20Maelstrom.md)                     |
-| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#)             |
-| [Starless Veil](./Starless%20Veil.md)                     |
-| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) |
+| [[./Lost Legion\|Lost Legion]]                         |
+| [[./The Maelstrom\|The Maelstrom]]                     |
+| [[./Borniko Syndicate\|Borniko Syndicate]]             |
+| [[./Starless Veil\|Starless Veil]]                     |
+| [[./Church of Stellar Flame\|Church of Stellar Flame]] |
 
 
 
 ## Hostile With
 
-[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#)
+[[./Cobalt Syndicate|Cobalt Syndicate]]
 
 
 | Hostile From                                       |
 | -------------------------------------------------- |
-| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#) |
+| [[./Cobalt Syndicate\|Cobalt Syndicate]] |
 
 
 
