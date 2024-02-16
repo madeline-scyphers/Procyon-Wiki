@@ -3,14 +3,12 @@ aliases:
 tags:
   - faction
 faction_type: Hegemony
-share: true
 ---
 ---
 aliases:
 tags:
   - faction
 faction_type: Hegemony
-share: true
 ---
 
 ## Tier
