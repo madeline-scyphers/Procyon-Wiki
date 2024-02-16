@@ -5,8 +5,8 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Iota/Iota|Iota]]"
-  - "[[Procyon/Brekk/Brekk|Brekk]]"
+  - "[[Iota|Iota]]"
+  - "[[Brekk|Brekk]]"
   - "[[Procyon/Iota/Lithios|Lithios]]"
   - "[[Procyon/Brekk/Nightfall|Nightfall]]"
 tier: "4"
@@ -51,7 +51,7 @@ Ur-archaeologists obsessed with recreating jumpgate technology. Currently lookin
 
 ## Location
 
-[[../Procyon/Iota/Iota|Iota]],[[../Procyon/Brekk/Brekk|Brekk]],[[../Procyon/Iota/Lithios|Lithios]],[[../Procyon/Brekk/Nightfall|Nightfall]]
+[[../Procyon/Iota/index|Iota]],[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Iota/Lithios|Lithios]],[[../Procyon/Brekk/Nightfall|Nightfall]]
 
 ## Turf
 
