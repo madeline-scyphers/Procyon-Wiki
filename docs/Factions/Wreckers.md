@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Rin|Rin]]"
+  - "[[Procyon/Rin/index|Rin]]"
 tier: "1"
 nature: Scavengers, thieves, and hackers who incite factions to fight so that they may pick the battlefields clean later.
 allies: []
