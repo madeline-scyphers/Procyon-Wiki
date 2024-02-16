@@ -47,7 +47,7 @@ Tall, fully robed xenos who travel with blindfolded servants that speak for them
 
 ## Location
 
-[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
