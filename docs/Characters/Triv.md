@@ -8,19 +8,10 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: 
----
----
-name: Triv
-faction: "[[]]"
-pronouns: She/Her
-location: "[[]]"
-role: npc
-status: active
-share: "true"
-tags:
-  - npc
-aliases:
+aliases: []
+profile: ""
+friends: []
+enemies: []
 ---
 
 
@@ -37,6 +28,8 @@ aliases:
 
 # Triv
 ## Profile
+
+A ship mechanic
 
 ## Friends
 

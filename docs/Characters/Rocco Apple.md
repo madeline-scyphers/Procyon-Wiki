@@ -8,19 +8,10 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: 
----
----
-name: Rocco Apple
-faction: "[[Factions/House Malklaith|House Malklaith]]"
-pronouns: They/Them
-location: "[[Procyon/Rin/Warren|Warren]]"
-role: npc
-status: active
-share: "true"
-tags:
-  - npc
-aliases:
+aliases: []
+profile: ""
+friends: []
+enemies: []
 ---
 
 

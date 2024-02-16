@@ -17,8 +17,8 @@ title: Characters
 | [[Characters/Leto Ramus.md\|Leto Ramus]]                                   | <ul><li>player</li></ul> | <ul><li>Dr. Igno</li></ul>                                                       | He/Him?             | Rusty Nail      |
 | [[Characters/Mordin Ulmak.md\|Mordin Ulmak]]                               | <ul><li>player</li></ul> | <ul><li>Vapor</li></ul>                                                          | Any, Sure, Whatever | Rusty Nail      |
 | [[Characters/Ora.md\|Ora]]                                                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them           | Ashen Knives    |
-| [[Characters/Rocco Apple.md\|Rocco Apple]]                                 | <ul><li>npc</li></ul>    | \-                                                                               | They/Them           | House Malklaith |
-| [[Characters/Triv.md\|Triv]]                                               | <ul><li>npc</li></ul>    | \-                                                                               | She/Her             | \-              |
+| [[Characters/Rocco Apple.md\|Rocco Apple]]                                 | <ul><li>npc</li></ul>    | <ul></ul>                                                                        | They/Them           | House Malklaith |
+| [[Characters/Triv.md\|Triv]]                                               | <ul><li>npc</li></ul>    | <ul></ul>                                                                        | She/Her             | \-              |
 
 
 
@@ -26,7 +26,6 @@ title: Characters
 
 | File                                         | Tags                     | Friends                                                                                                                                                            |
 | -------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Characters/Flora.md\|Flora]]               | <ul><li>player</li></ul> | [[Triv|Triv]] (a ship mechanic)                                                                                                                                         |
 | [[Characters/Jedd Yulen.md\|Jedd Yulen]]     | <ul><li>player</li></ul> | [[Kriegar|Kriegar]] (A fine blaster pistol)                                                                                                                                |
 | [[Characters/Kit Apple.md\|Kit Apple]]       | <ul><li>player</li></ul> | [[Slice|Slice]] (a junkyard owner)                                                                                                                                       |
 | [[Characters/Kit Apple.md\|Kit Apple]]       | <ul><li>player</li></ul> | [[Characters/Rocco Apple\|Rocco Apple]]                                                                                                                            |
@@ -40,7 +39,6 @@ title: Characters
 
 | File                                         | Tags                     | Enemies                            |
 | -------------------------------------------- | ------------------------ | ---------------------------------- |
-| [[Characters/Flora.md\|Flora]]               | <ul><li>player</li></ul> | [[Yattu|Yattu]] (a gang boss)            |
 | [[Characters/Jedd Yulen.md\|Jedd Yulen]]     | <ul><li>player</li></ul> | [[Yazu|Yazu]] (A crooked cop)           |
 | [[Characters/Kit Apple.md\|Kit Apple]]       | <ul><li>player</li></ul> | [[Stev|Stev]] (A gambler of ill repute) |
 | [[Characters/Leto Ramus.md\|Leto Ramus]]     | <ul><li>player</li></ul> | [[Lynie|Lynie]] (A hospital admin)       |

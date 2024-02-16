@@ -130,6 +130,7 @@ Disgraced after a famous duel, [[Characters/Governor Ritam al’Malklaith|Govern
 
 | Hostile From                               |
 | ------------------------------------------ |
+| [[Factions/Ashen Knives.md\|Ashen Knives]] |
 | [[Factions/Dyrinek Gang.md\|Dyrinek Gang]] |
 
 

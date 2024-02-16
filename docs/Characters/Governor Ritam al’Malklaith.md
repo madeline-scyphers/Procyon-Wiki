@@ -12,6 +12,9 @@ aliases:
   - Governor
   - Governor Malklaith
   - Ritam Al'Malklaith
+profile: ""
+friends: []
+enemies: []
 ---
 
 

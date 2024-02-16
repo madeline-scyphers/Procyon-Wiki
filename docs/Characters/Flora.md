@@ -11,6 +11,30 @@ pronouns: She/Her
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 location: "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: ""
+friends:
+  - "[[Triv|Triv]] (a ship mechanic)"
+enemies:
+  - "[[Yattu|Yattu]] (a gang boss)"
+---
+---
+name: Flora
+aliases:
+  - Sunflower
+tags:
+  - player
+role: player
+playbook: Pilot
+status: active
+pronouns: She/Her
+share: "true"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: ""
+friends:
+- "[[Triv|Triv]] (a ship mechanic)"
+enemies:
+- "[[Yattu|Yattu]] (a gang boss)"
 ---
 
 
@@ -28,7 +52,9 @@ location: "[[Factions/Rusty Nail|Rusty Nail]]"
 # Flora
 ## Profile
 
+
 ## Friends
-- [[Triv|Triv]] (a ship mechanic)
+[[Triv|Triv]] (a ship mechanic)
+
 ## Enemies
-- [[Yattu|Yattu]] (a gang boss)
+[[Yattu|Yattu]] (a gang boss)
