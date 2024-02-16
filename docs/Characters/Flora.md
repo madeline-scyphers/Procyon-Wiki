@@ -10,8 +10,9 @@ playbook: Pilot
 status: active
 pronouns: She/Her
 share: "true"
-location: "[[Factions/Rusty Nail|Rusty Nail]]"
-profile: ""
+location:
+  - "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: Colonist and loborer
 friends:
   - "[[Triv|Triv]]"
 enemies:
@@ -32,7 +33,7 @@ enemies:
 
 # Flora
 ## Profile
-
+Colonist and loborer
 
 ## Relationships
 
