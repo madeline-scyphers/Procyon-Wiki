@@ -36,7 +36,7 @@ quirks: Joining the Borniko Syndicate involves pulling off a heist that impresse
 situation: The Borniko have been working on bigger and bigger heists.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Criminal
@@ -52,7 +52,7 @@ friendly:
   - "[Echo Wave Riders](./Echo%2520Wave%2520Riders.md#)"
 helpful:
   - "[Wreckers](./Wreckers.md#)"
-neutral: 
+neutral:
 interfering:
   - "[Starsmiths Guild](./Starsmiths%2520Guild.md#)"
 hostile:
@@ -60,14 +60,14 @@ hostile:
 war:
   - "[Counters Guild](./Counters%2520Guild.md#)"
 goals:
-- Steal [Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md)’s rings.
-notable assets: 
-- An entire vault of Guild technology.
+  - Steal [Governor Malklaith](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md)’s rings.
+notable assets:
+  - An entire vault of Guild technology.
 notable npcs:
-- Ria “Keycard” (wizard-class hacker, ambitious, daring).
-- Nals E (Urboticist, gearhead, muscled).
-- MaxiMillions (arrogant, expert infiltrator, gorgeous).
-- Pip (mystic xeno, small, unsettling).
+  - Ria “Keycard” (wizard-class hacker, ambitious, daring).
+  - Nals E (Urboticist, gearhead, muscled).
+  - MaxiMillions (arrogant, expert infiltrator, gorgeous).
+  - Pip (mystic xeno, small, unsettling).
 turf: A former [Counters Guild](./Counters%2520Guild.md#) shadow repository that the Syndicate managed to erase from the Guild ledgers.
 quirks: Joining the Borniko Syndicate involves pulling off a heist that impresses the leadership.
 situation: The Borniko have been working on bigger and bigger heists.
@@ -175,5 +175,4 @@ The Borniko have been working on bigger and bigger heists.
 
 | War From |
 | -------- |
-
 
