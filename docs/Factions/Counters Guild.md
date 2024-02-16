@@ -5,7 +5,7 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Rin|Rin]]"
+  - "[[Procyon/Rin/index|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "4"
 nature: Maintains the galactic currency network and shadow repositories in each system.
