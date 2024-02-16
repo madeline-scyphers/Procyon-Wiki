@@ -49,7 +49,7 @@ Once a labor union, the Cobalt Syndicate has turned to smuggling and extortion t
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[Procyon/Rin.md|Rin]],[[Procyon/Rin/Warren.md|Warren]]
 
 ## Turf
 
@@ -73,7 +73,7 @@ Jax has taken over shipping lanes between Aleph and the Core worlds. He’s ange
 
 ## Allies With
 
-[[./Dyrinek Gang|Dyrinek Gang]]
+[[Factions/Dyrinek Gang.md|Dyrinek Gang]]
 
 | Allies From |
 | ----------- |
@@ -81,12 +81,12 @@ Jax has taken over shipping lanes between Aleph and the Core worlds. He’s ange
 
 ## Friendly With
 
-[[./The Maelstrom|The Maelstrom]]
+[[Factions/The Maelstrom.md|The Maelstrom]]
 
 | Frinendly From                               |
 | -------------------------------------------- |
-| [[./The Maelstrom\|The Maelstrom]] |
-| [[./Dyrinek Gang\|Dyrinek Gang]]   |
+| [[Factions/The Maelstrom.md\|The Maelstrom]] |
+| [[Factions/Dyrinek Gang.md\|Dyrinek Gang]]   |
 
 
 ## Helpful With
@@ -95,7 +95,7 @@ Jax has taken over shipping lanes between Aleph and the Core worlds. He’s ange
 
 | Helpful From                         |
 | ------------------------------------ |
-| [[./Vignerons\|Vignerons]] |
+| [[Factions/Vignerons.md\|Vignerons]] |
 
 
 ## Neutral With
@@ -110,30 +110,30 @@ Jax has taken over shipping lanes between Aleph and the Core worlds. He’s ange
 
 ## Interfering With
 
-[[./Yaru|Yaru]]
+[[Factions/Yaru.md|Yaru]]
 
 
 | Interfering From                                       |
 | ------------------------------------------------------ |
-| [[./Guild of Engineers\|Guild of Engineers]] |
-| [[./Yaru\|Yaru]]                             |
+| [[Factions/Guild of Engineers.md\|Guild of Engineers]] |
+| [[Factions/Yaru.md\|Yaru]]                             |
 
 
 
 ## Hostile With
 
-[[./Guild of Engineers|Guild of Engineers]],[[./Starsmiths Guild|Starsmiths Guild]]
+[[Factions/Guild of Engineers.md|Guild of Engineers]],[[Factions/Starsmiths Guild.md|Starsmiths Guild]]
 
 
 | Hostile From                                       |
 | -------------------------------------------------- |
-| [[./Starsmiths Guild\|Starsmiths Guild]] |
+| [[Factions/Starsmiths Guild.md\|Starsmiths Guild]] |
 
 
 
 ## War With
 
-[[./Ashen Knives|Ashen Knives]]
+[[Factions/Ashen Knives.md|Ashen Knives]]
 
 | War From |
 | -------- |
