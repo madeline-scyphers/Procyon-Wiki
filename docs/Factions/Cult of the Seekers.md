@@ -47,7 +47,7 @@ Wandering mystics studying artifacts and exploring, looking to open the Hantu ga
 
 ## Location
 
-[[../Procyon/Holt/Mem|Mem]],[[../Procyon/Holt/index|Holt]]
+[[../Procyon/Holt/Mem|Mem]],[[../Procyon/Holt/Holt|Holt]]
 
 ## Turf
 
