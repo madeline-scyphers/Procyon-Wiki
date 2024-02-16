@@ -5,8 +5,8 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Iota/Iota|Iota]]"
-  - "[[Procyon/Procyon|Procyon]]"
+  - "[[Iota|Iota]]"
+  - "[[Procyon|Procyon]]"
 tier: "3"
 nature: Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make possible the intragalactic Hegemony.
 allies: 
@@ -20,44 +20,6 @@ interfering:
 hostile:
   - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
 war: 
-goals:
-  - Find another key for tuning [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
-notable assets:
-  - Jump drives for use in new ships.
-  - A shipyard.
-  - Hyperspace lane beacons and charts.
-  - Trading stations on every route.
-notable npcs:
-  - Dorae White (chief executive, industrious, trustworthy, workaholic).
-  - Kir M’rikk’lik (technical officer, xeno, gadgeteer, experimenter).
-  - Nash (operations chief, gruff, overworked).
-  - Rip Onister (gate expert, curious, shy, reclusive).
-turf: Iota Shipyards (HQ). All major spaceports.
-quirks: All ships in Hegemonic space by law must be registered, certified, and maintained by the Starsmiths Guild. False papers abound, though.
-situation: When the [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
----
----
-aliases:
-tags:
-  - faction
-faction_type: Hegemony
-share: "true"
-location:
-  - "[[Procyon/Iota/Iota|Iota]]"
-  - "[[Procyon/Procyon|Procyon]]"
-tier: "3"
-nature: Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make possible the intragalactic Hegemony.
-allies:
-friendly:
-  - "[[Factions/Echo Wave Riders|Factions/Echo Wave Riders]]"
-helpful:
-  - "[[Factions/Cult of the Seekers|Factions/Cult of the Seekers]]"
-neutral:
-interfering:
-  - "[[Factions/Borniko Syndicate|Factions/Borniko Syndicate]]"
-hostile:
-  - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
-war:
 goals:
   - Find another key for tuning [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
 notable assets:
@@ -89,7 +51,7 @@ Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make poss
 
 ## Location
 
-[[../Procyon/Iota/Iota|Iota]],[[../Procyon/Procyon|Procyon]]
+[[../Procyon/Iota/index|Iota]],[[../Procyon/index|Procyon]]
 
 ## Turf
 
