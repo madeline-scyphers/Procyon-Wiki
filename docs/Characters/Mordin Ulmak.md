@@ -2,28 +2,7 @@
 name: Mordin Ulmak
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 share: "true"
-location:
-  - "[[Rusty Nail|Rusty Nail]]"
-aliases:
-  - Vapor
-tags:
-  - player
-role: player
-playbook: Scoundrel
-status: active
-pronouns: Any, Sure, Whatever
-profile: ""
-friends:
-  - "[[Ora|Ora]]"
-enemies:
-  - "[[Nyx|Nyx]]"
----
----
-name: Mordin Ulmak
-faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-share: "true"
-location: 
-  - "[[Rusty Nail|Rusty Nail]]"
+location: "[[Rusty Nail]]"
 aliases:
   - Vapor
 tags:
