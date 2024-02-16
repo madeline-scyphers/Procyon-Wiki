@@ -34,8 +34,15 @@ enemies:
 ## Profile
 
 
-## Friends
-[[Characters/Juda.md|Juda]]
+## Relationships
 
-## Enemies
-[[Characters/Lynie.md|Lynie]]
+| Friend                       | Profile  |
+| ---------------------------- | -------- |
+| [[Characters/Juda.md\|Juda]] | A doctor |
+
+
+| Enemy                          | Profile        |
+| ------------------------------ | -------------- |
+| [[Characters/Lynie.md\|Lynie]] | Hospital admin |
+
+
