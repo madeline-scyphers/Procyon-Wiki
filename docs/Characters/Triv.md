@@ -2,7 +2,7 @@
 name: Triv
 faction: "[[]]"
 pronouns: She/Her
-location: "[[]]"
+location: ""
 role: npc
 status: active
 share: "true"
@@ -24,7 +24,7 @@ enemies: []
 > ---|---|
 > Pronouns | She/Her
 > Faction | [[Characters/Triv.md|Triv]]
-> Location | [[Characters/Triv.md|Triv]] |
+> Location |  |
 
 
 # Triv
