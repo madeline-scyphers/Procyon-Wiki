@@ -47,7 +47,7 @@ Mostly young disenfranchised xenos who have turned to crime and found strength a
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[Procyon/Rin.md|Rin]],[[Procyon/Rin/Warren.md|Warren]]
 
 ## Turf
 
@@ -75,17 +75,17 @@ The gang has had run-ins with System police, and the Hegemonic News Network pain
 
 | Allies From                                        |
 | -------------------------------------------------- |
-| [[./Cobalt Syndicate\|Cobalt Syndicate]] |
+| [[Factions/Cobalt Syndicate.md\|Cobalt Syndicate]] |
 
 
 ## Friendly With
 
-[[./Cobalt Syndicate|Cobalt Syndicate]]
+[[Factions/Cobalt Syndicate.md|Cobalt Syndicate]]
 
 | Frinendly From                                                   |
 | ---------------------------------------------------------------- |
-| [[./Church of Stellar Flame\|Church of Stellar Flame]] |
-| [[./The Agony\|The Agony]]                             |
+| [[Factions/Church of Stellar Flame.md\|Church of Stellar Flame]] |
+| [[Factions/The Agony.md\|The Agony]]                             |
 
 
 ## Helpful With
@@ -94,7 +94,7 @@ The gang has had run-ins with System police, and the Hegemonic News Network pain
 
 | Helpful From                                 |
 | -------------------------------------------- |
-| [[./Starless Veil\|Starless Veil]] |
+| [[Factions/Starless Veil.md\|Starless Veil]] |
 
 
 ## Neutral With
@@ -114,13 +114,13 @@ The gang has had run-ins with System police, and the Hegemonic News Network pain
 
 | Interfering From                                               |
 | -------------------------------------------------------------- |
-| [[./Hegemonic News Network\|Hegemonic News Network]] |
+| [[Factions/Hegemonic News Network.md\|Hegemonic News Network]] |
 
 
 
 ## Hostile With
 
-[[./House Malklaith|House Malklaith]],[[./Hegemonic News Network|Hegemonic News Network]]
+[[Factions/House Malklaith.md|House Malklaith]],[[Factions/Hegemonic News Network.md|Hegemonic News Network]]
 
 
 | Hostile From |
