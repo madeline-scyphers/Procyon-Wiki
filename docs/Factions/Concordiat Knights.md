@@ -130,8 +130,8 @@ A retrieved message about a powerful artifact that could terraform previously de
 | Helpful From                             |
 | ---------------------------------------- |
 | [Mendicants](./Mendicants.md)   |
-| [Conclave 01](./Conclave%2001.md) |
 | [Vigilance](./Vigilance.md)     |
+| [Conclave 01](./Conclave%2001.md) |
 
 
 ## Neutral With
