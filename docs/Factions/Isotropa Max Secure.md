@@ -5,7 +5,7 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Brekk/Brekk|Brekk]]"
+  - "[[Brekk|Brekk]]"
 tier: "3"
 nature: A notorious prison in [[Procyon/Procyon|Procyon/Procyon]] housing the worst offenders. Brokers commutations for those with power and wealth.
 allies: []
@@ -44,7 +44,7 @@ A notorious prison in [[Procyon/Procyon|Procyon/Procyon]] housing the worst offe
 
 ## Location
 
-[[../Procyon/Brekk/Brekk|Brekk]]
+[[../Procyon/Brekk/index|Brekk]]
 
 ## Turf
 
