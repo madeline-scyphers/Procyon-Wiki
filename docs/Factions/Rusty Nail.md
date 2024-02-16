@@ -4,17 +4,17 @@ tags:
 status: active
 tier: "0"
 nature: strange
-friendly: 
-helpful: 
-neutral: 
-interfering: 
-hostile: 
-war: 
+friendly: []
+helpful: []
+neutral: []
+interfering: []
+hostile: []
+war: []
 goals: 
 notable assets: 
-notable npcs: 
-turf: 
-quirks: 
+notable npcs: []
+turf: []
+quirks: []
 situation: 
 ---
 ---
@@ -23,17 +23,17 @@ tags:
 status: active
 tier: "0"
 nature: strange
-friendly:
-helpful:
-neutral:
-interfering:
-hostile:
-war:
-goals: 
-notable assets: 
-notable npcs:
-turf:
-quirks:
+friendly: []
+helpful: []
+neutral: []
+interfering: []
+hostile: []
+war: []
+goals:
+notable assets:
+notable npcs: []
+turf: []
+quirks: []
 situation:
 ---
 ## Tier
@@ -132,5 +132,4 @@ strange
 
 | War From |
 | -------- |
-
 

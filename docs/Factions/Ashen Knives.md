@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: []
 tags:
   - faction
 faction_type: Criminal
@@ -9,12 +9,12 @@ location:
   - "[Warren](../Procyon/Rin/Warren.md#)"
 tier: "3"
 nature: Once lean and battle ready, the Ashen Knives are a decadent Syndicate focused on drugs, gambling, and pleasures of the flesh.
-allies: 
+allies: []
 friendly:
   - "[The Maelstrom](./The%2520Maelstrom.md#)"
-helpful: 
-neutral: 
-interfering: 
+helpful: []
+neutral: []
+interfering: []
 hostile:
   - "[House Malklaith](./House%2520Malklaith.md#)"
 war:
@@ -35,7 +35,7 @@ quirks: To join the Syndicate, Knives must take a life. Being promoted requires 
 situation: The Ashen Knives' power on [Warren](../Procyon/Rin/Warren.md#) has filled the Knives’ coffers, and now their sights are set on expanding.
 ---
 ---
-aliases:
+aliases: []
 tags:
   - faction
 faction_type: Criminal
@@ -45,12 +45,12 @@ location:
   - "[Warren](../Procyon/Rin/Warren.md#)"
 tier: "3"
 nature: Once lean and battle ready, the Ashen Knives are a decadent Syndicate focused on drugs, gambling, and pleasures of the flesh.
-allies:
+allies: []
 friendly:
   - "[The Maelstrom](./The%2520Maelstrom.md#)"
-helpful:
-neutral:
-interfering:
+helpful: []
+neutral: []
+interfering: []
 hostile:
   - "[House Malklaith](./House%2520Malklaith.md#)"
 war:
@@ -160,6 +160,7 @@ The Ashen Knives' power on [Warren](Procyon/Rin/Warren.md) has filled the Knives
 
 | Hostile From                                                     |
 | ---------------------------------------------------------------- |
+| [51st Legion](./51st%20Legion.md)                         |
 | [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) |
 
 

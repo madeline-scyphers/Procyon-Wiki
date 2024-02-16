@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: []
 tags:
   - faction
 faction_type: Criminal
@@ -8,59 +8,19 @@ location:
   - "[Iota](../Procyon/Iota/index.md#)"
 tier: "3"
 nature: Violent pirates who disable ships before boarding, ransoming crew and cargo alike.
-allies: 
+allies: []
 friendly:
   - "[Janus Syndicate](./Janus%2520Syndicate.md#)"
   - "[Lost Legion](./Lost%2520Legion.md#)"
-helpful: 
-neutral: 
+helpful: []
+neutral: []
 interfering:
   - "[Vigilance](./Vigilance.md#)"
   - "[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md#)"
 hostile:
   - "[The Maelstrom](./The%2520Maelstrom.md#)"
   - "[51st Legion](./51st%2520Legion.md#)"
-war: 
-goals:
-  - Not specified in the provided text.
-notable assets:
-  - Mining ships retrofitted with grapplers.
-  - Heat shields for surviving in the Ring of Fire.
-  - Draxler’s cloaking device.
-  - Power armor for boarding.
-  - Prisoners for ransom.
-  - Caches of goods stolen from raided ships.
-notable npcs:
-  - Draxler (leader, killer, vengeful).
-  - Wudu “Starhawk” (captain, loyal, vicious, wary).
-  - Samara “She Wolf” Red (captain, enforcer, cold, physical).
-turf: Abandoned mining station in an [Iota](../Procyon/Iota/index.md#) asteroid belt (HQ).
-quirks: Almost all members of Draxler’s Raiders are wanted for crimes.
-situation: Draxler has made a lot of waves since taking over the Raiders, making numerous enemies and allies al
----
----
-aliases:
-tags:
-  - faction
-faction_type: Criminal
-share: "true"
-location:
-  - "[Iota](../Procyon/Iota/index.md#)"
-tier: "3"
-nature: Violent pirates who disable ships before boarding, ransoming crew and cargo alike.
-allies:
-friendly:
-  - "[Janus Syndicate](./Janus%2520Syndicate.md#)"
-  - "[Lost Legion](./Lost%2520Legion.md#)"
-helpful:
-neutral:
-interfering:
-  - "[Vigilance](./Vigilance.md#)"
-  - "[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md#)"
-hostile:
-  - "[The Maelstrom](./The%2520Maelstrom.md#)"
-  - "[51st Legion](./51st%2520Legion.md#)"
-war:
+war: []
 goals:
   - Not specified in the provided text.
 notable assets:
@@ -92,7 +52,7 @@ Violent pirates who disable ships before boarding, ransoming crew and cargo alik
 
 ## Location
 
-[Iota](../Procyon/Iota/index.md.md#.md#.md#.md#)
+[Iota](../Procyon/Iota/index.md.md#.md#)
 
 ## Turf
 
@@ -124,11 +84,11 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 ## Friendly With
 
-[Janus Syndicate](./Janus%2520Syndicate.md.md#.md#),[Lost Legion](./Lost%2520Legion.md.md#.md#)
+[Janus Syndicate](./Janus%2520Syndicate.md.md#),[Lost Legion](./Lost%2520Legion.md.md#)
 
 | Frinendly From                           |
 | ---------------------------------------- |
-| [Lost Legion](./Lost%2520Legion.md.md#.md#) |
+| [Lost Legion](./Lost%2520Legion.md.md#) |
 
 
 ## Helpful With
@@ -137,7 +97,7 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 | Helpful From                                     |
 | ------------------------------------------------ |
-| [Janus Syndicate](./Janus%2520Syndicate.md.md#.md#) |
+| [Janus Syndicate](./Janus%2520Syndicate.md.md#) |
 
 
 ## Neutral With
@@ -152,24 +112,24 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 ## Interfering With
 
-[Vigilance](./Vigilance.md.md#.md#),[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#.md#)
+[Vigilance](./Vigilance.md.md#),[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#)
 
 
 | Interfering From                                         |
 | -------------------------------------------------------- |
-| [Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#.md#) |
-| [Vigilance](./Vigilance.md.md#.md#)                     |
+| [Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#) |
+| [Vigilance](./Vigilance.md.md#)                     |
 
 
 
 ## Hostile With
 
-[The Maelstrom](./The%2520Maelstrom.md.md#.md#),[51st Legion](./51st%2520Legion.md.md#.md#)
+[The Maelstrom](./The%2520Maelstrom.md.md#),[51st Legion](./51st%2520Legion.md.md#)
 
 
 | Hostile From                                 |
 | -------------------------------------------- |
-| [The Maelstrom](./The%2520Maelstrom.md.md#.md#) |
+| [The Maelstrom](./The%2520Maelstrom.md.md#) |
 | [Wreckers](./Wreckers.md)           |
 
 

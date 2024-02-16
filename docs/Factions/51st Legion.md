@@ -1,4 +1,5 @@
 ---
+aliases: []
 tags:
   - faction
 faction_type: Hegemony

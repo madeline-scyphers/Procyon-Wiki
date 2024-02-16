@@ -13,51 +13,14 @@ tier: "2"
 nature: Those who control the media control the mind. Often use this as leverage over other factions.
 allies:
   - "[Starless Veil](Starless%20Veil.md)"
-friendly: 
-helpful: 
-neutral: 
+friendly: []
+helpful: []
+neutral: []
 interfering:
   - "[Dyrinek Gang](Dyrinek%20Gang.md)"
   - "[Mendicants](Mendicants.md)"
-hostile: 
-war: 
-goals:
-  - Find blackmail material on [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) Malklaith.
-notable assets:
-  - Sector-wide communications.
-  - Many independent journalists feeding them news.
-notable npcs:
-  - Cinszo (owner, ambitious, greedy, untrustworthy).
-  - Rinsama Kay (chief editor, cynical, demanding, stickler).
-  - Ooxoo (xeno press pool manager, curious).
-  - Stacy Weathers (ace reporter, trained spy, always grinning, nose for trouble).
-turf: "[Hegemonic News Network](Factions/Hegemonic%20News%20Network.md) Corporate Offices on [Warren](../Procyon/Rin/Warren.md#). Field offices on every planet."
-quirks: The bulk of the HNN’s workforce are contractors selling stories they find to HNN. Many reporters are also trained spies.
-situation: The HNN is effectively the private intelligence agency of Cinszo, using its media influence to sway public opinion and gather intelligence.
----
----
-aliases:
-  - HNN
-tags:
-  - faction
-faction_type: Hegemony
-share: "true"
-location:
-  - "[Procyon](../Procyon/index.md#)"
-  - "[Rin](../Procyon/Rin/index.md#)"
-  - "[Warren](../Procyon/Rin/Warren.md#)"
-tier: "2"
-nature: Those who control the media control the mind. Often use this as leverage over other factions.
-allies:
-  - "[Starless Veil](Starless%20Veil.md)"
-friendly:
-helpful:
-neutral:
-interfering:
-  - "[Dyrinek Gang](Dyrinek%20Gang.md)"
-  - "[Mendicants](Mendicants.md)"
-hostile:
-war:
+hostile: []
+war: []
 goals:
   - Find blackmail material on [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) Malklaith.
 notable assets:
@@ -86,7 +49,7 @@ Those who control the media control the mind. Often use this as leverage over ot
 
 ## Location
 
-[Procyon](../Procyon/index.md.md#.md#),[Rin](../Procyon/Rin/index.md.md#.md#),[Warren](../Procyon/Rin/Warren.md.md#.md#.md#.md#)
+[Procyon](../Procyon/index.md.md#),[Rin](../Procyon/Rin/index.md.md#),[Warren](../Procyon/Rin/Warren.md.md#.md#)
 
 ## Turf
 

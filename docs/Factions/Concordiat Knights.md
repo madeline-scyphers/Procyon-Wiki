@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: []
 tags:
   - faction
 faction_type: Hegemony
@@ -9,16 +9,16 @@ location:
   - "[Sonhandra](../Procyon/Holt/Sonhandra.md#)"
 tier: "1"
 nature: Fourth and fifth children, these young Nobles have taken an oath sanctified by the Hegemon to seek the Light of the World.
-allies: 
-friendly: 
+allies: []
+friendly: []
 helpful:
   - "[Vigilance](Vigilance.md)"
   - "[Mendicants](Mendicants.md)"
-neutral: 
+neutral: []
 interfering:
   - "[Acolytes of Brashkadesh](Acolytes%20of%20Brashkadesh.md)"
-hostile: 
-war: 
+hostile: []
+war: []
 goals:
   - Find the first Ur site on their map.
 notable assets:
@@ -35,7 +35,7 @@ quirks: Each Knight is as distinct as they can be from each other. This tight-kn
 situation: A retrieved message about a powerful artifact that could terraform previously dead worlds ignited a fervor in a number of Hegemonic youths. Taking an oath blessed by the Hegemon to find it, they're looking all over the Galaxy. Nicols recently found a marked map of [Procyon](Procyon/Procyon.md) predating the Hegemony.
 ---
 ---
-aliases:
+aliases: []
 tags:
   - faction
 faction_type: Hegemony
@@ -45,19 +45,19 @@ location:
   - "[Sonhandra](../Procyon/Holt/Sonhandra.md#)"
 tier: "1"
 nature: Fourth and fifth children, these young Nobles have taken an oath sanctified by the Hegemon to seek the Light of the World.
-allies:
-friendly:
+allies: []
+friendly: []
 helpful:
   - "[Vigilance](Vigilance.md)"
   - "[Mendicants](Mendicants.md)"
-neutral:
+neutral: []
 interfering:
   - "[Acolytes of Brashkadesh](Acolytes%20of%20Brashkadesh.md)"
-hostile:
-war:
+hostile: []
+war: []
 goals:
   - Find the first Ur site on their map.
-notable assets:
+notable assets: []
 notable assets:
   - A map of [Procyon](Procyon/Procyon.md) from before the Hegemony.
   - Exploration ships.
