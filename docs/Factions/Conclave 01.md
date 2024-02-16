@@ -5,7 +5,7 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Iota/index|Iota]]"
+  - "[[Procyon/Iota/Iota|Iota]]"
   - "[[Procyon/Iota/Indri|Indri]]"
 tier: "1"
 nature: Independent sentient Urbots led by the Prime, seeking free will and independence for all Urbots.

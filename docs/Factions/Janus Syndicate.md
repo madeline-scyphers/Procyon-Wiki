@@ -5,8 +5,8 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Holt/index|Holt]]"
-  - "[[Procyon/Brekk/index|Brekk]]"
+  - "[[Procyon/Holt/Holt|Holt]]"
+  - "[[Procyon/Brekk/Brekk|Brekk]]"
   - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
   - "[[Procyon/Brekk/Aketi|Aketi]]"
 tier: "2"

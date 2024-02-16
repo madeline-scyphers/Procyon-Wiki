@@ -2,7 +2,7 @@
 aliases:
   - Procyon
 share: "true"
-title: index
+title: Procyon
 ---
 
 ![[../procyon.png|procyon]]

@@ -5,8 +5,8 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Rin/index|Rin]]"
-  - "[[Procyon/index|Procyon]]"
+  - "[[Rin|Rin]]"
+  - "[[Procyon/Procyon|Procyon]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "4"
 nature: Although they often hire themselves out as bounty hunters, the Scarlet Wolves are a renowned group of assassins.

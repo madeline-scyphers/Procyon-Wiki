@@ -5,7 +5,7 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Holt/index|Holt]]"
+  - "[[Procyon/Holt/Holt|Holt]]"
   - "[[Procyon/Holt/Mem|Mem]]"
 tier: "3"
 nature: Human Cultists splicing themselves with Way creature DNA. Named for the pain most endure for their unusual abilities.

@@ -20,7 +20,7 @@ hostile:
 war:
   - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
 goals:
-  - Control major planetary crimes in [[Procyon/Rin/Rin|Procyon/Rin/Rin]].
+  - Control major planetary crimes in [[Rin|Rin]].
 notable assets:
   - A crew of well-trained assassins often with a Precursor artifact or two up their sleeves.
   - Heavy coffers.

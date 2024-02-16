@@ -5,8 +5,8 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Iota/index|Iota]]"
-  - "[[Procyon/index|Procyon]]"
+  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Procyon|Procyon]]"
 tier: "3"
 nature: Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make possible the intragalactic Hegemony.
 allies: 
@@ -21,7 +21,7 @@ hostile:
   - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
 war: 
 goals:
-  - Find another key for tuning [[Procyon/Rin/Rin|Procyon/Rin/Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
+  - Find another key for tuning [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
 notable assets:
   - Jump drives for use in new ships.
   - A shipyard.
@@ -34,7 +34,7 @@ notable npcs:
   - Rip Onister (gate expert, curious, shy, reclusive).
 turf: Iota Shipyards (HQ). All major spaceports.
 quirks: All ships in Hegemonic space by law must be registered, certified, and maintained by the Starsmiths Guild. False papers abound, though.
-situation: When the [[Procyon/Rin/Rin|Procyon/Rin/Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
+situation: When the [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
 ---
 ---
 aliases:
@@ -43,8 +43,8 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Iota/index|Iota]]"
-  - "[[Procyon/index|Procyon]]"
+  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Procyon|Procyon]]"
 tier: "3"
 nature: Maintains the Hyperspace lane beacons, jump drives, and jumpgates that make possible the intragalactic Hegemony.
 allies:
@@ -59,7 +59,7 @@ hostile:
   - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
 war:
 goals:
-  - Find another key for tuning [[Procyon/Rin/Rin|Procyon/Rin/Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
+  - Find another key for tuning [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
 notable assets:
   - Jump drives for use in new ships.
   - A shipyard.
@@ -72,7 +72,7 @@ notable npcs:
   - Rip Onister (gate expert, curious, shy, reclusive).
 turf: Iota Shipyards (HQ). All major spaceports.
 quirks: All ships in Hegemonic space by law must be registered, certified, and maintained by the Starsmiths Guild. False papers abound, though.
-situation: When the [[Procyon/Rin/Rin|Procyon/Rin/Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
+situation: When the [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
 ---
 
 ## Tier
@@ -81,7 +81,7 @@ situation: When the [[Procyon/Rin/Rin|Procyon/Rin/Rin]]-[[Procyon/Holt/Holt|Proc
 
 ## Goals
 
-Find another key for tuning [[Procyon/Rin/Rin|Procyon/Rin/Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
+Find another key for tuning [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]].
 
 ## Nature
 
@@ -109,7 +109,7 @@ All ships in Hegemonic space by law must be registered, certified, and maintaine
 
 ## Situation
 
-When the [[Procyon/Rin/Rin|Procyon/Rin/Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
+When the [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first opened, several Ur artifacts were used to stabilize the connection. The Guild has speculated the gate can go to a second system if another key could be found to retune the gate. The Guild is searching every Ur site they get access to for such a device.
 
 ## Allies With
 

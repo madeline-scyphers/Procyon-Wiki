@@ -5,8 +5,8 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Holt/index|Holt]]"
-  - "[[Procyon/Rin/index|Rin]]"
+  - "[[Procyon/Holt/Holt|Holt]]"
+  - "[[Rin|Rin]]"
   - "[[Procyon/Holt/Mem|Mem]]"
   - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
   - "[[Procyon/Rin/Warren|Warren]]"

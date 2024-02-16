@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Iota/index|Iota]]"
+  - "[[Procyon/Iota/Iota|Iota]]"
 tier: "4"
 nature: Formerly the Hegemon’s personal guard but rebelled when the current Hegemon rose to power. Now they work as guns for hire.
 allies: []

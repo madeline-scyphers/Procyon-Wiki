@@ -5,7 +5,7 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Rin/index|Rin]]"
+  - "[[Rin|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "4"
 nature: Tall, fully robed xenos who travel with blindfolded servants that speak for them. Gave the Hegemony the ansible network.
