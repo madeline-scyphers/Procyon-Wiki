@@ -10,31 +10,12 @@ neutral: []
 interfering: []
 hostile: []
 war: []
-goals: 
-notable assets: 
+goals: []
+notable assets: []
 notable npcs: []
-turf: []
-quirks: []
-situation: 
----
----
-tags:
-  - faction
-status: active
-tier: "0"
-nature: strange
-friendly: []
-helpful: []
-neutral: []
-interfering: []
-hostile: []
-war: []
-goals:
-notable assets:
-notable npcs: []
-turf: []
-quirks: []
-situation:
+turf: ""
+quirks: ""
+situation: ""
 ---
 ## Tier
 
