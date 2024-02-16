@@ -2,7 +2,28 @@
 name: Governor Ritam al’Malklaith
 faction: "[[Factions/House Malklaith]]"
 pronouns: He/Him
-location: "[[Procyon/Rin/Warren|Warren]]"
+location:
+  - "[[Procyon/Rin/Warren|Warren]]"
+role: npc
+status: active
+share: "true"
+tags:
+  - npc
+aliases:
+  - Governor
+  - Governor Malklaith
+  - Ritam Al'Malklaith
+profile: ""
+friends:
+  - "[[Characters/Rocco Apple|Rocco Apple]]"
+enemies: []
+---
+---
+name: Governor Ritam al’Malklaith
+faction: "[[Factions/House Malklaith]]"
+pronouns: He/Him
+location: 
+  - "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
