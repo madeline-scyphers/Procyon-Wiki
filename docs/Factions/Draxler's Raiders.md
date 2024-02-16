@@ -5,21 +5,21 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Iota|Iota]]"
+  - "[Iota](Iota.md)"
 tier: "3"
 nature: Violent pirates who disable ships before boarding, ransoming crew and cargo alike.
 allies: []
 friendly:
-  - "[[Factions/Janus Syndicate|Factions/Janus Syndicate]]"
-  - "[[Factions/Lost Legion|Factions/Lost Legion]]"
+  - "[Janus Syndicate](./Janus%2520Syndicate.md#)"
+  - "[Lost Legion](./Lost%2520Legion.md#)"
 helpful: []
 neutral: []
 interfering:
-  - "[[Factions/Vigilance|Factions/Vigilance]]"
-  - "[[Factions/Isotropa Max Secure|Factions/Isotropa Max Secure]]"
+  - "[Vigilance](./Vigilance.md#)"
+  - "[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md#)"
 hostile:
-  - "[[Factions/The Maelstrom|Factions/The Maelstrom]]"
-  - "[[Factions/51st Legion|Factions/51st Legion]]"
+  - "[The Maelstrom](./The%2520Maelstrom.md#)"
+  - "[51st Legion](./51st%2520Legion.md#)"
 war: []
 goals:
   - Not specified in the provided text.
@@ -34,7 +34,7 @@ notable npcs:
   - Draxler (leader, killer, vengeful).
   - Wudu “Starhawk” (captain, loyal, vicious, wary).
   - Samara “She Wolf” Red (captain, enforcer, cold, physical).
-turf: Abandoned mining station in an [[Procyon/Iota/Iota|Procyon/Iota/Iota]] asteroid belt (HQ).
+turf: Abandoned mining station in an [Iota](Procyon/Iota/Iota.md) asteroid belt (HQ).
 quirks: Almost all members of Draxler’s Raiders are wanted for crimes.
 situation: Draxler has made a lot of waves since taking over the Raiders, making numerous enemies and allies al
 ---
@@ -52,11 +52,11 @@ Violent pirates who disable ships before boarding, ransoming crew and cargo alik
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]]
+[Iota](../Procyon/Iota/index.md)
 
 ## Turf
 
-Abandoned mining station in an [[Procyon/Iota/Iota|Procyon/Iota/Iota]] asteroid belt (HQ).
+Abandoned mining station in an [Iota](Procyon/Iota/Iota.md) asteroid belt (HQ).
 
 ## Notable NPCs
 
@@ -84,11 +84,11 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 ## Friendly With
 
-[[./Janus Syndicate|Janus Syndicate]],[[./Lost Legion|Lost Legion]]
+[Janus Syndicate](./Janus%2520Syndicate.md.md#),[Lost Legion](./Lost%2520Legion.md.md#)
 
 | Frinendly From                           |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
+| [Lost Legion](./Lost%2520Legion.md.md#) |
 
 
 ## Helpful With
@@ -97,7 +97,7 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 | Helpful From                                     |
 | ------------------------------------------------ |
-| [[./Janus Syndicate\|Janus Syndicate]] |
+| [Janus Syndicate](./Janus%2520Syndicate.md.md#) |
 
 
 ## Neutral With
@@ -112,25 +112,25 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 ## Interfering With
 
-[[./Vigilance|Vigilance]],[[./Isotropa Max Secure|Isotropa Max Secure]]
+[Vigilance](./Vigilance.md.md#),[Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#)
 
 
 | Interfering From                                         |
 | -------------------------------------------------------- |
-| [[./Isotropa Max Secure\|Isotropa Max Secure]] |
-| [[./Vigilance\|Vigilance]]                     |
+| [Isotropa Max Secure](./Isotropa%2520Max%2520Secure.md.md#) |
+| [Vigilance](./Vigilance.md.md#)                     |
 
 
 
 ## Hostile With
 
-[[./The Maelstrom|The Maelstrom]],[[./51st Legion|51st Legion]]
+[The Maelstrom](./The%2520Maelstrom.md.md#),[51st Legion](./51st%2520Legion.md.md#)
 
 
 | Hostile From                                 |
 | -------------------------------------------- |
-| [[./The Maelstrom\|The Maelstrom]] |
-| [[./Wreckers\|Wreckers]]           |
+| [The Maelstrom](./The%2520Maelstrom.md.md#) |
+| [Wreckers](./Wreckers.md)           |
 
 
 
