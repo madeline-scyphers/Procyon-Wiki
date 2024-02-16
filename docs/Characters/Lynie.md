@@ -2,7 +2,7 @@
 name: Lynie
 faction: ""
 pronouns: ""
-location: []
+location: ""
 role: npc
 status: active
 share: "true"

@@ -10,29 +10,7 @@ status: active
 pronouns: They/Them
 share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location:
-  - "[[Factions/Rusty Nail|Rusty Nail]]"
-profile: Spent whole life on ships
-friends:
-  - "[[Slice|Slice]]"
-  - "[[Characters/Rocco Apple|Rocco Apple]]"
-enemies:
-  - "[[Stev|Stev]]"
----
----
-name: Kit Apple
-aliases:
-  - Flex
-tags:
-  - player
-role: player
-playbook: Mechanic
-status: active
-pronouns: They/Them
-share: "true"
-faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: 
-  - "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: Spent whole life on ships
 friends:
   - "[[Slice|Slice]]"

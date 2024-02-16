@@ -10,28 +10,7 @@ playbook: Pilot
 status: active
 pronouns: She/Her
 share: "true"
-location:
-  - "[[Factions/Rusty Nail|Rusty Nail]]"
-profile: ""
-friends:
-  - "[[Triv|Triv]]"
-enemies:
-  - "[[Yattu|Yattu]]"
----
----
-faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-name: Flora
-aliases:
-  - Sunflower
-tags:
-  - player
-role: player
-playbook: Pilot
-status: active
-pronouns: She/Her
-share: "true"
-location: 
-  - "[[Factions/Rusty Nail|Rusty Nail]]"
+location: "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: ""
 friends:
   - "[[Triv|Triv]]"
