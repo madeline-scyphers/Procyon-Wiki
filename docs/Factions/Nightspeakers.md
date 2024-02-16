@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: []
 tags:
   - faction
 faction_type: Weird
@@ -8,49 +8,16 @@ location:
   - "[Brekk](../Procyon/Brekk/index.md#)"
 tier: "2"
 nature: Mystics with dark proclivities bent on seeking a set of dangerous Precursor artifacts.
-allies: 
+allies: []
 friendly:
   - "[House Malklaith](./House%2520Malklaith.md#)"
-helpful: 
-neutral: 
-interfering: 
+helpful: []
+neutral: []
+interfering: []
 hostile:
   - "[51st Legion](./51st%2520Legion.md#)"
   - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
-war: 
-goals:
-  - Quietly gain the Aleph key.
-notable assets:
-  - Mystical powers such as the Night Voice, which strips an area of the Way and creates darkness and gravitational effects.
-  - A dreadnought.
-notable npcs:
-  - Doraam (masked, mysterious, driven).
-  - Oin-rai (fighter, physical, huge, brutal).
-  - Ismissa (robed, unarmed, mystically potent).
-turf: Blackstarr, a dreadnought hidden in the [Brekk](../Procyon/Brekk/index.md#) system (HQ).
-quirks: Nightspeakers have pitch-black eyes and resonating voices after training in the Night Voice. Most wear masks. Some say they speak to voices from beyond the stars.
-situation: Though few, each member is a potent mystic. They hire themselves out to powerful individuals while searching for a set of Precursor artifacts called the Raiment of Night. Doraam has become the Governor’s personal mystic and advisor after sensing a piece of the Raiment—the Aleph key.
----
----
-aliases:
-tags:
-  - faction
-faction_type: Weird
-share: "true"
-location:
-  - "[Brekk](../Procyon/Brekk/index.md#)"
-tier: "2"
-nature: Mystics with dark proclivities bent on seeking a set of dangerous Precursor artifacts.
-allies:
-friendly:
-  - "[House Malklaith](./House%2520Malklaith.md#)"
-helpful:
-neutral:
-interfering:
-hostile:
-  - "[51st Legion](./51st%2520Legion.md#)"
-  - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
-war:
+war: []
 goals:
   - Quietly gain the Aleph key.
 notable assets:
@@ -78,7 +45,7 @@ Mystics with dark proclivities bent on seeking a set of dangerous Precursor arti
 
 ## Location
 
-[Brekk](../Procyon/Brekk/index.md.md#.md#.md#.md#)
+[Brekk](../Procyon/Brekk/index.md.md#.md#)
 
 ## Turf
 
@@ -110,12 +77,12 @@ Though few, each member is a potent mystic. They hire themselves out to powerful
 
 ## Friendly With
 
-[House Malklaith](./House%2520Malklaith.md.md#.md#)
+[House Malklaith](./House%2520Malklaith.md.md#)
 
 | Frinendly From                                   |
 | ------------------------------------------------ |
 | [The Maelstrom](./The%20Maelstrom.md)     |
-| [House Malklaith](./House%2520Malklaith.md.md#.md#) |
+| [House Malklaith](./House%2520Malklaith.md.md#) |
 
 
 ## Helpful With
@@ -148,7 +115,7 @@ Though few, each member is a potent mystic. They hire themselves out to powerful
 
 ## Hostile With
 
-[51st Legion](./51st%2520Legion.md.md#.md#),[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#.md#)
+[51st Legion](./51st%2520Legion.md.md#),[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#)
 
 
 | Hostile From                         |
