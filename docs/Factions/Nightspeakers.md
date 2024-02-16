@@ -5,18 +5,18 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[Brekk](Brekk.md)"
+  - "[[Brekk|Brekk]]"
 tier: "2"
 nature: Mystics with dark proclivities bent on seeking a set of dangerous Precursor artifacts.
 allies: []
 friendly:
-  - "[House Malklaith](./House%2520Malklaith.md#)"
+  - "[[Factions/House Malklaith|Factions/House Malklaith]]"
 helpful: []
 neutral: []
 interfering: []
 hostile:
-  - "[51st Legion](./51st%2520Legion.md#)"
-  - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
+  - "[[Factions/51st Legion|Factions/51st Legion]]"
+  - "[[Factions/Church of Stellar Flame|Factions/Church of Stellar Flame]]"
 war: []
 goals:
   - Quietly gain the Aleph key.
@@ -27,7 +27,7 @@ notable npcs:
   - Doraam (masked, mysterious, driven).
   - Oin-rai (fighter, physical, huge, brutal).
   - Ismissa (robed, unarmed, mystically potent).
-turf: Blackstarr, a dreadnought hidden in the [Brekk](Procyon/Brekk/Brekk.md) system (HQ).
+turf: Blackstarr, a dreadnought hidden in the [[Procyon/Brekk/Brekk|Procyon/Brekk/Brekk]] system (HQ).
 quirks: Nightspeakers have pitch-black eyes and resonating voices after training in the Night Voice. Most wear masks. Some say they speak to voices from beyond the stars.
 situation: Though few, each member is a potent mystic. They hire themselves out to powerful individuals while searching for a set of Precursor artifacts called the Raiment of Night. Doraam has become the Governor’s personal mystic and advisor after sensing a piece of the Raiment—the Aleph key.
 ---
@@ -45,11 +45,11 @@ Mystics with dark proclivities bent on seeking a set of dangerous Precursor arti
 
 ## Location
 
-[Brekk](../Procyon/Brekk/index.md)
+[[../Procyon/Brekk/index|Brekk]]
 
 ## Turf
 
-Blackstarr, a dreadnought hidden in the [Brekk](Procyon/Brekk/Brekk.md) system (HQ).
+Blackstarr, a dreadnought hidden in the [[Procyon/Brekk/Brekk|Procyon/Brekk/Brekk]] system (HQ).
 
 ## Notable NPCs
 
@@ -77,12 +77,12 @@ Though few, each member is a potent mystic. They hire themselves out to powerful
 
 ## Friendly With
 
-[House Malklaith](./House%2520Malklaith.md.md#)
+[[./House Malklaith|House Malklaith]]
 
 | Frinendly From                                   |
 | ------------------------------------------------ |
-| [The Maelstrom](./The%20Maelstrom.md)     |
-| [House Malklaith](./House%2520Malklaith.md.md#) |
+| [[./The Maelstrom\|The Maelstrom]]     |
+| [[./House Malklaith\|House Malklaith]] |
 
 
 ## Helpful With
@@ -115,12 +115,12 @@ Though few, each member is a potent mystic. They hire themselves out to powerful
 
 ## Hostile With
 
-[51st Legion](./51st%2520Legion.md.md#),[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#)
+[[./51st Legion|51st Legion]],[[./Church of Stellar Flame|Church of Stellar Flame]]
 
 
 | Hostile From                         |
 | ------------------------------------ |
-| [Vigilance](./Vigilance.md) |
+| [[./Vigilance\|Vigilance]] |
 
 
 
