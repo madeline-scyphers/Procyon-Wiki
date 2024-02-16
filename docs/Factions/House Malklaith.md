@@ -5,9 +5,9 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Rin/index|index]]"
+  - "[[Rin|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
-  - "[[Procyon/index|index]]"
+  - "[[Procyon/Procyon|Procyon]]"
 tier: "3"
 nature: Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the House holds a small seat on a local moon.
 allies: []
@@ -51,7 +51,7 @@ Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the H
 
 ## Location
 
-[[../Procyon/Rin/index|index]],[[../Procyon/Rin/Warren|Warren]],[[../Procyon/index|index]]
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]],[[../Procyon/index|Procyon]]
 
 ## Turf
 
