@@ -5,9 +5,9 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Rin|Rin]]"
+  - "[[Procyon/Rin/index|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
-  - "[[Procyon/Procyon|Procyon]]"
+  - "[[Procyon/index|Procyon]]"
 tier: "3"
 nature: Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the House holds a small seat on a local moon.
 allies: []
@@ -130,7 +130,6 @@ Disgraced after a famous duel, [[Characters/Governor Ritam al’Malklaith|Govern
 
 | Hostile From                               |
 | ------------------------------------------ |
-| [[./Ashen Knives\|Ashen Knives]] |
 | [[./Dyrinek Gang\|Dyrinek Gang]] |
 
 
