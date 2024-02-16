@@ -6,7 +6,7 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Iota/Iota|Iota]]"
+  - "[[Procyon/Iota/index|Iota]]"
   - "[[Procyon/Iota/Amerath|Amerath]]"
 tier: "2"
 nature: Also known as the Makers Guild, they grow clones for menial labor that are supposedly short-lived and only barely sentient.

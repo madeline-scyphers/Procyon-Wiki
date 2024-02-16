@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Rin|Rin]]"
+  - "[[Procyon/Rin/index|Rin]]"
   - "[[Procyon/Rin/The Cove|The Cove]]"
 tier: "3"
 nature: A band of ferocious space pirates hiding among a mysterious nebula and around Baftoma.
@@ -91,7 +91,6 @@ The Maelstrom raids shipping lanes and sells goods via the [[Factions/Ashen Kniv
 | Frinendly From                                     |
 | -------------------------------------------------- |
 | [[./Cobalt Syndicate\|Cobalt Syndicate]] |
-| [[./Ashen Knives\|Ashen Knives]]         |
 | [[./The Agony\|The Agony]]               |
 
 

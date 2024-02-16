@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Rin|Rin]]"
+  - "[[Procyon/Rin/index|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "4"
 nature: Once a labor union, the Cobalt Syndicate has turned to smuggling and extortion to carve out shipping lanes and have a real say.
@@ -135,7 +135,6 @@ Jax has taken over shipping lanes between Aleph and the Core worlds. He’s ange
 
 [[./Ashen Knives|Ashen Knives]]
 
-| War From                                   |
-| ------------------------------------------ |
-| [[./Ashen Knives\|Ashen Knives]] |
+| War From |
+| -------- |
 

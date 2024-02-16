@@ -6,7 +6,7 @@ faction_type: Criminal
 share: "true"
 location:
   - "[[Procyon/Rin/Warren|Warren]]"
-  - "[[Rin|Rin]]"
+  - "[[Procyon/Rin/index|Rin]]"
 tier: "3"
 nature: A tightly knit group of thieves who steal high-end technological supplies.
 allies:

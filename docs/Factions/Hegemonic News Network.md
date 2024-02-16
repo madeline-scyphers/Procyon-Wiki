@@ -6,8 +6,8 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Procyon|Procyon]]"
-  - "[[Rin|Rin]]"
+  - "[[Procyon/index|Procyon]]"
+  - "[[Procyon/Rin/index|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "2"
 nature: Those who control the media control the mind. Often use this as leverage over other factions.

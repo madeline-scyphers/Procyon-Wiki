@@ -5,8 +5,8 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Procyon/Iota/Iota|Iota]]"
-  - "[[Procyon/Holt/Holt|Holt]]"
+  - "[[Procyon/Iota/index|Iota]]"
+  - "[[Procyon/Holt/index|Holt]]"
   - "[[Procyon/Iota/Amerath|Amerath]]"
   - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
 tier: "3"

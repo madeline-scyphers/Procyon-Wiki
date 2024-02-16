@@ -3,6 +3,11 @@ aliases:
 tags: []
 share: "true"
 ---
+---
+aliases:
+tags: []
+share: "true"
+---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
 | ---- | ---- | ---- | ---- |
 | 2 | 3 | 2 | 1 |
@@ -43,7 +48,7 @@ Ship designer extraordinaire. Only makes one of each ship designed. (artistic, b
 
 ---
 
-## Pasha Qu'olin 
+## Pasha Qu'olin
 
 Once a feared assassin among the Knives, now a Syndicate leader. Loves good food and pit fights. (sly, corpulent, sartorial, decadent)
 

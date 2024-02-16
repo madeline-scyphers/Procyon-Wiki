@@ -6,7 +6,7 @@ faction_type: Hegemony
 share: "true"
 location:
   - "[[Procyon/Holt/Mem|Mem]]"
-  - "[[Procyon/Holt/Holt|Holt]]"
+  - "[[Procyon/Holt/index|Holt]]"
 tier: "2"
 nature: Wandering mystics studying artifacts and exploring, looking to open the Hantu gate. Members include the Hegemon’s mother.
 allies: []
