@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Factions
+aliases: []
 share: "true"
 title: Factions
 ---
