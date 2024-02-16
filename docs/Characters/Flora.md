@@ -15,20 +15,20 @@ location: "[[Factions/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![[ImagePlaceholder.png|cover hsmall]]
+> [[ImagePlaceholder.png|Show To Players]]
 > ###### Flora
 > Attribute |  value |
 > ---|---|
 > Alias | Sunflower
 > Pronouns | She/Her
-> Faction | [[../Factions/Rusty Nail|Rusty Nail]]
-> Location | [[../Factions/Rusty Nail|Rusty Nail]] |
+> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
+> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Flora
 ## Profile
 
 ## Friends
-- [[./Triv|Triv]] (a ship mechanic)
+- [[Triv|Triv]] (a ship mechanic)
 ## Enemies
 - [[Yattu|Yattu]] (a gang boss)
