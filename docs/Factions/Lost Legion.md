@@ -190,7 +190,6 @@ The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegem
 
 
 
-| War From                                 |
-| ---------------------------------------- |
-| [51st Legion](./51st%20Legion.md) |
+| War From |
+| -------- |
 

@@ -87,7 +87,6 @@ When the [Rin](Procyon/Rin/Rin.md)-[Holt](Procyon/Holt/Holt.md) gate was first o
 
 | Frinendly From                                           |
 | -------------------------------------------------------- |
-| [51st Legion](./51st%20Legion.md)                 |
 | [Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md.md#) |
 
 
