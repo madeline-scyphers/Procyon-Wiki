@@ -33,8 +33,15 @@ enemies:
 ## Profile
 
 
-## Friends
-[[Characters/Krieger.md|Krieger]]
+## Relationships
 
-## Enemies
-[[Characters/Yazu.md|Yazu]]
+| Friend                             | Profile                                                       |
+| ---------------------------------- | ------------------------------------------------------------- |
+| [[Characters/Krieger.md\|Krieger]] | [[Characters/Jedd Yulen\|Jedd Yulen]]'s *fine* blaster pistol |
+
+
+| Enemy                        | Profile                                                  |
+| ---------------------------- | -------------------------------------------------------- |
+| [[Characters/Yazu.md\|Yazu]] | A crooked cop, [[Characters/Yattu\|Yattu]]'s twin sister |
+
+

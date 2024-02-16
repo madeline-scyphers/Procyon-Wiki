@@ -30,9 +30,14 @@ enemies:
 ## Profile
 A moneylender
 
-## Friends
+## Relationships
+
+| Friend | Profile |
+| ------ | ------- |
 
 
-## Enemies
-[[Characters/Mordin Ulmak.md|Mordin Ulmak]]
+| Enemy                                        | Profile |
+| -------------------------------------------- | ------- |
+| [[Characters/Mordin Ulmak.md\|Mordin Ulmak]] |         |
+
 

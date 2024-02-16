@@ -30,9 +30,16 @@ enemies: []
 ## Profile
 An info broker
 
-## Friends
-[[Characters/Mordin Ulmak.md|Mordin Ulmak]]
 
-## Enemies
+## Relationships
+
+| Friend                                       | Profile |
+| -------------------------------------------- | ------- |
+| [[Characters/Mordin Ulmak.md\|Mordin Ulmak]] |         |
+
+
+| Enemy | Profile |
+| ----- | ------- |
+
 
 

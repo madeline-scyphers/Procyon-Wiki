@@ -28,9 +28,14 @@ enemies: []
 ## Profile
 [[Characters/Jedd Yulen|Jedd Yulen]]'s *fine* blaster pistol
 
-## Friends
+
+## Relationships
+
+| Friend | Profile |
+| ------ | ------- |
 
 
-## Enemies
+| Enemy | Profile |
+| ----- | ------- |
 
 

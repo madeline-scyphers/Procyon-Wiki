@@ -1,18 +1,36 @@
 ---
 name: Yazu
 faction: ""
-pronouns: ""
-location: ""
+pronouns: She/Her
+location:
+  - ""
 role: npc
 status: active
 share: "true"
 tags:
   - npc
-aliases: []
+aliases: 
 profile: A crooked cop, [[Characters/Yattu|Yattu]]'s twin sister
 friends:
   - "[[Characters/Yattu|Yattu]]"
-enemies: []
+enemies: 
+---
+---
+name: Yazu
+faction: ""
+pronouns: She/Her
+location:
+  - ""
+role: npc
+status: active
+share: "true"
+tags:
+  - npc
+aliases: 
+profile: A crooked cop, [[Characters/Yattu|Yattu]]'s twin sister
+friends:
+  - "[[Characters/Yattu|Yattu]]"
+enemies:
 ---
 
 
@@ -21,7 +39,7 @@ enemies: []
 > ###### Yazu
 > Attribute |  value |
 > ---|---|
-> Pronouns | 
+> Pronouns | She/Her
 > Faction | 
 > Location |  |
 
@@ -30,9 +48,15 @@ enemies: []
 ## Profile
 A crooked cop, [[Characters/Yattu|Yattu]]'s twin sister
 
-## Friends
-[[Characters/Yattu.md|Yattu]]
 
-## Enemies
+## Relationships
+
+| Friend                         | Profile                                            |
+| ------------------------------ | -------------------------------------------------- |
+| [[Characters/Yattu.md\|Yattu]] | Gang boss. [[Characters/Yazu\|Yazu]]'s twin sister |
+
+
+| Enemy | Profile |
+| ----- | ------- |
 
 

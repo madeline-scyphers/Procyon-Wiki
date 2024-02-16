@@ -35,9 +35,18 @@ enemies: []
 Works as one of the preeminent ship designers and builders in the system. Works under [[Factions/House Malklaith|House Malklaith]].
  [[Kit Apple|Kit Apple]]'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them
 
-## Friends
-[[Characters/Kit Apple.md|Kit Apple]],[[Characters/Governor Ritam al’Malklaith.md|Governor Ritam al’Malklaith]]
 
-## Enemies
+## Relationships
+
+| Friend                                                                     | Profile                   |
+| -------------------------------------------------------------------------- | ------------------------- |
+| [[Characters/Governor Ritam al’Malklaith.md\|Governor Ritam al’Malklaith]] |                           |
+| [[Characters/Kit Apple.md\|Kit Apple]]                                     | Spent whole life on ships |
+
+
+| Enemy | Profile |
+| ----- | ------- |
+
+
 
 

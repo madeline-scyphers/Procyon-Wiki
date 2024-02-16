@@ -29,9 +29,14 @@ enemies: []
 ## Profile
 A gambler of ill repute
 
-## Friends
+
+## Relationships
+
+| Friend | Profile |
+| ------ | ------- |
 
 
-## Enemies
+| Enemy | Profile |
+| ----- | ------- |
 
 

@@ -30,9 +30,17 @@ enemies: []
 ## Profile
 A doctor
 
-## Friends
-[[Characters/Leto Ramus.md|Leto Ramus]]
 
-## Enemies
+## Relationships
+
+| Friend                                   | Profile |
+| ---------------------------------------- | ------- |
+| [[Characters/Leto Ramus.md\|Leto Ramus]] |         |
+
+
+| Enemy | Profile |
+| ----- | ------- |
+
+
 
 

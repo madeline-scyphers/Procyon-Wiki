@@ -29,9 +29,14 @@ enemies: []
 ## Profile
 Hospital admin
 
-## Friends
+
+## Relationships
+
+| Friend | Profile |
+| ------ | ------- |
 
 
-## Enemies
+| Enemy | Profile |
+| ----- | ------- |
 
 
