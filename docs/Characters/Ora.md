@@ -13,21 +13,6 @@ friends:
   - "[[Characters/Mordin Ulmak|Mordin Ulmak]]"
 enemies: []
 ---
----
-name: Ora
-faction:  "[[Factions/Ashen Knives|Ashen Knives]]"
-pronouns:  They/Them
-location: "[[Procyon/Rin/Warren|Warren]]"
-role: npc
-status: active
-share: "true"
-tags:
-  - npc
-profile: An info broker
-friends:
-  - "[[Characters/Mordin Ulmak|Mordin Ulmak]]"
-enemies: []
----
 
 
 > [!infobox]
