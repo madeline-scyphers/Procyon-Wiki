@@ -5,21 +5,21 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Brekk|Brekk]]"
-  - "[[Procyon/Brekk/Aketi|Aketi]]"
+  - "[Brekk](Brekk.md)"
+  - "[Aketi](../Procyon/Brekk/Aketi.md#)"
 tier: "1"
 nature: Warrior mystics that seek to enforce an ancient code of justice on those they find wanting.
 allies: []
 friendly: []
 helpful:
-  - "[[Factions/Concordiat Knights|Factions/Concordiat Knights]]"
+  - "[Concordiat Knights](./Concordiat%2520Knights.md#)"
 neutral: []
 interfering:
-  - "[[Factions/Draxler's Raiders|Draxler's Raiders]]"
-  - "[[Factions/Janus Syndicate|Factions/Janus Syndicate]]"
-  - "[[Factions/Turner Society|Factions/Turner Society]]"
+  - "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
+  - "[Janus Syndicate](./Janus%2520Syndicate.md#)"
+  - "[Turner Society](./Turner%2520Society.md#)"
 hostile:
-  - "[[Factions/Nightspeakers|Factions/Nightspeakers]]"
+  - "[Nightspeakers](./Nightspeakers.md#)"
 war: []
 goals:
   - burn down base camp one
@@ -32,9 +32,9 @@ notable npcs:
   - Quai-Rosh (elder, mystic, judgmental).
   - Aayli Spacerunner (elder, stoic, warrior).
   - Ulek Spacedancer (apprentice, rash, friendly).
-turf: The First Temple on [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] (HQ).
+turf: The First Temple on [Aketi](../Procyon/Brekk/Aketi.md#) (HQ).
 quirks: Each member is trained by one elder mentor. Becoming a Vigilance member means receiving an artifact blade as a mark of your progress.
-situation: Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [[Procyon/Procyon|Procyon/Procyon]]. They have judged the gunrunners and drug makers of [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] unworthy.
+situation: Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [Procyon](Procyon/Procyon.md). They have judged the gunrunners and drug makers of [Aketi](../Procyon/Brekk/Aketi.md#) unworthy.
 ---
 ## Tier
 
@@ -50,11 +50,11 @@ Warrior mystics that seek to enforce an ancient code of justice on those they fi
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Brekk/Aketi|Aketi]]
+[Brekk](../Procyon/Brekk/index.md),[Aketi](../Procyon/Brekk/Aketi.md.md#.md#.md#)
 
 ## Turf
 
-The First Temple on [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] (HQ).
+The First Temple on [Aketi](Procyon/Brekk/Aketi.md) (HQ).
 
 ## Notable NPCs
 
@@ -70,7 +70,7 @@ Each member is trained by one elder mentor. Becoming a Vigilance member means re
 
 ## Situation
 
-Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [[Procyon/Procyon|Procyon/Procyon]]. They have judged the gunrunners and drug makers of [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]] unworthy.
+Though the Hegemony colonized the sector a hundred years ago, Vigilance was founded thousands of years ago. The current members are all human, since the original practitioners were wiped out when Nim-Amar pacified [Procyon](Procyon/Procyon.md). They have judged the gunrunners and drug makers of [Aketi](Procyon/Brekk/Aketi.md) unworthy.
 
 ## Allies With
 
@@ -90,11 +90,11 @@ Though the Hegemony colonized the sector a hundred years ago, Vigilance was foun
 
 ## Helpful With
 
-[[./Concordiat Knights|Concordiat Knights]]
+[Concordiat Knights](./Concordiat%2520Knights.md.md#)
 
 | Helpful From                                           |
 | ------------------------------------------------------ |
-| [[./Concordiat Knights\|Concordiat Knights]] |
+| [Concordiat Knights](./Concordiat%2520Knights.md.md#) |
 
 
 ## Neutral With
@@ -109,21 +109,21 @@ Though the Hegemony colonized the sector a hundred years ago, Vigilance was foun
 
 ## Interfering With
 
-[[./Draxler's Raiders|Draxler's Raiders]],[[./Janus Syndicate|Janus Syndicate]],[[./Turner Society|Turner Society]]
+[Draxler's Raiders](./Draxler's%2520Raiders.md.md#),[Janus Syndicate](./Janus%2520Syndicate.md.md#),[Turner Society](./Turner%2520Society.md.md#)
 
 
 | Interfering From                                     |
 | ---------------------------------------------------- |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
-| [[./Turner Society\|Turner Society]]       |
-| [[./Janus Syndicate\|Janus Syndicate]]     |
-| [[./Vignerons\|Vignerons]]                 |
+| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#) |
+| [Turner Society](./Turner%2520Society.md.md#)       |
+| [Janus Syndicate](./Janus%2520Syndicate.md.md#)     |
+| [Vignerons](./Vignerons.md)                 |
 
 
 
 ## Hostile With
 
-[[./Nightspeakers|Nightspeakers]]
+[Nightspeakers](./Nightspeakers.md.md#)
 
 
 | Hostile From |

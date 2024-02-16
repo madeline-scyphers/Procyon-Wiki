@@ -5,19 +5,19 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Holt|Holt]]"
-  - "[[Brekk|Brekk]]"
-  - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
-  - "[[Procyon/Brekk/Aketi|Aketi]]"
+  - "[Holt](Holt.md)"
+  - "[Brekk](Brekk.md)"
+  - "[Sonhandra](../Procyon/Holt/Sonhandra.md#)"
+  - "[Aketi](../Procyon/Brekk/Aketi.md#)"
 tier: "2"
 nature: Weapons dealers specializing in ship weapons, headed up by the ruthless Viktor Bax.
 allies: []
 friendly: []
 helpful:
-  - "[[Factions/Draxler's Raiders|Draxler's Raiders]]"
+  - "[Draxler's Raiders](./Draxler's%2520Raiders.md#)"
 neutral: []
 interfering:
-  - "[[Vigilance|Vigilance]]"
+  - "[Vigilance](Vigilance.md)"
 hostile: []
 war: []
 goals:
@@ -30,8 +30,8 @@ notable npcs:
   - Viktor Bax (ambitious, charming, distrustful, ruthless).
   - Baruk (xeno bodyguard, huge).
   - Wendel (nervous, technical, loyal).
-  - Faye Null (unmarked [[Yaru|Yaru]] pilot, adventurous, foolhardy).
-turf: Weapons camp on [[Procyon/Holt/Sonhandra|Procyon/Holt/Sonhandra]] (HQ). A sizable operation at [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]]’s Base Camp One.
+  - Faye Null (unmarked [Yaru](Yaru.md) pilot, adventurous, foolhardy).
+turf: Weapons camp on [Sonhandra](../Procyon/Holt/Sonhandra.md#) (HQ). A sizable operation at [Aketi](../Procyon/Brekk/Aketi.md#)’s Base Camp One.
 quirks: Viktor Bax insists on meeting every client the Syndicate does business with in person.
 situation: Viktor wants to grow beyond the outposts the Syndicate currently runs to a sector-wide affair. As part of his plan to scale up, he’s looking to poach the Legion for some capital weapons. Viktor’s currently digging up dirt on Tallon and secret Legion projects in the sector.
 ---
@@ -49,15 +49,15 @@ Weapons dealers specializing in ship weapons, headed up by the ruthless Viktor B
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Brekk/Aketi|Aketi]]
+[Holt](../Procyon/Holt/index.md),[Brekk](../Procyon/Brekk/index.md),[Sonhandra](../Procyon/Holt/Sonhandra.md.md#.md#),[Aketi](../Procyon/Brekk/Aketi.md.md#.md#)
 
 ## Turf
 
-Weapons camp on [[Procyon/Holt/Sonhandra|Procyon/Holt/Sonhandra]] (HQ). A sizable operation at [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]]’s Base Camp One.
+Weapons camp on [Sonhandra](Procyon/Holt/Sonhandra.md) (HQ). A sizable operation at [Aketi](Procyon/Brekk/Aketi.md)’s Base Camp One.
 
 ## Notable NPCs
 
-Viktor Bax (ambitious, charming, distrustful, ruthless).,Baruk (xeno bodyguard, huge).,Wendel (nervous, technical, loyal).,Faye Null (unmarked [[Yaru|Yaru]] pilot, adventurous, foolhardy).
+Viktor Bax (ambitious, charming, distrustful, ruthless).,Baruk (xeno bodyguard, huge).,Wendel (nervous, technical, loyal).,Faye Null (unmarked [Yaru](Yaru.md) pilot, adventurous, foolhardy).
 
 ## Notable Assets
 
@@ -85,12 +85,12 @@ Viktor wants to grow beyond the outposts the Syndicate currently runs to a secto
 
 | Frinendly From                                       |
 | ---------------------------------------------------- |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
+| [Draxler's Raiders](./Draxler's%2520Raiders.md.md#) |
 
 
 ## Helpful With
 
-[[./Draxler's Raiders|Draxler's Raiders]]
+[Draxler's Raiders](./Draxler's%2520Raiders.md.md#)
 
 | Helpful From |
 | ------------ |
@@ -108,12 +108,12 @@ Viktor wants to grow beyond the outposts the Syndicate currently runs to a secto
 
 ## Interfering With
 
-[[./Vigilance|Vigilance]]
+[Vigilance](./Vigilance.md)
 
 
 | Interfering From                     |
 | ------------------------------------ |
-| [[./Vigilance\|Vigilance]] |
+| [Vigilance](./Vigilance.md) |
 
 
 

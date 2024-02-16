@@ -11,17 +11,17 @@ nature: Spies and Hegemonic counterintelligence, seeking to undermine the Govern
 allies: []
 friendly: []
 helpful:
-  - "[[Factions/Dyrinek Gang|Dyrinek Gang]]"
-  - "[[Factions/The Maelstrom|The Maelstrom]]"
+  - "[Dyrinek Gang](./Dyrinek%2520Gang.md#)"
+  - "[The Maelstrom](./The%2520Maelstrom.md#)"
 neutral: []
 interfering:
-  - "[[Factions/Starsmiths Guild|Starsmiths Guild]]"
-  - "[[Factions/Guild of Engineers|Guild of Engineers]]"
+  - "[Starsmiths Guild](./Starsmiths%2520Guild.md#)"
+  - "[Guild of Engineers](./Guild%2520of%2520Engineers.md#)"
 hostile:
-  - "[[Factions/Yaru|Yaru]]"
+  - "[Yaru](./Yaru.md#)"
 war: []
 goals:
-  - Cause civil unrest on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
+  - Cause civil unrest on [Warren](Procyon/Rin/Warren.md).
 notable assets:
   - A network of spies.
   - High-tech gadgets.
@@ -40,7 +40,7 @@ situation: The Veil serves the Hegemony itself, even above the Hegemon. When pow
 
 ## Goals
 
-Cause civil unrest on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
+Cause civil unrest on [Warren](Procyon/Rin/Warren.md).
 
 ## Nature
 
@@ -76,7 +76,7 @@ The Veil serves the Hegemony itself, even above the Hegemon. When power struggle
 
 | Allies From                                                    |
 | -------------------------------------------------------------- |
-| [[./Hegemonic News Network\|Hegemonic News Network]] |
+| [Hegemonic News Network](./Hegemonic%20News%20Network.md) |
 
 
 ## Friendly With
@@ -85,12 +85,12 @@ The Veil serves the Hegemony itself, even above the Hegemon. When power struggle
 
 | Frinendly From                                 |
 | ---------------------------------------------- |
-| [[./Counters Guild\|Counters Guild]] |
+| [Counters Guild](./Counters%20Guild.md) |
 
 
 ## Helpful With
 
-[[./Dyrinek Gang|Dyrinek Gang]],[[./The Maelstrom|The Maelstrom]]
+[Dyrinek Gang](./Dyrinek%2520Gang.md.md#),[The Maelstrom](./The%2520Maelstrom.md.md#)
 
 | Helpful From |
 | ------------ |
@@ -108,23 +108,23 @@ The Veil serves the Hegemony itself, even above the Hegemon. When power struggle
 
 ## Interfering With
 
-[[./Starsmiths Guild|Starsmiths Guild]],[[./Guild of Engineers|Guild of Engineers]]
+[Starsmiths Guild](./Starsmiths%2520Guild.md.md#),[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#)
 
 
 | Interfering From                         |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
+| [Lost Legion](./Lost%20Legion.md) |
 
 
 
 ## Hostile With
 
-[[./Yaru|Yaru]]
+[Yaru](./Yaru.md.md#)
 
 
 | Hostile From                                   |
 | ---------------------------------------------- |
-| [[./Scarlet Wolves\|Scarlet Wolves]] |
+| [Scarlet Wolves](./Scarlet%20Wolves.md) |
 
 
 

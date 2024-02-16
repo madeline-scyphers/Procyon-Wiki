@@ -6,21 +6,21 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Iota|Iota]]"
-  - "[[Procyon/Iota/Amerath|Amerath]]"
+  - "[Iota](Iota.md)"
+  - "[Amerath](../Procyon/Iota/Amerath.md#)"
 tier: "2"
 nature: Also known as the Makers Guild, they grow clones for menial labor that are supposedly short-lived and only barely sentient.
 allies: []
 friendly: []
 helpful:
-  - "[[Factions/Lost Legion|Factions/Lost Legion]]"
-  - "[[Factions/Guild of Engineers|Guild of Engineers]]"
-  - "[[Factions/Starsmiths Guild|Starsmiths Guild]]"
+  - "[Lost Legion](./Lost%2520Legion.md#)"
+  - "[Guild of Engineers](./Guild%2520of%2520Engineers.md#)"
+  - "[Starsmiths Guild](./Starsmiths%2520Guild.md#)"
 neutral: []
 interfering:
-  - "[[Factions/Counters Guild|Counters Guild]]"
-  - "[[Factions/51st Legion|51st Legion]]"
-  - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
+  - "[Counters Guild](./Counters%2520Guild.md#)"
+  - "[51st Legion](./51st%2520Legion.md#)"
+  - "[Cobalt Syndicate](./Cobalt%2520Syndicate.md#)"
 hostile: []
 war: []
 goals:
@@ -33,9 +33,9 @@ notable npcs:
   - Foler Atherton (biologist, concealed).
   - Bal Yn (geneticist, haughty).
   - Rech (savant, cold). All unmarked progenitor clones.
-turf: Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]].
+turf: Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [Amerath](../Procyon/Iota/Amerath.md#).
 quirks: The Makers Guild doesn't accept new members. The progenitors have self-perfected and are frozen; only so many are allowed to be active at once. The Yaru (as the clones are called) make many people in their presence uneasy.
-situation: When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, strictly regulated by the Hegemon, have been severely reduced. Unsatisfied, they have thrown in with the [[Factions/Lost Legion|Factions/Lost Legion]], and are secretly working to restore the previous Hegemon to power.
+situation: When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, strictly regulated by the Hegemon, have been severely reduced. Unsatisfied, they have thrown in with the [Lost Legion](./Lost%2520Legion.md#), and are secretly working to restore the previous Hegemon to power.
 ---
 ## Tier
 
@@ -51,11 +51,11 @@ Also known as the Makers Guild, they grow clones for menial labor that are suppo
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Amerath|Amerath]]
+[Iota](../Procyon/Iota/index.md),[Amerath](../Procyon/Iota/Amerath.md.md#.md#)
 
 ## Turf
 
-Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]].
+Sanctioned Yaru creche on Lithios (HQ). Secret research facility on [Amerath](Procyon/Iota/Amerath.md).
 
 ## Notable NPCs
 
@@ -71,7 +71,7 @@ The Makers Guild doesn't accept new members. The progenitors have self-perfected
 
 ## Situation
 
-When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, strictly regulated by the Hegemon, have been severely reduced. Unsatisfied, they have thrown in with the [[Factions/Lost Legion|Factions/Lost Legion]], and are secretly working to restore the previous Hegemon to power.
+When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, strictly regulated by the Hegemon, have been severely reduced. Unsatisfied, they have thrown in with the [Lost Legion](Factions/Lost%20Legion.md), and are secretly working to restore the previous Hegemon to power.
 
 ## Allies With
 
@@ -87,12 +87,12 @@ When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, 
 
 | Frinendly From                           |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
+| [Lost Legion](./Lost%2520Legion.md.md#.md#) |
 
 
 ## Helpful With
 
-[[./Lost Legion|Lost Legion]],[[./Guild of Engineers|Guild of Engineers]],[[./Starsmiths Guild|Starsmiths Guild]]
+[Lost Legion](./Lost%2520Legion.md.md#.md#),[Guild of Engineers](./Guild%2520of%2520Engineers.md.md#),[Starsmiths Guild](./Starsmiths%2520Guild.md.md#)
 
 | Helpful From |
 | ------------ |
@@ -110,15 +110,15 @@ When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, 
 
 ## Interfering With
 
-[[./Counters Guild|Counters Guild]],[[./51st Legion|51st Legion]],[[./Cobalt Syndicate|Cobalt Syndicate]]
+[Counters Guild](./Counters%2520Guild.md.md#),[51st Legion](./51st%2520Legion.md.md#),[Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#)
 
 
 | Interfering From                                                 |
 | ---------------------------------------------------------------- |
-| [[./Lost Legion\|Lost Legion]]                         |
-| [[./Cobalt Syndicate\|Cobalt Syndicate]]               |
-| [[./The Maelstrom\|The Maelstrom]]                     |
-| [[./Church of Stellar Flame\|Church of Stellar Flame]] |
+| [Lost Legion](./Lost%2520Legion.md.md#.md#)                         |
+| [Cobalt Syndicate](./Cobalt%2520Syndicate.md.md#)               |
+| [The Maelstrom](./The%20Maelstrom.md)                     |
+| [Church of Stellar Flame](./Church%20of%20Stellar%20Flame.md) |
 
 
 
@@ -129,7 +129,7 @@ When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, 
 
 | Hostile From                                 |
 | -------------------------------------------- |
-| [[./Starless Veil\|Starless Veil]] |
+| [Starless Veil](./Starless%20Veil.md) |
 
 
 

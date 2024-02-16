@@ -5,23 +5,23 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Holt|Holt]]"
-  - "[[Procyon/Holt/Mem|Mem]]"
+  - "[Holt](Holt.md)"
+  - "[Mem](../Procyon/Holt/Mem.md#)"
 tier: "3"
 nature: Human Cultists splicing themselves with Way creature DNA. Named for the pain most endure for their unusual abilities.
 allies: []
 friendly:
-  - "[[Factions/Dyrinek Gang|Factions/Dyrinek Gang]]"
-  - "[[Factions/The Maelstrom|Factions/The Maelstrom]]"
+  - "[Dyrinek Gang](./Dyrinek%2520Gang.md#)"
+  - "[The Maelstrom](./The%2520Maelstrom.md#)"
 helpful: []
 neutral: []
 interfering:
-  - "[[Factions/Church of Stellar Flame|Factions/Church of Stellar Flame]]"
-  - "[[Factions/House Malklaith|Factions/House Malklaith]]"
+  - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
+  - "[House Malklaith](./House%2520Malklaith.md#)"
 hostile: []
 war: []
 goals:
-  - Move Planet Omega towards [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
+  - Move Planet Omega towards [Mem](../Procyon/Holt/Mem.md#).
 notable assets:
   - Potent mystic powers.
   - A menagerie of undocumented Way creatures.
@@ -30,9 +30,9 @@ notable npcs:
   - Lexal (mystic, addicted, power-hungry, winged).
   - Iritha (mystic, many-limbed, glowing, powerful, potent).
   - Noro (mystic, calculating, enrapturing, elongated).
-turf: A platform orbiting Planet Omega (HQ). Secret chantries on [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
+turf: A platform orbiting Planet Omega (HQ). Secret chantries on [Mem](../Procyon/Holt/Mem.md#).
 quirks: Each member of the Agony is changed in some highly visible way, either with extra limbs, semi-spectral forms, or many new mouths and eyes.
-situation: Having harvested horrors from Omega’s surface, the Agony have a plan to develop the living planet. By activating sites on the surface, they intend to move it within reach of [[Procyon/Holt/Mem|Procyon/Holt/Mem]], feeding the oceans to Omega and starting a new era of its evolution.
+situation: Having harvested horrors from Omega’s surface, the Agony have a plan to develop the living planet. By activating sites on the surface, they intend to move it within reach of [Mem](../Procyon/Holt/Mem.md#), feeding the oceans to Omega and starting a new era of its evolution.
 ---
 ## Tier
 
@@ -40,7 +40,7 @@ situation: Having harvested horrors from Omega’s surface, the Agony have a pla
 
 ## Goals
 
-Move Planet Omega towards [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
+Move Planet Omega towards [Mem](Procyon/Holt/Mem.md).
 
 ## Nature
 
@@ -48,11 +48,11 @@ Human Cultists splicing themselves with Way creature DNA. Named for the pain mos
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Holt/Mem|Mem]]
+[Holt](../Procyon/Holt/index.md),[Mem](../Procyon/Holt/Mem.md.md#.md#.md#.md#)
 
 ## Turf
 
-A platform orbiting Planet Omega (HQ). Secret chantries on [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
+A platform orbiting Planet Omega (HQ). Secret chantries on [Mem](Procyon/Holt/Mem.md).
 
 ## Notable NPCs
 
@@ -68,7 +68,7 @@ Each member of the Agony is changed in some highly visible way, either with extr
 
 ## Situation
 
-Having harvested horrors from Omega’s surface, the Agony have a plan to develop the living planet. By activating sites on the surface, they intend to move it within reach of [[Procyon/Holt/Mem|Procyon/Holt/Mem]], feeding the oceans to Omega and starting a new era of its evolution.
+Having harvested horrors from Omega’s surface, the Agony have a plan to develop the living planet. By activating sites on the surface, they intend to move it within reach of [Mem](Procyon/Holt/Mem.md), feeding the oceans to Omega and starting a new era of its evolution.
 
 ## Allies With
 
@@ -80,7 +80,7 @@ Having harvested horrors from Omega’s surface, the Agony have a plan to develo
 
 ## Friendly With
 
-[[./Dyrinek Gang|Dyrinek Gang]],[[./The Maelstrom|The Maelstrom]]
+[Dyrinek Gang](./Dyrinek%2520Gang.md.md#),[The Maelstrom](./The%2520Maelstrom.md.md#)
 
 | Frinendly From |
 | -------------- |
@@ -106,13 +106,13 @@ Having harvested horrors from Omega’s surface, the Agony have a plan to develo
 
 ## Interfering With
 
-[[./Church of Stellar Flame|Church of Stellar Flame]],[[./House Malklaith|House Malklaith]]
+[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#),[House Malklaith](./House%2520Malklaith.md.md#)
 
 
 | Interfering From                                 |
 | ------------------------------------------------ |
-| [[./House Malklaith\|House Malklaith]] |
-| [[./Vignerons\|Vignerons]]             |
+| [House Malklaith](./House%2520Malklaith.md.md#) |
+| [Vignerons](./Vignerons.md)             |
 
 
 

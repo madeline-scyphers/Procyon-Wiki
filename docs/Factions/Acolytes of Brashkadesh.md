@@ -5,19 +5,19 @@ tags:
 faction_type: Weird
 share: "true"
 location:
-  - "[[Iota|Iota]]"
-  - "[[Procyon/Iota/Indri|Indri]]"
+  - "[Iota](Iota.md)"
+  - "[Indri](../Procyon/Iota/Indri.md#)"
 tier: "1"
 nature: Eschewing individuality, all initiates adopt the same garb and the name “Ashkad” in the pursuit of perfection at any cost.
 allies: []
 friendly:
-  - "[[Mendicants|Mendicants]]"
+  - "[Mendicants](Mendicants.md)"
 helpful: []
 neutral: []
 interfering: []
 hostile:
-  - "[[Guild of Engineers|Guild of Engineers]]"
-  - "[[Ashen Knives|Ashen Knives]]"
+  - "[Guild of Engineers](Guild%20of%20Engineers.md)"
+  - "[Ashen Knives](Ashen%20Knives.md)"
 war: []
 goals:
   - Convert an entire factory.
@@ -28,7 +28,7 @@ notable npcs:
   - Ashkad (ambitious, underhanded, muscled)
   - Ashkad (mystic, devout, artistic)
   - Ashkad (technician, skilled, liar, wealthy)
-turf: A large number of meditation rooms throughout [[Procyon/Iota/Indri|Procyon/Iota/Indri]].
+turf: A large number of meditation rooms throughout [Indri](../Procyon/Iota/Indri.md#).
 quirks: Attuning to the Pillar allows the Acolytes to communicate with each other and invoke the skills and memories of other Acolytes, who can act through them.
 situation: The Acolytes are ready to begin the next phase of growing their following, but the Pillar requires massive reserves of energy to keep attuning to more people. They plan to indoctrinate an entire power plant’s workforce, so they can repurpose the plant to power the Pillar of Truth.
 ---
@@ -46,11 +46,11 @@ Eschewing individuality, all initiates adopt the same garb and the name “Ashka
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Indri|Indri]]
+[Iota](../Procyon/Iota/index.md),[Indri](../Procyon/Iota/Indri.md.md#.md#)
 
 ## Turf
 
-A large number of meditation rooms throughout [[Procyon/Iota/Indri|Procyon/Iota/Indri]].
+A large number of meditation rooms throughout [Indri](Procyon/Iota/Indri.md).
 
 ## Notable NPCs
 
@@ -78,7 +78,7 @@ The Acolytes are ready to begin the next phase of growing their following, but t
 
 ## Friendly With
 
-[[./Mendicants|Mendicants]]
+[Mendicants](./Mendicants.md)
 
 | Frinendly From |
 | -------------- |
@@ -109,13 +109,13 @@ The Acolytes are ready to begin the next phase of growing their following, but t
 
 | Interfering From                                       |
 | ------------------------------------------------------ |
-| [[./Concordiat Knights\|Concordiat Knights]] |
+| [Concordiat Knights](./Concordiat%20Knights.md) |
 
 
 
 ## Hostile With
 
-[[./Guild of Engineers|Guild of Engineers]],[[./Ashen Knives|Ashen Knives]]
+[Guild of Engineers](./Guild%20of%20Engineers.md),[Ashen Knives](./Ashen%20Knives.md)
 
 
 | Hostile From |

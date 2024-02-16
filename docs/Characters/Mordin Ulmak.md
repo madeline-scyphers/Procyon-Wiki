@@ -9,14 +9,14 @@ playbook: Scoundrel
 status: active
 pronouns: Any, Sure, Whatever
 share: "true"
-faction: "[[Factions/Rusty Nail|Rusty Nail]]"
-location: ""[[Factions/Rusty Nail|Rusty Nail]]"
+faction: "[Rusty Nail](Factions/Rusty%20Nail.md)"
+location: ""[Rusty Nail](Factions/Rusty%20Nail.md)"
 ---
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![cover hsmall](../ImagePlaceholder.png)
+> [Show To Players](../ImagePlaceholder.png)
 > ###### Mordin Ulmak
 > Attribute |  value |
 > ---|---|
@@ -29,6 +29,6 @@ location: ""[[Factions/Rusty Nail|Rusty Nail]]"
 ## Profile
 
 ## Friends
-- [[./Ora|Ora]] (An info broker)
+- [Ora](./Ora.md) (An info broker)
 ## Enemies
-- [[Nyx|Nyx]] (A moneylender)
+- [Nyx](Nyx.md) (A moneylender)

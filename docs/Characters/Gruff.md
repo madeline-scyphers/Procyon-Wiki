@@ -1,5 +1,5 @@
 ---
-faction: "[[Factions/Ghosts|Ghosts]]"
+faction: "[Ghosts](../Factions/Ghosts.md#)"
 pronouns: He/Him
 location: 
 role: npc
@@ -12,12 +12,12 @@ tags:
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![cover hsmall](../ImagePlaceholder.png)
+> [Show To Players](../ImagePlaceholder.png)
 > ###### Basic Information
 > Type |  Value |
 > ---|---|
-> Faction | [[../Factions/Ghosts|Ghosts]] |
+> Faction | [Ghosts](../Factions/Ghosts.md.md#) |
 > Location |  |
 > Pronouns | He/Him |
 

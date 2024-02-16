@@ -5,31 +5,31 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Brekk|Brekk]]"
-  - "[[Procyon/Brekk/Nightfall|Nightfall]]"
+  - "[Brekk](Brekk.md)"
+  - "[Nightfall](../Procyon/Brekk/Nightfall.md#)"
 tier: "2"
 nature: Pilots that organize illegal races, take mercenary work, or test dangerous new engine/flight technologies for the Guilds.
 allies: []
 friendly: []
 helpful:
-  - "[[Factions/Borniko Syndicate|Factions/Borniko Syndicate]]"
-  - "[[Factions/Starsmiths Guild|Factions/Starsmiths Guild]]"
+  - "[Borniko Syndicate](./Borniko%2520Syndicate.md#)"
+  - "[Starsmiths Guild](./Starsmiths%2520Guild.md#)"
 neutral: []
 interfering: []
 hostile:
-  - "[[Factions/Wreckers|Factions/Wreckers]]"
+  - "[Wreckers](./Wreckers.md#)"
 war: []
 goals:
-  - Organize a system-wide race in [[Procyon/Brekk/Brekk|Procyon/Brekk/Brekk]].
+  - Organize a system-wide race in [Brekk](Procyon/Brekk/Brekk.md).
 notable assets:
   - A host of ships of their own and access to far more.
-  - Substantial mechanical facilities on [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
+  - Substantial mechanical facilities on [Nightfall](../Procyon/Brekk/Nightfall.md#).
 notable npcs:
   - Garge Ztar (risk-taker, ambitious, charismatic).
   - Elen (engineer, analytical, race-winner).
   - Inofra (stunt pilot, compassionate, veteran).
   - Dom (ex-Starsmith mechanic, genius, family man, lives to race).
-turf: A secluded hangar on [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
+turf: A secluded hangar on [Nightfall](../Procyon/Brekk/Nightfall.md#).
 quirks: Echo Wave Riders don’t respect those who don’t know how to pilot their own ship and settle all scores with races.
 situation: The Riders are left alone by authorities if their races are kept far enough from civilization—and claiming Bright Wind takes care of that. They plan to put on an epic race among system pilots for prestige and cash.
 ---
@@ -39,7 +39,7 @@ situation: The Riders are left alone by authorities if their races are kept far 
 
 ## Goals
 
-Organize a system-wide race in [[Procyon/Brekk/Brekk|Procyon/Brekk/Brekk]].
+Organize a system-wide race in [Brekk](Procyon/Brekk/Brekk.md).
 
 ## Nature
 
@@ -47,11 +47,11 @@ Pilots that organize illegal races, take mercenary work, or test dangerous new e
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Brekk/Nightfall|Nightfall]]
+[Brekk](../Procyon/Brekk/index.md),[Nightfall](../Procyon/Brekk/Nightfall.md.md#.md#.md#)
 
 ## Turf
 
-A secluded hangar on [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
+A secluded hangar on [Nightfall](Procyon/Brekk/Nightfall.md).
 
 ## Notable NPCs
 
@@ -59,7 +59,7 @@ Garge Ztar (risk-taker, ambitious, charismatic).,Elen (engineer, analytical, rac
 
 ## Notable Assets
 
-A host of ships of their own and access to far more.,Substantial mechanical facilities on [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
+A host of ships of their own and access to far more.,Substantial mechanical facilities on [Nightfall](Procyon/Brekk/Nightfall.md).
 
 ## Quirks
 
@@ -83,13 +83,13 @@ The Riders are left alone by authorities if their races are kept far enough from
 
 | Frinendly From                                       |
 | ---------------------------------------------------- |
-| [[./Borniko Syndicate\|Borniko Syndicate]] |
-| [[./Starsmiths Guild\|Starsmiths Guild]]   |
+| [Borniko Syndicate](./Borniko%2520Syndicate.md.md#) |
+| [Starsmiths Guild](./Starsmiths%2520Guild.md.md#)   |
 
 
 ## Helpful With
 
-[[./Borniko Syndicate|Borniko Syndicate]],[[./Starsmiths Guild|Starsmiths Guild]]
+[Borniko Syndicate](./Borniko%2520Syndicate.md.md#),[Starsmiths Guild](./Starsmiths%2520Guild.md.md#)
 
 | Helpful From |
 | ------------ |
@@ -117,12 +117,12 @@ The Riders are left alone by authorities if their races are kept far enough from
 
 ## Hostile With
 
-[[./Wreckers|Wreckers]]
+[Wreckers](./Wreckers.md.md#)
 
 
 | Hostile From                       |
 | ---------------------------------- |
-| [[./Wreckers\|Wreckers]] |
+| [Wreckers](./Wreckers.md.md#) |
 
 
 

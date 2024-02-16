@@ -5,22 +5,22 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon|Procyon]]"
+  - "[Procyon](../Procyon/index.md#)"
 tier: "3"
 nature: A faction of the Hegemonic military preparing a coup.
 allies:
-  - "[[Factions/House Malklaith|Factions/House Malklaith]]"
+  - "[House Malklaith](./House%2520Malklaith.md#)"
 friendly:
-  - "[[Factions/Starsmiths Guild|Factions/Starsmiths Guild]]"
+  - "[Starsmiths Guild](./Starsmiths%2520Guild.md#)"
 helpful: []
 neutral: []
 interfering:
-  - "[[Factions/The Maelstrom|Factions/The Maelstrom]]"
+  - "[The Maelstrom](./The%2520Maelstrom.md#)"
 hostile:
-  - "[[Factions/Ashen Knives|Factions/Ashen Knives]]"
-  - "[[Factions/Church of Stellar Flame|Factions/Church of Stellar Flame]]"
+  - "[Ashen Knives](./Ashen%2520Knives.md#)"
+  - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
 war:
-  - "[[Factions/Lost Legion|Factions/Lost Legion]]"
+  - "[Lost Legion](./Lost%2520Legion.md#)"
 goals:
   - Cleanse the legion of anyone disloyal.
 notable assets:
@@ -51,7 +51,7 @@ A faction of the Hegemonic military preparing a coup.
 
 ## Location
 
-[[../Procyon/index|Procyon]]
+[Procyon](../Procyon/index.md.md#)
 
 ## Turf
 
@@ -75,7 +75,7 @@ Tallon earned commendations on the battlefield but swore to cleanse the Hegemoni
 
 ## Allies With
 
-[[./House Malklaith|House Malklaith]]
+[House Malklaith](./House%2520Malklaith.md.md#)
 
 | Allies From |
 | ----------- |
@@ -83,12 +83,12 @@ Tallon earned commendations on the battlefield but swore to cleanse the Hegemoni
 
 ## Friendly With
 
-[[./Starsmiths Guild|Starsmiths Guild]]
+[Starsmiths Guild](./Starsmiths%2520Guild.md.md#)
 
 | Frinendly From                                         |
 | ------------------------------------------------------ |
-| [[./Guild of Engineers\|Guild of Engineers]] |
-| [[./House Malklaith\|House Malklaith]]       |
+| [Guild of Engineers](./Guild%20of%20Engineers.md) |
+| [House Malklaith](./House%2520Malklaith.md.md#)       |
 
 
 ## Helpful With
@@ -111,32 +111,32 @@ Tallon earned commendations on the battlefield but swore to cleanse the Hegemoni
 
 ## Interfering With
 
-[[./The Maelstrom|The Maelstrom]]
+[The Maelstrom](./The%2520Maelstrom.md.md#)
 
 
 | Interfering From                             |
 | -------------------------------------------- |
-| [[./The Maelstrom\|The Maelstrom]] |
-| [[./Yaru\|Yaru]]                   |
+| [The Maelstrom](./The%2520Maelstrom.md.md#) |
+| [Yaru](./Yaru.md)                   |
 
 
 
 ## Hostile With
 
-[[./Ashen Knives|Ashen Knives]],[[./Church of Stellar Flame|Church of Stellar Flame]]
+[Ashen Knives](./Ashen%2520Knives.md.md#),[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md.md#)
 
 
 | Hostile From                                         |
 | ---------------------------------------------------- |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
-| [[./Nightspeakers\|Nightspeakers]]         |
-| [[./Conclave 01\|Conclave 01]]             |
+| [Draxler's Raiders](./Draxler's%20Raiders.md) |
+| [Nightspeakers](./Nightspeakers.md)         |
+| [Conclave 01](./Conclave%2001.md)             |
 
 
 
 ## War With
 
-[[./Lost Legion|Lost Legion]]
+[Lost Legion](./Lost%2520Legion.md.md#)
 
 | War From |
 | -------- |
