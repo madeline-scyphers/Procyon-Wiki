@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Rin/index|Rin]]"
+  - "[[Rin|Rin]]"
 tier: "1"
 nature: Scavengers, thieves, and hackers who incite factions to fight so that they may pick the battlefields clean later.
 allies: []
@@ -29,7 +29,7 @@ notable npcs:
   - Qord (xeno, thief, delicate, one-handed).
 turf: Makeshift base inside a derelict ship near Baftoma (HQ).
 quirks: Wreckers pick members from folks already fleeing from someone or hiding in Baftoma. They often trade air and water as a means of scoping folks out.
-situation: The crew has hit several targets in the system by sowing confusion between the [[Procyon/Rin/Rin|Procyon/Rin/Rin]] [[Factions/Factions|Factions/Factions]], and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
+situation: The crew has hit several targets in the system by sowing confusion between the [[Rin|Rin]] [[Factions/Factions|Factions/Factions]], and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
 ---
 ## Tier
 
@@ -65,7 +65,7 @@ Wreckers pick members from folks already fleeing from someone or hiding in Bafto
 
 ## Situation
 
-The crew has hit several targets in the system by sowing confusion between the [[Procyon/Rin/Rin|Procyon/Rin/Rin]] [[Factions/Factions|Factions/Factions]], and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
+The crew has hit several targets in the system by sowing confusion between the [[Rin|Rin]] [[Factions/Factions|Factions/Factions]], and cleaning up after pirates. Their goal is to salvage enough to repair their current home, the ship they call the Derelict-8. To do that, many more ships are going to need to be destroyed.
 
 ## Allies With
 
