@@ -30,9 +30,15 @@ enemies: []
 ## Profile
 Junkyard owner
 
-## Friends
-[[Characters/Kit Apple.md|Kit Apple]]
 
-## Enemies
+## Relationships
+
+| Friend                                 | Profile                   |
+| -------------------------------------- | ------------------------- |
+| [[Characters/Kit Apple.md\|Kit Apple]] | Spent whole life on ships |
+
+
+| Enemy | Profile |
+| ----- | ------- |
 
 
