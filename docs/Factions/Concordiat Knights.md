@@ -5,7 +5,7 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Holt/Holt|Holt]]"
+  - "[[Procyon/Holt/index|index]]"
   - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
 tier: "1"
 nature: Fourth and fifth children, these young Nobles have taken an oath sanctified by the Hegemon to seek the Light of the World.
@@ -21,43 +21,6 @@ hostile: []
 war: []
 goals:
   - Find the first Ur site on their map.
-notable assets:
-  - A map of [[Procyon/Procyon|Procyon/Procyon]] from before the Hegemony.
-  - Exploration ships.
-  - Significant personal power and funds.
-notable npcs:
-  - Nicols al’Nim-Amar (leader, glib, hopeful).
-  - Al’Vorron (priestess, renowned, bejeweled).
-  - Junrai (explorer, death wish, restless).
-  - Intal Brel (religious, vigilant, honorable).
-turf: None. Knights travel on private vessels. The Grail (a bar on [[Procyon/Holt/Sonhandra|Procyon/Holt/Sonhandra]] is where they leave messages for each other.
-quirks: Each Knight is as distinct as they can be from each other. This tight-knit group is comprised of unique, colorful characters.
-situation: A retrieved message about a powerful artifact that could terraform previously dead worlds ignited a fervor in a number of Hegemonic youths. Taking an oath blessed by the Hegemon to find it, they're looking all over the Galaxy. Nicols recently found a marked map of [[Procyon/Procyon|Procyon/Procyon]] predating the Hegemony.
----
----
-aliases: []
-tags:
-  - faction
-faction_type: Hegemony
-share: "true"
-location:
-  - "[[Procyon/Holt/Holt|Holt]]"
-  - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
-tier: "1"
-nature: Fourth and fifth children, these young Nobles have taken an oath sanctified by the Hegemon to seek the Light of the World.
-allies: []
-friendly: []
-helpful:
-  - "[[Vigilance|Vigilance]]"
-  - "[[Mendicants|Mendicants]]"
-neutral: []
-interfering:
-  - "[[Acolytes of Brashkadesh|Acolytes of Brashkadesh]]"
-hostile: []
-war: []
-goals:
-  - Find the first Ur site on their map.
-notable assets: []
 notable assets:
   - A map of [[Procyon/Procyon|Procyon/Procyon]] from before the Hegemony.
   - Exploration ships.
@@ -85,7 +48,7 @@ Fourth and fifth children, these young Nobles have taken an oath sanctified by t
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
+[[../Procyon/Holt/index|index]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
 
 ## Turf
 
