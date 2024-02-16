@@ -131,7 +131,7 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
-    # - assets/css/my_custom_css.css  # my own custom css
+    - assets/css/publish.css  # ITS theme
 extra:
   SEO: 'assets/meta/LOGO_SEO.png'
   comments: true
