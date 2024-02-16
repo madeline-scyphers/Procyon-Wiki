@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Rin/index|index]]"
+  - "[[Rin|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "3"
 nature: Once lean and battle ready, the Ashen Knives are a decadent Syndicate focused on drugs, gambling, and pleasures of the flesh.
@@ -48,7 +48,7 @@ Once lean and battle ready, the Ashen Knives are a decadent Syndicate focused on
 
 ## Location
 
-[[../Procyon/Rin/index|index]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
