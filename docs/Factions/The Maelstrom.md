@@ -167,7 +167,6 @@ The Maelstrom raids shipping lanes and sells goods via the [Ashen Knives](Factio
 | Interfering From                                 |
 | ------------------------------------------------ |
 | [House Malklaith](./House%2520Malklaith.md.md#.md#) |
-| [51st Legion](./51st%2520Legion.md.md#.md#)         |
 
 
 
