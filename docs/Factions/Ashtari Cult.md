@@ -47,7 +47,7 @@ Precursor worshipers claiming Ur descent. They inhale gases from the Ashtari Clo
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
+[[../Procyon/Iota/Iota|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
 
 ## Turf
 
