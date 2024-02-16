@@ -6,23 +6,23 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon|Procyon]]"
-  - "[[Rin|Rin]]"
-  - "[[Procyon/Rin/Warren|Warren]]"
+  - "[Procyon](../Procyon/index.md#)"
+  - "[Rin](Rin.md)"
+  - "[Warren](../Procyon/Rin/Warren.md#)"
 tier: "2"
 nature: Those who control the media control the mind. Often use this as leverage over other factions.
 allies:
-  - "[[Starless Veil|Starless Veil]]"
+  - "[Starless Veil](Starless%20Veil.md)"
 friendly: []
 helpful: []
 neutral: []
 interfering:
-  - "[[Dyrinek Gang|Dyrinek Gang]]"
-  - "[[Mendicants|Mendicants]]"
+  - "[Dyrinek Gang](Dyrinek%20Gang.md)"
+  - "[Mendicants](Mendicants.md)"
 hostile: []
 war: []
 goals:
-  - Find blackmail material on [[Characters/Governor Ritam al’Malklaith|Governor]] Malklaith.
+  - Find blackmail material on [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) Malklaith.
 notable assets:
   - Sector-wide communications.
   - Many independent journalists feeding them news.
@@ -31,7 +31,7 @@ notable npcs:
   - Rinsama Kay (chief editor, cynical, demanding, stickler).
   - Ooxoo (xeno press pool manager, curious).
   - Stacy Weathers (ace reporter, trained spy, always grinning, nose for trouble).
-turf: "[[Factions/Hegemonic News Network|Hegemonic News Network]] Corporate Offices on [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. Field offices on every planet."
+turf: "[Hegemonic News Network](Factions/Hegemonic%20News%20Network.md) Corporate Offices on [Warren](../Procyon/Rin/Warren.md#). Field offices on every planet."
 quirks: The bulk of the HNN’s workforce are contractors selling stories they find to HNN. Many reporters are also trained spies.
 situation: The HNN is effectively the private intelligence agency of Cinszo, using its media influence to sway public opinion and gather intelligence.
 ---
@@ -41,7 +41,7 @@ situation: The HNN is effectively the private intelligence agency of Cinszo, usi
 
 ## Goals
 
-Find blackmail material on [[Characters/Governor Ritam al’Malklaith|Governor]] Malklaith.
+Find blackmail material on [Governor](Characters/Governor%20Ritam%20al%E2%80%99Malklaith.md) Malklaith.
 
 ## Nature
 
@@ -49,11 +49,11 @@ Those who control the media control the mind. Often use this as leverage over ot
 
 ## Location
 
-[[../Procyon/index|Procyon]],[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[Procyon](../Procyon/index.md.md#),[Rin](../Procyon/Rin/index.md),[Warren](../Procyon/Rin/Warren.md.md#.md#)
 
 ## Turf
 
-[[Factions/Hegemonic News Network|Hegemonic News Network]] Corporate Offices on [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. Field offices on every planet.
+[Hegemonic News Network](Factions/Hegemonic%20News%20Network.md) Corporate Offices on [Warren](Procyon/Rin/Warren.md). Field offices on every planet.
 
 ## Notable NPCs
 
@@ -73,7 +73,7 @@ The HNN is effectively the private intelligence agency of Cinszo, using its medi
 
 ## Allies With
 
-[[./Starless Veil|Starless Veil]]
+[Starless Veil](./Starless%20Veil.md)
 
 | Allies From |
 | ----------- |
@@ -93,7 +93,7 @@ The HNN is effectively the private intelligence agency of Cinszo, using its medi
 
 | Helpful From                                             |
 | -------------------------------------------------------- |
-| [[./Cult of the Seekers\|Cult of the Seekers]] |
+| [Cult of the Seekers](./Cult%20of%20the%20Seekers.md) |
 
 
 ## Neutral With
@@ -108,12 +108,12 @@ The HNN is effectively the private intelligence agency of Cinszo, using its medi
 
 ## Interfering With
 
-[[./Dyrinek Gang|Dyrinek Gang]],[[./Mendicants|Mendicants]]
+[Dyrinek Gang](./Dyrinek%20Gang.md),[Mendicants](./Mendicants.md)
 
 
 | Interfering From                       |
 | -------------------------------------- |
-| [[./Mendicants\|Mendicants]] |
+| [Mendicants](./Mendicants.md) |
 
 
 
@@ -124,7 +124,7 @@ The HNN is effectively the private intelligence agency of Cinszo, using its medi
 
 | Hostile From                               |
 | ------------------------------------------ |
-| [[./Dyrinek Gang\|Dyrinek Gang]] |
+| [Dyrinek Gang](./Dyrinek%20Gang.md) |
 
 
 
