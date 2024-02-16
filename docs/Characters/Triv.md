@@ -9,8 +9,9 @@ share: "true"
 tags:
   - npc
 aliases: []
-profile: ""
-friends: []
+profile: A ship mechanic
+friends:
+  - "[[Characters/Flora|Flora]]"
 enemies: []
 ---
 
@@ -28,11 +29,10 @@ enemies: []
 
 # Triv
 ## Profile
-
 A ship mechanic
 
 ## Friends
+[[Characters/Flora.md|Flora]]
 
 ## Enemies
-
 
