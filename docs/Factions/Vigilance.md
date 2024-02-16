@@ -50,7 +50,7 @@ Warrior mystics that seek to enforce an ancient code of justice on those they fi
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Brekk/Aketi|Aketi]]
+[[Procyon/Brekk.md|Brekk]],[[Procyon/Brekk/Aketi.md|Aketi]]
 
 ## Turf
 
@@ -90,11 +90,11 @@ Though the Hegemony colonized the sector a hundred years ago, Vigilance was foun
 
 ## Helpful With
 
-[[./Concordiat Knights|Concordiat Knights]]
+[[Factions/Concordiat Knights.md|Concordiat Knights]]
 
 | Helpful From                                           |
 | ------------------------------------------------------ |
-| [[./Concordiat Knights\|Concordiat Knights]] |
+| [[Factions/Concordiat Knights.md\|Concordiat Knights]] |
 
 
 ## Neutral With
@@ -109,21 +109,21 @@ Though the Hegemony colonized the sector a hundred years ago, Vigilance was foun
 
 ## Interfering With
 
-[[./Draxler's Raiders|Draxler's Raiders]],[[./Janus Syndicate|Janus Syndicate]],[[./Turner Society|Turner Society]]
+[[Factions/Draxler's Raiders.md|Draxler's Raiders]],[[Factions/Janus Syndicate.md|Janus Syndicate]],[[Factions/Turner Society.md|Turner Society]]
 
 
 | Interfering From                                     |
 | ---------------------------------------------------- |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
-| [[./Turner Society\|Turner Society]]       |
-| [[./Janus Syndicate\|Janus Syndicate]]     |
-| [[./Vignerons\|Vignerons]]                 |
+| [[Factions/Draxler's Raiders.md\|Draxler's Raiders]] |
+| [[Factions/Turner Society.md\|Turner Society]]       |
+| [[Factions/Janus Syndicate.md\|Janus Syndicate]]     |
+| [[Factions/Vignerons.md\|Vignerons]]                 |
 
 
 
 ## Hostile With
 
-[[./Nightspeakers|Nightspeakers]]
+[[Factions/Nightspeakers.md|Nightspeakers]]
 
 
 | Hostile From |
