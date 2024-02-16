@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Rin/index|index]]"
+  - "[[Rin|Rin]]"
   - "[[Procyon/Rin/The Cove|The Cove]]"
 tier: "3"
 nature: A band of ferocious space pirates hiding among a mysterious nebula and around Baftoma.
@@ -54,7 +54,7 @@ A band of ferocious space pirates hiding among a mysterious nebula and around Ba
 
 ## Location
 
-[[../Procyon/Rin/index|index]],[[../Procyon/Rin/The Cove|The Cove]]
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/The Cove|The Cove]]
 
 ## Turf
 
