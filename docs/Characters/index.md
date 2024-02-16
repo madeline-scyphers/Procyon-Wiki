@@ -2,6 +2,7 @@
 share: "true"
 aliases:
   - Factions
+title: Characters
 ---
 
 ## Characters

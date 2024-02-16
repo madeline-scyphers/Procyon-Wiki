@@ -47,7 +47,7 @@ Mostly young disenfranchised xenos who have turned to crime and found strength a
 
 ## Location
 
-[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 

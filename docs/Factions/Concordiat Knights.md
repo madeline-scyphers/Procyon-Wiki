@@ -5,7 +5,7 @@ tags:
 faction_type: Hegemony
 share: "true"
 location:
-  - "[[Procyon/Holt/Holt|Holt]]"
+  - "[[Holt|Holt]]"
   - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
 tier: "1"
 nature: Fourth and fifth children, these young Nobles have taken an oath sanctified by the Hegemon to seek the Light of the World.
@@ -48,7 +48,7 @@ Fourth and fifth children, these young Nobles have taken an oath sanctified by t
 
 ## Location
 
-[[../Procyon/Holt/Holt|Holt]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
+[[../Procyon/Holt/index|Holt]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
 
 ## Turf
 

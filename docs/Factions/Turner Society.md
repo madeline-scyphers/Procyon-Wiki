@@ -5,7 +5,7 @@ tags:
 faction_type: Criminal
 share: "true"
 location:
-  - "[[Procyon/Holt/Holt|Holt]]"
+  - "[[Holt|Holt]]"
   - "[[Rin|Rin]]"
   - "[[Procyon/Holt/Mem|Mem]]"
   - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
@@ -50,7 +50,7 @@ Syndicate-run drug dens masquerading as society houses. Their drugs are cooked w
 
 ## Location
 
-[[../Procyon/Holt/Holt|Holt]],[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Holt/Mem|Mem]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Holt/index|Holt]],[[../Procyon/Rin/index|Rin]],[[../Procyon/Holt/Mem|Mem]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
