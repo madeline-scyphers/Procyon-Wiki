@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rin
-tags: 
 share: "true"
 title: index
 ---
@@ -19,7 +18,7 @@ The entry point to the [[../index|index]] sector, Rin was colonized a little ove
 
 ---
 
-## Alpeh 
+## Alpeh
 
 Between the poisonous gases and tectonic instability, Aleph would be a planet to avoid if it weren’t for its mineral stores. Most of the wealth dug from the planet is taxed heavily by the Governor, leading to frequent unrest with the miners.
 
@@ -31,13 +30,13 @@ An ancient damaged remnant of a massive Ur ship lies in space, generating an in-
 
 ---
 
-## The Straylight 
+## The Straylight
 
 The latest fad, the Straylight is an upscale club and cocktail bar where elites can wine and dine. It usually orbits Aleph, though it can move to other planets and moons in the system. Its owner, Chance, runs a tight establishment, but things can sometimes get out of hand.
 
 ---
 
-## Baftoma "The Husk" 
+## Baftoma "The Husk"
 
 Resource exploitation by the Hegemony is comprehensive, and planets incapable of sustaining life are stripped to the core. Baftoma was once such a planet—now only scaffolding of rock remains, its broken form only used by folks hiding or dodging pursuit.
 
