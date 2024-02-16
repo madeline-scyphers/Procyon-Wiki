@@ -8,6 +8,9 @@ status: active
 share: "true"
 tags:
   - npc
+profile: ""
+friends: []
+enemies: []
 ---
 ---
 name: Ora
@@ -19,6 +22,9 @@ status: active
 share: "true"
 tags:
   - npc
+profile: ""
+friends: []
+enemies: []
 ---
 
 
