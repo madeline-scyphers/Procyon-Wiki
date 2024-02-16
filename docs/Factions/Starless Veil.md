@@ -76,7 +76,7 @@ The Veil serves the Hegemony itself, even above the Hegemon. When power struggle
 
 | Allies From                                                    |
 | -------------------------------------------------------------- |
-| [[./Hegemonic News Network\|Hegemonic News Network]] |
+| [[Factions/Hegemonic News Network.md\|Hegemonic News Network]] |
 
 
 ## Friendly With
@@ -85,12 +85,12 @@ The Veil serves the Hegemony itself, even above the Hegemon. When power struggle
 
 | Frinendly From                                 |
 | ---------------------------------------------- |
-| [[./Counters Guild\|Counters Guild]] |
+| [[Factions/Counters Guild.md\|Counters Guild]] |
 
 
 ## Helpful With
 
-[[./Dyrinek Gang|Dyrinek Gang]],[[./The Maelstrom|The Maelstrom]]
+[[Factions/Dyrinek Gang.md|Dyrinek Gang]],[[Factions/The Maelstrom.md|The Maelstrom]]
 
 | Helpful From |
 | ------------ |
@@ -108,23 +108,23 @@ The Veil serves the Hegemony itself, even above the Hegemon. When power struggle
 
 ## Interfering With
 
-[[./Starsmiths Guild|Starsmiths Guild]],[[./Guild of Engineers|Guild of Engineers]]
+[[Factions/Starsmiths Guild.md|Starsmiths Guild]],[[Factions/Guild of Engineers.md|Guild of Engineers]]
 
 
 | Interfering From                         |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
+| [[Factions/Lost Legion.md\|Lost Legion]] |
 
 
 
 ## Hostile With
 
-[[./Yaru|Yaru]]
+[[Factions/Yaru.md|Yaru]]
 
 
 | Hostile From                                   |
 | ---------------------------------------------- |
-| [[./Scarlet Wolves\|Scarlet Wolves]] |
+| [[Factions/Scarlet Wolves.md\|Scarlet Wolves]] |
 
 
 

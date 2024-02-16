@@ -51,7 +51,7 @@ Ur-archaeologists obsessed with recreating jumpgate technology. Currently lookin
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Iota/Lithios|Lithios]],[[../Procyon/Brekk/Nightfall|Nightfall]]
+[[Procyon/Iota.md|Iota]],[[Procyon/Brekk.md|Brekk]],[[Procyon/Iota/Lithios.md|Lithios]],[[Procyon/Brekk/Nightfall.md|Nightfall]]
 
 ## Turf
 
@@ -87,12 +87,12 @@ Many are ex-Guilders or mystics, who have poured decades of money and study into
 
 | Frinendly From                 |
 | ------------------------------ |
-| [[./Ghosts\|Ghosts]] |
+| [[Factions/Ghosts.md\|Ghosts]] |
 
 
 ## Helpful With
 
-[[./Ghosts|Ghosts]]
+[[Factions/Ghosts.md|Ghosts]]
 
 | Helpful From |
 | ------------ |
@@ -115,13 +115,13 @@ Many are ex-Guilders or mystics, who have poured decades of money and study into
 
 | Interfering From                 |
 | -------------------------------- |
-| [[./Sah'iir\|Sah'iir]] |
+| [[Factions/Sah'iir.md\|Sah'iir]] |
 
 
 
 ## Hostile With
 
-[[./Sah'iir|Sah'iir]]
+[[Factions/Sah'iir.md|Sah'iir]]
 
 
 | Hostile From |

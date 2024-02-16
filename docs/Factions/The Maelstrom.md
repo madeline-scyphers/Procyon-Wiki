@@ -54,7 +54,7 @@ A band of ferocious space pirates hiding among a mysterious nebula and around Ba
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/The Cove|The Cove]]
+[[Procyon/Rin.md|Rin]],[[Procyon/Rin/The Cove.md|The Cove]]
 
 ## Turf
 
@@ -86,12 +86,12 @@ The Maelstrom raids shipping lanes and sells goods via the [[Factions/Ashen Kniv
 
 ## Friendly With
 
-[[./Ashen Knives|Ashen Knives]],[[./Cobalt Syndicate|Cobalt Syndicate]],[[./Nightspeakers|Nightspeakers]]
+[[Factions/Ashen Knives.md|Ashen Knives]],[[Factions/Cobalt Syndicate.md|Cobalt Syndicate]],[[Factions/Nightspeakers.md|Nightspeakers]]
 
 | Frinendly From                                     |
 | -------------------------------------------------- |
-| [[./Cobalt Syndicate\|Cobalt Syndicate]] |
-| [[./The Agony\|The Agony]]               |
+| [[Factions/Cobalt Syndicate.md\|Cobalt Syndicate]] |
+| [[Factions/The Agony.md\|The Agony]]               |
 
 
 ## Helpful With
@@ -100,10 +100,10 @@ The Maelstrom raids shipping lanes and sells goods via the [[Factions/Ashen Kniv
 
 | Helpful From                                                     |
 | ---------------------------------------------------------------- |
-| [[./Starless Veil\|Starless Veil]]                     |
-| [[./Church of Stellar Flame\|Church of Stellar Flame]] |
-| [[./Mendicants\|Mendicants]]                           |
-| [[./Conclave 01\|Conclave 01]]                         |
+| [[Factions/Starless Veil.md\|Starless Veil]]                     |
+| [[Factions/Church of Stellar Flame.md\|Church of Stellar Flame]] |
+| [[Factions/Mendicants.md\|Mendicants]]                           |
+| [[Factions/Conclave 01.md\|Conclave 01]]                         |
 
 
 ## Neutral With
@@ -118,24 +118,24 @@ The Maelstrom raids shipping lanes and sells goods via the [[Factions/Ashen Kniv
 
 ## Interfering With
 
-[[./51st Legion|51st Legion]],[[./Guild of Engineers|Guild of Engineers]],[[./Counters Guild|Counters Guild]],[[./Starsmiths Guild|Starsmiths Guild]],[[./Yaru|Makers Guild]],[[./House Malklaith|House Malklaith]]
+[[Factions/51st Legion.md|51st Legion]],[[Factions/Guild of Engineers.md|Guild of Engineers]],[[Factions/Counters Guild.md|Counters Guild]],[[Factions/Starsmiths Guild.md|Starsmiths Guild]],[[Factions/Yaru.md|Makers Guild]],[[Factions/House Malklaith.md|House Malklaith]]
 
 
 | Interfering From                                 |
 | ------------------------------------------------ |
-| [[./House Malklaith\|House Malklaith]] |
-| [[./51st Legion\|51st Legion]]         |
+| [[Factions/House Malklaith.md\|House Malklaith]] |
+| [[Factions/51st Legion.md\|51st Legion]]         |
 
 
 
 ## Hostile With
 
-[[./Draxler's Raiders|Draxler's Raiders]]
+[[Factions/Draxler's Raiders.md|Draxler's Raiders]]
 
 
 | Hostile From                                         |
 | ---------------------------------------------------- |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
+| [[Factions/Draxler's Raiders.md\|Draxler's Raiders]] |
 
 
 

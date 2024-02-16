@@ -50,7 +50,7 @@ Syndicate-run drug dens masquerading as society houses. Their drugs are cooked w
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Rin/index|Rin]],[[../Procyon/Holt/Mem|Mem]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Rin/Warren|Warren]]
+[[Procyon/Holt.md|Holt]],[[Procyon/Rin.md|Rin]],[[Procyon/Holt/Mem.md|Mem]],[[Procyon/Holt/Sonhandra.md|Sonhandra]],[[Procyon/Rin/Warren.md|Warren]]
 
 ## Turf
 
@@ -90,11 +90,11 @@ Focusing on the upper echelon of [[Procyon/Procyon|Procyon/Procyon]], the Societ
 
 ## Helpful With
 
-[[./House Malklaith|House Malklaith]]
+[[Factions/House Malklaith.md|House Malklaith]]
 
 | Helpful From                                     |
 | ------------------------------------------------ |
-| [[./House Malklaith\|House Malklaith]] |
+| [[Factions/House Malklaith.md\|House Malklaith]] |
 
 
 ## Neutral With
@@ -109,12 +109,12 @@ Focusing on the upper echelon of [[Procyon/Procyon|Procyon/Procyon]], the Societ
 
 ## Interfering With
 
-[[./Vigilance|Vigilance]]
+[[Factions/Vigilance.md|Vigilance]]
 
 
 | Interfering From                     |
 | ------------------------------------ |
-| [[./Vigilance\|Vigilance]] |
+| [[Factions/Vigilance.md\|Vigilance]] |
 
 
 

@@ -84,7 +84,7 @@ situation: The Ashen Knives' power on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] 
 
 | Frinendly From                               |
 | -------------------------------------------- |
-| [[./The Maelstrom\|The Maelstrom]] |
+| [[Factions/The Maelstrom.md\|The Maelstrom]] |
 
 
 ## Helpful With
@@ -112,7 +112,7 @@ situation: The Ashen Knives' power on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] 
 
 | Interfering From                                 |
 | ------------------------------------------------ |
-| [[./House Malklaith\|House Malklaith]] |
+| [[Factions/House Malklaith.md\|House Malklaith]] |
 
 
 
@@ -123,8 +123,8 @@ situation: The Ashen Knives' power on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] 
 
 | Hostile From                                                     |
 | ---------------------------------------------------------------- |
-| [[./51st Legion\|51st Legion]]                         |
-| [[./Acolytes of Brashkadesh\|Acolytes of Brashkadesh]] |
+| [[Factions/51st Legion.md\|51st Legion]]                         |
+| [[Factions/Acolytes of Brashkadesh.md\|Acolytes of Brashkadesh]] |
 
 
 
@@ -134,5 +134,5 @@ situation: The Ashen Knives' power on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] 
 
 | War From                                           |
 | -------------------------------------------------- |
-| [[./Cobalt Syndicate\|Cobalt Syndicate]] |
+| [[Factions/Cobalt Syndicate.md\|Cobalt Syndicate]] |
 

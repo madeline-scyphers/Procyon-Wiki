@@ -51,7 +51,7 @@ A faction of the Hegemonic military preparing a coup.
 
 ## Location
 
-[[../Procyon/index|Procyon]]
+[[Procyon.md|Procyon]]
 
 ## Turf
 
@@ -75,7 +75,7 @@ Tallon earned commendations on the battlefield but swore to cleanse the Hegemoni
 
 ## Allies With
 
-[[./House Malklaith|House Malklaith]]
+[[Factions/House Malklaith.md|House Malklaith]]
 
 | Allies From |
 | ----------- |
@@ -83,12 +83,12 @@ Tallon earned commendations on the battlefield but swore to cleanse the Hegemoni
 
 ## Friendly With
 
-[[./Starsmiths Guild|Starsmiths Guild]]
+[[Factions/Starsmiths Guild.md|Starsmiths Guild]]
 
 | Frinendly From                                         |
 | ------------------------------------------------------ |
-| [[./Guild of Engineers\|Guild of Engineers]] |
-| [[./House Malklaith\|House Malklaith]]       |
+| [[Factions/Guild of Engineers.md\|Guild of Engineers]] |
+| [[Factions/House Malklaith.md\|House Malklaith]]       |
 
 
 ## Helpful With
@@ -111,32 +111,32 @@ Tallon earned commendations on the battlefield but swore to cleanse the Hegemoni
 
 ## Interfering With
 
-[[./The Maelstrom|The Maelstrom]]
+[[Factions/The Maelstrom.md|The Maelstrom]]
 
 
 | Interfering From                             |
 | -------------------------------------------- |
-| [[./The Maelstrom\|The Maelstrom]] |
-| [[./Yaru\|Yaru]]                   |
+| [[Factions/The Maelstrom.md\|The Maelstrom]] |
+| [[Factions/Yaru.md\|Yaru]]                   |
 
 
 
 ## Hostile With
 
-[[./Ashen Knives|Ashen Knives]],[[./Church of Stellar Flame|Church of Stellar Flame]]
+[[Factions/Ashen Knives.md|Ashen Knives]],[[Factions/Church of Stellar Flame.md|Church of Stellar Flame]]
 
 
 | Hostile From                                         |
 | ---------------------------------------------------- |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
-| [[./Nightspeakers\|Nightspeakers]]         |
-| [[./Conclave 01\|Conclave 01]]             |
+| [[Factions/Draxler's Raiders.md\|Draxler's Raiders]] |
+| [[Factions/Nightspeakers.md\|Nightspeakers]]         |
+| [[Factions/Conclave 01.md\|Conclave 01]]             |
 
 
 
 ## War With
 
-[[./Lost Legion|Lost Legion]]
+[[Factions/Lost Legion.md|Lost Legion]]
 
 | War From |
 | -------- |

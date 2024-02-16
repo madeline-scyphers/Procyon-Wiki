@@ -15,8 +15,8 @@ location: ""[[Factions/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![[ImagePlaceholder.png|cover hsmall]]
+> [[ImagePlaceholder.png|Show To Players]]
 > ###### Mordin Ulmak
 > Attribute |  value |
 > ---|---|
@@ -29,6 +29,6 @@ location: ""[[Factions/Rusty Nail|Rusty Nail]]"
 ## Profile
 
 ## Friends
-- [[./Ora|Ora]] (An info broker)
+- [[Ora|Ora]] (An info broker)
 ## Enemies
 - [[Nyx|Nyx]] (A moneylender)

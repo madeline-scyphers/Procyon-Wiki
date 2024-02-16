@@ -45,7 +45,7 @@ Scavengers, thieves, and hackers who incite factions to fight so that they may p
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]]
+[[Procyon/Rin.md|Rin]]
 
 ## Turf
 
@@ -85,11 +85,11 @@ The crew has hit several targets in the system by sowing confusion between the [
 
 ## Helpful With
 
-[[./Borniko Syndicate|Borniko Syndicate]]
+[[Factions/Borniko Syndicate.md|Borniko Syndicate]]
 
 | Helpful From                                         |
 | ---------------------------------------------------- |
-| [[./Borniko Syndicate\|Borniko Syndicate]] |
+| [[Factions/Borniko Syndicate.md\|Borniko Syndicate]] |
 
 
 ## Neutral With
@@ -114,12 +114,12 @@ The crew has hit several targets in the system by sowing confusion between the [
 
 ## Hostile With
 
-[[./Draxler's Raiders|Draxler's Raiders]],[[./Echo Wave Riders|Echo Wave Riders]]
+[[Factions/Draxler's Raiders.md|Draxler's Raiders]],[[Factions/Echo Wave Riders.md|Echo Wave Riders]]
 
 
 | Hostile From                                       |
 | -------------------------------------------------- |
-| [[./Echo Wave Riders\|Echo Wave Riders]] |
+| [[Factions/Echo Wave Riders.md\|Echo Wave Riders]] |
 
 
 

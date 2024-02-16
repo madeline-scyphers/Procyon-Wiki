@@ -48,7 +48,7 @@ Fourth and fifth children, these young Nobles have taken an oath sanctified by t
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Holt/Sonhandra|Sonhandra]]
+[[Procyon/Holt.md|Holt]],[[Procyon/Holt/Sonhandra.md|Sonhandra]]
 
 ## Turf
 
@@ -88,13 +88,13 @@ A retrieved message about a powerful artifact that could terraform previously de
 
 ## Helpful With
 
-[[./Vigilance|Vigilance]],[[./Mendicants|Mendicants]]
+[[Factions/Vigilance.md|Vigilance]],[[Factions/Mendicants.md|Mendicants]]
 
 | Helpful From                             |
 | ---------------------------------------- |
-| [[./Mendicants\|Mendicants]]   |
-| [[./Vigilance\|Vigilance]]     |
-| [[./Conclave 01\|Conclave 01]] |
+| [[Factions/Mendicants.md\|Mendicants]]   |
+| [[Factions/Vigilance.md\|Vigilance]]     |
+| [[Factions/Conclave 01.md\|Conclave 01]] |
 
 
 ## Neutral With
@@ -109,12 +109,12 @@ A retrieved message about a powerful artifact that could terraform previously de
 
 ## Interfering With
 
-[[./Acolytes of Brashkadesh|Acolytes of Brashkadesh]]
+[[Factions/Acolytes of Brashkadesh.md|Acolytes of Brashkadesh]]
 
 
 | Interfering From                         |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
+| [[Factions/Lost Legion.md\|Lost Legion]] |
 
 
 

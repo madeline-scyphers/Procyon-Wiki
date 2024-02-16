@@ -50,11 +50,11 @@ One of the Hegemonic High Guilds responsible for resource acquisition, cyberneti
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/SB-176|SB-176]]
+[[Procyon/Rin.md|Rin]],[[Procyon/Rin/SB-176.md|SB-176]]
 
 ## Turf
 
-[[../Procyon/Rin/SB-176|SB-176]]
+[[Procyon/Rin/SB-176.md|SB-176]]
 
 ## Notable NPCs
 
@@ -82,11 +82,11 @@ Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governo
 
 ## Friendly With
 
-[[./51st Legion|51st Legion]],[[./Isotropa Max Secure|Isotropa Max Secure]]
+[[Factions/51st Legion.md|51st Legion]],[[Factions/Isotropa Max Secure.md|Isotropa Max Secure]]
 
 | Frinendly From                                           |
 | -------------------------------------------------------- |
-| [[./Isotropa Max Secure\|Isotropa Max Secure]] |
+| [[Factions/Isotropa Max Secure.md\|Isotropa Max Secure]] |
 
 
 ## Helpful With
@@ -95,7 +95,7 @@ Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governo
 
 | Helpful From               |
 | -------------------------- |
-| [[./Yaru\|Yaru]] |
+| [[Factions/Yaru.md\|Yaru]] |
 
 
 ## Neutral With
@@ -110,14 +110,14 @@ Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governo
 
 ## Interfering With
 
-[[./Borniko Syndicate|Borniko Syndicate]],[[./Cobalt Syndicate|Cobalt Syndicate]],[[./Conclave 01|Conclave 01]],[[./Counters Guild|Counters Guild]]
+[[Factions/Borniko Syndicate.md|Borniko Syndicate]],[[Factions/Cobalt Syndicate.md|Cobalt Syndicate]],[[Factions/Conclave 01.md|Conclave 01]],[[Factions/Counters Guild.md|Counters Guild]]
 
 
 | Interfering From                             |
 | -------------------------------------------- |
-| [[./The Maelstrom\|The Maelstrom]] |
-| [[./Starless Veil\|Starless Veil]] |
-| [[./Sah'iir\|Sah'iir]]             |
+| [[Factions/The Maelstrom.md\|The Maelstrom]] |
+| [[Factions/Starless Veil.md\|Starless Veil]] |
+| [[Factions/Sah'iir.md\|Sah'iir]]             |
 
 
 
@@ -128,12 +128,12 @@ Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governo
 
 | Hostile From                                                     |
 | ---------------------------------------------------------------- |
-| [[./Cobalt Syndicate\|Cobalt Syndicate]]               |
-| [[./Borniko Syndicate\|Borniko Syndicate]]             |
-| [[./Counters Guild\|Counters Guild]]                   |
-| [[./Church of Stellar Flame\|Church of Stellar Flame]] |
-| [[./Conclave 01\|Conclave 01]]                         |
-| [[./Acolytes of Brashkadesh\|Acolytes of Brashkadesh]] |
+| [[Factions/Cobalt Syndicate.md\|Cobalt Syndicate]]               |
+| [[Factions/Borniko Syndicate.md\|Borniko Syndicate]]             |
+| [[Factions/Counters Guild.md\|Counters Guild]]                   |
+| [[Factions/Church of Stellar Flame.md\|Church of Stellar Flame]] |
+| [[Factions/Conclave 01.md\|Conclave 01]]                         |
+| [[Factions/Acolytes of Brashkadesh.md\|Acolytes of Brashkadesh]] |
 
 
 

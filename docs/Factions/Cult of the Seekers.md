@@ -47,7 +47,7 @@ Wandering mystics studying artifacts and exploring, looking to open the Hantu ga
 
 ## Location
 
-[[../Procyon/Holt/Mem|Mem]],[[../Procyon/Holt/index|Holt]]
+[[Procyon/Holt/Mem.md|Mem]],[[Procyon/Holt.md|Holt]]
 
 ## Turf
 
@@ -79,7 +79,7 @@ The Seekers believe they have a holy imperative to expand the Hegemony to the fa
 
 ## Friendly With
 
-[[./Starsmiths Guild|Starsmiths Guild]]
+[[Factions/Starsmiths Guild.md|Starsmiths Guild]]
 
 | Frinendly From |
 | -------------- |
@@ -87,11 +87,11 @@ The Seekers believe they have a holy imperative to expand the Hegemony to the fa
 
 ## Helpful With
 
-[[./Hegemonic News Network|Hegemonic News Network]]
+[[Factions/Hegemonic News Network.md|Hegemonic News Network]]
 
 | Helpful From                                       |
 | -------------------------------------------------- |
-| [[./Starsmiths Guild\|Starsmiths Guild]] |
+| [[Factions/Starsmiths Guild.md\|Starsmiths Guild]] |
 
 
 ## Neutral With
@@ -106,23 +106,23 @@ The Seekers believe they have a holy imperative to expand the Hegemony to the fa
 
 ## Interfering With
 
-[[./Ghosts|Ghosts]]
+[[Factions/Ghosts.md|Ghosts]]
 
 
 | Interfering From                         |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
+| [[Factions/Lost Legion.md\|Lost Legion]] |
 
 
 
 ## Hostile With
 
-[[./Church of Stellar Flame|Church of Stellar Flame]]
+[[Factions/Church of Stellar Flame.md|Church of Stellar Flame]]
 
 
 | Hostile From                   |
 | ------------------------------ |
-| [[./Ghosts\|Ghosts]] |
+| [[Factions/Ghosts.md\|Ghosts]] |
 
 
 

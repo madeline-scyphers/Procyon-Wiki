@@ -49,7 +49,7 @@ Formerly the Hegemon’s personal guard but rebelled when the current Hegemon ro
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Amerath|Amerath]]
+[[Procyon/Iota.md|Iota]],[[Procyon/Iota/Amerath.md|Amerath]]
 
 ## Turf
 
@@ -81,22 +81,22 @@ An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed the
 
 ## Friendly With
 
-[[./Lost Legion|Lost Legion]]
+[[Factions/Lost Legion.md|Lost Legion]]
 
 | Frinendly From                                                   |
 | ---------------------------------------------------------------- |
-| [[./Lost Legion\|Lost Legion]]                         |
-| [[./Ashtari Cult\|Ashtari Cult]]                       |
-| [[./Acolytes of Brashkadesh\|Acolytes of Brashkadesh]] |
+| [[Factions/Lost Legion.md\|Lost Legion]]                         |
+| [[Factions/Ashtari Cult.md\|Ashtari Cult]]                       |
+| [[Factions/Acolytes of Brashkadesh.md\|Acolytes of Brashkadesh]] |
 
 
 ## Helpful With
 
-[[./The Maelstrom|The Maelstrom]],[[./Concordiat Knights|Concordiat Knights]]
+[[Factions/The Maelstrom.md|The Maelstrom]],[[Factions/Concordiat Knights.md|Concordiat Knights]]
 
 | Helpful From                                           |
 | ------------------------------------------------------ |
-| [[./Concordiat Knights\|Concordiat Knights]] |
+| [[Factions/Concordiat Knights.md\|Concordiat Knights]] |
 
 
 ## Neutral With
@@ -111,12 +111,12 @@ An ancient Mendicant once healed a dying Stellar Flame abbot, who proclaimed the
 
 ## Interfering With
 
-[[./Church of Stellar Flame|Church of Stellar Flame]],[[./Hegemonic News Network|Hegemonic News Network]]
+[[Factions/Church of Stellar Flame.md|Church of Stellar Flame]],[[Factions/Hegemonic News Network.md|Hegemonic News Network]]
 
 
 | Interfering From                                               |
 | -------------------------------------------------------------- |
-| [[./Hegemonic News Network\|Hegemonic News Network]] |
+| [[Factions/Hegemonic News Network.md\|Hegemonic News Network]] |
 
 
 

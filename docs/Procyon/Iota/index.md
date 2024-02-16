@@ -8,9 +8,9 @@ The planets in Iota orbit a pair of stars—a yellow sun (Iota-1) and a brown dw
 
 # Locations
 
-- [[./Amerath|Amerath]]
-- [[./Indri|Indri]]
-- [[./Lithios|Lithios]]
+- [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]]
+- [[Procyon/Iota/Indri|Procyon/Iota/Indri]]
+- [[Procyon/Iota/Lithios|Procyon/Iota/Lithios]]
 
 ---
 
@@ -38,6 +38,6 @@ The Iota gates produce a region between them where engines have more thrust, aki
 
 ## ZX-1138
 
-long-period comet has recently diverged from its course, taking it much closer to [[./Indri|Indri]]. Reasons for the course change are unclear, but locals have requested the Governor investigate. Mystics claim that this has shifted the system Way lines, making the Way sometimes act unpredictably.
+long-period comet has recently diverged from its course, taking it much closer to [[Procyon/Iota/Indri|Procyon/Iota/Indri]]. Reasons for the course change are unclear, but locals have requested the Governor investigate. Mystics claim that this has shifted the system Way lines, making the Way sometimes act unpredictably.
 
 ---

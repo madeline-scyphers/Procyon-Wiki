@@ -51,7 +51,7 @@ Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the H
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]],[[../Procyon/index|Procyon]]
+[[Procyon/Rin.md|Rin]],[[Procyon/Rin/Warren.md|Warren]],[[Procyon.md|Procyon]]
 
 ## Turf
 
@@ -79,25 +79,25 @@ Disgraced after a famous duel, [[Characters/Governor Ritam al’Malklaith|Govern
 
 | Allies From                              |
 | ---------------------------------------- |
-| [[./51st Legion\|51st Legion]] |
+| [[Factions/51st Legion.md\|51st Legion]] |
 
 
 ## Friendly With
 
-[[./51st Legion|51st Legion]],[[./Nightspeakers|Nightspeakers]]
+[[Factions/51st Legion.md|51st Legion]],[[Factions/Nightspeakers.md|Nightspeakers]]
 
 | Frinendly From                               |
 | -------------------------------------------- |
-| [[./Nightspeakers\|Nightspeakers]] |
+| [[Factions/Nightspeakers.md\|Nightspeakers]] |
 
 
 ## Helpful With
 
-[[./Turner Society|Turner Society]]
+[[Factions/Turner Society.md|Turner Society]]
 
 | Helpful From                                   |
 | ---------------------------------------------- |
-| [[./Turner Society\|Turner Society]] |
+| [[Factions/Turner Society.md\|Turner Society]] |
 
 
 ## Neutral With
@@ -112,25 +112,25 @@ Disgraced after a famous duel, [[Characters/Governor Ritam al’Malklaith|Govern
 
 ## Interfering With
 
-[[./The Agony|The Agony]],[[./Ashen Knives|Ashen Knives]],[[./The Maelstrom|The Maelstrom]]
+[[Factions/The Agony.md|The Agony]],[[Factions/Ashen Knives.md|Ashen Knives]],[[Factions/The Maelstrom.md|The Maelstrom]]
 
 
 | Interfering From                             |
 | -------------------------------------------- |
-| [[./Lost Legion\|Lost Legion]]     |
-| [[./The Maelstrom\|The Maelstrom]] |
-| [[./The Agony\|The Agony]]         |
+| [[Factions/Lost Legion.md\|Lost Legion]]     |
+| [[Factions/The Maelstrom.md\|The Maelstrom]] |
+| [[Factions/The Agony.md\|The Agony]]         |
 
 
 
 ## Hostile With
 
-[[./Lost Legion|Lost Legion]]
+[[Factions/Lost Legion.md|Lost Legion]]
 
 
 | Hostile From                               |
 | ------------------------------------------ |
-| [[./Dyrinek Gang\|Dyrinek Gang]] |
+| [[Factions/Dyrinek Gang.md\|Dyrinek Gang]] |
 
 
 

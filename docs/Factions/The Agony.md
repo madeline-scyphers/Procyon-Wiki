@@ -48,7 +48,7 @@ Human Cultists splicing themselves with Way creature DNA. Named for the pain mos
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Holt/Mem|Mem]]
+[[Procyon/Holt.md|Holt]],[[Procyon/Holt/Mem.md|Mem]]
 
 ## Turf
 
@@ -80,7 +80,7 @@ Having harvested horrors from Omega’s surface, the Agony have a plan to develo
 
 ## Friendly With
 
-[[./Dyrinek Gang|Dyrinek Gang]],[[./The Maelstrom|The Maelstrom]]
+[[Factions/Dyrinek Gang.md|Dyrinek Gang]],[[Factions/The Maelstrom.md|The Maelstrom]]
 
 | Frinendly From |
 | -------------- |
@@ -106,13 +106,13 @@ Having harvested horrors from Omega’s surface, the Agony have a plan to develo
 
 ## Interfering With
 
-[[./Church of Stellar Flame|Church of Stellar Flame]],[[./House Malklaith|House Malklaith]]
+[[Factions/Church of Stellar Flame.md|Church of Stellar Flame]],[[Factions/House Malklaith.md|House Malklaith]]
 
 
 | Interfering From                                 |
 | ------------------------------------------------ |
-| [[./House Malklaith\|House Malklaith]] |
-| [[./Vignerons\|Vignerons]]             |
+| [[Factions/House Malklaith.md\|House Malklaith]] |
+| [[Factions/Vignerons.md\|Vignerons]]             |
 
 
 

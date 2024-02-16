@@ -44,7 +44,7 @@ A notorious prison in [[Procyon/Procyon|Procyon/Procyon]] housing the worst offe
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]]
+[[Procyon/Brekk.md|Brekk]]
 
 ## Turf
 
@@ -76,11 +76,11 @@ Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, 
 
 ## Friendly With
 
-[[./Guild of Engineers|Guild of Engineers]]
+[[Factions/Guild of Engineers.md|Guild of Engineers]]
 
 | Frinendly From                                         |
 | ------------------------------------------------------ |
-| [[./Guild of Engineers\|Guild of Engineers]] |
+| [[Factions/Guild of Engineers.md\|Guild of Engineers]] |
 
 
 ## Helpful With
@@ -103,13 +103,13 @@ Between the Warden’s excessive spending habits, Dr. Xhu’s gambling problem, 
 
 ## Interfering With
 
-[[./Draxler's Raiders|Draxler's Raiders]]
+[[Factions/Draxler's Raiders.md|Draxler's Raiders]]
 
 
 | Interfering From                                     |
 | ---------------------------------------------------- |
-| [[./Lost Legion\|Lost Legion]]             |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
+| [[Factions/Lost Legion.md\|Lost Legion]]             |
+| [[Factions/Draxler's Raiders.md\|Draxler's Raiders]] |
 
 
 

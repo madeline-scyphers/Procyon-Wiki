@@ -46,7 +46,7 @@ Although they often hire themselves out as bounty hunters, the Scarlet Wolves ar
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/index|Procyon]],[[../Procyon/Rin/Warren|Warren]]
+[[Procyon/Rin.md|Rin]],[[Procyon.md|Procyon]],[[Procyon/Rin/Warren.md|Warren]]
 
 ## Turf
 
@@ -82,7 +82,7 @@ The Scarlet Wolves are contract killers specializing in hard targets. They have 
 
 | Frinendly From                                 |
 | ---------------------------------------------- |
-| [[./Counters Guild\|Counters Guild]] |
+| [[Factions/Counters Guild.md\|Counters Guild]] |
 
 
 ## Helpful With
@@ -105,7 +105,7 @@ The Scarlet Wolves are contract killers specializing in hard targets. They have 
 
 ## Interfering With
 
-[[./Vignerons|Vignerons]]
+[[Factions/Vignerons.md|Vignerons]]
 
 
 | Interfering From |
@@ -115,7 +115,7 @@ The Scarlet Wolves are contract killers specializing in hard targets. They have 
 
 ## Hostile With
 
-[[./Starless Veil|Starless Veil]]
+[[Factions/Starless Veil.md|Starless Veil]]
 
 
 | Hostile From |

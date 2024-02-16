@@ -15,22 +15,22 @@ location: "[[Factions/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![[ImagePlaceholder.png|cover hsmall]]
+> [[ImagePlaceholder.png|Show To Players]]
 > ###### Kit Apple
 > Attribute |  value |
 > ---|---|
 > Alias | Flex
 > Pronouns | They/Them
-> Faction | [[../Factions/Rusty Nail|Rusty Nail]]
-> Location | [[../Factions/Rusty Nail|Rusty Nail]] |
+> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
+> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Kit Apple
 ## Profile
 
 ## Friends
 - [[Slice|Slice]] (a junkyard owner)
-- [[./Rocco Apple|Rocco Apple]] 
+- [[Characters/Rocco Apple|Rocco Apple]] 
 ## Enemies
 - [[Stev|Stev]] (A gambler of ill repute)
 

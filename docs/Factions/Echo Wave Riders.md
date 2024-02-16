@@ -47,7 +47,7 @@ Pilots that organize illegal races, take mercenary work, or test dangerous new e
 
 ## Location
 
-[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Brekk/Nightfall|Nightfall]]
+[[Procyon/Brekk.md|Brekk]],[[Procyon/Brekk/Nightfall.md|Nightfall]]
 
 ## Turf
 
@@ -83,13 +83,13 @@ The Riders are left alone by authorities if their races are kept far enough from
 
 | Frinendly From                                       |
 | ---------------------------------------------------- |
-| [[./Borniko Syndicate\|Borniko Syndicate]] |
-| [[./Starsmiths Guild\|Starsmiths Guild]]   |
+| [[Factions/Borniko Syndicate.md\|Borniko Syndicate]] |
+| [[Factions/Starsmiths Guild.md\|Starsmiths Guild]]   |
 
 
 ## Helpful With
 
-[[./Borniko Syndicate|Borniko Syndicate]],[[./Starsmiths Guild|Starsmiths Guild]]
+[[Factions/Borniko Syndicate.md|Borniko Syndicate]],[[Factions/Starsmiths Guild.md|Starsmiths Guild]]
 
 | Helpful From |
 | ------------ |
@@ -117,12 +117,12 @@ The Riders are left alone by authorities if their races are kept far enough from
 
 ## Hostile With
 
-[[./Wreckers|Wreckers]]
+[[Factions/Wreckers.md|Wreckers]]
 
 
 | Hostile From                       |
 | ---------------------------------- |
-| [[./Wreckers\|Wreckers]] |
+| [[Factions/Wreckers.md\|Wreckers]] |
 
 
 

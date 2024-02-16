@@ -14,15 +14,15 @@ location: "[[Factions/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![[ImagePlaceholder.png|cover hsmall]]
+> [[ImagePlaceholder.png|Show To Players]]
 > ###### Jedd Yulen
 > Attribute |  value |
 > ---|---|
 > Alias | 
 > Pronouns | He/Him
-> Faction | [[../Factions/Rusty Nail|Rusty Nail]]
-> Location | [[../Factions/Rusty Nail|Rusty Nail]] |
+> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
+> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Jedd Yulen
 ## Profile

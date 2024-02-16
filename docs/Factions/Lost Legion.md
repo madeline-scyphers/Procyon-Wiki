@@ -59,7 +59,7 @@ Formerly the Hegemon’s personal guard but rebelled when the current Hegemon ro
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]]
+[[Procyon/Iota.md|Iota]]
 
 ## Turf
 
@@ -91,12 +91,12 @@ The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegem
 
 ## Friendly With
 
-[[./Draxler's Raiders|Draxler's Raiders]],[[./Mendicants|Mendicants]],[[./Yaru|Yaru]]
+[[Factions/Draxler's Raiders.md|Draxler's Raiders]],[[Factions/Mendicants.md|Mendicants]],[[Factions/Yaru.md|Yaru]]
 
 | Frinendly From                                       |
 | ---------------------------------------------------- |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
-| [[./Mendicants\|Mendicants]]               |
+| [[Factions/Draxler's Raiders.md\|Draxler's Raiders]] |
+| [[Factions/Mendicants.md\|Mendicants]]               |
 
 
 ## Helpful With
@@ -105,7 +105,7 @@ The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegem
 
 | Helpful From               |
 | -------------------------- |
-| [[./Yaru\|Yaru]] |
+| [[Factions/Yaru.md\|Yaru]] |
 
 
 ## Neutral With
@@ -120,7 +120,7 @@ The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegem
 
 ## Interfering With
 
-[[./Church of Stellar Flame|Church of Stellar Flame]],[[./Counters Guild|Counters Guild]],[[./Starless Veil|Starless Veil]],[[Factions/The 51st Legion|The 51st Legion]],[[./Isotropa Max Secure|Isotropa Max Secure]],[[./House Malklaith|House Malklaith]],[[./Starsmiths Guild|Starsmiths Guild]],[[Factions/Hegemonic New Network|Hegemonic New Network]],[[./Cult of the Seekers|Cult of the Seekers]],[[./Yaru|Yaru]],[[./Concordiat Knights|Concordiat Knights]]
+[[Factions/Church of Stellar Flame.md|Church of Stellar Flame]],[[Factions/Counters Guild.md|Counters Guild]],[[Factions/Starless Veil.md|Starless Veil]],[[Factions/The 51st Legion|The 51st Legion]],[[Factions/Isotropa Max Secure.md|Isotropa Max Secure]],[[Factions/House Malklaith.md|House Malklaith]],[[Factions/Starsmiths Guild.md|Starsmiths Guild]],[[Factions/Hegemonic New Network|Hegemonic New Network]],[[Factions/Cult of the Seekers.md|Cult of the Seekers]],[[Factions/Yaru.md|Yaru]],[[Factions/Concordiat Knights.md|Concordiat Knights]]
 
 
 | Interfering From |
@@ -135,7 +135,7 @@ The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegem
 
 | Hostile From                                     |
 | ------------------------------------------------ |
-| [[./House Malklaith\|House Malklaith]] |
+| [[Factions/House Malklaith.md\|House Malklaith]] |
 
 
 
@@ -145,5 +145,5 @@ The 1st Legion—the Hegemon’s private guard—rebelled when the current Hegem
 
 | War From                                 |
 | ---------------------------------------- |
-| [[./51st Legion\|51st Legion]] |
+| [[Factions/51st Legion.md\|51st Legion]] |
 

@@ -47,7 +47,7 @@ Precursor worshipers claiming Ur descent. They inhale gases from the Ashtari Clo
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
+[[Procyon/Iota.md|Iota]],[[Procyon/Iota/Lithios.md|Lithios]]
 
 ## Turf
 
@@ -71,16 +71,16 @@ Visions granted when inhaling Ashtari gas in sacred places about the sector indi
 
 ## Allies With
 
-[[./Ghosts|Ghosts]]
+[[Factions/Ghosts.md|Ghosts]]
 
 | Allies From                    |
 | ------------------------------ |
-| [[./Ghosts\|Ghosts]] |
+| [[Factions/Ghosts.md\|Ghosts]] |
 
 
 ## Friendly With
 
-[[./Mendicants|Mendicants]]
+[[Factions/Mendicants.md|Mendicants]]
 
 | Frinendly From |
 | -------------- |
@@ -126,7 +126,7 @@ Visions granted when inhaling Ashtari gas in sacred places about the sector indi
 
 ## War With
 
-[[./Church of Stellar Flame|Church of Stellar Flame]]
+[[Factions/Church of Stellar Flame.md|Church of Stellar Flame]]
 
 | War From |
 | -------- |

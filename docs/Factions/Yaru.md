@@ -51,7 +51,7 @@ Also known as the Makers Guild, they grow clones for menial labor that are suppo
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Amerath|Amerath]]
+[[Procyon/Iota.md|Iota]],[[Procyon/Iota/Amerath.md|Amerath]]
 
 ## Turf
 
@@ -87,12 +87,12 @@ When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, 
 
 | Frinendly From                           |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
+| [[Factions/Lost Legion.md\|Lost Legion]] |
 
 
 ## Helpful With
 
-[[./Lost Legion|Lost Legion]],[[./Guild of Engineers|Guild of Engineers]],[[./Starsmiths Guild|Starsmiths Guild]]
+[[Factions/Lost Legion.md|Lost Legion]],[[Factions/Guild of Engineers.md|Guild of Engineers]],[[Factions/Starsmiths Guild.md|Starsmiths Guild]]
 
 | Helpful From |
 | ------------ |
@@ -110,15 +110,15 @@ When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, 
 
 ## Interfering With
 
-[[./Counters Guild|Counters Guild]],[[./51st Legion|51st Legion]],[[./Cobalt Syndicate|Cobalt Syndicate]]
+[[Factions/Counters Guild.md|Counters Guild]],[[Factions/51st Legion.md|51st Legion]],[[Factions/Cobalt Syndicate.md|Cobalt Syndicate]]
 
 
 | Interfering From                                                 |
 | ---------------------------------------------------------------- |
-| [[./Lost Legion\|Lost Legion]]                         |
-| [[./Cobalt Syndicate\|Cobalt Syndicate]]               |
-| [[./The Maelstrom\|The Maelstrom]]                     |
-| [[./Church of Stellar Flame\|Church of Stellar Flame]] |
+| [[Factions/Lost Legion.md\|Lost Legion]]                         |
+| [[Factions/Cobalt Syndicate.md\|Cobalt Syndicate]]               |
+| [[Factions/The Maelstrom.md\|The Maelstrom]]                     |
+| [[Factions/Church of Stellar Flame.md\|Church of Stellar Flame]] |
 
 
 
@@ -129,7 +129,7 @@ When the Hegemon ascended, the Yaru sided with a competitor, and their numbers, 
 
 | Hostile From                                 |
 | -------------------------------------------- |
-| [[./Starless Veil\|Starless Veil]] |
+| [[Factions/Starless Veil.md\|Starless Veil]] |
 
 
 

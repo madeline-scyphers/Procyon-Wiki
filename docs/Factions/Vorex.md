@@ -45,7 +45,7 @@ The most successful information broker to ever live. Can access any terminal in 
 
 ## Location
 
-[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[Procyon/Rin.md|Rin]],[[Procyon/Rin/Warren.md|Warren]]
 
 ## Turf
 
@@ -85,7 +85,7 @@ Vorex has been an information broker for years. Using an Ur artifact, she's deve
 
 ## Helpful With
 
-[[./Conclave 01|Conclave 01]]
+[[Factions/Conclave 01.md|Conclave 01]]
 
 | Helpful From |
 | ------------ |
@@ -108,13 +108,13 @@ Vorex has been an information broker for years. Using an Ur artifact, she's deve
 
 | Interfering From                               |
 | ---------------------------------------------- |
-| [[./Counters Guild\|Counters Guild]] |
+| [[Factions/Counters Guild.md\|Counters Guild]] |
 
 
 
 ## Hostile With
 
-[[./Counters Guild|Counters Guild]]
+[[Factions/Counters Guild.md|Counters Guild]]
 
 
 | Hostile From |

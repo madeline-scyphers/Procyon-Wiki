@@ -48,7 +48,7 @@ Independent sentient Urbots led by the Prime, seeking free will and independence
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Indri|Indri]]
+[[Procyon/Iota.md|Iota]],[[Procyon/Iota/Indri.md|Indri]]
 
 ## Turf
 
@@ -72,16 +72,16 @@ The Prime wants to found an Urbot homeland but needs numbers to do so. Having sp
 
 ## Allies With
 
-[[./Borniko Syndicate|Borniko Syndicate]]
+[[Factions/Borniko Syndicate.md|Borniko Syndicate]]
 
 | Allies From                                          |
 | ---------------------------------------------------- |
-| [[./Borniko Syndicate\|Borniko Syndicate]] |
+| [[Factions/Borniko Syndicate.md\|Borniko Syndicate]] |
 
 
 ## Friendly With
 
-[[./Sah'iir|Sah'iir]]
+[[Factions/Sah'iir.md|Sah'iir]]
 
 | Frinendly From |
 | -------------- |
@@ -89,11 +89,11 @@ The Prime wants to found an Urbot homeland but needs numbers to do so. Having sp
 
 ## Helpful With
 
-[[./Concordiat Knights|Concordiat Knights]],[[./The Maelstrom|The Maelstrom]]
+[[Factions/Concordiat Knights.md|Concordiat Knights]],[[Factions/The Maelstrom.md|The Maelstrom]]
 
 | Helpful From                 |
 | ---------------------------- |
-| [[./Vorex\|Vorex]] |
+| [[Factions/Vorex.md\|Vorex]] |
 
 
 ## Neutral With
@@ -113,13 +113,13 @@ The Prime wants to found an Urbot homeland but needs numbers to do so. Having sp
 
 | Interfering From                                       |
 | ------------------------------------------------------ |
-| [[./Guild of Engineers\|Guild of Engineers]] |
+| [[Factions/Guild of Engineers.md\|Guild of Engineers]] |
 
 
 
 ## Hostile With
 
-[[./51st Legion|51st Legion]],[[./Guild of Engineers|Guild of Engineers]]
+[[Factions/51st Legion.md|51st Legion]],[[Factions/Guild of Engineers.md|Guild of Engineers]]
 
 
 | Hostile From |

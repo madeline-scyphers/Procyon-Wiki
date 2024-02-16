@@ -12,12 +12,12 @@ tags:
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![[ImagePlaceholder.png|cover hsmall]]
+> [[ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Value |
 > ---|---|
-> Faction | [[../Factions/Ghosts|Ghosts]] |
+> Faction | [[Factions/Ghosts.md|Ghosts]] |
 > Location |  |
 > Pronouns | He/Him |
 

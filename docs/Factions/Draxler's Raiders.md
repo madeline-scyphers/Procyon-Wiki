@@ -52,7 +52,7 @@ Violent pirates who disable ships before boarding, ransoming crew and cargo alik
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]]
+[[Procyon/Iota.md|Iota]]
 
 ## Turf
 
@@ -84,11 +84,11 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 ## Friendly With
 
-[[./Janus Syndicate|Janus Syndicate]],[[./Lost Legion|Lost Legion]]
+[[Factions/Janus Syndicate.md|Janus Syndicate]],[[Factions/Lost Legion.md|Lost Legion]]
 
 | Frinendly From                           |
 | ---------------------------------------- |
-| [[./Lost Legion\|Lost Legion]] |
+| [[Factions/Lost Legion.md\|Lost Legion]] |
 
 
 ## Helpful With
@@ -97,7 +97,7 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 | Helpful From                                     |
 | ------------------------------------------------ |
-| [[./Janus Syndicate\|Janus Syndicate]] |
+| [[Factions/Janus Syndicate.md\|Janus Syndicate]] |
 
 
 ## Neutral With
@@ -112,25 +112,25 @@ Draxler has made a lot of waves since taking over the Raiders, making numerous e
 
 ## Interfering With
 
-[[./Vigilance|Vigilance]],[[./Isotropa Max Secure|Isotropa Max Secure]]
+[[Factions/Vigilance.md|Vigilance]],[[Factions/Isotropa Max Secure.md|Isotropa Max Secure]]
 
 
 | Interfering From                                         |
 | -------------------------------------------------------- |
-| [[./Isotropa Max Secure\|Isotropa Max Secure]] |
-| [[./Vigilance\|Vigilance]]                     |
+| [[Factions/Isotropa Max Secure.md\|Isotropa Max Secure]] |
+| [[Factions/Vigilance.md\|Vigilance]]                     |
 
 
 
 ## Hostile With
 
-[[./The Maelstrom|The Maelstrom]],[[./51st Legion|51st Legion]]
+[[Factions/The Maelstrom.md|The Maelstrom]],[[Factions/51st Legion.md|51st Legion]]
 
 
 | Hostile From                                 |
 | -------------------------------------------- |
-| [[./The Maelstrom\|The Maelstrom]] |
-| [[./Wreckers\|Wreckers]]           |
+| [[Factions/The Maelstrom.md\|The Maelstrom]] |
+| [[Factions/Wreckers.md\|Wreckers]]           |
 
 
 

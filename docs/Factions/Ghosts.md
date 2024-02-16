@@ -49,7 +49,7 @@ Scientists that live exo-suited in a half-phased state.
 
 ## Location
 
-[[../Procyon/Iota/index|Iota]],[[../Procyon/Iota/Lithios|Lithios]]
+[[Procyon/Iota.md|Iota]],[[Procyon/Iota/Lithios.md|Lithios]]
 
 ## Turf
 
@@ -73,16 +73,16 @@ A mishap with the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate will restore them
 
 ## Allies With
 
-[[./Ashtari Cult|Ashtari Cult]]
+[[Factions/Ashtari Cult.md|Ashtari Cult]]
 
 | Allies From                                |
 | ------------------------------------------ |
-| [[./Ashtari Cult\|Ashtari Cult]] |
+| [[Factions/Ashtari Cult.md\|Ashtari Cult]] |
 
 
 ## Friendly With
 
-[[./Suneaters|Suneaters]]
+[[Factions/Suneaters.md|Suneaters]]
 
 | Frinendly From |
 | -------------- |
@@ -94,7 +94,7 @@ A mishap with the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate will restore them
 
 | Helpful From                         |
 | ------------------------------------ |
-| [[./Suneaters\|Suneaters]] |
+| [[Factions/Suneaters.md\|Suneaters]] |
 
 
 ## Neutral With
@@ -109,18 +109,18 @@ A mishap with the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate will restore them
 
 ## Interfering With
 
-[[./Church of Stellar Flame|Church of Stellar Flame]]
+[[Factions/Church of Stellar Flame.md|Church of Stellar Flame]]
 
 
 | Interfering From                                         |
 | -------------------------------------------------------- |
-| [[./Cult of the Seekers\|Cult of the Seekers]] |
+| [[Factions/Cult of the Seekers.md\|Cult of the Seekers]] |
 
 
 
 ## Hostile With
 
-[[./Cult of the Seekers|Cult of the Seekers]]
+[[Factions/Cult of the Seekers.md|Cult of the Seekers]]
 
 
 | Hostile From |
