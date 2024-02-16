@@ -160,7 +160,6 @@ The Ashen Knives' power on [Warren](Procyon/Rin/Warren.md) has filled the Knives
 
 | Hostile From                                                     |
 | ---------------------------------------------------------------- |
-| [51st Legion](./51st%20Legion.md)                         |
 | [Acolytes of Brashkadesh](./Acolytes%20of%20Brashkadesh.md) |
 
 
