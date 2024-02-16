@@ -49,7 +49,7 @@ Weapons dealers specializing in ship weapons, headed up by the ruthless Viktor B
 
 ## Location
 
-[[../Procyon/Holt/index|Holt]],[[../Procyon/Brekk/index|Brekk]],[[../Procyon/Holt/Sonhandra|Sonhandra]],[[../Procyon/Brekk/Aketi|Aketi]]
+[[Procyon/Holt.md|Holt]],[[Procyon/Brekk.md|Brekk]],[[Procyon/Holt/Sonhandra.md|Sonhandra]],[[Procyon/Brekk/Aketi.md|Aketi]]
 
 ## Turf
 
@@ -85,12 +85,12 @@ Viktor wants to grow beyond the outposts the Syndicate currently runs to a secto
 
 | Frinendly From                                       |
 | ---------------------------------------------------- |
-| [[./Draxler's Raiders\|Draxler's Raiders]] |
+| [[Factions/Draxler's Raiders.md\|Draxler's Raiders]] |
 
 
 ## Helpful With
 
-[[./Draxler's Raiders|Draxler's Raiders]]
+[[Factions/Draxler's Raiders.md|Draxler's Raiders]]
 
 | Helpful From |
 | ------------ |
@@ -108,12 +108,12 @@ Viktor wants to grow beyond the outposts the Syndicate currently runs to a secto
 
 ## Interfering With
 
-[[./Vigilance|Vigilance]]
+[[Factions/Vigilance.md|Vigilance]]
 
 
 | Interfering From                     |
 | ------------------------------------ |
-| [[./Vigilance\|Vigilance]] |
+| [[Factions/Vigilance.md\|Vigilance]] |
 
 
 
