@@ -12,8 +12,10 @@ share: "true"
 faction: "[[Factions/Rusty Nail|Rusty Nail]]"
 location: "[[Factions/Rusty Nail|Rusty Nail]]"
 profile: ""
-friends: []
-enemies: []
+friends:
+  - "[[Juda|Juda]]"
+enemies:
+  - "[[Lynie|Lynie]]"
 ---
 
 
@@ -31,7 +33,9 @@ enemies: []
 # Leto Ramus
 ## Profile
 
+
 ## Friends
-- [[Juda|Juda]] (A doctor)
+[[Characters/Juda.md|Juda]]
+
 ## Enemies
-- [[Lynie|Lynie]] (A hospital admin)
+[[Characters/Lynie.md|Lynie]]
