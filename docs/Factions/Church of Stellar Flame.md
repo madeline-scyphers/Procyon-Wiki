@@ -34,7 +34,7 @@ quirks: Each member is branded with a mark of the Church, known as the Kiss of L
 situation: Alaana has few but elite resources in the sector. Without widespread followers, she relies on her attuned prayers and instincts to guide her. The Church is focusing on finding key targets rather than widespread action.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Hegemony
@@ -44,26 +44,26 @@ location:
 tier: "4"
 nature: A religious group with Hegemonic backing, believing that many Precursor artifacts and mystic practices are dangerous.
 allies:
-friendly: 
+friendly:
   - "[Dyrinek Gang](./Dyrinek%2520Gang.md#)"
-helpful: 
+helpful:
   - "[The Maelstrom](./The%2520Maelstrom.md#)"
-neutral: 
-interfering: 
+neutral:
+interfering:
   - "[Yaru](./Yaru.md#)"
   - "[Starsmiths Guild](./Starsmiths%2520Guild.md#)"
-hostile: 
+hostile:
   - "[Guild of Engineers](./Guild%2520of%2520Engineers.md#)"
 war:
 goals:
-- Root out heretics and dangerous elements.
-notable assets: 
-- Handfuls of zealots willing to die for the cause.
-- An imperial seal allowing them significant autonomy.
+  - Root out heretics and dangerous elements.
+notable assets:
+  - Handfuls of zealots willing to die for the cause.
+  - An imperial seal allowing them significant autonomy.
 notable npcs:
-- Alaana (Noble, high priestess, mystic, driven, ex-heretic).
-- Battle Sister Diana] (battle-scarred, exo-suited, unstoppable).
-- Iraam the Kind (inquisitor, plain, quiet, cruel).
+  - Alaana (Noble, high priestess, mystic, driven, ex-heretic).
+  - Battle Sister Diana] (battle-scarred, exo-suited, unstoppable).
+  - Iraam the Kind (inquisitor, plain, quiet, cruel).
 turf: The Way of Light, a battle cruiser orbiting incredibly close to a star (HQ).
 quirks: Each member is branded with a mark of the Church, known as the Kiss of Light. Faithful pray by bathing in as much light as they can bear.
 situation: Alaana has few but elite resources in the sector. Without widespread followers, she relies on her attuned prayers and instincts to guide her. The Church is focusing on finding key targets rather than widespread action.
@@ -173,5 +173,4 @@ Alaana has few but elite resources in the sector. Without widespread followers, 
 | War From                                   |
 | ------------------------------------------ |
 | [Ashtari Cult](./Ashtari%20Cult.md) |
-
 
