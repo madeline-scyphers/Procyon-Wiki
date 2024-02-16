@@ -1,7 +1,6 @@
 ---
 aliases:
   - Brekk
-tags: 
 share: "true"
 title: index
 ---
@@ -19,19 +18,19 @@ Considered by many to be more civilized than the rest of [[../index|index]], thi
 
 ---
 
-## Blackstarr 
+## Blackstarr
 
 The vast and largely empty Nightspeaker ship where initiates train for their first year. The ship is unlit and moves routinely to prevent discovery. It does not often receive visitors, but exceptions are made for those that have a favorable relationship to the Cult.
 
 ---
 
-## Dendara 
+## Dendara
 
 An ancient temple on [[./Nightfall|Nightfall]]’s fifth moon, Todav. Some say it’s an Ur temple, others that it’s the remains of a forgotten mystic Cult. Its derelict corridors are tough to tour due to the moon’s lack of atmosphere and the glitching effect it has on drives and electronics.
 
 ---
 
-## Bright Wind 
+## Bright Wind
 
 A large gas cloud ejected by the star, now used as racing grounds by the [[../../Factions/Echo Wave Riders|Echo Wave Riders]]. Despite it being both lethal and illegal, racers from all over the sector compete for cred and fame. Invitations to the races are exclusive and require qualifying in equally hazardous conditions.
 

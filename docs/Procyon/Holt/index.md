@@ -1,7 +1,6 @@
 ---
 aliases:
   - Holt
-tags: 
 share: "true"
 title: index
 ---
@@ -19,19 +18,19 @@ Holt was the second [[../index|index]]-Holt gate was troublesome to stabilize. H
 
 ---
 
-## Jerec's Junkyard 
+## Jerec's Junkyard
 
 A free-floating mass of ships and parts, connected via magnetism and cabling. If you’re looking for equipment on the cheap, the Junkyard is your place, though it will likely be missing a piece or unreliable. Jerec also buys, but is a canny haggler.
 
 ---
 
-## Hantu Gate 
+## Hantu Gate
 
 The Hegemony has never been able to activate this jumpgate. Compared to other jumpgates it seems to be missing a few small but key pieces. It has been speculated that the Ur locked the gate and hid the keys somewhere, though it’s anyone’s guess as to why.
 
 ---
 
-## Trade Platform Auto #4 
+## Trade Platform Auto #4
 
 The Guild set up an automated platform for selling fuel, covered in defensive systems to deter theft. Because of this, some parties conduct negotiations here to discourage escalation. Nobody knows what happened to the first three platforms.
 
