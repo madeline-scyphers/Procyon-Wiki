@@ -15,15 +15,15 @@ location: "[[Factions/Rusty Nail|Rusty Nail]]"
 
 
 > [!infobox]
-> ![[../ImagePlaceholder.png|cover hsmall]]
-> [[../ImagePlaceholder.png|Show To Players]]
+> ![[ImagePlaceholder.png|cover hsmall]]
+> [[ImagePlaceholder.png|Show To Players]]
 > ###### Leto Ramus
 > Attribute |  value |
 > ---|---|
 > Alias | Dr. Igno
 > Pronouns | He/Him?
-> Faction | [[../Factions/Rusty Nail|Rusty Nail]]
-> Location | [[../Factions/Rusty Nail|Rusty Nail]] |
+> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
+> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Leto Ramus
 ## Profile
