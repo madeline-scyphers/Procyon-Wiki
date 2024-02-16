@@ -10,7 +10,6 @@ share: "true"
 tags:
   - npc
 aliases: []
-profile: "[[Characters/Jedd Yulen|Jedd Yulen]]'a *fine* blaster pistol"
 friends: []
 enemies: []
 ---
@@ -26,7 +25,6 @@ share: "true"
 tags:
   - npc
 aliases: []
-profile: "[[Characters/Jedd Yulen|Jedd Yulen]]'a *fine* blaster pistol"
 friends: []
 enemies: []
 ---
@@ -44,7 +42,7 @@ enemies: []
 
 # Krieger
 ## Profile
-[[Characters/Jedd Yulen|Jedd Yulen]]'a *fine* blaster pistol
+
 
 ## Friends
 
