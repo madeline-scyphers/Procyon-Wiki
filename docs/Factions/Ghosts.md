@@ -36,7 +36,7 @@ quirks: Before the mishap, the Ghosts were scientists, all intelligent and educa
 situation: A mishap with the [Holt](Procyon/Holt/Holt.md) gate will restore them to their original forms.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Weird
@@ -47,27 +47,27 @@ location:
 tier: "2"
 nature: Scientists that live exo-suited in a half-phased state.
 allies:
-- "[Ashtari Cult](./Ashtari%2520Cult.md#)"
+  - "[Ashtari Cult](./Ashtari%2520Cult.md#)"
 friendly:
-- "[Suneaters](./Suneaters.md#)"
+  - "[Suneaters](./Suneaters.md#)"
 helpful:
 neutral:
 interfering:
-- "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
+  - "[Church of Stellar Flame](./Church%2520of%2520Stellar%2520Flame.md#)"
 hostile:
-- "[Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md#)"
+  - "[Cult of the Seekers](./Cult%2520of%2520the%2520Seekers.md#)"
 war:
-goals: 
-- Hire Memish to make a bomb for the [Holt](Procyon/Holt/Holt.md) gate.
-notable assets: 
-- A corvette that can travel along Way lines.
-- The ability to phase on top of people, possessing them, though the body dies a few days later.
+goals:
+  - Hire Memish to make a bomb for the [Holt](Procyon/Holt/Holt.md) gate.
+notable assets:
+  - A corvette that can travel along Way lines.
+  - The ability to phase on top of people, possessing them, though the body dies a few days later.
 notable npcs:
-- Nils Boyer (physicist, brilliant, remorseful).
-- Roy Stanz (biologist, bitter, driven).
-- Eegon Mark (engineer, genius, suit designer).
-- Pol Venker (engineer, self-indulgent, cavalier).
-- "[Gruff](Characters/Gruff.md) (average scientist, wasn't gonna make it very far)"
+  - Nils Boyer (physicist, brilliant, remorseful).
+  - Roy Stanz (biologist, bitter, driven).
+  - Eegon Mark (engineer, genius, suit designer).
+  - Pol Venker (engineer, self-indulgent, cavalier).
+  - "[Gruff](Characters/Gruff.md) (average scientist, wasn't gonna make it very far)"
 turf: The Skeleton Key, a half-phased corvette (HQ), and a secret research facility on [Lithios](../Procyon/Iota/Lithios.md#).
 quirks: Before the mishap, the Ghosts were scientists, all intelligent and educated. They phase out of reality if they stay too long outside their suits (or people).
 situation: A mishap with the [Holt](Procyon/Holt/Holt.md) gate will restore them to their original forms.
@@ -171,5 +171,4 @@ A mishap with the [Holt](Procyon/Holt/Holt.md) gate will restore them to their o
 
 | War From |
 | -------- |
-
 
