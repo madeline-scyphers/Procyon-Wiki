@@ -50,7 +50,7 @@ Maintains the galactic currency network and shadow repositories in each system.
 
 ## Location
 
-[[../Procyon/Rin/Rin|Rin]],[[../Procyon/Rin/Warren|Warren]]
+[[../Procyon/Rin/index|Rin]],[[../Procyon/Rin/Warren|Warren]]
 
 ## Turf
 
