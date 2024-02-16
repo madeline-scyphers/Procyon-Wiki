@@ -36,7 +36,7 @@ quirks: Every member wears a solid blue stripe somewhere on their clothing. A bl
 situation: Jax has taken over shipping lanes between Aleph and the Core worlds. He’s angered a number of powerful Guild [Factions](Factions.md), and the secret wars between them are nearing a violent outburst. Jax has been stockpiling.
 ---
 ---
-aliases: 
+aliases:
 tags:
   - faction
 faction_type: Criminal
@@ -47,27 +47,27 @@ location:
 tier: "4"
 nature: Once a labor union, the Cobalt Syndicate has turned to smuggling and extortion to carve out shipping lanes and have a real say.
 allies:
-- "[Dyrinek Gang](Dyrinek%20Gang.md)"
+  - "[Dyrinek Gang](Dyrinek%20Gang.md)"
 friendly:
-- "[The Maelstrom](The%20Maelstrom.md)"
+  - "[The Maelstrom](The%20Maelstrom.md)"
 helpful:
 neutral:
 interfering:
-- "[Yaru](Yaru.md)"
+  - "[Yaru](Yaru.md)"
 hostile:
-- "[Guild of Engineers](Guild%20of%20Engineers.md)"
-- "[Starsmiths Guild](Starsmiths%20Guild.md)"
+  - "[Guild of Engineers](Guild%20of%20Engineers.md)"
+  - "[Starsmiths Guild](Starsmiths%20Guild.md)"
 war:
-- "[Ashen Knives](Ashen%20Knives.md)"
+  - "[Ashen Knives](Ashen%20Knives.md)"
 goals:
-- Unify the labor force.
-notable assets: 
-- A fleet of private ships used for smuggling.
-- Toughs and laborers on almost every planet and station who wear the Cobalt stripe.
+  - Unify the labor force.
+notable assets:
+  - A fleet of private ships used for smuggling.
+  - Toughs and laborers on almost every planet and station who wear the Cobalt stripe.
 notable npcs:
-- Jax (leader, cold, killer, arrogant).
-- Keve (captain, augmented, defiant, enterprising).
-- Sephua (Jax’s sibling, thug, daring, envious, gambler).
+  - Jax (leader, cold, killer, arrogant).
+  - Keve (captain, augmented, defiant, enterprising).
+  - Sephua (Jax’s sibling, thug, daring, envious, gambler).
 turf: The Pit, a mining quarry on Aleph (HQ). A major berth and associated docks on [Warren](../Procyon/Rin/Warren.md#).
 quirks: Every member wears a solid blue stripe somewhere on their clothing. A blue stripe on the walls of docks and warehouses is a call to action.
 situation: Jax has taken over shipping lanes between Aleph and the Core worlds. He’s angered a number of powerful Guild [Factions](Factions.md), and the secret wars between them are nearing a violent outburst. Jax has been stockpiling.
@@ -153,6 +153,7 @@ Jax has taken over shipping lanes between Aleph and the Core worlds. He’s ange
 | Interfering From                                       |
 | ------------------------------------------------------ |
 | [Guild of Engineers](./Guild%20of%20Engineers.md) |
+| [Yaru](./Yaru.md)                             |
 
 
 
@@ -174,5 +175,4 @@ Jax has taken over shipping lanes between Aleph and the Core worlds. He’s ange
 | War From                                   |
 | ------------------------------------------ |
 | [Ashen Knives](./Ashen%20Knives.md) |
-
 
