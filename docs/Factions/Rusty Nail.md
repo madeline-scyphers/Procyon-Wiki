@@ -4,15 +4,17 @@ tags:
 status: active
 tier: "0"
 nature: strange
-friendly: []
-helpful: []
-neutral: []
-interfering: []
-hostile: []
-war: []
-goals: []
-notable assets: []
-notable npcs: []
+friendly: 
+helpful: 
+neutral:
+  - "[[Factions/House Malklaith|House Malklaith]]"
+  - "[[Factions/Vorex|Vorex]]"
+interfering: 
+hostile: 
+war: 
+goals: 
+notable assets: 
+notable npcs: 
 turf: ""
 quirks: ""
 situation: ""
@@ -79,7 +81,7 @@ strange
 
 ## Neutral With
 
-
+[[Factions/House Malklaith.md|House Malklaith]],[[Factions/Vorex.md|Vorex]]
 
 
 | Neutral From |

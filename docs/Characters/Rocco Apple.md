@@ -38,10 +38,11 @@ Works as one of the preeminent ship designers and builders in the system. Works 
 
 ## Relationships
 
-| Friend                                                                     | Profile                                              |
-| -------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [[Characters/Governor Ritam al’Malklaith.md\|Governor Ritam al’Malklaith]] |                                                      |
-| [[Characters/Kit Apple.md\|Kit Apple]]                                     | Spent whole life on ships. Worked as a ship laborer. |
+| Friend                                                                     | Profile                                                                                                                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Characters/Governor Ritam al’Malklaith.md\|Governor Ritam al’Malklaith]] | Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the House holds a small seat on a local moon.
+Malklaith owns the sector but the [[Characters/Governor Ritam al’Malklaith\|Governor]] rarely leaves [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. His people can be found in major positions in every system of the sector. |
+| [[Characters/Kit Apple.md\|Kit Apple]]                                     | Spent whole life on ships. Worked as a ship laborer.                                                                                                                                                                                                                                                                            |
 
 
 | Enemy | Profile |

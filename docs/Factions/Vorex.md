@@ -96,8 +96,9 @@ Vorex has been an information broker for years. Using an Ur artifact, she's deve
 
 
 
-| Neutral From |
-| ------------ |
+| Neutral From                           |
+| -------------------------------------- |
+| [[Factions/Rusty Nail.md\|Rusty Nail]] |
 
 
 
