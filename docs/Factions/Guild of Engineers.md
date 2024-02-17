@@ -103,8 +103,9 @@ Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governo
 
 
 
-| Neutral From |
-| ------------ |
+| Neutral From                           |
+| -------------------------------------- |
+| [[Factions/Rusty Nail.md\|Rusty Nail]] |
 
 
 
