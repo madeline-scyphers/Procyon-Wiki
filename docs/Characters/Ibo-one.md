@@ -2,9 +2,7 @@
 name: Ibo-one
 faction: "[[Factions/Dyrinek Gang|Dyrinek Gang]]"
 pronouns: They/Them
-location:
-  - "[[Rin|Rin]]"
-  - "[[Procyon/Rin/Warren|Warren]]"
+location: "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
@@ -20,9 +18,7 @@ enemies:
 name: Ibo-one
 faction: "[[Factions/Dyrinek Gang|Dyrinek Gang]]"
 pronouns: They/Them
-location:
-  - "[[Rin|Rin]]"
-  - "[[Procyon/Rin/Warren|Warren]]"
+location: "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
@@ -43,7 +39,7 @@ enemies:
 > ---|---|
 > Pronouns | They/Them
 > Faction | [[Factions/Dyrinek Gang.md|Dyrinek Gang]]
-> Location | [[Procyon/Rin.md|Rin]],[[Procyon/Rin/Warren.md|Warren]] |
+> Location | [[Procyon/Rin/Warren.md|Warren]] |
 
 
 # Ibo-one
