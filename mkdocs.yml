@@ -132,7 +132,8 @@ extra_css:
     # - assets/css/custom_attributes.css
     # - assets/css/customization.css
     # - assets/css/info_box.css
-    - publish.css  # ITS theme
+    - assets/css/publish.css
+    # - publish.css  # ITS theme
 extra:
   SEO: 'assets/meta/LOGO_SEO.png'
   comments: true
