@@ -113,6 +113,7 @@ The HNN is effectively the private intelligence agency of Cinszo, using its medi
 
 | Interfering From                       |
 | -------------------------------------- |
+| [[Factions/Rusty Nail.md\|Rusty Nail]] |
 | [[Factions/Mendicants.md\|Mendicants]] |
 
 

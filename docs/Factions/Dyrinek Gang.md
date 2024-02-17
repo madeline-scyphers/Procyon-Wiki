@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: 
 tags:
   - faction
 faction_type: Criminal
@@ -9,16 +9,16 @@ location:
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "1"
 nature: Mostly young disenfranchised xenos who have turned to crime and found strength and solidarity with each other.
-allies: []
+allies: 
 friendly:
   - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
-helpful: []
-neutral: []
-interfering: []
+helpful: 
+neutral: 
+interfering: 
 hostile:
   - "[[Factions/House Malklaith|Factions/House Malklaith]]"
   - "[[Factions/Hegemonic News Network|Factions/Hegemonic News Network]]"
-war: []
+war: 
 goals:
   - Take over the [[Factions/Hegemonic News Network|Factions/Hegemonic News Network]].
 notable assets:
@@ -26,9 +26,9 @@ notable assets:
   - Minor artifacts some of the leaders have attached to themselves.
 notable npcs:
   - Dyrinek (xeno, revolutionary, proud).
-  - Burn (Memish mystic xeno, fast, overconfident, untrained).
   - Radds (human, hacker, smart).
   - Myrk (xeno, gun enthusiast, hothead).
+  - "[[Characters/Ibo-one|Ibo]] (ancient cult mystic who took the kids in off the street)"
 turf: Lost Paradise, a club with an attached warehouse where the gang does its business (HQ).
 quirks: When a new member joins the gang, they all go out on a drunken tear across the city, leaving a swath of wreckage in their wake.
 situation: The gang has had run-ins with System police, and the Hegemonic News Network paints them as lowlifes with no future. Dyrinek wants to send a message that they won’t be so easily dismissed and plans to take over the airwaves to broadcast the gang’s punk ideology. All they need is the opportunity.
@@ -55,7 +55,7 @@ Lost Paradise, a club with an attached warehouse where the gang does its busines
 
 ## Notable NPCs
 
-Dyrinek (xeno, revolutionary, proud).,Burn (Memish mystic xeno, fast, overconfident, untrained).,Radds (human, hacker, smart).,Myrk (xeno, gun enthusiast, hothead).
+Dyrinek (xeno, revolutionary, proud).,Radds (human, hacker, smart).,Myrk (xeno, gun enthusiast, hothead).,[[Characters/Ibo-one|Ibo]] (ancient cult mystic who took the kids in off the street)
 
 ## Notable Assets
 
@@ -94,6 +94,7 @@ The gang has had run-ins with System police, and the Hegemonic News Network pain
 
 | Helpful From                                 |
 | -------------------------------------------- |
+| [[Factions/Rusty Nail.md\|Rusty Nail]]       |
 | [[Factions/Starless Veil.md\|Starless Veil]] |
 
 
