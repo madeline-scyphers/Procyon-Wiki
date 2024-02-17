@@ -100,8 +100,9 @@ The Ashen Knives' power on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] has filled 
 
 
 
-| Neutral From |
-| ------------ |
+| Neutral From                           |
+| -------------------------------------- |
+| [[Factions/Rusty Nail.md\|Rusty Nail]] |
 
 
 
