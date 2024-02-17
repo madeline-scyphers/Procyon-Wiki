@@ -127,13 +127,10 @@ extra_javascript:
   - assets/js/snippets.js
 extra_css:
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
-    # - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/styles.css
-    # - assets/css/admonition.css
-    # - assets/css/custom_attributes.css
-    # - assets/css/customization.css
-    - assets/css/info_box.css
-    # - assets/css/publish.css
-    # - publish.css  # ITS theme
+    - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/styles.css
+    - assets/css/admonition.css
+    - assets/css/custom_attributes.css
+    - assets/css/customization.css
 extra:
   SEO: 'assets/meta/LOGO_SEO.png'
   comments: true
