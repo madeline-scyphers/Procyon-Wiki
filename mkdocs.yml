@@ -4,10 +4,11 @@ site_url: https://madeline-scyphers.github.io/procyon-wiki # Change this to your
 site_author: Madeline Scyphers
 
 theme:
-    name: 'material'
+    # name: 'material'
     logo: favicons.png
     favicon: favicons.png
-    custom_dir: overrides
+    custom_theme: overrides
+    # custom_dir: overrides
     font:
         text: Karla
         code: Ubuntu Mono
