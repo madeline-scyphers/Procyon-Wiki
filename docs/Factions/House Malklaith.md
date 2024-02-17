@@ -105,9 +105,8 @@ Disgraced after a famous duel, [[Characters/Governor Ritam al’Malklaith|Govern
 
 
 
-| Neutral From                           |
-| -------------------------------------- |
-| [[Factions/Rusty Nail.md\|Rusty Nail]] |
+| Neutral From |
+| ------------ |
 
 
 
