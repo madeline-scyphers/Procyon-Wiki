@@ -4,7 +4,7 @@ site_url: https://madeline-scyphers.github.io/procyon-wiki # Change this to your
 site_author: Madeline Scyphers
 
 theme:
-    name: 'material'
+    name: 'its'
     logo: favicons.png
     favicon: favicons.png
     custom_dir: overrides
@@ -131,7 +131,7 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
-    - docs/assets/css/publish.css  # ITS theme
+    - assets/css/publish.css  # ITS theme
 extra:
   SEO: 'assets/meta/LOGO_SEO.png'
   comments: true
