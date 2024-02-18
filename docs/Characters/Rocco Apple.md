@@ -3,7 +3,7 @@ name: Rocco Apple
 faction: "[[Factions/Guild of Engineers|Guild of Engineers]]"
 pronouns: They/Them
 location:
-  - "[[Procyon/Rin/Warren|Warren]]"
+  - "[[Procyon/Brekk/Nightfall|Nightfall]]"
 role: npc
 status: active
 share: "true"
@@ -24,7 +24,7 @@ name: Rocco Apple
 faction: "[[Factions/Guild of Engineers|Guild of Engineers]]"
 pronouns: They/Them
 location:
-  - "[[Procyon/Rin/Warren|Warren]]"
+  - "[[Procyon/Brekk/Nightfall|Nightfall]]"
 role: npc
 status: active
 share: "true"
@@ -43,14 +43,13 @@ enemies:
 
 
 > [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
+> ![[assets/images/Rocco.png|cover hmed]]
 > ###### Rocco Apple
 > Attribute |  value |
 > ---|---|
 > Pronouns | They/Them
 > Faction | [[Factions/Guild of Engineers.md|Guild of Engineers]]
-> Location | [[Procyon/Rin/Warren.md|Warren]] |
+> Location | [[Procyon/Brekk/Nightfall.md|Nightfall]] |
 
 
 # Rocco Apple
