@@ -3,7 +3,7 @@ aliases: []
 share: "true"
 title: Factions
 ---
-![[assests/maps/procyon.png|assests/maps/procyon.png]]
+![[assets/maps/procyon.png|assets/maps/procyon.png]]
 
 ## Faction Overview
 

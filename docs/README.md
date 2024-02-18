@@ -1,6 +1,6 @@
 ---
 share: "true"
-logo: "[[assests/meta/favicons.png]]"
+logo: "[[assets/meta/favicons.png]]"
 ---
 
 A wiki for the Scum and Villainy in the [[Procyon|Procyon]] sector.
