@@ -31,7 +31,7 @@ turf: An automated [[Factions/Hegemonic News Network|HNN]] satellite orbiting [[
 quirks: Few have met Vorex in person; most talk to her through a random terminal or Urbot-delivered message.
 situation: Vorex has been an information broker for years. Using an Ur artifact, she's developed a massive network for buying and selling information. The [[Factions/Counters Guild|Factions/Counters Guild]] kidnapped her sister to make Vorex access the [[Factions/Guild of Engineers|Factions/Guild of Engineers]]' network. Vorex seeks to free her sister without tipping her hand.
 ---
-![[assests/images/Vorex.webp|cover hmed]]
+![[assets/images/Vorex.webp|cover hmed]]
 
 Vorex is a 27 year old genius hacker. She has long neon purple hair with cybernetic enhancements all up and down her right side of her face. Her left eye is also a cyborg eye. She likes to wear Bright colored clothes that often don't match, made of soft fabrics, but she pulls them off well. She loves books and movies. One of her favorite books is iRobot by Isaac Asimov, and she strongly believes that iRobot 2377 is the best adaptation of the book. Vorex is a vegetarian, her favorite color is purple, and is autistic. 
 
