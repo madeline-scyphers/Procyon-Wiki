@@ -45,8 +45,8 @@ enemies:
 
 
 > [!infobox]
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
+> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
 > ###### Governor Ritam al’Malklaith
 > Attribute |  value |
 > ---|---|
