@@ -93,9 +93,10 @@ Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governo
 
 
 
-| Helpful From               |
-| -------------------------- |
-| [[Factions/Yaru.md\|Yaru]] |
+| Helpful From                           |
+| -------------------------------------- |
+| [[Factions/Rusty Nail.md\|Rusty Nail]] |
+| [[Factions/Yaru.md\|Yaru]]             |
 
 
 ## Neutral With
@@ -103,9 +104,8 @@ Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governo
 
 
 
-| Neutral From                           |
-| -------------------------------------- |
-| [[Factions/Rusty Nail.md\|Rusty Nail]] |
+| Neutral From |
+| ------------ |
 
 
 
