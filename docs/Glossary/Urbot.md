@@ -1,0 +1,4 @@
+the world, have a personality, and make decisions about how to act. Urbots wish to be useful to their users, often acting without
+instruction. 
+
+The Guild of Engineers owns the patent on Urbots. They require all Urbot owners to bring in their Urbots once a year for core maintenance. However, between the availability of build outposts and many Urbots being on far-traveling ships, this doesn’t always happen. During the tune-up the Guild wipes the AI core, resetting most of the memories and personality and restarting the Urbot from scratch. Urbots that aren’t regularly wiped develop personalities, new skills, and even start making decisions for themselves (which the Guild insists are glitches). Urbots who don’t use their cores for a long time will power down and go dormant, losing many if not all of their memories, reactivating with only their base instincts and directives.

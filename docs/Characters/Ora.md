@@ -10,7 +10,7 @@ tags:
   - npc
 profile: An info broker
 friends:
-  - "[[Characters/Mordin Ulmak|Mordin Ulmak]]"
+  - "[[Characters/Vapor|Mordin Ulmak]]"
 enemies: []
 ---
 
@@ -33,9 +33,9 @@ An info broker
 
 ## Relationships
 
-| Friend                                       | Profile      |
-| -------------------------------------------- | ------------ |
-| [[Characters/Mordin Ulmak.md\|Mordin Ulmak]] | Manufactured |
+| Friend                         | Profile      |
+| ------------------------------ | ------------ |
+| [[Characters/Vapor.md\|Vapor]] | Manufactured |
 
 
 | Enemy | Profile |

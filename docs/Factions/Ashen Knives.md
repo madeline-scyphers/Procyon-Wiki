@@ -100,9 +100,8 @@ The Ashen Knives' power on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] has filled 
 
 
 
-| Neutral From                           |
-| -------------------------------------- |
-| [[Factions/Rusty Nail.md\|Rusty Nail]] |
+| Neutral From |
+| ------------ |
 
 
 
@@ -124,6 +123,7 @@ The Ashen Knives' power on [[Procyon/Rin/Warren|Procyon/Rin/Warren]] has filled 
 
 | Hostile From                                                     |
 | ---------------------------------------------------------------- |
+| [[Factions/Rusty Nail.md\|Rusty Nail]]                           |
 | [[Factions/51st Legion.md\|51st Legion]]                         |
 | [[Factions/Acolytes of Brashkadesh.md\|Acolytes of Brashkadesh]] |
 

@@ -2,6 +2,8 @@
 name: Kit Apple
 aliases:
   - Flex
+  - Kittrel Arimaus Kisandral  Fredal Massik Amidaeus Arranda Mika Miika Mocha Miracha Sinda Apple
+  - Kit
 tags:
   - player
 role: player
@@ -27,12 +29,14 @@ enemies:
 > ###### Kit Apple
 > Attribute |  value |
 > ---|---|
-> Alias | Flex
+> Alias | Flex,Kittrel Arimaus Kisandral  Fredal Massik Amidaeus Arranda Mika Miika Mocha Miracha Sinda Apple,Kit
 > Pronouns | They/Them
 > Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
 > Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Kit Apple
+
+Short nonbinary, likes fixing things. Always spent their lives on ships. Used to being in the background on ships and tinkering with stuff. Always in the background as a mechanic and so can always overhear things that people don't want them to.
 ## Profile
 Spent whole life on ships. Worked as a ship laborer.
 

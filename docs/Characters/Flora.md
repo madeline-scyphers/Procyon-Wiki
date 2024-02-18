@@ -32,6 +32,8 @@ enemies:
 > Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Flora
+Southern woman, grew up on farm got into racing. did some transport work. 
+
 ## Profile
 Colonist and loborer
 
