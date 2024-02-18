@@ -2,7 +2,8 @@
 name: Rocco Apple
 faction: "[[Factions/Guild of Engineers|Guild of Engineers]]"
 pronouns: They/Them
-location: "[[Procyon/Brekk/Nightfall|Nightfall]]"
+location:
+  - "[[Procyon/Brekk/Nightfall|Nightfall]]"
 role: npc
 status: active
 share: "true"
@@ -16,13 +17,14 @@ profile: |-
 friends:
   - "[[Characters/Kit Apple|Kit Apple]]"
   - "[[Characters/Governor Ritam al’Malklaith|Governor Ritam al’Malklaith]]"
-enemies: 
+enemies: []
 ---
 ---
 name: Rocco Apple
 faction: "[[Factions/Guild of Engineers|Guild of Engineers]]"
 pronouns: They/Them
-location: "[[Procyon/Brekk/Nightfall|Nightfall]]"
+location: 
+  - "[[Procyon/Brekk/Nightfall|Nightfall]]"
 role: npc
 status: active
 share: "true"
@@ -36,7 +38,7 @@ profile: |-
 friends:
   - "[[Characters/Kit Apple|Kit Apple]]"
   - "[[Characters/Governor Ritam al’Malklaith|Governor Ritam al’Malklaith]]"
-enemies:
+enemies: []
 ---
 
 
