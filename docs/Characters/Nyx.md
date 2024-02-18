@@ -12,7 +12,7 @@ aliases: []
 profile: A moneylender
 friends: []
 enemies:
-  - "[[Characters/Mordin Ulmak|Mordin Ulmak]]"
+  - "[[Characters/Vapor|Mordin Ulmak]]"
 ---
 
 
@@ -36,8 +36,8 @@ A moneylender
 | ------ | ------- |
 
 
-| Enemy                                        | Profile      |
-| -------------------------------------------- | ------------ |
-| [[Characters/Mordin Ulmak.md\|Mordin Ulmak]] | Manufactured |
+| Enemy                          | Profile      |
+| ------------------------------ | ------------ |
+| [[Characters/Vapor.md\|Vapor]] | Manufactured |
 
 
