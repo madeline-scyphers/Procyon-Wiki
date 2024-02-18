@@ -17,7 +17,7 @@ enemies: []
 
 
 > [!infobox]
-> ![[ImagePlaceholder.png|cover hsmall]]
+> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
 > ###### Juda
 > Attribute |  value |
 > ---|---|
