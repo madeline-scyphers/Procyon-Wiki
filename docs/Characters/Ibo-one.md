@@ -16,15 +16,9 @@ enemies: []
 ---
 
 
-```image-layout
----
-layout: carousel
-carouselShowThumbnails: true
----
-![[assets/images/ibo.png]]
-![[assets/images/ibo_front.png]]
-```
-
+|  |  |
+| ---- | ---- |
+| ![[assets/images/ibo.png|assets/images/ibo.png]] | ![[assets/images/ibo_front.png\|300]] |
 
 
 > [!infobox]
