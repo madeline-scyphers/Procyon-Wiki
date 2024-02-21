@@ -1,7 +1,7 @@
 ---
 name: Ibo-one
 faction: "[[Factions/Dyrinek Gang|Dyrinek Gang]]"
-pronouns: They/Them
+pronouns: He/him
 location: "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
@@ -16,12 +16,23 @@ enemies: []
 ---
 
 
+```image-layout
+---
+layout: carousel
+carouselShowThumbnails: true
+---
+![[assets/images/ibo.png]]
+![[assets/images/ibo_front.png]]
+```
+
+
+
 > [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
+> ![[assets/images/ibo.png|cover hsmall]]
 > ###### Ibo-one
 > Attribute |  value |
 > ---|---|
-> Pronouns | They/Them
+> Pronouns | He/him
 > Faction | [[Factions/Dyrinek Gang.md|Dyrinek Gang]]
 > Location | [[Procyon/Rin/Warren.md|Warren]] |
 
