@@ -15,21 +15,13 @@ friends: []
 enemies: []
 ---
 
+![[assets/images/ibo.png|919]]![[assets/images/ibo_front.png|300]]
 
 |  |  |
 | ---- | ---- |
-| ![[assets/images/ibo.png|assets/images/ibo.png]] | ![[assets/images/ibo_front.png\|300]] |
-
-
-> [!infobox]
-> ![[assets/images/ibo.png|cover hsmall]]
-> ###### Ibo-one
-> Attribute |  value |
-> ---|---|
-> Pronouns | He/him
-> Faction | [[Factions/Dyrinek Gang.md|Dyrinek Gang]]
-> Location | [[Procyon/Rin/Warren.md|Warren]] |
-
+| Pronouns | He/him |
+| Faction | [[Factions/Dyrinek Gang.md|Dyrinek Gang]] |
+| Location | [[Procyon/Rin/Warren.md|Warren]] |
 
 # Ibo-one
 ## Profile
