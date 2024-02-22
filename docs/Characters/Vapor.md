@@ -20,16 +20,12 @@ enemies:
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
-> ###### Vapor
-> Attribute |  value |
-> ---|---|
-> Alias | Mordin Ulmak
-> Pronouns | Any, Sure, Whatever
-> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
-> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
+|          |                  |
+| -------- | ---------------- |
+| Alias    | Mordin Ulmak | 
+| Pronouns | Any, Sure, Whatever |
+| Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
+| Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Vapor
 

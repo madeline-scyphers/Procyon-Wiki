@@ -34,14 +34,11 @@ enemies:
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> ###### Yazu
-> Attribute |  value |
-> ---|---|
-> Pronouns | She/Her
-> Faction | 
-> Location |  |
+|  |  |
+| ---- | ---- |
+| Pronouns | She/Her |
+| Faction |  |
+| Location |  |
 
 
 # Yazu

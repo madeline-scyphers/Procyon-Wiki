@@ -20,16 +20,12 @@ enemies:
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
-> ###### Leto Ramus
-> Attribute |  value |
-> ---|---|
-> Alias | Dr. Igno
-> Pronouns | He/Him
-> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
-> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
+|          |                  |
+| -------- | ---------------- |
+| Alias    | Dr. Igno | 
+| Pronouns | He/Him |
+| Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
+| Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Leto Ramus
 

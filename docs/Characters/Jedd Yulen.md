@@ -19,16 +19,12 @@ enemies:
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
-> ###### Jedd Yulen
-> Attribute |  value |
-> ---|---|
-> Alias | 
-> Pronouns | He/Him
-> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
-> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
+|          |                  |
+| -------- | ---------------- |
+| Alias    |  | 
+| Pronouns | He/Him |
+| Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
+| Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Jedd Yulen
 

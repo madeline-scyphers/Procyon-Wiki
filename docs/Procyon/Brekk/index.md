@@ -4,7 +4,7 @@ aliases:
 share: "true"
 title: Brekk
 ---
-Considered by many to be more civilized than the rest of [[Procyon|Procyon]], this system is home to many finer aspects of the Hegemony—education, art, and culture. Wealth and culture means the Legion presence is strong in the sector. However, there are many odd, non-Starsmithmaintained hyperspace lanes that bend strangely, making long loops perpendicular to planetary orbits. Pilots map these so-called “dark lanes,” making it easy to hide and dodge patrols if one is willing to take one’s time.
+Considered by many to be more civilized than the rest of [[Procyon|Procyon]], this system is home to many finer aspects of the Hegemony—education, art, and culture. Wealth and culture means the Legion presence is strong in the sector. However, there are many odd, non-Starsmith maintained hyperspace lanes that bend strangely, making long loops perpendicular to planetary orbits. Pilots map these so-called “dark lanes,” making it easy to hide and dodge patrols if one is willing to take one’s time.
 
 # Locations
 

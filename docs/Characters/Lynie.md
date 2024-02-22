@@ -15,14 +15,11 @@ enemies: []
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> ###### Lynie
-> Attribute |  value |
-> ---|---|
-> Pronouns | 
-> Faction | 
-> Location |  |
+|  |  |
+| ---- | ---- |
+| Pronouns |  |
+| Faction |  |
+| Location |  |
 
 
 # Lynie

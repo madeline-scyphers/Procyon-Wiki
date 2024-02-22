@@ -23,16 +23,12 @@ enemies:
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
-> ###### Kit Apple
-> Attribute |  value |
-> ---|---|
-> Alias | Flex,Kittrel Arimaus Kisandral  Fredal Massik Amidaeus Arranda Mika Miika Mocha Miracha Sinda Apple,Kit
-> Pronouns | They/Them
-> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
-> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
+|          |                  |
+| -------- | ---------------- |
+| Alias    | Flex,Kittrel Arimaus Kisandral  Fredal Massik Amidaeus Arranda Mika Miika Mocha Miracha Sinda Apple,Kit | 
+| Pronouns | They/Them |
+| Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
+| Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Kit Apple
 
