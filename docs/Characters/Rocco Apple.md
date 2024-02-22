@@ -42,14 +42,13 @@ enemies: []
 ---
 
 
-> [!infobox]
-> ![[assets/images/Rocco.png|cover hmed]]
-> ###### Rocco Apple
-> Attribute |  value |
-> ---|---|
-> Pronouns | They/Them
-> Faction | [[Factions/Guild of Engineers.md|Guild of Engineers]]
-> Location | [[Procyon/Brekk/Nightfall.md|Nightfall]] |
+![[assets/images/Rocco.png|cover hmed]]
+
+|  |  |
+| ---- | ---- |
+| Pronouns | They/Them |
+| Faction | [[Factions/Guild of Engineers.md|Guild of Engineers]] |
+| Location | [[Procyon/Brekk/Nightfall.md|Nightfall]] |
 
 
 # Rocco Apple
