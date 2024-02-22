@@ -16,7 +16,7 @@ friends:
 enemies: []
 ---
 
-![[assets/images/ibo.png|919]]![[assets/images/ibo_front.png|300]]
+![[assets/images/ibo.png|cover hmed]]![[assets/images/ibo_front.png|cover hmed]]
 
 |  |  |
 | ---- | ---- |
