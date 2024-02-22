@@ -44,15 +44,11 @@ enemies:
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
-> ###### Governor Ritam al’Malklaith
-> Attribute |  value |
-> ---|---|
-> Pronouns | He/Him
-> Faction | [[Factions/House Malklaith.md|House Malklaith]]
-> Location | [[Procyon/Rin/Warren.md|Warren]] |
+|  |  |
+| ---- | ---- |
+| Pronouns | He/Him |
+| Faction | [[Factions/House Malklaith.md|House Malklaith]] |
+| Location | [[Procyon/Rin/Warren.md|Warren]] |
 
 
 # Governor Ritam al’Malklaith
