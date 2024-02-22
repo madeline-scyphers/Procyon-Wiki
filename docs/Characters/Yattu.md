@@ -34,15 +34,11 @@ enemies:
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
-> ###### Yattu
-> Attribute |  value |
-> ---|---|
-> Pronouns | She/Her
-> Faction | 
-> Location |  |
+|  |  |
+| ---- | ---- |
+| Pronouns | She/Her |
+| Faction |  |
+| Location |  |
 
 
 # Yattu
