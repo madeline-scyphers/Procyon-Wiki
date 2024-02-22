@@ -14,14 +14,11 @@ enemies: []
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> ###### Krieger
-> Attribute |  value |
-> ---|---|
-> Pronouns | 
-> Faction | 
-> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
+|  |  |
+| ---- | ---- |
+| Pronouns |  |
+| Faction |  |
+| Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 
 # Krieger
