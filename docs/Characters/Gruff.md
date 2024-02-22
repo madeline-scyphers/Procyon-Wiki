@@ -14,15 +14,11 @@ enemies: []
 
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
-> ###### Basic Information
-> Type |  Value |
-> ---|---|
-> Faction | [[Factions/Ghosts.md|Ghosts]] |
-> Location |  |
-> Pronouns | He/Him |
+|  |  |
+| ---- | ---- |
+| Pronouns | He/Him |
+| Faction | [[Factions/Ghosts.md|Ghosts]] |
+| Location |  |
 
 # Gruff
 ## Profile
