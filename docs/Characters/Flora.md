@@ -20,16 +20,13 @@ enemies:
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
-> ###### Flora
-> Attribute |  value |
-> ---|---|
-> Alias | Sunflower
-> Pronouns | She/Her
-> Faction | [[Factions/Rusty Nail.md|Rusty Nail]]
-> Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
+
+|          |                  |
+| -------- | ---------------- |
+| Alias    | Sunflower | 
+| Pronouns | She/Her |
+| Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
+| Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Flora
 Southern woman, grew up on farm got into racing. did some transport work. 
