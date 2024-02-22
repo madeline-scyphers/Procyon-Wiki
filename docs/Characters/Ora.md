@@ -15,15 +15,11 @@ enemies: []
 ---
 
 
-> [!infobox]
-> ![[assets/placeholder images/ImagePlaceholder.png|cover hsmall]]
-> [[assets/placeholder images/ImagePlaceholder.png|Show To Players]]
-> ###### Ora
-> Attribute |  value |
-> ---|---|
-> Pronouns | They/Them
-> Faction | [[Factions/Ashen Knives.md|Ashen Knives]]
-> Location | [[Procyon/Rin/Warren.md|Warren]] |
+|  |  |
+| ---- | ---- |
+| Pronouns | They/Them |
+| Faction | [[Factions/Ashen Knives.md|Ashen Knives]] |
+| Location | [[Procyon/Rin/Warren.md|Warren]] |
 
 
 # Ora
