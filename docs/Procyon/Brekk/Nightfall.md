@@ -6,6 +6,7 @@ share: "true"
 | **Wealth** | **Crime** | **Tech** | **Weird** |
 | ---- | ---- | ---- | ---- |
 | 2 | 1 | 2 | 1 |
+![[assets/images/nightfall.png|assets/images/nightfall.png]]
 
 Named for frequent eclipses caused by the planet’s 13 moons. Their erratic movements make night only predictable by computer. The city of Yaw is nestled where night and day last between 2 and 12 hours each. It bustles with economic activity and is a frequent destination for tourists and traders. Known for its haute cuisine and theater.
 
