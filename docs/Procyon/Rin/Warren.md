@@ -58,5 +58,10 @@ Once a feared assassin among the Knives, now a Syndicate leader. Loves good food
 ---
 
 
+
+
+
 ![[assets/images/warren_market.png|assets/images/warren_market.png]]
-![[assets/images/warren_street.png|assets/images/warren_street.png]]
+![[assets/images/warren_street.png|assets/images/warren_street.png]]![[assets/images/sloppy_jos.png|assets/images/sloppy_jos.png]]
+
+![[assets/images/light_it_up.png|assets/images/light_it_up.png]]
