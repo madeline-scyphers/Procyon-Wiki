@@ -59,6 +59,9 @@ Those who control the media control the mind. Often use this as leverage over ot
 
 Cinszo (owner, ambitious, greedy, untrustworthy).,Rinsama Kay (chief editor, cynical, demanding, stickler).,Ooxoo (xeno press pool manager, curious).,Stacy Weathers (ace reporter, trained spy, always grinning, nose for trouble).
 
+![[assets/images/ooxoo.png|assets/images/ooxoo.png]]
+
+![[assets/images/stacy_weathers.png|assets/images/stacy_weathers.png]]
 ## Notable Assets
 
 Sector-wide communications.,Many independent journalists feeding them news.
