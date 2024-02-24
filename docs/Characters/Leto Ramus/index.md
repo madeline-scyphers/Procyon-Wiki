@@ -17,6 +17,7 @@ friends:
   - "[[Juda|Juda]]"
 enemies:
   - "[[Lynie|Lynie]]"
+title: Leto Ramus
 ---
 
 
@@ -26,6 +27,12 @@ enemies:
 | Pronouns | He/Him |
 | Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
 | Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
+
+## Diary Entries
+
+- [[Characters/Leto Ramus/1261.310.10.md|1261.310.10]]
+
+
 
 # Leto Ramus
 

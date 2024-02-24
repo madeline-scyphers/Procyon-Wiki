@@ -11,6 +11,9 @@ share: "true"
 | **Wealth** | **Crime** | **Tech** | **Weird** |
 | ---- | ---- | ---- | ---- |
 | 2 | 3 | 2 | 1 |
+|  |  |  |  |
+![[assets/images/warren_downtown.png|assets/images/warren_downtown.png]]
+
 
 Warren is one of the moons of Aleph and the home to an ecumenopolis—a city spanning the entire surface of the moon. It’s the capitol for the system, and the system [[Characters/Governor Ritam al’Malklaith|Governor Ritam al’Malklaith]] makes his residence here. On Warren, you can find anything you need—for a price. Its high-rises are full of legitimate business dealings, and its streets far less so.
 
@@ -53,3 +56,7 @@ Ship designer extraordinaire. Only makes one of each ship designed. (artistic, b
 Once a feared assassin among the Knives, now a Syndicate leader. Loves good food and pit fights. (sly, corpulent, sartorial, decadent)
 
 ---
+
+
+![[assets/images/warren_market.png|assets/images/warren_market.png]]
+![[assets/images/warren_street.png|assets/images/warren_street.png]]
