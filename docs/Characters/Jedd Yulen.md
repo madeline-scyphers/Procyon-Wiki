@@ -26,6 +26,8 @@ enemies:
 | Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
 | Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
+![[assets/images/jedd.png|assets/images/jedd.png]]
+
 # Jedd Yulen
 
 Middle aged man, grew up un middle class in core world. Very anti hegemonic. Grew up on Rin, manual labor elsewhere
