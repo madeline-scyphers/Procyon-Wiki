@@ -21,6 +21,10 @@ title: Leto Ramus
 ---
 
 
+
+
+
+
 |          |                  |
 | -------- | ---------------- |
 | Alias    | Dr. Igno | 
@@ -30,8 +34,10 @@ title: Leto Ramus
 
 ## Diary Entries
 
-- [[Characters/Leto Ramus/1261.310.10.md|1261.310.10]]
+%% Begin Waypoint %%
+- [[1261.310.10|1261.310.10]]
 
+%% End Waypoint %%
 
 
 # Leto Ramus
