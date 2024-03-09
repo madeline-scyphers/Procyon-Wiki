@@ -1,6 +1,9 @@
 ---
+summary: The entry point to the [[Procyon|Procyon]] sector. Simultaneously the seat of The [[Characters/Governor Ritam al’Malklaith|Governor]] as well as a hot bed of crime and a forgotten home of the poor.
 aliases:
   - Rin
+tags:
+  - location
 share: "true"
 title: Rin
 ---
@@ -8,9 +11,12 @@ The entry point to the [[Procyon|Procyon]] sector, Rin was colonized a little ov
 
 # Locations
 
-- [[Procyon/Rin/Warren|Procyon/Rin/Warren]]
-- [[Procyon/Rin/SB-176|Procyon/Rin/SB-176]]
-- [[Procyon/Rin/The Cove|Procyon/Rin/The Cove]]
+| File                                  | summary                                                                                           |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [[Procyon/Rin/SB-176.md\|SB-176]]     | A mining station above the gas giant Vet, manned mostly by [[Glossary/Urbot\|Urbot]]s             |
+| [[Procyon/Rin/The Cove.md\|The Cove]] | A pirate station made out of derelict ships hidden inside the Ashtari Cloud.                      |
+| [[Procyon/Rin/Warren.md\|Warren]]     | A ecumenopolis on a moon of Aleph. Capitol of the system. Wealthy and well off above, poor below. |
+
 
 ---
 
