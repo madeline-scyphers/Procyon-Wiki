@@ -1,11 +1,21 @@
 ---
+summary: A jungle covered planet incredibly hostile to people.
 aliases: 
-tags: []
+tags:
+  - location
 share: "true"
 ---
+---
+summary: "A jungle covered planet incredibly hostile to people."
+aliases: 
+tags: 
+  - location
+share: "true"
+
+---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
-| ---- | ---- | ---- | ---- |
-| 0 | 3 | 1 | 1 |
+| ---------- | --------- | -------- | --------- |
+| 0          | 3         | 1        | 1         |
 
 This verdant jungle world would be more settled, were it not for the incredibly hostile natural life. Between rapidly spreading carnivorous plants, seasonally rampaging beasts, and hyper-aggressive fish, only a few distinct types visit Aketi— researchers, poachers, and criminals hiding from the law. The planet is labeled a Malklaith “nature preserve.”
 
