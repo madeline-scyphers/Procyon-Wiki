@@ -21,10 +21,6 @@ title: Leto Ramus
 ---
 
 
-
-
-
-
 |          |                  |
 | -------- | ---------------- |
 | Alias    | Dr. Igno | 
@@ -34,10 +30,14 @@ title: Leto Ramus
 
 ## Diary Entries
 
-%% Begin Waypoint %%
-- [[1261.310.10|1261.310.10]]
 
-%% End Waypoint %%
+| File                                                | summary                                                                                                                        |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [[Characters/Leto Ramus/1261.13.10.md\|1261.13.10]] | Dream of chasing a man through the city on a strange world. Corner him, raise metallic robot arm against him before waking up. |
+| [[Characters/Leto Ramus/1261.13.20.md\|1261.13.20]] | Dream of doing a deal to get a data crystal from a robot in a old run down park.                                               |
+
+
+
 
 
 # Leto Ramus
