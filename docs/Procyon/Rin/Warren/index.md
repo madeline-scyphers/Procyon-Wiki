@@ -4,6 +4,7 @@ aliases:
 tags:
   - location
 share: "true"
+title: Warren
 ---
 ---
 summary: "A ecumenopolis on a moon of Aleph. Capitol of the system. Wealthy and well off above, poor below."
