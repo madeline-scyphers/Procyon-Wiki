@@ -19,6 +19,7 @@ enemies:
   - "[[Nyx|Nyx]]"
 ---
 
+![[assets/images/vapor.png|cover hmed]]
 
 |          |                  |
 | -------- | ---------------- |
