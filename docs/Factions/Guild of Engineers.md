@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - The Guild
 tags:
   - faction
 faction_type: Hegemony
@@ -9,19 +10,19 @@ location:
   - "[[Procyon/Rin/SB-176|SB-176]]"
 tier: "5"
 nature: One of the Hegemonic High Guilds responsible for resource acquisition, cybernetics, AI tech advancement, and research.
-allies: []
+allies: 
 friendly:
   - "[[Factions/51st Legion|Factions/51st Legion]]"
   - "[[Factions/Isotropa Max Secure|Factions/Isotropa Max Secure]]"
-helpful: []
-neutral: []
+helpful: 
+neutral: 
 interfering:
   - "[[Factions/Borniko Syndicate|Factions/Borniko Syndicate]]"
   - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
   - "[[Factions/Conclave 01|Factions/Conclave 01]]"
   - "[[Factions/Counters Guild|Factions/Counters Guild]]"
-hostile: []
-war: []
+hostile: 
+war: 
 goals:
   - Convert a trade platform into a Way siphon.
 notable assets:
