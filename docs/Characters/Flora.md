@@ -18,8 +18,7 @@ friends:
 enemies:
   - "[[Yattu|Yattu]]"
 ---
-
-
+![[flora.png|flora.png]]
 
 |          |                  |
 | -------- | ---------------- |
