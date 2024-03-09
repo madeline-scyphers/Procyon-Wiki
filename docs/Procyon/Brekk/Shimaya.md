@@ -1,13 +1,22 @@
 ---
+summary: A desert planet split between mining in the pits and academics at the sectors preeminent institution.
 aliases: 
-tags: []
+tags:
+  - location
+share: "true"
+---
+---
+summary: "A desert planet split between mining in the pits and academics at the sectors preeminent institution."
+aliases: 
+tags:
+  - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
 | ---- | ---- | ---- | ---- |
 | 2 | 1 | 2 | 0 |
 
-This desert planet is ravaged by electrical storms that occasionally clear colored sand off mineral deposits essential to space travel, or turn it to glass, giving a view to the ruins beneath. Teams race to capitalize on these events. There is a substantial civilian population, including the sector’s preeminent educational institution, Khalud Academy.
+This desert planet is ravaged by electrical storms that occasionally clear colored sand off mineral deposits essential to space travel, or turn it to glass, giving a view to the ruins beneath. Teams race to capitalize on these events. There is a substantial civilian population, including both the sector’s preeminent educational institution, Khalud Academy and a large labor force mining down below.
 
 Special Rule
 
