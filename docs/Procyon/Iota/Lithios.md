@@ -1,6 +1,15 @@
 ---
+summary: Ancent ice palaces dot the surface from a race long gone. A few mining settlements are kept warm with orbital mirrors.
 aliases: 
-tags: []
+tags:
+  - location
+share: "true"
+---
+---
+summary: "Ancent ice palaces dot the surface from a race long gone. A few mining settlements are kept warm with orbital mirrors."
+aliases: 
+tags:
+  - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
