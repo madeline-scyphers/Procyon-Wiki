@@ -1,17 +1,21 @@
 ---
+summary: A ecumenopolis on a moon of Aleph. Capitol of the system. Wealthy and well off above, poor below.
 aliases: 
-tags: []
+tags:
+  - location
 share: "true"
 ---
 ---
+summary: "A ecumenopolis on a moon of Aleph. Capitol of the system. Wealthy and well off above, poor below."
 aliases:
-tags: []
+tags:
+  - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
-| ---- | ---- | ---- | ---- |
-| 2 | 3 | 2 | 1 |
-|  |  |  |  |
+| ---------- | --------- | -------- | --------- |
+| 2          | 3         | 2        | 1         |
+|            |           |          |           |
 ![[assets/images/warren_downtown.png|assets/images/warren_downtown.png]]
 
 
@@ -43,11 +47,6 @@ Governor of the [[Rin|Rin]]
 
 Owner and operator of the Lock Luna, the most infamous bar in the undercity. (cunning, unforgiving, popular)
 
----
-
-## [[Rocco Apple|Rocco Apple]]
-
-Ship designer extraordinaire. Only makes one of each ship designed. (artistic, brilliant, aloof). [[Characters/Kit Apple|Kit Apple]]'s parent.
 
 ---
 
@@ -56,8 +55,6 @@ Ship designer extraordinaire. Only makes one of each ship designed. (artistic, b
 Once a feared assassin among the Knives, now a Syndicate leader. Loves good food and pit fights. (sly, corpulent, sartorial, decadent)
 
 ---
-
-
 
 
 

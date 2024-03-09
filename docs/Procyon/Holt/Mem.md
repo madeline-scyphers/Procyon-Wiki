@@ -1,17 +1,26 @@
 ---
+summary: An ocean planet with aquatic xenos and strong Ur/Way influence
 aliases: 
-tags: []
+tags:
+  - location
+share: "true"
+---
+---
+summary: "An ocean planet with aquatic xenos and strong Ur/Way influence"
+aliases: 
+tags:
+  - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
 | ---- | ---- | ---- | ---- |
-| 2 | 2 | 2 | 3 |
+| 1 | 2 | 2 | 3 |
 
 This ocean planet was colonized by the Hegemony for almost a hundred years before aquatic xenos made themselves (and their planetary claims) known. Hegemonic forces broke the Memish military and incorporated them into the Hegemony. Exploration of Mem has proven difficult because of the free-standing gravity wells deep beneath the waves.
 
 Special Rule
 
-The deeps are littered with Ur sites and strange glows. When in the deeps, using att une for long-term projects grants +1d. Low rolls may attract dangerous Way attention.
+The deeps are littered with Ur sites and strange glows. When in the deeps, using attune for long-term projects grants +1d. Low rolls may attract dangerous Way attention.
 
 # Vibe
 

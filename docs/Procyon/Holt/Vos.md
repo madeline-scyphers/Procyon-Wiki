@@ -1,11 +1,20 @@
 ---
+summary: A wealthy planet made entirely of graphite and diamond. Closely monitored
 aliases: 
-tags: []
+tags:
+  - location
+share: "true"
+---
+---
+summary: "A wealthy planet made entirely of graphite and diamond. Closely monitored"
+aliases: 
+tags:
+  - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
 | ---- | ---- | ---- | ---- |
-|  |  |  |  |
+| 3 | 0 | 2 | 2 |
 
 Known throughout [[Procyon|Procyon]] by its nickname “Glimmer,” the surface of this enormous planet is made of carbon compounds such as graphite and diamond. At night, the largest crystal formations glow with unearthly light—a property many of the crystals retain after being cut. One must dock at Guild station IA-23 in orbit and shuttle down to do business on the surface.
 

@@ -18,6 +18,7 @@ enemies:
   - "[[Yazu|Yazu]]"
 ---
 
+![[assets/images/jedd.png|assets/images/jedd.png]]
 
 |          |                  |
 | -------- | ---------------- |
@@ -26,7 +27,7 @@ enemies:
 | Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
 | Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
-![[assets/images/jedd.png|assets/images/jedd.png]]
+
 
 # Jedd Yulen
 

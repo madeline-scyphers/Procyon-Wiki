@@ -1,6 +1,8 @@
 ---
+summary: "A planet where night and day is unpredictable because of the erratic solar eclipses from the 13 moons. A destination hub for traders and tourists. "
 aliases: 
-tags: []
+tags:
+  - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
@@ -23,6 +25,11 @@ High-rises lighting up block by block as the city goes from day to night in the 
 ---
 
 # Notable People
+
+
+## [[Rocco Apple|Rocco Apple]]
+
+Ship designer extraordinaire. Only makes one of each ship designed. (artistic, brilliant, aloof). [[Characters/Kit Apple|Kit Apple]]'s parent.
 
 ---
 

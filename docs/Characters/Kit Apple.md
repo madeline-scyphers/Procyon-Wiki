@@ -22,6 +22,7 @@ enemies:
   - "[[Stev|Stev]]"
 ---
 
+![[assets/images/kit.png|assets/images/kit.png]]
 
 |          |                  |
 | -------- | ---------------- |
@@ -41,9 +42,9 @@ Spent whole life on ships. Worked as a ship laborer.
 
 | Friend                                     | Profile                                                                                                                                                                                                                                                            |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Characters/Slice.md\|Slice]]             | Junkyard owner                                                                                                                                                                                                                                                     |
 | [[Characters/Rocco Apple.md\|Rocco Apple]] | Works as one of the preeminent ship designers and builders in the system. Works under [[Factions/House Malklaith\|House Malklaith]].
  [[Kit Apple|Kit Apple]]'s parent. Not on the best of terms with their kid and a bit disappointed in them. Hopes they come back to them |
-| [[Characters/Slice.md\|Slice]]             | Junkyard owner                                                                                                                                                                                                                                                     |
 
 
 | Enemy                        | Profile                 |

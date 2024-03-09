@@ -1,16 +1,33 @@
 ---
+summary: The cultural capitol of Procyon. If you’re looking to file paperwork, strike deals, and otherwise mingle with the elite of the sector, you’ll find many of them on the neon-lit streets of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]] also sports an untamed, largely unexplored jungle world that can hide those fleeing the law, and entice the rich on hunts for dangerous beasts.
 aliases:
   - Brekk
+tags:
+  - location
 share: "true"
 title: Brekk
+---
+---
+summary: "The cultural capitol of Procyon. If you’re looking to file paperwork, strike deals, and otherwise mingle with the elite of the sector, you’ll find many of them on the neon-lit streets of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]] also sports an untamed, largely unexplored jungle world that can hide those fleeing the law, and entice the rich on hunts for dangerous beasts."
+aliases:
+  - Brekk
+tags:
+  - location
+share: "true"
 ---
 Considered by many to be more civilized than the rest of [[Procyon|Procyon]], this system is home to many finer aspects of the Hegemony—education, art, and culture. Wealth and culture means the Legion presence is strong in the sector. However, there are many odd, non-Starsmith maintained hyperspace lanes that bend strangely, making long loops perpendicular to planetary orbits. Pilots map these so-called “dark lanes,” making it easy to hide and dodge patrols if one is willing to take one’s time.
 
 # Locations
 
-- [[Procyon/Brekk/Aketi|Procyon/Brekk/Aketi]]
-- [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]]
-- [[Procyon/Brekk/Shimaya|Procyon/Brekk/Shimaya]]
+
+| File                                      | summary                                                                                                                                             |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Procyon/Brekk/Nightfall.md\|Nightfall]] | A planet where night and day is unpredictable because of the erratic solar eclipses from the 13 moons. A destination hub for traders and tourists.  |
+| [[Procyon/Brekk/Shimaya.md\|Shimaya]]     | A desert planet split between mining in the pits and academics at the sectors preeminent institution.                                               |
+| [[Procyon/Brekk/Aketi.md\|Aketi]]         | A jungle covered planet incredibly hostile to people.                                                                                               |
+
+
+
 
 ---
 

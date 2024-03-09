@@ -1,6 +1,9 @@
 ---
+summary: Iota is the main industrial system in the sector. Between the shipyards, [[Procyon/Iota/Amerath|Amerath]]'s pharmaceuticals research and production, and [[Procyon/Iota/Indri|Indri]]'s factories, a plurality of goods/ships/medicine/etc are produced in Iota.
 aliases:
   - Iota
+tags:
+  - location
 share: "true"
 title: Iota
 ---
@@ -8,9 +11,15 @@ The planets in Iota orbit a pair of stars—a yellow sun (Iota-1) and a brown dw
 
 # Locations
 
-- [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]]
-- [[Procyon/Iota/Indri|Procyon/Iota/Indri]]
-- [[Procyon/Iota/Lithios|Procyon/Iota/Lithios]]
+
+| File                                 | summary                                                                                                                                                                       |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Procyon/Iota/Amerath.md\|Amerath]] | Lush planet with many plants with medicinal properties. A pharmaceuticals research and manufacturing system set up on the planet. Most drugs in the system come from Amerath. |
+| [[Procyon/Iota/Indri.md\|Indri]]     | A highly industrialized planet covered in thick rust-colored clouds the create a twilight haze during the day.                                                                |
+| [[Procyon/Iota/Lithios.md\|Lithios]] | Ancent ice palaces dot the surface from a race long gone. A few mining settlements are kept warm with orbital mirrors.                                                        |
+
+
+
 
 ---
 

@@ -18,26 +18,11 @@ The sector is a burgeoning place for Syndicates, mystics, and other folks that l
 
 ---
 
-## [[Rin|Rin]]
+| File                        | summary                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Procyon/Brekk.md\|Brekk]] | The cultural capitol of Procyon. If you’re looking to file paperwork, strike deals, and otherwise mingle with the elite of the sector, you’ll find many of them on the neon-lit streets of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]] also sports an untamed, largely unexplored jungle world that can hide those fleeing the law, and entice the rich on hunts for dangerous beasts. |
+| [[Procyon/Holt.md\|Holt]]   | Holt has the most Ur influence still and a temperamental Ur gate to an unknown part of space. Holt also has the largest population from before the Hegemony.                                                                                                                                                                                                           |
+| [[Procyon/Iota.md\|Iota]]   | Iota is the main industrial system in the sector. Between the shipyards, [[Procyon/Iota/Amerath\|Amerath]]'s pharmaceuticals research and production, and [[Procyon/Iota/Indri\|Indri]]'s factories, a plurality of goods/ships/medicine/etc are produced in Iota.                                                                                                     |
+| [[Procyon/Rin.md\|Rin]]     | The entry point to the [[Procyon|Procyon]] sector. Simultaneously the seat of The [[Characters/Governor Ritam al’Malklaith\|Governor]] as well as a hot bed of crime and a forgotten home of the poor.                                                                                                                                                                         |
 
-A three-gate system, with the only path deeper into the Hegemony. [[Rin|Rin]] system.
 
----
-
-## [[Holt|Holt]]
-
-[[Holt|Holt]] is the biggest hotbed of scum and villainy.
-
----
-
-## [[Holt|Holt]]
-
-A twin star system, [[Iota|Iota]] is a mixed bag. Though many people only pass through it on the way to [[Brekk|Brekk]] is a popular vacation spot for well-off folks, seeming a bit rustic and rural with “charming” ruins, while also sporting enough control and tech to support luxury.
-
----
-
-## [[Brekk|Brekk]]
-
-The cultural capitol of Procyon. If you’re looking to file paperwork, strike deals, and otherwise mingle with the elite of the sector, you’ll find many of them on the neon-lit streets of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]] also sports an untamed, largely unexplored jungle world that can hide those fleeing the law, and entice the rich on hunts for dangerous beasts.
-
----
