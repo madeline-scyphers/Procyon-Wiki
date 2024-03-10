@@ -22,7 +22,7 @@ enemies:
   - "[[Stev|Stev]]"
 ---
 
-![[assets/images/kit.png|assets/images/kit.png]]
+![[assets/images/kit.png|cover hmed]]
 
 |          |                  |
 | -------- | ---------------- |

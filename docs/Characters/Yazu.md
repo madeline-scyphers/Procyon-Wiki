@@ -9,7 +9,6 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: 
 profile: A crooked cop, [[Characters/Yattu|Yattu]]'s twin sister
 friends:
   - "[[Characters/Yattu|Yattu]]"
@@ -26,7 +25,7 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: 
+
 profile: A crooked cop, [[Characters/Yattu|Yattu]]'s twin sister
 friends:
   - "[[Characters/Yattu|Yattu]]"
@@ -55,5 +54,4 @@ A crooked cop, [[Characters/Yattu|Yattu]]'s twin sister
 
 | Enemy | Profile |
 | ----- | ------- |
-
 

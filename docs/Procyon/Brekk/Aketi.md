@@ -1,14 +1,12 @@
 ---
 summary: A jungle covered planet incredibly hostile to people.
-aliases: 
 tags:
   - location
 share: "true"
 ---
 ---
 summary: "A jungle covered planet incredibly hostile to people."
-aliases: 
-tags: 
+tags:
   - location
 share: "true"
 
@@ -53,7 +51,7 @@ Psy-blade-wielding Concordiat Knight. Travels with a nine-foot-tall xeno, an ex-
 
 ---
 
-## Asha Ravann 
+## Asha Ravann
 
 Base Camp One commander. Instituted a wallmounted flamethrower measure that’s kept the jungle at bay. (tired, jaded, relentless)
 

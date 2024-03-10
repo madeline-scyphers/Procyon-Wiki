@@ -1,13 +1,11 @@
 ---
 summary: A highly industrialized planet covered in thick rust-colored clouds the create a twilight haze during the day.
-aliases: 
 tags:
   - location
 share: "true"
 ---
 ---
 summary: "A highly industrialized planet covered in thick rust-colored clouds the create a twilight haze during the day."
-aliases: 
 tags:
   - location
 share: "true"

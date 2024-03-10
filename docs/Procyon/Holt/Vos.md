@@ -1,13 +1,11 @@
 ---
 summary: A wealthy planet made entirely of graphite and diamond. Closely monitored
-aliases: 
 tags:
   - location
 share: "true"
 ---
 ---
 summary: "A wealthy planet made entirely of graphite and diamond. Closely monitored"
-aliases: 
 tags:
   - location
 share: "true"

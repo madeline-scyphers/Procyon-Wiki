@@ -1,6 +1,6 @@
 ---
 name: Krieger
-faction: ""
+faction: "[[Rusty Nail]]"
 pronouns: ""
 location: "[[Factions/Rusty Nail|Rusty Nail]]"
 role: npc
@@ -17,7 +17,7 @@ enemies: []
 |  |  |
 | ---- | ---- |
 | Pronouns |  |
-| Faction |  |
+| Faction | [[Factions/Rusty Nail.md|Rusty Nail]] |
 | Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 

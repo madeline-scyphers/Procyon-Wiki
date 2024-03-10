@@ -1,6 +1,5 @@
 ---
 summary: "A planet where night and day is unpredictable because of the erratic solar eclipses from the 13 moons. A destination hub for traders and tourists. "
-aliases: 
 tags:
   - location
 share: "true"
@@ -51,7 +50,7 @@ Scarlet Wolf Assassin. Can be hired at a price, but only takes off-world jobs. T
 
 ---
 
-## Sol Brighton 
+## Sol Brighton
 
 Best lawyer in the sector. (cunning, connected, expensive)
 

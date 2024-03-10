@@ -20,7 +20,7 @@ enemies:
 title: Leto Ramus
 ---
 
-![[assets/images/leto.png|assets/images/leto.png]]
+![[assets/images/leto.png|cover hmed]]
 
 |          |                  |
 | -------- | ---------------- |
