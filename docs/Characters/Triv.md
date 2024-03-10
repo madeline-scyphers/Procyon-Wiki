@@ -9,7 +9,6 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: 
 profile: A ship mechanic
 friends:
   - "[[Characters/Flora|Flora]]"
@@ -26,7 +25,7 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: 
+
 profile: A ship mechanic
 friends:
   - "[[Characters/Flora|Flora]]"
@@ -55,5 +54,4 @@ A ship mechanic
 
 | Enemy | Profile |
 | ----- | ------- |
-
 
