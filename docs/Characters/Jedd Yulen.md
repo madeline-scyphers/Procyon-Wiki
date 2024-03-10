@@ -1,6 +1,5 @@
 ---
 name: Jedd Yulen
-aliases: 
 tags:
   - player
 role: player
@@ -18,11 +17,11 @@ enemies:
   - "[[Yazu|Yazu]]"
 ---
 
-![[assets/images/jedd.png|assets/images/jedd.png]]
+![[assets/images/jedd.png|cover hmed]]
 
 |          |                  |
 | -------- | ---------------- |
-| Alias    |  | 
+| Alias    |  |
 | Pronouns | He/Him |
 | Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
 | Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
@@ -46,5 +45,4 @@ Wanderer and laborer
 | Enemy                        | Profile                                                  |
 | ---------------------------- | -------------------------------------------------------- |
 | [[Characters/Yazu.md\|Yazu]] | A crooked cop, [[Characters/Yattu\|Yattu]]'s twin sister |
-
 
