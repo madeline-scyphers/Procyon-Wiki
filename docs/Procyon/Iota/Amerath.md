@@ -1,13 +1,11 @@
 ---
 summary: Lush planet with many plants with medicinal properties. A pharmaceuticals research and manufacturing system set up on the planet. Most drugs in the system come from Amerath.
-aliases: 
 tags:
   - location
 share: "true"
 ---
 ---
 summary: "Lush planet with many plants with medicinal properties. A pharmaceuticals research and manufacturing system set up on the planet. Most drugs in the system come from Amerath."
-aliases: 
 tags:
   - location
 share: "true"
