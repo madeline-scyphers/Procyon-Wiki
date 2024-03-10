@@ -1,13 +1,11 @@
 ---
 summary: An ocean planet with aquatic xenos and strong Ur/Way influence
-aliases: 
 tags:
   - location
 share: "true"
 ---
 ---
 summary: "An ocean planet with aquatic xenos and strong Ur/Way influence"
-aliases: 
 tags:
   - location
 share: "true"
@@ -42,7 +40,7 @@ Planetary Governor. Seeks proof of Memish rebellion after a few subordinates van
 
 ## Espa Nur
 
-Memish labor boss. His scars are packed with deepocean bioluminescence. Reports to Kromyl on seditious behavior, but hides his knowledge of Memish occultism. (xeno, ambitious, cunning, treacherous) 
+Memish labor boss. His scars are packed with deepocean bioluminescence. Reports to Kromyl on seditious behavior, but hides his knowledge of Memish occultism. (xeno, ambitious, cunning, treacherous)
 
 ---
 
