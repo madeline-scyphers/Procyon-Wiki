@@ -9,7 +9,6 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: 
 profile: Gang boss. [[Characters/Yazu|Yazu]]'s twin sister
 friends:
   - "[[Characters/Yazu|Yazu]]"
@@ -26,7 +25,7 @@ status: active
 share: "true"
 tags:
   - npc
-aliases: 
+
 profile: Gang boss. [[Characters/Yazu|Yazu]]'s twin sister
 friends:
   - "[[Characters/Yazu|Yazu]]"
@@ -55,5 +54,4 @@ Gang boss. [[Characters/Yazu|Yazu]]'s twin sister
 
 | Enemy | Profile |
 | ----- | ------- |
-
 
