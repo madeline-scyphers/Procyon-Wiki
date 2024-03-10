@@ -1,13 +1,11 @@
 ---
 summary: A pirate station made out of derelict ships hidden inside the Ashtari Cloud.
-aliases: 
 tags:
   - location
 share: "true"
 ---
 ---
 summary: "A pirate station made out of derelict ships hidden inside the Ashtari Cloud."
-aliases: 
 tags:
   - location
 share: "true"
