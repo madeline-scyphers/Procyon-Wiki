@@ -38,7 +38,8 @@ friends:
   - "[[Characters/Kit Apple|Kit Apple]]"
 enemies: ""
 ---
-![[darcy.png|darcy.png]]
+
+![[assets/images/darcy.png|cover hmed]]
 
 |  |  |
 | ---- | ---- |
