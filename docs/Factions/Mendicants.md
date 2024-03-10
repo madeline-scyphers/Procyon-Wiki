@@ -8,7 +8,7 @@ location:
   - "[[Iota|Iota]]"
   - "[[Procyon/Iota/Amerath|Amerath]]"
 tier: "2"
-nature: Formerly the Hegemon’s personal guard but rebelled when the current Hegemon rose to power. Now they work as guns for hire.
+nature: Originally the Church of the Emerald Heart, they were politically destroyed, and now wander the stars as traveling healers.
 allies: []
 friendly:
   - "[[Factions/Lost Legion|Factions/Lost Legion]]"
@@ -45,7 +45,7 @@ Find new Emerald Hearts.
 
 ## Nature
 
-Formerly the Hegemon’s personal guard but rebelled when the current Hegemon rose to power. Now they work as guns for hire.
+Originally the Church of the Emerald Heart, they were politically destroyed, and now wander the stars as traveling healers.
 
 ## Location
 
