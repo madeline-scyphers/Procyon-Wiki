@@ -1,13 +1,11 @@
 ---
 summary: A tidally locked planet where all lights extinguish a kilometer into the night side. Almost all settlements exists on the twilight border. A haven for smugglers and fencers.
-aliases: 
 tags:
   - location
 share: "true"
 ---
 ---
 summary: "A tidally locked planet where all lights extinguish a kilometer into the night side. Almost all settlements exists on the twilight border. A haven for smugglers and fencers."
-aliases: 
 tags:
   - location
 share: "true"
@@ -16,17 +14,17 @@ share: "true"
 | ---- | ---- | ---- | ---- |
 | 2 | 2 | 2 | 2 |
 
-This planet is tidally locked—the same side of the planet faces the star at all times. The day side is blistering. Oddly, all light sources extinguish about a kilometer into the night side. Most of the settlements are in the twilight border zone, including the capital of Ugar. Known for its lax policies regulating trade, it’s become a choice destination for smugglers and fences alike. 
+This planet is tidally locked—the same side of the planet faces the star at all times. The day side is blistering. Oddly, all light sources extinguish about a kilometer into the night side. Most of the settlements are in the twilight border zone, including the capital of Ugar. Known for its lax policies regulating trade, it’s become a choice destination for smugglers and fences alike.
 
 Special Rule
 
-Everything is available on Sonhandra for a price. You can always take +1d to acquire assets, but on a 1-3 roll the asset also comes with strings (even if you boost the result with cred). 
+Everything is available on Sonhandra for a price. You can always take +1d to acquire assets, but on a 1-3 roll the asset also comes with strings (even if you boost the result with cred).
 
 # Vibe
 
 ---
 
-Perpetual twilight amid paved streets and concrete buildings. Howling of frequent wind storms between the two regions. Masked and cloaked strangers congregating around a steel warehouse before an auction begins. Row after row of ships parked in the open dirt on the outskirts of Ugar. 
+Perpetual twilight amid paved streets and concrete buildings. Howling of frequent wind storms between the two regions. Masked and cloaked strangers congregating around a steel warehouse before an auction begins. Row after row of ships parked in the open dirt on the outskirts of Ugar.
 
 ---
 
@@ -52,7 +50,7 @@ Mercenary turned Nyct farmer. Knows where and how to hide ships on the night sid
 
 ---
 
-## Osha 
+## Osha
 
 Nyct-smoking, grizzled ex-Legionnaire. Runs the Three Suns, a gambling den and the biggest local dive. (deadly, retired, steely)
 
