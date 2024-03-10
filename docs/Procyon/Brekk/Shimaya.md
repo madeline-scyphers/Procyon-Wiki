@@ -1,13 +1,11 @@
 ---
 summary: A desert planet split between mining in the pits and academics at the sectors preeminent institution.
-aliases: 
 tags:
   - location
 share: "true"
 ---
 ---
 summary: "A desert planet split between mining in the pits and academics at the sectors preeminent institution."
-aliases: 
 tags:
   - location
 share: "true"
@@ -52,7 +50,7 @@ Minerals trader with a load of stolen goods she needs to move. In hiding after h
 
 ---
 
-## Sahar 
+## Sahar
 
 Strange-suited mystic that lives in the desert. (odd, blue-eyed, ancient)
 
