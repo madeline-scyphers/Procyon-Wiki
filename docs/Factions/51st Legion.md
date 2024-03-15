@@ -6,7 +6,7 @@ faction_type: Hegemony
 share: "true"
 location:
   - "[[Procyon|Procyon]]"
-tier: "3"
+tier: "1"
 nature: A faction of the Hegemonic military preparing a coup.
 allies:
   - "[[Factions/House Malklaith|Factions/House Malklaith]]"
@@ -39,7 +39,7 @@ situation: Tallon earned commendations on the battlefield but swore to cleanse t
 
 ## Tier
 
-3
+1
 
 ## Goals
 
