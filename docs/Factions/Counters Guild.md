@@ -23,7 +23,7 @@ hostile:
   - "[[Guild of Engineers|Guild of Engineers]]"
 war: []
 goals:
-  - Disrupt the [[Guild of Engineers|Guild of Engineers]]’ mining operation.
+  - Disrupt the [[Guild of Engineers|Guild of Engineers]]’s mining operation.
 notable assets:
   - Shadow vaults unknown even to the Hegemon.
   - An ansible network relay.
@@ -42,7 +42,7 @@ situation: Torx is playing Guild politics, aiming to show that the [[Guild of En
 
 ## Goals
 
-Disrupt the [[Guild of Engineers|Guild of Engineers]]’ mining operation.
+Disrupt the [[Guild of Engineers|Guild of Engineers]]’s mining operation.
 
 ## Nature
 
@@ -126,9 +126,8 @@ Torx is playing Guild politics, aiming to show that the [[Guild of Engineers|Gui
 [[Factions/Guild of Engineers.md|Guild of Engineers]]
 
 
-| Hostile From                 |
-| ---------------------------- |
-| [[Factions/Vorex.md\|Vorex]] |
+| Hostile From |
+| ------------ |
 
 
 
