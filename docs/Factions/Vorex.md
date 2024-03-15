@@ -19,7 +19,7 @@ hostile:
   - "[[Factions/Counters Guild|Factions/Counters Guild]]"
 war: []
 goals:
-  - figure out who has her sister
+  - [redacted] %% figure out who has her sister %%
 notable assets:
   - An artifact AI core designed to interface with a living being, allowing temporary connection to computers in the same system.
   - A massive information network. Dirt on pretty much everyone in the sector.
@@ -38,39 +38,39 @@ Vorex is a 27 year old genius hacker. She has long neon purple hair with cyberne
 
 ## Tier
 
-4
+
 
 ## Goals
 
-figure out who has her sister
+
 
 ## Nature
 
-The most successful information broker to ever live. Can access any terminal in the sector—though no one can explain how.
+
 
 ## Location
 
-[[Procyon/Rin.md|Rin]],[[Procyon/Rin/Warren.md|Warren]]
+
 
 ## Turf
 
-An automated [[Factions/Hegemonic News Network|HNN]] satellite orbiting [[Procyon/Rin/Warren|Procyon/Rin/Warren]] (HQ).
+
 
 ## Notable NPCs
 
-Vorex (wizard-class hacker, stressed, careful, self-modified).,A-OM (maintenance Urbot, cheerful, non-verbal).,Tock (security Urbot, protective, staticky, well armed).
+
 
 ## Notable Assets
 
-An artifact AI core designed to interface with a living being, allowing temporary connection to computers in the same system.,A massive information network. Dirt on pretty much everyone in the sector.
+
 
 ## Quirks
 
-Few have met Vorex in person; most talk to her through a random terminal or Urbot-delivered message.
+
 
 ## Situation
 
-Vorex has been an information broker for years. Using an Ur artifact, she's developed a massive network for buying and selling information. The [[Factions/Counters Guild|Factions/Counters Guild]] kidnapped her sister to make Vorex access the [[Factions/Guild of Engineers|Factions/Guild of Engineers]]' network. Vorex seeks to free her sister without tipping her hand.
+
 
 ## Allies With
 
@@ -91,7 +91,7 @@ Vorex has been an information broker for years. Using an Ur artifact, she's deve
 
 ## Helpful With
 
-[[Factions/Conclave 01.md|Conclave 01]]
+
 
 | Helpful From |
 | ------------ |
@@ -120,7 +120,7 @@ Vorex has been an information broker for years. Using an Ur artifact, she's deve
 
 ## Hostile With
 
-[[Factions/Counters Guild.md|Counters Guild]]
+
 
 
 | Hostile From |
