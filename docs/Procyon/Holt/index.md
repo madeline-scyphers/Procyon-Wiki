@@ -17,7 +17,7 @@ share: "true"
 ---
 Holt was the second [[Procyon|Procyon]] system to be colonized, though the [[Rin|Rin]] Holt gate was troublesome to stabilize. Hegemonic scientists eventually found a series of Ur keys in the system that forced the gate to consistently lead to Holt. The gate remains temperamental, however, and has been known to open on its own. No ships have come through during these spontaneous openings—so far. The Holt system star burns white, though it is far older than stars of this type should be, which Hegemonic scientists attribute to ancient Ur manipulation. Because of Holt's influence from the Ur, or the continual belief in [[The Way|The Way]], or whatever it is, whenever in Holt anything can happen.
 
-Because the Holt gate remains temperamental, the population ([[Yonalowda|Yonalowda]]) from before the Hegemonic empire remains strong there, causing frequent rebellion, and workplace problems.
+Because the Holt gate remains temperamental, the population ([[Lonalowda|Lonalowda]]) from before the Hegemonic empire remains strong there, causing frequent rebellion, and workplace problems.
 
 # Locations
 
