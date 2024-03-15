@@ -92,9 +92,8 @@ A mishap with the [[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate will restore them
 
 
 
-| Helpful From                         |
-| ------------------------------------ |
-| [[Factions/Suneaters.md\|Suneaters]] |
+| Helpful From |
+| ------------ |
 
 
 ## Neutral With
