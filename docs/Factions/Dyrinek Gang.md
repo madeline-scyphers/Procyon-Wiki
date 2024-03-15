@@ -7,7 +7,7 @@ location:
   - "[[Rin|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "1"
-nature: Mostly young disenfranchised xenos who have turned to crime and found strength and solidarity with each other.
+nature: Mostly young disenfranchised xenos and punks who have turned to crime and found strength and solidarity with each other.
 allies: 
 friendly:
   - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
@@ -19,7 +19,7 @@ hostile:
   - "[[Factions/Hegemonic News Network|Factions/Hegemonic News Network]]"
 war: 
 goals:
-  - Take over the [[Factions/Hegemonic News Network|Factions/Hegemonic News Network]].
+  - Steal from the [[Counters Guild|Counters Guild]] and distribute the earnings to forgotten
 notable assets:
   - A collection of high-end hoverbikes.
   - Minor artifacts some of the leaders have attached to themselves.
@@ -42,7 +42,7 @@ location:
   - "[[Rin|Rin]]"
   - "[[Procyon/Rin/Warren|Warren]]"
 tier: "1"
-nature: Mostly young disenfranchised xenos who have turned to crime and found strength and solidarity with each other.
+nature: Mostly young disenfranchised xenos and punks who have turned to crime and found strength and solidarity with each other.
 allies:
 friendly:
   - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
@@ -54,7 +54,7 @@ hostile:
   - "[[Factions/Hegemonic News Network|Factions/Hegemonic News Network]]"
 war:
 goals:
-  - Take over the [[Factions/Hegemonic News Network|Factions/Hegemonic News Network]].
+  - Steal from the [[Counters Guild|Counters Guild]] and distribute the earnings to forgotten
 notable assets:
   - A collection of high-end hoverbikes.
   - Minor artifacts some of the leaders have attached to themselves.
@@ -73,11 +73,11 @@ situation: The gang has had run-ins with System police, and the Hegemonic News N
 
 ## Goals
 
-Take over the [[Factions/Hegemonic News Network|Factions/Hegemonic News Network]].
+Steal from the [[Counters Guild|Counters Guild]] and distribute the earnings to forgotten
 
 ## Nature
 
-Mostly young disenfranchised xenos who have turned to crime and found strength and solidarity with each other.
+Mostly young disenfranchised xenos and punks who have turned to crime and found strength and solidarity with each other.
 
 ## Location
 

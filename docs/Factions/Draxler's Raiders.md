@@ -22,7 +22,7 @@ hostile:
   - "[[Factions/51st Legion|Factions/51st Legion]]"
 war: []
 goals:
-  - Not specified in the provided text.
+  - pull off jailbreak at [[Isotropa Max Secure|Isotropa Max Secure]]
 notable assets:
   - Mining ships retrofitted with grapplers.
   - Heat shields for surviving in the Ring of Fire.
@@ -44,7 +44,7 @@ situation: Draxler has made a lot of waves since taking over the Raiders, making
 
 ## Goals
 
-Not specified in the provided text.
+pull off jailbreak at [[Isotropa Max Secure|Isotropa Max Secure]]
 
 ## Nature
 

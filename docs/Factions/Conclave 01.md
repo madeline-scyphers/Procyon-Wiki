@@ -91,9 +91,8 @@ The Prime wants to found an Urbot homeland but needs numbers to do so. Having sp
 
 [[Factions/Concordiat Knights.md|Concordiat Knights]],[[Factions/The Maelstrom.md|The Maelstrom]]
 
-| Helpful From                 |
-| ---------------------------- |
-| [[Factions/Vorex.md\|Vorex]] |
+| Helpful From |
+| ------------ |
 
 
 ## Neutral With
