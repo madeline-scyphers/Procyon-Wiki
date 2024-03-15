@@ -124,8 +124,8 @@ When the [[Rin|Rin]]-[[Procyon/Holt/Holt|Procyon/Holt/Holt]] gate was first open
 
 | Frinendly From                                           |
 | -------------------------------------------------------- |
-| [[Factions/51st Legion.md\|51st Legion]]                 |
 | [[Factions/Cult of the Seekers.md\|Cult of the Seekers]] |
+| [[Factions/51st Legion.md\|51st Legion]]                 |
 
 
 ## Helpful With
