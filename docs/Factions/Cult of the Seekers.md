@@ -31,7 +31,7 @@ notable npcs:
   - Yor Brah-Rahim (explorer, hot-tempered, stressed).
 turf: A small island with a research station on [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
 quirks: Many of the Cult are young ex-Legionnaires that have been personally drafted by the Hegemon’s mother and inspired by the cause.
-situation: The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. Having found a lead on [[Procyon/Brekk/Shimaya|Procyon/Brekk/Shimaya]], they’ve set up a dig site that promises to unearth at least some of the missing pieces of the Hantu gate.
+situation: The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. They have a lead on Camina Nagata, a descendant of a [[Gatwala|Gatwala]] scientist.
 ---
 ## Tier
 
@@ -67,7 +67,7 @@ Many of the Cult are young ex-Legionnaires that have been personally drafted by 
 
 ## Situation
 
-The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. Having found a lead on [[Procyon/Brekk/Shimaya|Procyon/Brekk/Shimaya]], they’ve set up a dig site that promises to unearth at least some of the missing pieces of the Hantu gate.
+The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. They have a lead on Camina Nagata, a descendant of a [[Gatwala|Gatwala]] scientist.
 
 ## Allies With
 

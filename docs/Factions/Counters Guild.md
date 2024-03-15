@@ -126,8 +126,9 @@ Torx is playing Guild politics, aiming to show that the [[Guild of Engineers|Gui
 [[Factions/Guild of Engineers.md|Guild of Engineers]]
 
 
-| Hostile From |
-| ------------ |
+| Hostile From                 |
+| ---------------------------- |
+| [[Factions/Vorex.md\|Vorex]] |
 
 
 

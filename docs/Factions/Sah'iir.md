@@ -120,9 +120,8 @@ The Sah'iir have earned their place by being too important to the Hegemony to ge
 
 
 
-| Hostile From                         |
-| ------------------------------------ |
-| [[Factions/Suneaters.md\|Suneaters]] |
+| Hostile From |
+| ------------ |
 
 
 
