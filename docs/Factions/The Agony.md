@@ -8,7 +8,7 @@ location:
   - "[[Holt|Holt]]"
   - "[[Procyon/Holt/Mem|Mem]]"
 tier: "3"
-nature: Human Cultists splicing themselves with Way creature DNA. Named for the pain most endure for their unusual abilities.
+nature: Human [[Lonalowda|Lonalowda]] splicing themselves with Way creature DNA. Named for the pain most endure for their unusual abilities.
 allies: []
 friendly:
   - "[[Factions/Dyrinek Gang|Factions/Dyrinek Gang]]"
@@ -21,7 +21,8 @@ interfering:
 hostile: []
 war: []
 goals:
-  - Move Planet Omega towards [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
+  - Ally with the Memish of Mem against the [[Hegemony|Hegemony]]
+  - Splice with aquatic beings to be able to breath underwater for Memish diplomacy
 notable assets:
   - Potent mystic powers.
   - A menagerie of undocumented Way creatures.
@@ -32,7 +33,7 @@ notable npcs:
   - Noro (mystic, calculating, enrapturing, elongated).
 turf: A platform orbiting Planet Omega (HQ). Secret chantries on [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
 quirks: Each member of the Agony is changed in some highly visible way, either with extra limbs, semi-spectral forms, or many new mouths and eyes.
-situation: Having harvested horrors from Omega’s surface, the Agony have a plan to develop the living planet. By activating sites on the surface, they intend to move it within reach of [[Procyon/Holt/Mem|Procyon/Holt/Mem]], feeding the oceans to Omega and starting a new era of its evolution.
+situation: Having harvested horrors from Omega’s surface, the Agony have plans to upgrade their biology in the war against the [[Hegemony|Hegemony]], making them stronger, faster, more resilient than most humans.
 ---
 ## Tier
 
@@ -40,11 +41,11 @@ situation: Having harvested horrors from Omega’s surface, the Agony have a pla
 
 ## Goals
 
-Move Planet Omega towards [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
+Ally with the Memish of Mem against the [[Hegemony|Hegemony]],Splice with aquatic beings to be able to breath underwater for Memish diplomacy
 
 ## Nature
 
-Human Cultists splicing themselves with Way creature DNA. Named for the pain most endure for their unusual abilities.
+Human [[Lonalowda|Lonalowda]] splicing themselves with Way creature DNA. Named for the pain most endure for their unusual abilities.
 
 ## Location
 
@@ -68,7 +69,7 @@ Each member of the Agony is changed in some highly visible way, either with extr
 
 ## Situation
 
-Having harvested horrors from Omega’s surface, the Agony have a plan to develop the living planet. By activating sites on the surface, they intend to move it within reach of [[Procyon/Holt/Mem|Procyon/Holt/Mem]], feeding the oceans to Omega and starting a new era of its evolution.
+Having harvested horrors from Omega’s surface, the Agony have plans to upgrade their biology in the war against the [[Hegemony|Hegemony]], making them stronger, faster, more resilient than most humans.
 
 ## Allies With
 
