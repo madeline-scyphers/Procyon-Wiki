@@ -30,7 +30,7 @@ interfering:
 hostile: []
 war: []
 goals:
-  - Capture Alaana of the Stellar Flame.
+  - Capture Alaana of the [[Church of Stellar Flame|Church of Stellar Flame]].
 notable assets:
   - A dreadnought.
   - Hegemony access codes for many things in the sector.
@@ -51,7 +51,7 @@ situation: The 1st Legion—the Hegemon’s private guard—rebelled when the cu
 
 ## Goals
 
-Capture Alaana of the Stellar Flame.
+Capture Alaana of the [[Church of Stellar Flame|Church of Stellar Flame]].
 
 ## Nature
 
