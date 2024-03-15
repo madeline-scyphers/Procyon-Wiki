@@ -3,7 +3,6 @@ tags:
   - faction
 faction_type: "[[Lonalowda]]"
 share: "true"
-tier: "[redacted]"
 hidden_tier: "5"
 nature: The [[Lonalowda]] who fled from the [[Hegemony|Hegemony]] when the [[Hegemony|Hegemony]] invaded [[Procyon|Procyon]], fleeing through the [[Holt|Holt]] gate to unknown space, in the process damaging it.
 hidden_goals:
@@ -18,7 +17,6 @@ tags:
   - faction
 faction_type: "[[Lonalowda]]"
 share: "true"
-tier: "[redacted]"
 hidden_tier: "5"
 nature: The [[Lonalowda]] who fled from the [[Hegemony|Hegemony]] when the [[Hegemony|Hegemony]] invaded [[Procyon|Procyon]], fleeing through the [[Holt|Holt]] gate to unknown space, in the process damaging it. 
 hidden_goals:
@@ -32,7 +30,7 @@ situation: It is unknown what happened to them and even if any of them survived 
 
 ## Tier
 
-[redacted]
+
 
 ## Goals
 
