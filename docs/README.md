@@ -10,7 +10,6 @@ A wiki for the Scum and Villainy in the [[Procyon|Procyon]] sector.
 - [[Glossary.md|Glossary]]
 - [[Procyon.md|Procyon]]
 - [[Session Notes.md|Session Notes]]
-- [[README.md|README]]
 - [[The Wire.md|The Wire]]
 
 
