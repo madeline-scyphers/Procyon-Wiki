@@ -19,16 +19,16 @@ name: Yazu
 faction: ""
 pronouns: She/Her
 location:
-  - ""
+    - ""
 role: npc
 status: active
 share: "true"
 tags:
-  - npc
+    - npc
 
 profile: A crooked cop, [[Characters/Yattu|Yattu]]'s twin sister
 friends:
-  - "[[Characters/Yattu|Yattu]]"
+    - "[[Characters/Yattu|Yattu]]"
 enemies:
 ---
 
