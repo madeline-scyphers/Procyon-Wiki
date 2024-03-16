@@ -21,14 +21,49 @@ war:
   - "[[Church of Stellar Flame|Church of Stellar Flame]]"
 goals:
   - Align the moons of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
-notable assets:
+notable_assets:
   - A bevy of Ur artifacts.
   - Stockpile of Ashtari gas.
-notable npcs:
+notable_npcs:
   - Urmak Theon (compassionate, educated, well-spoken).
   - Urmak Lesh (artificer, ex-Guilder, researcher).
   - Urley Fean (Noble, cautious, hidden, influential).
   - Rokono Maex (captain, scavenger, coarse, nonbeliever, stoic).
+turf: An undocumented Ur ruin on [[Procyon/Iota/Lithios|Procyon/Iota/Lithios]].
+quirks: Each member of the Cult wears a small vial of Ashtari gas to allow them to “commune” with their “Ur past.” These visions of lives eons ago have unearthed previously unknown ruins.
+situation: Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]] can be used to control the planetoids. The visions
+---
+---
+aliases: []
+tags:
+    - faction
+faction_type: Weird
+share: "true"
+location:
+    - "[[Iota|Iota]]"
+    - "[[Procyon/Iota/Lithios|Lithios]]"
+tier: "3"
+nature: Precursor worshipers claiming Ur descent. They inhale gases from the Ashtari Cloud to connect to their presumed ancestors.
+allies:
+    - "[[Ghosts|Ghosts]]"
+friendly:
+    - "[[Mendicants|Mendicants]]"
+helpful: []
+neutral: []
+interfering: []
+hostile: []
+war:
+    - "[[Church of Stellar Flame|Church of Stellar Flame]]"
+goals:
+    - Align the moons of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]].
+notable_assets:
+    - A bevy of Ur artifacts.
+    - Stockpile of Ashtari gas.
+notable_npcs:
+    - Urmak Theon (compassionate, educated, well-spoken).
+    - Urmak Lesh (artificer, ex-Guilder, researcher).
+    - Urley Fean (Noble, cautious, hidden, influential).
+    - Rokono Maex (captain, scavenger, coarse, nonbeliever, stoic).
 turf: An undocumented Ur ruin on [[Procyon/Iota/Lithios|Procyon/Iota/Lithios]].
 quirks: Each member of the Cult wears a small vial of Ashtari gas to allow them to “commune” with their “Ur past.” These visions of lives eons ago have unearthed previously unknown ruins.
 situation: Visions granted when inhaling Ashtari gas in sacred places about the sector indicate that Ur sites on the various moons of [[Procyon/Brekk/Nightfall|Procyon/Brekk/Nightfall]] can be used to control the planetoids. The visions
