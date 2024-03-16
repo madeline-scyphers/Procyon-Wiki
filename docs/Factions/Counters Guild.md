@@ -24,14 +24,52 @@ hostile:
 war: []
 goals:
   - Disrupt the [[Guild of Engineers|Guild of Engineers]]’s mining operation.
-notable assets:
+notable_assets:
   - Shadow vaults unknown even to the Hegemon.
   - An ansible network relay.
   - Vast wealth.
-notable npcs:
+notable_npcs:
   - Torx Verron (chief executive, calculating, ruthless, expansionary).
   - Rintar Ix (operations head, conniving, jealous, sly).
   - Broq Vsigh (repository head, honorable, meticulous).
+turf: Numerous shadow repositories storing mysterious items in high-tech vaults, and a currency exchange on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
+quirks: Counters Guild members sign contracts for cycles of labor at a time and are paid up-front. Any breach of the contract can be punished harshly.
+situation: Torx is playing Guild politics, aiming to show that the [[Guild of Engineers|Guild of Engineers]]. He's spent vast sums on this, betting he’ll get it back once the Counters take over.
+---
+---
+aliases: []
+tags:
+    - faction
+faction_type: Hegemony
+share: "true"
+location:
+    - "[[Rin|Rin]]"
+    - "[[Procyon/Rin/Warren|Warren]]"
+tier: "4"
+nature: Maintains the galactic currency network and shadow repositories in each system.
+allies: []
+friendly:
+    - "[[Starless Veil|Starless Veil]]"
+    - "[[Scarlet Wolves|Scarlet Wolves]]"
+helpful:
+    - "[[Factions/Sah'iir|Sah'iir]]"
+neutral: []
+interfering:
+    - "[[Vorex|Vorex]]"
+    - "[[Borniko Syndicate|Borniko Syndicate]]"
+hostile:
+    - "[[Guild of Engineers|Guild of Engineers]]"
+war: []
+goals:
+    - Disrupt the [[Guild of Engineers|Guild of Engineers]]’s mining operation.
+notable_assets:
+    - Shadow vaults unknown even to the Hegemon.
+    - An ansible network relay.
+    - Vast wealth.
+notable_npcs:
+    - Torx Verron (chief executive, calculating, ruthless, expansionary).
+    - Rintar Ix (operations head, conniving, jealous, sly).
+    - Broq Vsigh (repository head, honorable, meticulous).
 turf: Numerous shadow repositories storing mysterious items in high-tech vaults, and a currency exchange on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
 quirks: Counters Guild members sign contracts for cycles of labor at a time and are paid up-front. Any breach of the contract can be punished harshly.
 situation: Torx is playing Guild politics, aiming to show that the [[Guild of Engineers|Guild of Engineers]]. He's spent vast sums on this, betting he’ll get it back once the Counters take over.
