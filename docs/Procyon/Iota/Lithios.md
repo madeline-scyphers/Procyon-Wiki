@@ -7,7 +7,7 @@ share: "true"
 ---
 summary: "Ancent ice palaces dot the surface from a race long gone. A few mining settlements are kept warm with orbital mirrors."
 tags:
-  - location
+    - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |

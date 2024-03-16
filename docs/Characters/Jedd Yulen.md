@@ -16,6 +16,24 @@ friends:
 enemies:
   - "[[Yazu|Yazu]]"
 ---
+---
+name: Jedd Yulen
+tags:
+    - player
+role: player
+playbook: Muscle
+status: active
+pronouns: He/Him
+share: "true"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+location:
+    - "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: Wanderer and laborer
+friends:
+    - "[[Krieger|Krieger]]"
+enemies:
+    - "[[Yazu|Yazu]]"
+---
 
 ![[assets/images/jedd.png|cover hmed]]
 

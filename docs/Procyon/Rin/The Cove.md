@@ -7,7 +7,7 @@ share: "true"
 ---
 summary: "A pirate station made out of derelict ships hidden inside the Ashtari Cloud."
 tags:
-  - location
+    - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |

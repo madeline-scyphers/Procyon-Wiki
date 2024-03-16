@@ -40,7 +40,7 @@ share: "true"
 location: ""
 tier: "[redacted]"
 hidden_tier: "5"
-nature: The [[Lonalowda]] who fled from the [[Hegemony|Hegemony]] when the [[Hegemony|Hegemony]] invaded [[Procyon|Procyon]], fleeing through the [[Holt|Holt]] gate to unknown space, in the process damaging it. 
+nature: The [[Lonalowda]] who fled from the [[Hegemony|Hegemony]] when the [[Hegemony|Hegemony]] invaded [[Procyon|Procyon]], fleeing through the [[Holt|Holt]] gate to unknown space, in the process damaging it.
 allies: []
 friendly: []
 helpful: []
@@ -48,14 +48,14 @@ neutral: []
 interfering: []
 hostile: []
 war: []
-goals: 
+goals:
     - "[redacted]"
     - "[redacted]"
     - "[redacted]"
     - "[redacted]"
 hidden_goals:
     - establish Gatwala empire
-    - invade [[Procyon|Procyon]] 
+    - invade [[Procyon|Procyon]]
     - Full propaganda of Gatwala citizens
     - build up navy
 notable_assets: []

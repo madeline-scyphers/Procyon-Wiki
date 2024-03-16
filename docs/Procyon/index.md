@@ -4,6 +4,11 @@ aliases:
 share: "true"
 title: Procyon
 ---
+---
+aliases:
+    - Procyon
+share: "true"
+---
 
 ![[assets/maps/procyon.png|assets/maps/procyon.png]]
 
@@ -24,5 +29,4 @@ The sector is a burgeoning place for Syndicates, mystics, and other folks that l
 | [[Procyon/Holt.md\|Holt]]   | Holt has the most Ur influence still and a temperamental Ur gate to an unknown part of space. Holt also has the largest population from before the Hegemony.                                                                                                                                                                                                           |
 | [[Procyon/Iota.md\|Iota]]   | Iota is the main industrial system in the sector. Between the shipyards, [[Procyon/Iota/Amerath\|Amerath]]'s pharmaceuticals research and production, and [[Procyon/Iota/Indri\|Indri]]'s factories, a plurality of goods/ships/medicine/etc are produced in Iota.                                                                                                     |
 | [[Procyon/Rin.md\|Rin]]     | The entry point to the [[Procyon|Procyon]] sector. Simultaneously the seat of The [[Characters/Governor Ritam al’Malklaith\|Governor]] as well as a hot bed of crime and a forgotten home of the poor.                                                                                                                                                                         |
-
 

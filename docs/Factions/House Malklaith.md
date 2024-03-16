@@ -26,13 +26,52 @@ hostile:
 war: []
 goals:
   - Acquire the Aleph key.
-notable assets:
+notable_assets:
   - "[[Procyon/Procyon|Procyon/Procyon]] sector taxes generating vast coffers."
   - A growing collection of Precursor artifacts.
-notable npcs:
+notable_npcs:
   - "[[Governor Ritam al’Malklaith|Governor Ritam al’Malklaith]] (Noble, intense, obsessed, well-spoken)."
   - Jerrem (guard captain, tactical, scarred, loyal).
   - Shim (judge, corrupt, greedy, ambitious).
+turf: Malklaith owns the sector but the [[Characters/Governor Ritam al’Malklaith|Governor]] rarely leaves [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. His people can be found in major positions in every system of the sector.
+quirks: "[[Characters/Governor Ritam al’Malklaith|Governor Malklaith]] wears a number of strange rings of Precursor origin, the powers of which are not fully known even to him."
+situation: Disgraced after a famous duel, [[Characters/Governor Ritam al’Malklaith|Governor Malklaith]] is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.
+---
+---
+aliases: []
+tags:
+    - faction
+faction_type: Hegemony
+share: "true"
+location:
+    - "[[Rin|Rin]]"
+    - "[[Procyon/Rin/Warren|Warren]]"
+    - "[[Procyon|Procyon]]"
+tier: "3"
+nature: Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the House holds a small seat on a local moon.
+allies: []
+friendly:
+    - "[[Factions/51st Legion|Factions/51st Legion]]"
+    - "[[Factions/Nightspeakers|Factions/Nightspeakers]]"
+helpful:
+    - "[[Factions/Turner Society|Factions/Turner Society]]"
+neutral: []
+interfering:
+    - "[[Factions/The Agony|Factions/The Agony]]"
+    - "[[Factions/Ashen Knives|Factions/Ashen Knives]]"
+    - "[[Factions/The Maelstrom|Factions/The Maelstrom]]"
+hostile:
+    - "[[Factions/Lost Legion|Factions/Lost Legion]]"
+war: []
+goals:
+    - Acquire the Aleph key.
+notable_assets:
+    - "[[Procyon/Procyon|Procyon/Procyon]] sector taxes generating vast coffers."
+    - A growing collection of Precursor artifacts.
+notable_npcs:
+    - "[[Governor Ritam al’Malklaith|Governor Ritam al’Malklaith]] (Noble, intense, obsessed, well-spoken)."
+    - Jerrem (guard captain, tactical, scarred, loyal).
+    - Shim (judge, corrupt, greedy, ambitious).
 turf: Malklaith owns the sector but the [[Characters/Governor Ritam al’Malklaith|Governor]] rarely leaves [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. His people can be found in major positions in every system of the sector.
 quirks: "[[Characters/Governor Ritam al’Malklaith|Governor Malklaith]] wears a number of strange rings of Precursor origin, the powers of which are not fully known even to him."
 situation: Disgraced after a famous duel, [[Characters/Governor Ritam al’Malklaith|Governor Malklaith]] is convinced the way to regain his rightful place is by gathering Precursor secrets. He hopes this will give him the edge in the cloak and dagger world of imperial politics, though this pursuit is highly illegal.

@@ -7,7 +7,7 @@ share: "true"
 ---
 summary: "A wealthy planet made entirely of graphite and diamond. Closely monitored"
 tags:
-  - location
+    - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |

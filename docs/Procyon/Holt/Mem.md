@@ -7,7 +7,7 @@ share: "true"
 ---
 summary: "An ocean planet with aquatic xenos and strong Ur/Way influence"
 tags:
-  - location
+    - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |

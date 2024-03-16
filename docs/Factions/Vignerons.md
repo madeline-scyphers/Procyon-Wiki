@@ -25,15 +25,55 @@ hostile: []
 war: []
 goals:
   - abduct and convert elite warriors
-notable assets:
+notable_assets:
   - A few sophisticated frigates.
   - Centuries of experience.
   - A small stockpile of life-extension fluid.
   - Gain potency for a while after taking the substance.
-notable npcs:
+notable_npcs:
   - Asphodel (general, flawless, calculating, ravenous).
   - Nehemiah (warrior, ancient, brutal, huge, fast).
   - Morwenna (mystic, selective, enthralling).
+turf: Anodyne, a pleasure den on [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]] (HQ). Rust, an auction house on [[Procyon/Holt/Sonhandra|Procyon/Holt/Sonhandra]].
+quirks: Because the genetic material harvested from their kills must be suitable for the recipient, Vignerons only hunt human targets.
+situation: The Vignerons distill life essence from living victims and use it to extend their own lives. With this technology, their founders have lived for hundreds of years. Owing to its highly illegal nature, the Vignerons operate in secret, augmenting themselves and manipulating people behind the scenes. They wish to grow, converting a number of superior bodies to their cause.
+---
+---
+aliases: []
+tags:
+    - faction
+faction_type: Weird
+share: "true"
+location:
+    - "[[Iota|Iota]]"
+    - "[[Holt|Holt]]"
+    - "[[Procyon/Iota/Amerath|Amerath]]"
+    - "[[Procyon/Holt/Sonhandra|Sonhandra]]"
+tier: "3"
+nature: Pursuers of immortality via tech implants and chemical formulas distilled from the living. Several have been around for centuries.
+allies: []
+friendly: []
+helpful:
+    - "[[Factions/Borniko Syndicate|Borniko Syndicate]]"
+    - "[[Factions/Cobalt Syndicate|Cobalt Syndicate]]"
+neutral: []
+interfering:
+    - "[[Factions/The Agony|Factions/The Agony]]"
+    - "[[Factions/Church of Stellar Flame|Factions/Church of Stellar Flame]]"
+    - "[[Factions/Vigilance|Factions/Vigilance]]"
+hostile: []
+war: []
+goals:
+    - abduct and convert elite warriors
+notable_assets:
+    - A few sophisticated frigates.
+    - Centuries of experience.
+    - A small stockpile of life-extension fluid.
+    - Gain potency for a while after taking the substance.
+notable_npcs:
+    - Asphodel (general, flawless, calculating, ravenous).
+    - Nehemiah (warrior, ancient, brutal, huge, fast).
+    - Morwenna (mystic, selective, enthralling).
 turf: Anodyne, a pleasure den on [[Procyon/Iota/Amerath|Procyon/Iota/Amerath]] (HQ). Rust, an auction house on [[Procyon/Holt/Sonhandra|Procyon/Holt/Sonhandra]].
 quirks: Because the genetic material harvested from their kills must be suitable for the recipient, Vignerons only hunt human targets.
 situation: The Vignerons distill life essence from living victims and use it to extend their own lives. With this technology, their founders have lived for hundreds of years. Owing to its highly illegal nature, the Vignerons operate in secret, augmenting themselves and manipulating people behind the scenes. They wish to grow, converting a number of superior bodies to their cause.

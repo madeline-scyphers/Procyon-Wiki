@@ -19,16 +19,16 @@ name: Yattu
 faction: ""
 pronouns: She/Her
 location:
-  - ""
+    - ""
 role: npc
 status: active
 share: "true"
 tags:
-  - npc
+    - npc
 
 profile: Gang boss. [[Characters/Yazu|Yazu]]'s twin sister
 friends:
-  - "[[Characters/Yazu|Yazu]]"
+    - "[[Characters/Yazu|Yazu]]"
 enemies:
 ---
 

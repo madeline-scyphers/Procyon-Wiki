@@ -8,7 +8,7 @@ title: Warren
 ---
 summary: "A ecumenopolis on a moon of Aleph. Capitol of the system. Wealthy and well off above, poor below."
 tags:
-  - location
+    - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |

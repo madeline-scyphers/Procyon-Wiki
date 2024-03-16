@@ -25,21 +25,21 @@ name: Governor Ritam al’Malklaith
 faction: "[[Factions/House Malklaith]]"
 pronouns: He/Him
 location:
-  - "[[Procyon/Rin/Warren|Warren]]"
+    - "[[Procyon/Rin/Warren|Warren]]"
 role: npc
 status: active
 share: "true"
 tags:
-  - npc
+    - npc
 aliases:
-  - Governor
-  - Governor Malklaith
-  - Ritam Al'Malklaith
+    - Governor
+    - Governor Malklaith
+    - Ritam Al'Malklaith
 profile: |-
   Far from the Hegemon at the center of the Galaxy, a disgraced fifth son of the House holds a small seat on a local moon.
   Malklaith owns the sector but the [[Characters/Governor Ritam al’Malklaith|Governor]] rarely leaves [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. His people can be found in major positions in every system of the sector.
 friends:
-  - "[[Characters/Rocco Apple|Rocco Apple]]"
+    - "[[Characters/Rocco Apple|Rocco Apple]]"
 enemies:
 ---
 
@@ -66,5 +66,4 @@ Malklaith owns the sector but the [[Characters/Governor Ritam al’Malklaith|Gov
 
 | Enemy | Profile |
 | ----- | ------- |
-
 

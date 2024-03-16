@@ -4,6 +4,12 @@ tags:
   - location
 share: "true"
 ---
+---
+summary: "A planet where night and day is unpredictable because of the erratic solar eclipses from the 13 moons. A destination hub for traders and tourists. "
+tags:
+    - location
+share: "true"
+---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
 | ---- | ---- | ---- | ---- |
 | 2 | 1 | 2 | 1 |

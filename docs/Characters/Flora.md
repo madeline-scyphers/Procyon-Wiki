@@ -18,19 +18,39 @@ friends:
 enemies:
   - "[[Yattu|Yattu]]"
 ---
+---
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+name: Flora
+aliases:
+    - Sunflower
+tags:
+    - player
+role: player
+playbook: Pilot
+status: active
+pronouns: She/Her
+share: "true"
+location:
+    - "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: Colonist and loborer
+friends:
+    - "[[Triv|Triv]]"
+enemies:
+    - "[[Yattu|Yattu]]"
+---
 
 ![[flora.png|cover hmed]]
 
 
 |          |                  |
 | -------- | ---------------- |
-| Alias    | Sunflower | 
+| Alias    | Sunflower |
 | Pronouns | She/Her |
 | Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
 | Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
 
 # Flora
-Southern woman, grew up on farm got into racing. did some transport work. 
+Southern woman, grew up on farm got into racing. did some transport work.
 
 ## Profile
 Colonist and loborer
@@ -45,6 +65,4 @@ Colonist and loborer
 | Enemy                          | Profile                                            |
 | ------------------------------ | -------------------------------------------------- |
 | [[Characters/Yattu.md\|Yattu]] | Gang boss. [[Characters/Yazu\|Yazu]]'s twin sister |
-
-
 

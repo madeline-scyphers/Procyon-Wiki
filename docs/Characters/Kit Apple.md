@@ -21,12 +21,35 @@ friends:
 enemies:
   - "[[Stev|Stev]]"
 ---
+---
+name: Kit Apple
+aliases:
+    - Flex
+    - Kittrel Arimaus Kisandral  Fredal Massik Amidaeus Arranda Mika Miika Mocha Miracha Sinda Apple
+    - Kit
+tags:
+    - player
+role: player
+playbook: Mechanic
+status: active
+pronouns: They/Them
+share: "true"
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+location:
+    - "[[Factions/Rusty Nail|Rusty Nail]]"
+profile: Spent whole life on ships. Worked as a ship laborer.
+friends:
+    - "[[Slice|Slice]]"
+    - "[[Characters/Rocco Apple|Rocco Apple]]"
+enemies:
+    - "[[Stev|Stev]]"
+---
 
 ![[assets/images/kit.png|cover hmed]]
 
 |          |                  |
 | -------- | ---------------- |
-| Alias    | Flex,Kittrel Arimaus Kisandral  Fredal Massik Amidaeus Arranda Mika Miika Mocha Miracha Sinda Apple,Kit | 
+| Alias    | Flex,Kittrel Arimaus Kisandral  Fredal Massik Amidaeus Arranda Mika Miika Mocha Miracha Sinda Apple,Kit |
 | Pronouns | They/Them |
 | Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
 | Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
@@ -50,5 +73,4 @@ Spent whole life on ships. Worked as a ship laborer.
 | Enemy                        | Profile                 |
 | ---------------------------- | ----------------------- |
 | [[Characters/Stev.md\|Stev]] | A gambler of ill repute |
-
 

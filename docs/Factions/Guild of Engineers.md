@@ -25,14 +25,53 @@ hostile:
 war: 
 goals:
   - Convert a trade platform into a Way siphon.
-notable assets:
+notable_assets:
   - Technology even the Hegemon is unaware of, stored in the Grand Archive.
   - Secret research laboratories.
-notable npcs:
+notable_npcs:
   - Avalon Riat (chief executive, cybernetic spider legs, megalomaniac).
   - Thiel Kharrat (operations head, brutal, connected, influential).
   - Oevers Star (head researcher, genius, reclusive, overworked).
   - Yast Jor (commanding, shrewd, bold).
+turf: "[[Procyon/Rin/SB-176]]"
+quirks: Many high-ranking Guild members sport custom cybernetics.
+situation: Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governor Ritam al’Malklaith|Governor]]'s ability to police. They are exploiting this remote sector to perform experiments banned by the Cults and the Hegemon. Their current project involves converting Way energy into a highly unstable but physical compound.
+---
+---
+aliases:
+    - The Guild
+tags:
+    - faction
+faction_type: Hegemony
+share: "true"
+location:
+    - "[[Rin|Rin]]"
+    - "[[Procyon/Rin/SB-176|SB-176]]"
+tier: "5"
+nature: One of the Hegemonic High Guilds responsible for resource acquisition, cybernetics, AI tech advancement, and research.
+allies:
+friendly:
+    - "[[Factions/51st Legion|Factions/51st Legion]]"
+    - "[[Factions/Isotropa Max Secure|Factions/Isotropa Max Secure]]"
+helpful:
+neutral:
+interfering:
+    - "[[Factions/Borniko Syndicate|Factions/Borniko Syndicate]]"
+    - "[[Factions/Cobalt Syndicate|Factions/Cobalt Syndicate]]"
+    - "[[Factions/Conclave 01|Factions/Conclave 01]]"
+    - "[[Factions/Counters Guild|Factions/Counters Guild]]"
+hostile:
+war:
+goals:
+    - Convert a trade platform into a Way siphon.
+notable_assets:
+    - Technology even the Hegemon is unaware of, stored in the Grand Archive.
+    - Secret research laboratories.
+notable_npcs:
+    - Avalon Riat (chief executive, cybernetic spider legs, megalomaniac).
+    - Thiel Kharrat (operations head, brutal, connected, influential).
+    - Oevers Star (head researcher, genius, reclusive, overworked).
+    - Yast Jor (commanding, shrewd, bold).
 turf: "[[Procyon/Rin/SB-176]]"
 quirks: Many high-ranking Guild members sport custom cybernetics.
 situation: Decadent and powerful, the Guild of Engineers is beyond the [[Characters/Governor Ritam al’Malklaith|Governor]]'s ability to police. They are exploiting this remote sector to perform experiments banned by the Cults and the Hegemon. Their current project involves converting Way energy into a highly unstable but physical compound.

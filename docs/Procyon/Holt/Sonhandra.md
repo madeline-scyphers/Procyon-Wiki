@@ -7,7 +7,7 @@ share: "true"
 ---
 summary: "A tidally locked planet where all lights extinguish a kilometer into the night side. Almost all settlements exists on the twilight border. A haven for smugglers and fencers."
 tags:
-  - location
+    - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |

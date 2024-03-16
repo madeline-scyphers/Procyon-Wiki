@@ -22,10 +22,10 @@ role: npc
 status: active
 share: "true"
 tags:
-  - npc
+    - npc
 profile: "Reporter, incredibly smart and great interviewer/interigator. He and [[Stacy Weathers|Stacy Weathers]] are trying to start and alternative free news source to the [[Hegemonic News Network|Hegemonic News Network]]"
-friends: 
-  - "[[Stacy Weathers|Stacy Weathers]]"
+friends:
+    - "[[Stacy Weathers|Stacy Weathers]]"
 enemies: []
 ---
 
@@ -46,5 +46,4 @@ Reporter, incredibly smart and great interviewer/interigator. He and [[Stacy Wea
 [[Characters/Stacy Weathers.md|Stacy Weathers]]
 
 ## Enemies
-
 

@@ -19,17 +19,17 @@ enemies: ""
 name: Myrk
 faction: "[[Dyrinek Gang]]"
 pronouns: "They/them"
-location: 
-  - "[[Warren|Warren]]"
+location:
+    - "[[Warren|Warren]]"
 role: npc
 status: active
 share: "true"
 tags:
-  - npc
+    - npc
 profile: "Spunky punky teen with the [[Dyrinek Gang]]. Love working on their racer."
-friends: 
-  - "[[Ibo-one|Ibo]]"
-  - "[[Giro|Giro]]"
+friends:
+    - "[[Ibo-one|Ibo]]"
+    - "[[Giro|Giro]]"
 enemies: ""
 ---
 
@@ -49,5 +49,4 @@ Spunky punky teen with the [[Dyrinek Gang]]. Love working on their racer.
 [[Characters/Ibo-one.md|Ibo]],[[Characters/Giro.md|Giro]]
 
 ## Enemies
-
 
