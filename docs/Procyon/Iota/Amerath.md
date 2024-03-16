@@ -7,7 +7,7 @@ share: "true"
 ---
 summary: "Lush planet with many plants with medicinal properties. A pharmaceuticals research and manufacturing system set up on the planet. Most drugs in the system come from Amerath."
 tags:
-  - location
+    - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
