@@ -22,13 +22,48 @@ hostile:
 war: []
 goals:
   - Open the Hantu gate.
-notable assets:
+notable_assets:
   - Extensive Guild schematics of other gates.
   - Hegemonic sanction to retrieve artifacts.
   - A large stockpile of artifacts.
-notable npcs:
+notable_npcs:
   - Lasaya al’Nim-Amar (Noble, mystic, brilliant, obsessed).
   - Yor Brah-Rahim (explorer, hot-tempered, stressed).
+turf: A small island with a research station on [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
+quirks: Many of the Cult are young ex-Legionnaires that have been personally drafted by the Hegemon’s mother and inspired by the cause.
+situation: The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. They have a lead on Camina Nagata, a descendant of a [[Gatwala|Gatwala]] scientist.
+---
+---
+aliases: []
+tags:
+    - faction
+faction_type: Hegemony
+share: "true"
+location:
+    - "[[Procyon/Holt/Mem|Mem]]"
+    - "[[Holt|Holt]]"
+tier: "2"
+nature: Wandering mystics studying artifacts and exploring, looking to open the Hantu gate. Members include the Hegemon’s mother.
+allies: []
+friendly:
+    - "[[Factions/Starsmiths Guild|Factions/Starsmiths Guild]]"
+helpful:
+    - "[[Factions/Hegemonic News Network|Factions/Hegemonic News Network]]"
+neutral: []
+interfering:
+    - "[[Factions/Ghosts|Factions/Ghosts]]"
+hostile:
+    - "[[Factions/Church of Stellar Flame|Factions/Church of Stellar Flame]]"
+war: []
+goals:
+    - Open the Hantu gate.
+notable_assets:
+    - Extensive Guild schematics of other gates.
+    - Hegemonic sanction to retrieve artifacts.
+    - A large stockpile of artifacts.
+notable_npcs:
+    - Lasaya al’Nim-Amar (Noble, mystic, brilliant, obsessed).
+    - Yor Brah-Rahim (explorer, hot-tempered, stressed).
 turf: A small island with a research station on [[Procyon/Holt/Mem|Procyon/Holt/Mem]].
 quirks: Many of the Cult are young ex-Legionnaires that have been personally drafted by the Hegemon’s mother and inspired by the cause.
 situation: The Seekers believe they have a holy imperative to expand the Hegemony to the farthest reaches of space. They have a lead on Camina Nagata, a descendant of a [[Gatwala|Gatwala]] scientist.
