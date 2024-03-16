@@ -23,14 +23,51 @@ hostile: []
 war: []
 goals:
   - Find blackmail material on [[Characters/Governor Ritam al’Malklaith|Governor]] Malklaith.
-notable assets:
+notable_assets:
   - Sector-wide communications.
   - Many independent journalists feeding them news.
-notable npcs:
+notable_npcs:
   - Cinszo (owner, ambitious, greedy, untrustworthy).
   - Rinsama Kay (chief editor, cynical, demanding, stickler).
   - Ooxoo (xeno press pool manager, curious).
   - Stacy Weathers (ace reporter, trained spy, nose for trouble).
+turf: "[[Factions/Hegemonic News Network|Hegemonic News Network]] Corporate Offices on [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. Field offices on every planet."
+quirks: The bulk of the HNN’s workforce are contractors selling stories they find to HNN. Many reporters are also trained spies.
+situation: The HNN is effectively the private intelligence agency of Cinszo, using its media influence to sway public opinion and gather intelligence.
+---
+---
+aliases:
+    - HNN
+tags:
+    - faction
+faction_type: Hegemony
+share: "true"
+location:
+    - "[[Procyon|Procyon]]"
+    - "[[Rin|Rin]]"
+    - "[[Procyon/Rin/Warren|Warren]]"
+tier: "2"
+nature: Those who control the media control the mind. Often use this as leverage over other factions.
+allies:
+    - "[[Starless Veil|Starless Veil]]"
+friendly: []
+helpful: []
+neutral: []
+interfering:
+    - "[[Dyrinek Gang|Dyrinek Gang]]"
+    - "[[Mendicants|Mendicants]]"
+hostile: []
+war: []
+goals:
+    - Find blackmail material on [[Characters/Governor Ritam al’Malklaith|Governor]] Malklaith.
+notable_assets:
+    - Sector-wide communications.
+    - Many independent journalists feeding them news.
+notable_npcs:
+    - Cinszo (owner, ambitious, greedy, untrustworthy).
+    - Rinsama Kay (chief editor, cynical, demanding, stickler).
+    - Ooxoo (xeno press pool manager, curious).
+    - Stacy Weathers (ace reporter, trained spy, nose for trouble).
 turf: "[[Factions/Hegemonic News Network|Hegemonic News Network]] Corporate Offices on [[Procyon/Rin/Warren|Procyon/Rin/Warren]]. Field offices on every planet."
 quirks: The bulk of the HNN’s workforce are contractors selling stories they find to HNN. Many reporters are also trained spies.
 situation: The HNN is effectively the private intelligence agency of Cinszo, using its media influence to sway public opinion and gather intelligence.
