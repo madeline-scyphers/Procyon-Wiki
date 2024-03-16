@@ -19,16 +19,16 @@ name: Triv
 faction: ""
 pronouns: She/Her
 location:
-  - ""
+    - ""
 role: npc
 status: active
 share: "true"
 tags:
-  - npc
+    - npc
 
 profile: A ship mechanic
 friends:
-  - "[[Characters/Flora|Flora]]"
+    - "[[Characters/Flora|Flora]]"
 enemies:
 ---
 
