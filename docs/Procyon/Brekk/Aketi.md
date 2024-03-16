@@ -7,7 +7,7 @@ share: "true"
 ---
 summary: "A jungle covered planet incredibly hostile to people."
 tags:
-  - location
+    - location
 share: "true"
 
 ---
