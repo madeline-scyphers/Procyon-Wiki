@@ -24,13 +24,50 @@ war:
   - "[[Factions/Counters Guild|Factions/Counters Guild]]"
 goals:
   - Steal [[Characters/Governor Ritam al’Malklaith|Governor Malklaith]]’s rings.
-notable assets:
+notable_assets:
   - An entire vault of Guild technology.
-notable npcs:
+notable_npcs:
   - Ria “Keycard” (wizard-class hacker, ambitious, daring).
   - Nals E (Urboticist, gearhead, muscled).
   - MaxiMillions (arrogant, expert infiltrator, gorgeous).
   - Pip (mystic xeno, small, unsettling).
+turf: A former [[Factions/Counters Guild|Factions/Counters Guild]] shadow repository that the Syndicate managed to erase from the Guild ledgers.
+quirks: Joining the Borniko Syndicate involves pulling off a heist that impresses the leadership.
+situation: The Borniko have been working on bigger and bigger heists.
+---
+---
+aliases: []
+tags:
+    - faction
+faction_type: Criminal
+share: "true"
+location:
+    - "[[Procyon/Rin/Warren|Warren]]"
+    - "[[Rin|Rin]]"
+tier: "3"
+nature: A tightly knit group of thieves who steal high-end technological supplies.
+allies:
+    - "[[Factions/Conclave 01|Factions/Conclave 01]]"
+friendly:
+    - "[[Factions/Echo Wave Riders|Factions/Echo Wave Riders]]"
+helpful:
+    - "[[Factions/Wreckers|Factions/Wreckers]]"
+neutral: []
+interfering:
+    - "[[Factions/Starsmiths Guild|Factions/Starsmiths Guild]]"
+hostile:
+    - "[[Factions/Guild of Engineers|Factions/Guild of Engineers]]"
+war:
+    - "[[Factions/Counters Guild|Factions/Counters Guild]]"
+goals:
+    - Steal [[Characters/Governor Ritam al’Malklaith|Governor Malklaith]]’s rings.
+notable_assets:
+    - An entire vault of Guild technology.
+notable_npcs:
+    - Ria “Keycard” (wizard-class hacker, ambitious, daring).
+    - Nals E (Urboticist, gearhead, muscled).
+    - MaxiMillions (arrogant, expert infiltrator, gorgeous).
+    - Pip (mystic xeno, small, unsettling).
 turf: A former [[Factions/Counters Guild|Factions/Counters Guild]] shadow repository that the Syndicate managed to erase from the Guild ledgers.
 quirks: Joining the Borniko Syndicate involves pulling off a heist that impresses the leadership.
 situation: The Borniko have been working on bigger and bigger heists.
