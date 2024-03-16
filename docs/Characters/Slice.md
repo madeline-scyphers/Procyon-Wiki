@@ -14,6 +14,22 @@ friends:
   - "[[Characters/Kit Apple|Kit Apple]]"
 enemies: []
 ---
+---
+name: Slice
+faction: ""
+pronouns: ""
+location: ""
+role: npc
+status: active
+share: "true"
+tags:
+    - npc
+aliases: []
+profile: Junkyard owner
+friends:
+    - "[[Characters/Kit Apple|Kit Apple]]"
+enemies: []
+---
 
 
 |  |  |
@@ -37,5 +53,4 @@ Junkyard owner
 
 | Enemy | Profile |
 | ----- | ------- |
-
 
