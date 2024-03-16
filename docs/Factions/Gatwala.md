@@ -54,10 +54,10 @@ goals:
     - "[redacted]"
     - "[redacted]"
 hidden_goals:
-  - establish Gatwala empire
-  - invade [[Procyon|Procyon]] 
-  - Full propaganda of Gatwala citizens
-  - build up navy
+    - establish Gatwala empire
+    - invade [[Procyon|Procyon]] 
+    - Full propaganda of Gatwala citizens
+    - build up navy
 notable assets: []
 notable npcs: []
 turf: ""
