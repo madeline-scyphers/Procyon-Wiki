@@ -22,14 +22,50 @@ hostile:
 war: []
 goals:
   - Cause civil unrest on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
-notable assets:
+notable_assets:
   - A network of spies.
   - High-tech gadgets.
   - A few ships with cloaking devices.
-notable npcs:
+notable_npcs:
   - Joina Starlight (leader, analyst, tactician, charming).
   - Agent Phasic (infiltrator, engineer, risk-taker).
   - Agent N’Paya Wayline (diplomat, connected, collector).
+turf: The Veil holds no turf except the occasional safe house or place to reload and rearm on missions.
+quirks: All members of the Veil have had advanced mental training to resist interrogation and Way powers.
+situation: The Veil serves the Hegemony itself, even above the Hegemon. When power struggles from the Core spill out into the rim, the Veil follows.
+---
+---
+aliases:
+    - SLV
+tags:
+    - faction
+faction_type: Hegemony
+share: "true"
+location: []
+tier: "4"
+nature: Spies and Hegemonic counterintelligence, seeking to undermine the Governor to make a case for change in House control.
+allies: []
+friendly: []
+helpful:
+    - "[[Factions/Dyrinek Gang|Dyrinek Gang]]"
+    - "[[Factions/The Maelstrom|The Maelstrom]]"
+neutral: []
+interfering:
+    - "[[Factions/Starsmiths Guild|Starsmiths Guild]]"
+    - "[[Factions/Guild of Engineers|Guild of Engineers]]"
+hostile:
+    - "[[Factions/Yaru|Yaru]]"
+war: []
+goals:
+    - Cause civil unrest on [[Procyon/Rin/Warren|Procyon/Rin/Warren]].
+notable_assets:
+    - A network of spies.
+    - High-tech gadgets.
+    - A few ships with cloaking devices.
+notable_npcs:
+    - Joina Starlight (leader, analyst, tactician, charming).
+    - Agent Phasic (infiltrator, engineer, risk-taker).
+    - Agent N’Paya Wayline (diplomat, connected, collector).
 turf: The Veil holds no turf except the occasional safe house or place to reload and rearm on missions.
 quirks: All members of the Veil have had advanced mental training to resist interrogation and Way powers.
 situation: The Veil serves the Hegemony itself, even above the Hegemon. When power struggles from the Core spill out into the rim, the Veil follows.
