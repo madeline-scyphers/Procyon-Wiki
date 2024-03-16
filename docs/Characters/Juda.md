@@ -14,6 +14,22 @@ friends:
   - "[[Characters/Leto Ramus|Leto Ramus]]"
 enemies: []
 ---
+---
+name: Juda
+faction: ""
+pronouns: ""
+location: []
+role: npc
+status: active
+share: "true"
+tags:
+    - npc
+aliases: []
+profile: A doctor
+friends:
+    - "[[Characters/Leto Ramus|Leto Ramus]]"
+enemies: []
+---
 
 
 |  |  |
@@ -37,7 +53,4 @@ A doctor
 
 | Enemy | Profile |
 | ----- | ------- |
-
-
-
 
