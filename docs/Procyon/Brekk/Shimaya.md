@@ -7,7 +7,7 @@ share: "true"
 ---
 summary: "A desert planet split between mining in the pits and academics at the sectors preeminent institution."
 tags:
-  - location
+    - location
 share: "true"
 ---
 | **Wealth** | **Crime** | **Tech** | **Weird** |
