@@ -9,7 +9,7 @@ share: "true"
 summary: "The warehouse that [[Ibo-one|Ibo]] reporposed into a place for kids and teens to get off the street. Used by the [[Dyrinek Gang|Dyrinek Gang]] to coordinate what they do."
 aliases: []
 tags:
-  - location
+    - location
 share: "true"
 ---
 
