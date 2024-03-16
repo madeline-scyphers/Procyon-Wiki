@@ -12,7 +12,6 @@ tags:
 profile: Gang boss. [[Characters/Yazu|Yazu]]'s twin sister
 friends:
   - "[[Characters/Yazu|Yazu]]"
-enemies: 
 ---
 ---
 name: Yattu
@@ -29,7 +28,6 @@ tags:
 profile: Gang boss. [[Characters/Yazu|Yazu]]'s twin sister
 friends:
     - "[[Characters/Yazu|Yazu]]"
-enemies:
 ---
 
 
