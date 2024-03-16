@@ -25,8 +25,8 @@ hidden_goals:
   - invade [[Procyon|Procyon]]
   - Full propaganda of Gatwala citizens
   - build up navy
-notable assets: []
-notable npcs: []
+notable_assets: []
+notable_npcs: []
 turf: ""
 quirks: ""
 situation: It is unknown what happened to them and even if any of them survived or what they look like now. Gatwala translates to "People of the Gate", but colloquially it means "traitor to your people." It is often a slur used by one [[Lonalowda]] to another if they are viewed as giving up the fight against the [[Hegemony|Hegemony]].
@@ -58,8 +58,8 @@ hidden_goals:
     - invade [[Procyon|Procyon]] 
     - Full propaganda of Gatwala citizens
     - build up navy
-notable assets: []
-notable npcs: []
+notable_assets: []
+notable_npcs: []
 turf: ""
 quirks: ""
 situation: It is unknown what happened to them and even if any of them survived or what they look like now. Gatwala translates to "People of the Gate", but colloquially it means "traitor to your people." It is often a slur used by one [[Lonalowda]] to another if they are viewed as giving up the fight against the [[Hegemony|Hegemony]].
