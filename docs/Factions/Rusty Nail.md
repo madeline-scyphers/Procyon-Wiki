@@ -16,13 +16,39 @@ hostile:
   - "[[Factions/Ashen Knives|Ashen Knives]]"
 war: 
 goals: 
-notable assets: 
-notable npcs: 
+notable_assets: 
+notable_npcs: 
 turf: ""
 quirks: ""
 situation: ""
 contacts:
   - "[[Characters/Ibo-one|Ibo]]"
+---
+---
+tags:
+    - faction
+status: active
+tier: "0"
+nature: strange
+friendly:
+    - "[[Factions/Vorex|Vorex]]"
+helpful:
+    - "[[Factions/Dyrinek Gang|Dyrinek Gang]]"
+    - "[[Factions/Guild of Engineers|Guild of Engineers]]"
+neutral:
+interfering:
+    - "[[Factions/Hegemonic News Network|Factions/Hegemonic News Network]]"
+hostile:
+    - "[[Factions/Ashen Knives|Ashen Knives]]"
+war:
+goals:
+notable_assets:
+notable_npcs:
+turf: ""
+quirks: ""
+situation: ""
+contacts:
+    - "[[Characters/Ibo-one|Ibo]]"
 ---
 
 ## Tier
