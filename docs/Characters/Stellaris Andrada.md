@@ -21,20 +21,20 @@ aliases:
 name: Stellaris Sparks
 faction: ""
 pronouns: "She/her"
-location: 
-  - "[[Warren|Warren]]"
-  - "[[Holt|Holt]]"
+location:
+    - "[[Warren|Warren]]"
+    - "[[Holt|Holt]]"
 role: npc
 status: active
 share: "true"
 tags:
-  - npc
+    - npc
 profile: "Punky young woman with a bone to pick against the [[Hegemony|Hegemony]]. A member of the [[Lonalowda|Lonalowda]]. Grew up in the [[Holt|Holt]] system. Mechanic, but with her fair share of combat experience."
-friends: 
-  - "[[Kit Apple|Kit]]"
+friends:
+    - "[[Kit Apple|Kit]]"
 enemies: []
 aliases:
-  - Stellaris Sparks
+    - Stellaris Sparks
 ---
 
 ![[assets/images/stellaris.png|cover hmed]]
@@ -54,5 +54,4 @@ Punky young woman with a bone to pick against the [[Hegemony|Hegemony]]. A membe
 [[Characters/Kit Apple.md|Kit]]
 
 ## Enemies
-
 
