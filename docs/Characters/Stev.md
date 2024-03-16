@@ -13,6 +13,21 @@ profile: A gambler of ill repute
 friends: []
 enemies: []
 ---
+---
+name: Stev
+faction: ""
+pronouns: ""
+location: ""
+role: npc
+status: active
+share: "true"
+tags:
+    - npc
+aliases: []
+profile: A gambler of ill repute
+friends: []
+enemies: []
+---
 
 
 |  |  |
@@ -35,5 +50,4 @@ A gambler of ill repute
 
 | Enemy | Profile |
 | ----- | ------- |
-
 
