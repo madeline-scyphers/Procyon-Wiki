@@ -18,12 +18,32 @@ friends:
 enemies:
   - "[[Nyx|Nyx]]"
 ---
+---
+name: Mordin Ulmak
+faction: "[[Factions/Rusty Nail|Rusty Nail]]"
+share: "true"
+location:
+    - "[[Rusty Nail|Rusty Nail]]"
+aliases:
+    - Mordin Ulmak
+tags:
+    - player
+role: player
+playbook: Scoundrel
+status: active
+pronouns: Any, Sure, Whatever
+profile: Manufactured
+friends:
+    - "[[Ora|Ora]]"
+enemies:
+    - "[[Nyx|Nyx]]"
+---
 
 ![[assets/images/vapor.png|cover hmed]]
 
 |          |                  |
 | -------- | ---------------- |
-| Alias    | Mordin Ulmak | 
+| Alias    | Mordin Ulmak |
 | Pronouns | Any, Sure, Whatever |
 | Faction  | [[Factions/Rusty Nail.md|Rusty Nail]]  |
 | Location | [[Factions/Rusty Nail.md|Rusty Nail]] |
@@ -45,5 +65,4 @@ Manufactured
 | Enemy                      | Profile       |
 | -------------------------- | ------------- |
 | [[Characters/Nyx.md\|Nyx]] | A moneylender |
-
 
