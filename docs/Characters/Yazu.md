@@ -12,7 +12,6 @@ tags:
 profile: A crooked cop, [[Characters/Yattu|Yattu]]'s twin sister
 friends:
   - "[[Characters/Yattu|Yattu]]"
-enemies: 
 ---
 ---
 name: Yazu
@@ -29,7 +28,6 @@ tags:
 profile: A crooked cop, [[Characters/Yattu|Yattu]]'s twin sister
 friends:
     - "[[Characters/Yattu|Yattu]]"
-enemies:
 ---
 
 
